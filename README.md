@@ -1,4 +1,6 @@
-# Microsoft Intune Updates Dashboard
+# Microsoft Intune Updates Github Page
+
+Example: [jorgeasaurus.github.io/IntuneDocsAutomation](https://jorgeasaurus.github.io/IntuneDocsAutomation/)
 
 A modern web dashboard that automatically tracks and displays the latest Microsoft Intune documentation updates from Microsoft Learn.
 
@@ -7,6 +9,7 @@ A modern web dashboard that automatically tracks and displays the latest Microso
 - **Automated RSS Feed Updates**: GitHub Actions workflow downloads RSS data every 6 hours
 - **Clean, Modern Design**: Responsive white/black design optimized for readability
 - **Smart Categorization**: Automatically groups updates by type (Security, Apps, Devices, etc.)
+- **Table of Contents**: Easy navigation with clickable TOC showing category counts
 - **GitHub Pages Ready**: Static site that works perfectly with GitHub Pages
 - **No CORS Issues**: Uses local RSS file instead of external API calls
 
@@ -79,25 +82,12 @@ schedule:
 ### Styling
 All CSS is embedded in `index.html` for easy customization. Key classes:
 - `.header`: Main title section
+- `.table-of-contents`: Navigation table of contents
 - `.stats`: Statistics dashboard
 - `.update-item`: Individual update cards
 - `.category-title`: Category headers
 
 ## 🛠️ Local Development
-
-### PowerShell Script
-The repository also includes `intune_news_generator.ps1` for generating blog content:
-
-```powershell
-# Load the script
-. .\intune_news_generator.ps1
-
-# Generate blog post
-Example-GenerateIntuneBlog -DaysBack 7
-
-# Test RSS connectivity
-Test-IntuneRSSFeed
-```
 
 ### Local Web Server
 To test the HTML page locally:
@@ -115,7 +105,8 @@ npx http-server
 ## 📊 Sample Output
 
 The dashboard displays:
-- **Statistics**: Total updates, categories, latest update date
+- **Table of Contents**: Quick navigation with update counts per category
+- **Statistics**: Total updates, categories, latest update month
 - **Categorized Updates**: Grouped by Security, Apps, Devices, etc.
 - **Update Details**: Title, description, date, link to Microsoft Learn
 - **Auto-refresh**: Manual refresh button for latest data
@@ -142,9 +133,8 @@ The dashboard displays:
 ├── .github/
 │   └── workflows/
 │       └── update-rss.yml          # GitHub Actions workflow
-├── ghost-exports/                  # Generated blog exports
-├── index.html                      # Main dashboard page
-├── intune_news_generator.ps1       # PowerShell blog generator
+├── code.code-workspace             # VS Code workspace configuration
+├── index.html                      # Main dashboard page with TOC
 ├── intune-rss.xml                  # RSS feed data (auto-generated)
 ├── rss-metadata.json              # Feed metadata (auto-generated)
 └── README.md                       # This file
