@@ -192,6 +192,51 @@
             opacity: 0.8;
         }
 
+        .table-of-contents {
+            background-color: #f8f9fa;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            display: none;
+        }
+
+        .toc-title {
+            font-size: 1.2rem;
+            font-weight: 500;
+            margin-bottom: 15px;
+            color: #000;
+        }
+
+        .toc-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .toc-item {
+            margin-bottom: 8px;
+        }
+
+        .toc-link {
+            color: #000;
+            text-decoration: none;
+            font-weight: 400;
+            padding: 5px 10px;
+            border-radius: 4px;
+            display: block;
+            transition: background-color 0.2s ease;
+        }
+
+        .toc-link:hover {
+            background-color: #e9ecef;
+        }
+
+        .toc-count {
+            color: #666;
+            font-size: 0.9rem;
+            float: right;
+        }
+
         @media (max-width: 768px) {
             body {
                 padding: 15px;
@@ -222,6 +267,11 @@
     <div id="loading" class="loading">
         <div class="loading-spinner"></div>
         Loading latest updates...
+    </div>
+
+    <div id="table-of-contents" class="table-of-contents">
+        <h2 class="toc-title">Table of Contents</h2>
+        <ul id="toc-list" class="toc-list"></ul>
     </div>
 
     <div id="stats" class="stats" style="display: none;"></div>
@@ -316,55 +366,10 @@
                 
             } catch (error) {
                 console.warn('Failed to load local RSS file:', error.message);
-                return await tryFallbackMethod();
+                throw error;
             }
         }
 
-        async function tryFallbackMethod() {
-            // Fallback: Create sample data for demonstration
-            console.log('Using sample data for demonstration');
-            
-            const sampleXML = `<?xml version="1.0" encoding="UTF-8"?>
-                <rss version="2.0">
-                    <channel>
-                        <title>Microsoft Learn - Intune</title>
-                        <description>Latest Intune documentation updates</description>
-                        <item>
-                            <title>Microsoft Security Copilot agents in Microsoft Intune</title>
-                            <description>Learn about Security Copilot agents in Microsoft Intune</description>
-                            <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/security-copilot-agents-intune</link>
-                            <pubDate>Thu, 10 Jul 2025 22:36:00 GMT</pubDate>
-                        </item>
-                        <item>
-                            <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
-                            <description>Learn how to set up and use the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune</description>
-                            <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/vulnerability-remediation-agent</link>
-                            <pubDate>Thu, 10 Jul 2025 22:36:00 GMT</pubDate>
-                        </item>
-                        <item>
-                            <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune</title>
-                            <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
-                            <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure</link>
-                            <pubDate>Wed, 09 Jul 2025 22:36:00 GMT</pubDate>
-                        </item>
-                        <item>
-                            <title>iOS/iPadOS app protection policy settings - Microsoft Intune</title>
-                            <description>Configure app protection policy settings for iOS and iPadOS devices in Microsoft Intune</description>
-                            <link>https://learn.microsoft.com/en-us/intune/apps/app-protection-policy-settings-ios</link>
-                            <pubDate>Mon, 07 Jul 2025 22:36:00 GMT</pubDate>
-                        </item>
-                        <item>
-                            <title>Set up the Enrollment Status Page in the admin center - Microsoft Intune</title>
-                            <description>Configure the Enrollment Status Page to provide enrollment progress information to users</description>
-                            <link>https://learn.microsoft.com/en-us/intune/enrollment/windows-enrollment-status</link>
-                            <pubDate>Mon, 07 Jul 2025 18:20:00 GMT</pubDate>
-                        </item>
-                    </channel>
-                </rss>`;
-            
-            const parser = new DOMParser();
-            return parser.parseFromString(sampleXML, 'text/xml');
-        }
 
         function parseRSSItems(xmlDoc) {
             const items = xmlDoc.querySelectorAll('item');
@@ -418,7 +423,7 @@
                     <div class="stat-label">Categories</div>
                 </div>
                 <div class="stat">
-                    <div class="stat-number">${latestUpdate ? formatDate(latestUpdate).split(' ')[1] : 'N/A'}</div>
+                    <div class="stat-number">${latestUpdate ? latestUpdate.toLocaleDateString('en-US', { month: 'long' }) : 'N/A'}</div>
                     <div class="stat-label">Latest Month</div>
                 </div>
             `;
@@ -427,9 +432,40 @@
             document.getElementById('stats').style.display = 'flex';
         }
 
+        function renderTableOfContents(grouped) {
+            const tocList = document.getElementById('toc-list');
+            const tocDiv = document.getElementById('table-of-contents');
+            
+            let tocHtml = '';
+            
+            for (const [category, categoryUpdates] of Object.entries(grouped)) {
+                if (categoryUpdates.length === 0) continue;
+                
+                const categoryId = category.replace(/\s+/g, '-').toLowerCase();
+                tocHtml += `
+                    <li class="toc-item">
+                        <a href="#category-${categoryId}" class="toc-link">
+                            ${category}
+                            <span class="toc-count">${categoryUpdates.length}</span>
+                        </a>
+                    </li>
+                `;
+            }
+            
+            if (tocHtml) {
+                tocList.innerHTML = tocHtml;
+                tocDiv.style.display = 'block';
+            } else {
+                tocDiv.style.display = 'none';
+            }
+        }
+
         function renderUpdates(updates) {
             const grouped = groupByCategory(updates);
             const contentDiv = document.getElementById('content');
+            
+            // Render table of contents
+            renderTableOfContents(grouped);
             
             let html = '';
             
@@ -437,7 +473,7 @@
                 if (categoryUpdates.length === 0) continue;
                 
                 html += `
-                    <div class="category">
+                    <div class="category" id="category-${category.replace(/\s+/g, '-').toLowerCase()}">
                         <h2 class="category-title">${category}</h2>
                 `;
                 
@@ -473,6 +509,7 @@
             
             if (html === '') {
                 html = '<div class="error">No recent updates found. Try refreshing or check back later.</div>';
+                document.getElementById('table-of-contents').style.display = 'none';
             }
             
             contentDiv.innerHTML = html;
@@ -526,13 +563,7 @@
                     renderStats(updates);
                     renderUpdates(updates);
                 } else {
-                    showError('No recent updates found in the RSS feed.', true);
-                    // Still render sample data for demonstration
-                    const sampleUpdates = parseRSSItems(xmlDoc);
-                    if (sampleUpdates.length > 0) {
-                        renderStats(sampleUpdates);
-                        renderUpdates(sampleUpdates);
-                    }
+                    showError('No recent updates found in the RSS feed.', false);
                 }
                 
                 // Use metadata for last updated if available, otherwise current time
@@ -544,7 +575,7 @@
                 
             } catch (error) {
                 loadingDiv.style.display = 'none';
-                showError(`Error loading RSS feed: ${error.message}`, true);
+                showError(`Error loading RSS feed: ${error.message}`, false);
             }
         }
 
