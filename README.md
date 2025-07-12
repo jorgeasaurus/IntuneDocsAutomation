@@ -2,6 +2,8 @@
 
 Example: [jorgeasaurus.github.io/IntuneDocsAutomation](https://jorgeasaurus.github.io/IntuneDocsAutomation/)
 
+![Intune Docs Automation Dashboard](image.png)
+
 A modern web dashboard that automatically tracks and displays the latest Microsoft Intune documentation updates from Microsoft Learn.
 
 ## 🚀 Features
