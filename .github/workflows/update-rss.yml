@@ -1,0 +1,143 @@
+name: Update Intune RSS Feed
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main, master ]
+    paths:
+      - '.github/workflows/update-rss.yml'
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Download RSS feed
+      run: |
+        echo "Downloading Microsoft Intune RSS feed..."
+        curl -s "https://docs.microsoft.com/api/search/rss?locale=en-us&facet=&%24filter=scopes%2Fany%28t%3A+t+eq+%27Intune%27%29" \
+          -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+          -H "Accept: application/rss+xml, application/xml, text/xml" \
+          -o intune-rss.xml
+        
+        # Verify the file was downloaded and contains XML
+        if [ ! -f "intune-rss.xml" ]; then
+          echo "Error: RSS file was not downloaded"
+          exit 1
+        fi
+        
+        # Check if file contains XML content
+        if ! grep -q "<?xml" intune-rss.xml; then
+          echo "Error: Downloaded file does not appear to be XML"
+          cat intune-rss.xml
+          exit 1
+        fi
+        
+        echo "RSS feed downloaded successfully"
+        echo "File size: $(wc -c < intune-rss.xml) bytes"
+        echo "Number of items: $(grep -c '<item>' intune-rss.xml || echo '0')"
+    
+    - name: Generate RSS metadata
+      run: |
+        echo "Generating RSS metadata..."
+        
+        # Extract basic info from RSS
+        ITEM_COUNT=$(grep -c '<item>' intune-rss.xml || echo '0')
+        LAST_BUILD_DATE=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        FILE_SIZE=$(wc -c < intune-rss.xml)
+        
+        # Create metadata JSON
+        cat > rss-metadata.json << EOF
+        {
+          "lastUpdated": "$LAST_BUILD_DATE",
+          "itemCount": $ITEM_COUNT,
+          "fileSize": $FILE_SIZE,
+          "source": "Microsoft Learn RSS Feed",
+          "sourceUrl": "https://docs.microsoft.com/api/search/rss?locale=en-us&facet=&%24filter=scopes%2Fany%28t%3A+t+eq+%27Intune%27%29"
+        }
+        EOF
+        
+        echo "Metadata generated:"
+        cat rss-metadata.json
+    
+    - name: Validate RSS content
+      run: |
+        echo "Validating RSS content..."
+        
+        # Basic XML validation using xmllint if available
+        if command -v xmllint >/dev/null 2>&1; then
+          xmllint --noout intune-rss.xml
+          echo "XML validation passed"
+        else
+          echo "xmllint not available, skipping XML validation"
+        fi
+        
+        # Check for recent items (last 30 days)
+        THIRTY_DAYS_AGO=$(date -d '30 days ago' '+%Y-%m-%d' || date -v-30d '+%Y-%m-%d')
+        echo "Checking for items newer than: $THIRTY_DAYS_AGO"
+        
+        # Extract publication dates and check recency
+        RECENT_ITEMS=$(grep -A 10 '<item>' intune-rss.xml | grep '<pubDate>' | head -5 || echo "No pubDate found")
+        echo "Recent item dates:"
+        echo "$RECENT_ITEMS"
+    
+    - name: Check for changes
+      id: changes
+      run: |
+        if [ -f "intune-rss.xml" ]; then
+          # Compare with previous version if it exists
+          if git show HEAD:intune-rss.xml > previous-rss.xml 2>/dev/null; then
+            if cmp -s intune-rss.xml previous-rss.xml; then
+              echo "No changes detected in RSS feed"
+              echo "changed=false" >> $GITHUB_OUTPUT
+            else
+              echo "Changes detected in RSS feed"
+              echo "changed=true" >> $GITHUB_OUTPUT
+            fi
+            rm -f previous-rss.xml
+          else
+            echo "No previous RSS file found, treating as changed"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "RSS file not found"
+          exit 1
+        fi
+    
+    - name: Commit and push changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        git add intune-rss.xml rss-metadata.json
+        
+        # Create commit message with stats
+        ITEM_COUNT=$(grep -c '<item>' intune-rss.xml || echo '0')
+        git commit -m "Update Intune RSS feed - $ITEM_COUNT items ($(date -u '+%Y-%m-%d %H:%M UTC'))" || exit 0
+        
+        git push
+    
+    - name: Deploy to GitHub Pages
+      if: steps.changes.outputs.changed == 'true'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
+        destination_dir: .
