@@ -261,6 +261,7 @@
     <div class="header">
         <h1>What's New in Microsoft Intune</h1>
         <div class="subtitle">Latest documentation updates from Microsoft Learn</div>
+        <div class="last-refresh" id="lastRefresh" style="color: #888; font-size: 0.9rem; margin-bottom: 15px;"></div>
         <button class="refresh-btn" onclick="loadFeed()">Refresh Updates</button>
     </div>
 
@@ -556,6 +557,20 @@
                 // Load RSS feed
                 const xmlDoc = await fetchRSSFeed();
                 const updates = parseRSSItems(xmlDoc);
+                
+                // Extract and display the RSS feed's last refresh date
+                const channelPubDate = xmlDoc.querySelector('channel > pubDate')?.textContent;
+                if (channelPubDate) {
+                    const refreshDate = new Date(channelPubDate);
+                    document.getElementById('lastRefresh').textContent = 
+                        `Last refresh: ${refreshDate.toLocaleDateString('en-US', { 
+                            year: 'numeric', 
+                            month: 'long', 
+                            day: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        })}`;
+                }
                 
                 loadingDiv.style.display = 'none';
                 
