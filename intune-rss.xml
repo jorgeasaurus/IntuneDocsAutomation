@@ -6,8 +6,110 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 14 Jul 2025 05:54:06 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 05:54:06 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 11:54:07 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:54:07 GMT</lastBuildDate>
+    <item>
+      <title>Troubleshoot the Enrollment Status Page (ESP) - Intune</title>
+      <description>General troubleshooting guide for the Enrollment Status Page (ESP) for Windows Autopilot or OOBE for Microsoft Entra join.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/understand-troubleshoot-esp</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy OMA-URIs to target a CSP through Intune, and a comparison to on-premises - Intune</title>
+      <description>This article describes the significance of CSPs, Open Mobile Alliance – Uniform Resources (OMA-URIs), and how custom mobile device management (MDM) policies are delivered to a Windows 10-based device with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/deploy-oma-uris-to-target-csp-via-intune</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot auto-enrolling existing Configuration Manager devices in Intune - Intune</title>
+      <description>Helps you understand and troubleshoot issues when you set up co-management by taking Path 1 - Auto-enroll existing Configuration Manager-managed devices into Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-auto-enrolling</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Windows 10 Intune auto-enrollment error 80180002b - Intune</title>
+      <description>Fixes an issue in which Windows 10 Group Policy-based auto-enrollment to Microsoft Intune fails with the error code 0x80180002b in Event Viewer.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/windows10-enroll-error-80180002b</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Intune and Configuration Manager co-management workloads - Intune</title>
+      <description>Helps you understand and troubleshoot issues that you may encounter when you configure workloads in an Intune and Configuration Manager co-management environment.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-workloads</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Error 0x87D13BA2 deploying a macOS LOB app in Intune - Intune</title>
+      <description>Fixes the 0x87D13BA2 error when you deploy a macOS LOB app that contains multiple components in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/error-0x87d13ba2-deploy-macos-lob-app</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to configure Android enterprise devices in Microsoft Intune - Intune</title>
+      <description>This guide describes how to configure Android enterprise devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/configure-android-enterprise-devices-intune</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MDM enrollment error 0xcaa9001f for co-managed Windows devices - Intune</title>
+      <description>Describes an issue in which MDM enrollment fails and generates error 0xcaa9001f for co-managed Windows devices that are Microsoft Entra hybrid joined and managed by using Configuration Manager.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/mdm-enrollment-error-0xcaa9001f</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Microsoft Entra device registration and Windows Autopilot - Intune</title>
+      <description>Provides tips for troubleshooting Microsoft Entra device registration and Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/azure-ad-device-registration-autopilot</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tips for assigning device password settings to Android Enterprise fully managed devices in Intune - Intune</title>
+      <description>Describes different behavior when a device restrictions profile that includes password settings is assigned to Android Enterprise fully managed devices before and after enrollment.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/assign-password-setting-android-fully-managed</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Configuration Management bootstrap with modern provisioning - Intune</title>
+      <description>Helps you understand and troubleshoot issues that you may encounter when you set up co-management by taking path 2 - Bootstrap the Configuration Manager client with modern provisioning.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-bootstrap</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sysprep will not run correctly on a Windows 10 device that has been MDM enrolled - Intune</title>
+      <description>Provides tips for troubleshooting when Sysprep will not run correctly on a Windows 10 device that has been enrolled in mobile device management.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-sysprep-windows-10-device-enrolled-mdm</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Error 0x80090014 installing NDES certificate - Intune</title>
+      <description>Gives the resolution for an issue where the NDES connector for Microsoft Intune fails to install because the NDES certificate isn't installed.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/error-0x80090014-installing-ndes-certificate</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Error 0x80004003 signing in to the Intune NDES Connector UI - Intune</title>
+      <description>Troubleshoot an unexpected error and an 0x80004003 error during sign-in to the Intune Certificate NDES UI when you configure NDES.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/ndes-connector-signin-error-80004003</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Update ring policies for Windows devices - Intune</title>
+      <description>Provides troubleshooting guidance for configuring Update ring policies for Windows 10 and Windows 11 devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-update-rings</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Support Tip - Understanding the flow behind deployment, delivery, and processing of a Win32 application through Intune - Intune</title>
+      <description>This article highlights and explains the flow that is associated with a Win32 app during its deployment, delivery, and processing through Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/develop-deliver-working-win32-app-via-intune</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keychain error -25244 when enrolling macOS devices in Intune - Intune</title>
+      <description>Describes an issue in which you can't enroll a macOS device in Microsoft Intune because of stale or corrupted keychain entries.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/keychain-error-enrolling-macos-devices</link>
+      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Security Copilot agents in Microsoft Intune</title>
       <description>Learn about Security Copilot agents in Microsoft Intune</description>
@@ -504,108 +606,6 @@
       <title>Configure wired network settings for Windows devices in Microsoft Intune</title>
       <description>Create or add a wired network device configuration profile for Windows 10/11 devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wired-network-settings-windows</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Wi-Fi settings for iOS/iPadOS devices in Microsoft Intune</title>
-      <description>Create or add a WiFi device configuration profile for iOS/iPadOS devices. See the different settings, including adding certificates, choosing an EAP type, and selecting an authentication method in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-ios</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create iOS/iPadOS or macOS device profile with Microsoft Intune</title>
-      <description>Add or create an iOS, iPadOS, or macOS device profile. Configure settings for AirPrint, layout of the home screen, app notifications, shared device, single sign-on, and web content filter settings in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-features-configure</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Import Wi-Fi settings for Windows devices in Microsoft Intune</title>
-      <description>Export Wi-Fi settings from a Windows device as an XML file using the network shell (netsh wlan) command. Then, import this file in Intune to create a Wi-Fi profile for devices running Windows 10/11 and Windows Holographic for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-import-windows-8-1</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create Wi-Fi profile with preshared key in Microsoft Intune</title>
-      <description>Use a custom profile to create a Wi-Fi profile with a preshared key (PSK), and get sample XML code for Android, Android Enterprise, Windows, and EAP-based Wi-Fi profiles in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-profile-shared-key</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Remote Help on Android to assist users authenticated by your organization.</title>
-      <description>With the Remote Help app in Android, provide remote assistance to authenticated users who also run the Remote Help app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-android</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
-      <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Wi-Fi settings for Android devices in Microsoft Intune</title>
-      <description>Create or add a WiFi device configuration profile for Android Enterprise, Android Kiosk, and AOSP devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune. For kiosk devices, also enter the Pre-shared key of your network.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-android-enterprise</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS bundle IDs for built-in apps in Microsoft Intune</title>
-      <description>See a list of the bundle IDs for the built-in iOS and iPadOS apps. Use these bundle IDs to explicitly allow apps in device configuration profiles and policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bundle-ids-built-in-ios-apps</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux device enrollment guide for Microsoft Intune</title>
-      <description>Enroll Linux devices in Intune using the Intune app. Set an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-linux</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS features using DFCI MDM policies</title>
-      <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-firmware-configuration-interface-windows</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig</title>
-      <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, and Legacy Zebra OEMConfig apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/oemconfig-managed-home-screen-permissions-android</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Performance recommendations when using filters</title>
-      <description>When using filters in Microsoft Intune, use Intune virtual groups that don't require Microsoft Entra ID syncing. To improve performance, reuse groups, make incremental group changes, and use filters to include and exclude.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-performance-recommendations</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Email settings for iOS/iPadOS devices in Microsoft Intune</title>
-      <description>See a list of all the email settings you can configure and add to iOS and iPadOS devices in Microsoft Intune, including using Exchange servers, and getting attributes from Microsoft Entra ID. You can also enable SSL, authenticate users with certificates or username/password, and synchronize email on iOS/iPadOS devices using device configuration profiles in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-ios</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a user in Intune</title>
-      <description>Create a user in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-user</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protection and configuration levels overview in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the different levels of protection and configuration in Microsoft Intune, including minimum, enhanced, and high levels.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/protection-configuration-levels</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android (AOSP) compliance settings in Microsoft Intune</title>
-      <description>View the device compliance settings for Android (AOSP) that you can manage with Microsoft Intune compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-aosp</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for Android software updates in Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-android</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
   </channel>
