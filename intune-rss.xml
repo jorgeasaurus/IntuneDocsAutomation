@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 15 Jul 2025 11:54:08 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 11:54:08 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 17:54:08 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 17:54:08 GMT</lastBuildDate>
+    <item>
+      <title>Android app protection policy settings - Microsoft Intune</title>
+      <description>This topic describes the app protection policy settings for Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
+      <pubDate>Tue, 15 Jul 2025 17:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Tue, 15 Jul 2025 17:46:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure the Jamf Pro Cloud Connector to integrate Jamf Pro with Microsoft Intune - Microsoft Intune</title>
       <description>Use the Jamf Cloud Connector to integrate Jamf Pro with Microsoft Intune.</description>
@@ -42,12 +54,6 @@
       <title>Microsoft Copilot in Intune features overview</title>
       <description>Microsoft Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
-      <pubDate>Mon, 14 Jul 2025 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Mon, 14 Jul 2025 14:36:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Migrate your imported group policy to a policy in Microsoft Intune</title>
       <description>After you import your Windows group policy objects in Microsoft Intune, use the migrate feature to transfer your GPOs to a Settings Catalog policy. This policy uses your imported GPOs, and can be assigned to users and devices managed by your organizations.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics-migrate</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kiosk settings for Windows and Holographic devices in Microsoft Intune</title>
-      <description>Configure your Windows 10/11 and Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
   </channel>
