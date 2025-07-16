@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 15 Jul 2025 17:54:08 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 17:54:08 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 23:16:51 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 23:16:51 GMT</lastBuildDate>
+    <item>
+      <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
+      <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-dedicated-devices-fully-managed-enroll</link>
+      <pubDate>Tue, 15 Jul 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
+      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-overview</link>
+      <pubDate>Tue, 15 Jul 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Properties catalog in Microsoft Intune</title>
+      <description>Configure Properties catalog policy to manage Device Inventory settings on Windows devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
+      <pubDate>Tue, 15 Jul 2025 20:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Android app protection policy settings - Microsoft Intune</title>
       <description>This topic describes the app protection policy settings for Android devices.</description>
@@ -441,12 +459,6 @@
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>Properties catalog in Microsoft Intune</title>
-      <description>Configure Properties catalog policy to manage Device Inventory settings on Windows devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
       <title>macOS device enrollment guide for  Microsoft Intune</title>
       <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-macos</link>
@@ -594,18 +606,6 @@
       <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
       <description>Delivery Optimization settings for Windows 10 and Windows 11 devices that you can deploy using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Route logs to Azure Monitor using Microsoft Intune</title>
-      <description>Use Diagnostics Settings to send audit logs and operational logs in Microsoft Intune to Azure Storage account, Event Hubs, or Log Analytics. Choose how long you want to keep the data, and see some estimated costs for different size tenants.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/review-logs-using-azure-monitor</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Migrate your imported group policy to a policy in Microsoft Intune</title>
-      <description>After you import your Windows group policy objects in Microsoft Intune, use the migrate feature to transfer your GPOs to a Settings Catalog policy. This policy uses your imported GPOs, and can be assigned to users and devices managed by your organizations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics-migrate</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
   </channel>
