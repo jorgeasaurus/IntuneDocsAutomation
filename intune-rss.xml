@@ -6,8 +6,62 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 21 Jul 2025 17:47:42 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Jul 2025 17:47:42 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 00:05:18 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 00:05:18 GMT</lastBuildDate>
+    <item>
+      <title>Retire or wipe devices using Microsoft Intune</title>
+      <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the settings catalog to configure managed software updates</title>
+      <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure policies to manage Endpoint Privilege Management with Microsoft Intune</title>
+      <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-policies</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Intune policies to configure and manage Windows LAPS</title>
+      <description>Create policies to manage the Windows Local Administrator Policy Solution (LAPS) on Windows devices that enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-laps-policy</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Zebra Mobility Extensions on Android devices in Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use Zebra devices running Android with Zebra Mobility Extensions (MX). See all the steps, including install the Company Portal app, sideload the app, assign device administrator role, create a StageNow profile, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-zebra-mx-overview</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View per-device software update reports for Apple devices in Microsoft Intune</title>
+      <description>Use Microsoft Intune to view per-device software updates reports for managed Apple devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-update-report-apple-per-device</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
+      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Android app protection policy settings - Microsoft Intune</title>
       <description>This topic describes the app protection policy settings for Android devices.</description>
@@ -552,60 +606,6 @@
       <title>iOS/iPadOS device feature settings in Microsoft Intune</title>
       <description>See all the settings to configure iOS and iPadOS devices for AirPrint, home screen layout, app notifications, shared devices, single sign-on, and web content filter settings in Microsoft Intune. Use these settings in a device configuration profile to configure iOS/iPadOS devices to use these Apple features on your devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/ios-device-features-settings</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is device management?</title>
-      <description>Learn more about what device management means and how it can help organizations, including Microsoft 365 small &amp; medium business, and enterprise. See a list of features and benefits, including mobile device management (MDM) and mobile application management (MAM), and learn about Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-device-management</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS using configuration MDM policy</title>
-      <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bios-configuration</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
-      <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add VPN settings to devices in Microsoft Intune</title>
-      <description>On Android device administrator, Android Enterprise, iOS, iPadOS, macOS, and Windows devices, use built-in settings to create virtual private network (VPN) connections in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-configure</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop single-session with Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Audit changes and events in Microsoft Intune</title>
-      <description>Learn how to review audit logs that record Microsoft Intune activities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/monitor-audit-logs</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage Android devices in Microsoft Intune</title>
-      <description>Learn the recommended processes to manage Android devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-android</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage and secure apps overview - Microsoft Intune</title>
-      <description>Get an overview of the concepts and features you should know when managing apps that access organization resources in Microsoft Intune. You can deploy apps used by your organization, including Microsoft Edge and Microsoft 365. You can also configure apps, protect apps on organizations owned and BYOD personal devices, and update apps that you deploy.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-apps</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
-      <description>Delivery Optimization settings for Windows 10 and Windows 11 devices that you can deploy using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
   </channel>
