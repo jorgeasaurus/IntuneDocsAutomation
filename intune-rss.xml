@@ -6,13 +6,25 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 24 Jul 2025 11:54:16 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Jul 2025 11:54:16 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 17:52:33 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 17:52:33 GMT</lastBuildDate>
+    <item>
+      <title>Configure Platform SSO for macOS devices</title>
+      <description>Use Microsoft Intune to configure Platform SSO for macOS devices. Platform SSO enables single sign-on (SSO) using a Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Thu, 24 Jul 2025 17:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
       <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
-      <pubDate>Thu, 24 Jul 2025 11:34:00 GMT</pubDate>
+      <pubDate>Thu, 24 Jul 2025 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
+      <pubDate>Thu, 24 Jul 2025 17:38:00 GMT</pubDate>
     </item>
     <item>
       <title>Intune Graph API - Reports and properties</title>
@@ -72,12 +84,6 @@
       <title>Supported Microsoft Intune apps</title>
       <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
-      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
       <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
     </item>
     <item>
@@ -450,12 +456,6 @@
       <title>Device enrollment guide for Microsoft Intune</title>
       <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Platform SSO for macOS devices</title>
-      <description>Use Microsoft Intune to configure Platform SSO for macOS devices. Platform SSO enables single sign-on (SSO) using a Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
     <item>
