@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 24 Jul 2025 23:54:16 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Jul 2025 23:54:16 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 05:28:18 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 05:28:18 GMT</lastBuildDate>
+    <item>
+      <title>Use the settings catalog to configure DDM software updates</title>
+      <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
+      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Intune policies to manage macOS software updates</title>
+      <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-macos</link>
+      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-ios-ipados</link>
+      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices</title>
+      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-ios</link>
+      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View per-device software update reports for Apple devices in Microsoft Intune</title>
+      <description>Use Microsoft Intune to view per-device software updates reports for managed Apple devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-update-report-apple-per-device</link>
+      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Admin guide and checklist for macOS software updates</title>
+      <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-macos</link>
+      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -51,12 +87,6 @@
       <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the settings catalog to configure managed software updates</title>
-      <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
-      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure policies to manage Endpoint Privilege Management with Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-policies</link>
@@ -72,12 +102,6 @@
       <title>Use Zebra Mobility Extensions on Android devices in Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and use Zebra devices running Android with Zebra Mobility Extensions (MX). See all the steps, including install the Company Portal app, sideload the app, assign device administrator role, create a StageNow profile, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-zebra-mx-overview</link>
-      <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View per-device software update reports for Apple devices in Microsoft Intune</title>
-      <description>Use Microsoft Intune to view per-device software updates reports for managed Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-update-report-apple-per-device</link>
       <pubDate>Mon, 21 Jul 2025 20:37:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Manage and secure devices overview - Microsoft Intune</title>
       <description>Get an overview of the concepts and features you should know when managing devices that access organization resources in Microsoft Intune. You can manage new and existing devices, including BYOD personal devices, check health compliance and view reports, configure device features, and secure devices using mobile threat solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-devices</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage macOS devices in Microsoft Intune</title>
-      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shared or multi-user Windows device settings in Microsoft Intune</title>
-      <description>Add and use Windows 10/11 and Windows Holographic for Business devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft HoloLens. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerShell scripts for Remediations - Microsoft Intune</title>
-      <description>PowerShell script reference for Remediations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/powershell-scripts-remediation</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device features and settings in Microsoft Intune</title>
-      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, Windows Information Protection, administrative templates, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
   </channel>
