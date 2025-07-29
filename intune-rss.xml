@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 28 Jul 2025 17:54:20 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 17:54:20 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 23:50:53 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 23:50:53 GMT</lastBuildDate>
+    <item>
+      <title>Migration guide to Microsoft Intune</title>
+      <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-intune-setup</link>
+      <pubDate>Mon, 28 Jul 2025 20:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Tunnel VPN gateway with Conditional Access policies</title>
+      <description>Configure your Azure tenant to support using Conditional Access policies to grant access to the Intune Microsoft Tunnel VPN gateway solution.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-conditional-access</link>
+      <pubDate>Mon, 28 Jul 2025 20:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -525,12 +537,6 @@
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>Migration guide to Microsoft Intune</title>
-      <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-intune-setup</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Kiosk settings for Windows 10/11 in Microsoft Intune</title>
       <description>Configure your Windows 10/11 client devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-windows</link>
@@ -600,12 +606,6 @@
       <title>Create a Wi-Fi profile for devices in Microsoft Intune</title>
       <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-configure</link>
-      <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage and secure devices overview - Microsoft Intune</title>
-      <description>Get an overview of the concepts and features you should know when managing devices that access organization resources in Microsoft Intune. You can manage new and existing devices, including BYOD personal devices, check health compliance and view reports, configure device features, and secure devices using mobile threat solutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-devices</link>
       <pubDate>Wed, 25 Jun 2025 21:28:00 GMT</pubDate>
     </item>
   </channel>
