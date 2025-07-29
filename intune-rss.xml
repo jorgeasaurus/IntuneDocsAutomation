@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 29 Jul 2025 05:54:20 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 05:54:20 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 11:45:26 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 11:45:26 GMT</lastBuildDate>
     <item>
       <title>Migration guide to Microsoft Intune</title>
       <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
@@ -31,6 +31,12 @@
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
       <pubDate>Mon, 28 Jul 2025 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platforms and policy types supported by filters in Microsoft Intune</title>
+      <description>See the supported apps, compliance policies, and device configuration profiles that support filters in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
+      <pubDate>Mon, 28 Jul 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
       <title>Use the settings catalog to configure DDM software updates</title>
@@ -66,12 +72,6 @@
       <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices</title>
       <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-ios</link>
-      <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View per-device software update reports for Apple devices in Microsoft Intune</title>
-      <description>Use Microsoft Intune to view per-device software updates reports for managed Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-update-report-apple-per-device</link>
       <pubDate>Fri, 25 Jul 2025 03:06:00 GMT</pubDate>
     </item>
     <item>
