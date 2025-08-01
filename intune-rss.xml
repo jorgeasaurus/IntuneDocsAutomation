@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 01 Aug 2025 11:42:35 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Aug 2025 11:42:35 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 18:01:45 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 18:01:45 GMT</lastBuildDate>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
+      <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Security Copilot agents in Microsoft Intune</title>
+      <description>Learn about Security Copilot agents in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/security-copilot-agents-intune</link>
+      <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
+      <description>Learn how to set up and use the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/vulnerability-remediation-agent</link>
+      <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Deployment guide to manage macOS devices in Microsoft Intune</title>
       <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
@@ -261,6 +291,12 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Data protection framework using app protection policies - Microsoft Intune</title>
+      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add and assign Managed Google Play apps to Android Enterprise devices - Microsoft Intune</title>
       <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
@@ -273,27 +309,9 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create a custom role in Intune</title>
       <description>Learn how to create a custom role in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data protection framework using app protection policies - Microsoft Intune</title>
-      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage transferring data between iOS apps - Microsoft Intune</title>
-      <description>Understand how to use mobile app management policies in Microsoft Intune to manage data transfers between apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/data-transfer-between-apps-manage-ios</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -303,9 +321,9 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Discovered apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
+      <title>Manage transferring data between iOS apps - Microsoft Intune</title>
+      <description>Understand how to use mobile app management policies in Microsoft Intune to manage data transfers between apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/data-transfer-between-apps-manage-ios</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -318,6 +336,12 @@
       <title>Microsoft Intune App SDK for iOS developer guide - Web-view features</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discovered apps - Microsoft Intune</title>
+      <description>Understand details about the detected apps that Intune found on a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -357,12 +381,6 @@
       <pubDate>Mon, 28 Jul 2025 20:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Mon, 28 Jul 2025 17:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Upgrade the Microsoft Tunnel Gateway server software</title>
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
@@ -378,12 +396,6 @@
       <title>Use the settings catalog to configure DDM software updates</title>
       <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
-      <pubDate>Fri, 25 Jul 2025 20:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Fri, 25 Jul 2025 20:35:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>How to configure Android enterprise devices in Microsoft Intune - Intune</title>
       <description>This guide describes how to configure Android enterprise devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/configure-android-enterprise-devices-intune</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MDM enrollment error 0xcaa9001f for co-managed Windows devices - Intune</title>
-      <description>Describes an issue in which MDM enrollment fails and generates error 0xcaa9001f for co-managed Windows devices that are Microsoft Entra hybrid joined and managed by using Configuration Manager.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/mdm-enrollment-error-0xcaa9001f</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot Microsoft Entra device registration and Windows Autopilot - Intune</title>
-      <description>Provides tips for troubleshooting Microsoft Entra device registration and Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/azure-ad-device-registration-autopilot</link>
       <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
     </item>
   </channel>
