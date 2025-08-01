@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 31 Jul 2025 17:18:19 GMT</pubDate>
-    <lastBuildDate>Thu, 31 Jul 2025 17:18:19 GMT</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 23:54:22 GMT</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 23:54:22 GMT</lastBuildDate>
+    <item>
+      <title>Deployment guide to manage macOS devices in Microsoft Intune</title>
+      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
+      <pubDate>Thu, 31 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get started with macOS endpoints - Microsoft Intune</title>
+      <description>Microsoft Intune guide to set up and configure macOS devices from setup to creating policies and enrolling devices. You secure your corporate and organization-owned endpoints that are enrolled in Intune, and then deploy at scale with Apple Business Manager or Apple School Manager.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/end-to-end-guides/macos-endpoints-get-started</link>
+      <pubDate>Thu, 31 Jul 2025 20:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage volume-purchased iOS/iPadOS eBooks - Microsoft Intune</title>
+      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-ebooks-ios</link>
+      <pubDate>Thu, 31 Jul 2025 17:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune</title>
+      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-prerequisites</link>
+      <pubDate>Thu, 31 Jul 2025 17:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune</title>
       <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
@@ -207,6 +231,12 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure app protection policies for Windows 10/11 - Microsoft Intune</title>
+      <description>This article describes how to configure app protection policies for Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-configure-windows-10</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Intune App SDK for iOS developer guide - Appendix</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Appendix</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-appendix</link>
@@ -216,24 +246,6 @@
       <title>Manage device operating system versions with Intune - Microsoft Intune</title>
       <description>Learn about the methods for managing device operating system versions supported by Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-os-versions</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure app protection policies for Windows 10/11 - Microsoft Intune</title>
-      <description>This article describes how to configure app protection policies for Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-configure-windows-10</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data protection framework using app protection policies - Microsoft Intune</title>
-      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and assign Managed Google Play apps to Android Enterprise devices - Microsoft Intune</title>
-      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -255,6 +267,18 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Data protection framework using app protection policies - Microsoft Intune</title>
+      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and assign Managed Google Play apps to Android Enterprise devices - Microsoft Intune</title>
+      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage transferring data between iOS apps - Microsoft Intune</title>
       <description>Understand how to use mobile app management policies in Microsoft Intune to manage data transfers between apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/data-transfer-between-apps-manage-ios</link>
@@ -267,6 +291,12 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Discovered apps - Microsoft Intune</title>
+      <description>Understand details about the detected apps that Intune found on a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create and deploy app protection policies - Microsoft Intune</title>
       <description>This article describes how to create and assign Microsoft Intune app protection policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies</link>
@@ -276,12 +306,6 @@
       <title>Microsoft Intune App SDK for iOS developer guide - Web-view features</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discovered apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Troubleshoot Configuration Management bootstrap with modern provisioning - Intune</title>
       <description>Helps you understand and troubleshoot issues that you may encounter when you set up co-management by taking path 2 - Bootstrap the Configuration Manager client with modern provisioning.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-bootstrap</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sysprep will not run correctly on a Windows 10 device that has been MDM enrolled - Intune</title>
-      <description>Provides tips for troubleshooting when Sysprep will not run correctly on a Windows 10 device that has been enrolled in mobile device management.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-sysprep-windows-10-device-enrolled-mdm</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Error 0x80090014 installing NDES certificate - Intune</title>
-      <description>Gives the resolution for an issue where the NDES connector for Microsoft Intune fails to install because the NDES certificate isn't installed.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/error-0x80090014-installing-ndes-certificate</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Error 0x80004003 signing in to the Intune NDES Connector UI - Intune</title>
-      <description>Troubleshoot an unexpected error and an 0x80004003 error during sign-in to the Intune Certificate NDES UI when you configure NDES.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/ndes-connector-signin-error-80004003</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot Update ring policies for Windows devices - Intune</title>
-      <description>Provides troubleshooting guidance for configuring Update ring policies for Windows 10 and Windows 11 devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-update-rings</link>
       <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
     </item>
   </channel>
