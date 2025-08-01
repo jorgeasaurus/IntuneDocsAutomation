@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 01 Aug 2025 05:54:23 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Aug 2025 05:54:23 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 11:42:35 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 11:42:35 GMT</lastBuildDate>
     <item>
       <title>Deployment guide to manage macOS devices in Microsoft Intune</title>
       <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
@@ -21,6 +21,12 @@
       <pubDate>Thu, 31 Jul 2025 20:37:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune</title>
+      <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-microsoft-defender-settings-windows</link>
+      <pubDate>Thu, 31 Jul 2025 17:40:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage volume-purchased iOS/iPadOS eBooks - Microsoft Intune</title>
       <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-ebooks-ios</link>
@@ -30,6 +36,12 @@
       <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune</title>
       <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-prerequisites</link>
+      <pubDate>Thu, 31 Jul 2025 17:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wrap iOS apps with the Intune App Wrapping Tool</title>
+      <description>Learn how to wrap your iOS apps without changing the code of the app itself. Prepare the apps so you can apply mobile app management policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-wrapper-prepare-ios</link>
       <pubDate>Thu, 31 Jul 2025 17:40:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Troubleshoot Microsoft Entra device registration and Windows Autopilot - Intune</title>
       <description>Provides tips for troubleshooting Microsoft Entra device registration and Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/azure-ad-device-registration-autopilot</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tips for assigning device password settings to Android Enterprise fully managed devices in Intune - Intune</title>
-      <description>Describes different behavior when a device restrictions profile that includes password settings is assigned to Android Enterprise fully managed devices before and after enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/assign-password-setting-android-fully-managed</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot Configuration Management bootstrap with modern provisioning - Intune</title>
-      <description>Helps you understand and troubleshoot issues that you may encounter when you set up co-management by taking path 2 - Bootstrap the Configuration Manager client with modern provisioning.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-bootstrap</link>
       <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
     </item>
   </channel>
