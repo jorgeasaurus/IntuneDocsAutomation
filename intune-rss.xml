@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 02 Aug 2025 23:54:24 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 23:54:24 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 06:02:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 06:02:00 GMT</lastBuildDate>
     <item>
       <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
@@ -303,6 +303,12 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Data protection framework using app protection policies - Microsoft Intune</title>
+      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add and assign Managed Google Play apps to Android Enterprise devices - Microsoft Intune</title>
       <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
@@ -321,21 +327,9 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Data protection framework using app protection policies - Microsoft Intune</title>
-      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discovered apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -351,21 +345,27 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Discovered apps - Microsoft Intune</title>
+      <description>Understand details about the detected apps that Intune found on a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage Outlook for iOS and Android with Intune</title>
       <description>Use Intune app protection and configuration policies with Outlook for iOS and Android to ensure team collaboration experiences are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-outlook</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Secure your corporate data using Microsoft Edge for Business</title>
       <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
