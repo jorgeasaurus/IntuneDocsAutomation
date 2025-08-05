@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 04 Aug 2025 17:39:16 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 17:39:16 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 23:06:42 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 23:06:42 GMT</lastBuildDate>
+    <item>
+      <title>Overview of Certificate Connector for Microsoft Intune - Azure</title>
+      <description>Learn about the unified Certificate Connector for Microsoft Intune, which supports SCEP, PKCS, imported PKCS, and certificate revocation.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-connector-overview</link>
+      <pubDate>Mon, 04 Aug 2025 22:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
@@ -291,15 +297,21 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage device operating system versions with Intune - Microsoft Intune</title>
+      <description>Learn about the methods for managing device operating system versions supported by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-os-versions</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure app protection policies for Windows 10/11 - Microsoft Intune</title>
       <description>This article describes how to configure app protection policies for Windows 10/11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-configure-windows-10</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage device operating system versions with Intune - Microsoft Intune</title>
-      <description>Learn about the methods for managing device operating system versions supported by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-os-versions</link>
+      <title>Data protection framework using app protection policies - Microsoft Intune</title>
+      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -321,12 +333,6 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Data protection framework using app protection policies - Microsoft Intune</title>
-      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-framework</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
@@ -339,15 +345,15 @@
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune App SDK for iOS developer guide - Web-view features</title>
-      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Discovered apps - Microsoft Intune</title>
       <description>Understand details about the detected apps that Intune found on a device.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
+      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for iOS developer guide - Web-view features</title>
+      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Troubleshooting Intune and Configuration Manager co-management workloads - Intune</title>
       <description>Helps you understand and troubleshoot issues that you may encounter when you configure workloads in an Intune and Configuration Manager co-management environment.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-workloads</link>
-      <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Error 0x87D13BA2 deploying a macOS LOB app in Intune - Intune</title>
-      <description>Fixes the 0x87D13BA2 error when you deploy a macOS LOB app that contains multiple components in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/error-0x87d13ba2-deploy-macos-lob-app</link>
       <pubDate>Mon, 14 Jul 2025 06:50:00 GMT</pubDate>
     </item>
   </channel>
