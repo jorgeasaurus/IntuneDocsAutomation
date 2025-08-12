@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 12 Aug 2025 05:42:19 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 05:42:19 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 11:11:57 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 11:11:57 GMT</lastBuildDate>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
@@ -51,6 +51,12 @@
       <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
     </item>
     <item>
+      <title>Network endpoints for US government deployments - Microsoft Intune</title>
+      <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-us-government-endpoints</link>
+      <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Copilot in Intune features overview</title>
       <description>Microsoft Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
@@ -69,15 +75,15 @@
       <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
-      <description>Learn how to set up and use the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/vulnerability-remediation-agent</link>
-      <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Security Copilot agents in Microsoft Intune</title>
       <description>Learn about Security Copilot agents in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/security-copilot-agents-intune</link>
+      <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
+      <description>Learn how to set up and use the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/vulnerability-remediation-agent</link>
       <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
     </item>
     <item>
@@ -102,6 +108,12 @@
       <title>Use Remediations to detect and fix support issues</title>
       <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
+      <pubDate>Mon, 11 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Mon, 11 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Configure app protection policies for Windows 10/11 - Microsoft Intune</title>
       <description>This article describes how to configure app protection policies for Windows 10/11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-configure-windows-10</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and assign Managed Google Play apps to Android Enterprise devices - Microsoft Intune</title>
-      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android developer integration and testing guide - Plan the integration</title>
-      <description>Plan the integration to incorporate Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase1</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
   </channel>
