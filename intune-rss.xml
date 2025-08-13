@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 13 Aug 2025 11:19:38 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 11:19:38 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 17:56:45 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 17:56:45 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Copilot in Intune features overview</title>
+      <description>Microsoft Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
+      <pubDate>Wed, 13 Aug 2025 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about using Endpoint Privilege Management with Microsoft Intune</title>
+      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-overview</link>
+      <pubDate>Wed, 13 Aug 2025 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
+      <pubDate>Wed, 13 Aug 2025 14:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Platform SSO for macOS devices</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
@@ -51,12 +69,6 @@
       <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Government Service overview</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
-      <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>See device configuration policies with Microsoft Intune</title>
       <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-monitor</link>
@@ -72,12 +84,6 @@
       <title>Network endpoints for US government deployments - Microsoft Intune</title>
       <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-us-government-endpoints</link>
-      <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Copilot in Intune features overview</title>
-      <description>Microsoft Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
       <pubDate>Mon, 11 Aug 2025 23:15:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Microsoft Intune App SDK for iOS developer guide - Appendix</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Appendix</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-appendix</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage device operating system versions with Intune - Microsoft Intune</title>
-      <description>Learn about the methods for managing device operating system versions supported by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-os-versions</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
   </channel>
