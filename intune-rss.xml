@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 12 Aug 2025 17:19:38 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 17:19:38 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 23:19:38 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 23:19:38 GMT</lastBuildDate>
+    <item>
+      <title>Configure Platform SSO for macOS devices</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Tue, 12 Aug 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Tue, 12 Aug 2025 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platform SSO scenarios for macOS devices</title>
+      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
+      <pubDate>Tue, 12 Aug 2025 17:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
@@ -357,12 +375,6 @@
       <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Fri, 01 Aug 2025 17:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Get started with macOS endpoints - Microsoft Intune</title>
       <description>Microsoft Intune guide to set up and configure macOS devices from setup to creating policies and enrolling devices. You secure your corporate and organization-owned endpoints that are enrolled in Intune, and then deploy at scale with Apple Business Manager or Apple School Manager.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/end-to-end-guides/macos-endpoints-get-started</link>
@@ -403,12 +415,6 @@
       <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-apps-ios</link>
       <pubDate>Wed, 30 Jul 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Platform SSO for macOS devices</title>
-      <description>Use Microsoft Intune to configure Platform SSO for macOS devices. Platform SSO enables single sign-on (SSO) using a Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
     <item>
       <title>App protection policies overview - Microsoft Intune</title>
@@ -600,12 +606,6 @@
       <title>Manage device operating system versions with Intune - Microsoft Intune</title>
       <description>Learn about the methods for managing device operating system versions supported by Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-os-versions</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure app protection policies for Windows 10/11 - Microsoft Intune</title>
-      <description>This article describes how to configure app protection policies for Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-configure-windows-10</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
   </channel>
