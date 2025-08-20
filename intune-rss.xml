@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 20 Aug 2025 05:36:43 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 05:36:43 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 11:36:45 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 11:36:45 GMT</lastBuildDate>
     <item>
       <title>Reset device passcodes with Microsoft Intune</title>
       <description>Remove or reset the passcode by using the remove passcode action on devices you manage or monitor with Intune.</description>
@@ -21,10 +21,22 @@
       <pubDate>Tue, 19 Aug 2025 21:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device restriction settings for Android in Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
+      <pubDate>Tue, 19 Aug 2025 21:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
       <pubDate>Tue, 19 Aug 2025 17:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>APIs to onboard third party certificate authorities - Microsoft Intune</title>
+      <description>Add or integrate the SCEP GitHub solution for third party certificate authorities (CA) to issue SCEP certificates to devices in Microsoft Intune. This solution includes Java and C# APIs that validate, send success and failure notifications to Intune, and use SSL socket factory when communicating with Intune. Also view an overview of the steps to test your SCEP CA configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/scep-libraries-apis</link>
+      <pubDate>Mon, 18 Aug 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
       <title>iOS/iPadOS direct enrollment - Apple Configurator-Setup Assistant - Microsoft Intune</title>
@@ -594,18 +606,6 @@
       <title>Microsoft Intune App SDK for iOS developer guide - Multi-Identity</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Multi-Identity</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase5</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy</title>
-      <description>Step 3. Integrate Microsoft Entra Conditional Access with Microsoft Edge for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-3-scc</link>
-      <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 6. Troubleshoot Microsoft Edge for Business data security</title>
-      <description>Step 6. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-6-troubleshoot</link>
       <pubDate>Wed, 30 Jul 2025 18:59:00 GMT</pubDate>
     </item>
   </channel>
