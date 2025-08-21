@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 21 Aug 2025 05:19:45 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2025 05:19:45 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 12:02:03 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:02:03 GMT</lastBuildDate>
     <item>
       <title>Set the mobile device management authority - Microsoft Intune</title>
       <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
@@ -24,6 +24,12 @@
       <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
       <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-add</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PowerShell scripts for Remediations - Microsoft Intune</title>
+      <description>PowerShell script reference for Remediations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/powershell-scripts-remediation</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -75,6 +81,18 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Operating systems and browsers supported by Microsoft Intune</title>
+      <description>Lists supported device platforms and browsers for Intune device management</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/supported-devices-browsers</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Open Source Project Supported Devices</title>
+      <description>Lists Android open source project devices (AOSP) supported devices</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/android-os-project-supported-devices</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
@@ -93,6 +111,12 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Licenses available for Microsoft Intune</title>
+      <description>Intune is available with these licenses</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
       <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
@@ -102,12 +126,6 @@
       <title>Add users to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Licenses available for Microsoft Intune</title>
-      <description>Intune is available with these licenses</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -387,6 +405,12 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
+      <description>Delivery Optimization settings for Windows 10 and Windows 11 devices that you can deploy using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create Windows Driver updates policy for Windows 10 Windows 11 devices in Intune</title>
       <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows 10 and Windows 11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-driver-updates-policy</link>
@@ -489,6 +513,24 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
+      <title>Network endpoints for China deployments - Microsoft Intune</title>
+      <description>Review China endpoints for Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china-endpoints</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Intune sends to Apple - Microsoft Intune</title>
+      <description>List of data that Intune sends to Apple.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-intune-sends-to-apple</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint analytics documentation</title>
+      <description>Official product documentation for Endpoint analytics in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create and assign a custom role in Intune</title>
       <description>Create and assign a custom role for a remote device manager.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-custom-role</link>
@@ -543,12 +585,6 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices</title>
-      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-ios</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Monitor results of your device compliance policies in Microsoft Intune</title>
       <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-monitor</link>
@@ -561,51 +597,15 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices</title>
+      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-ios</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Windows compatibility reports for Windows 10 and Windows 11 updates in Intune</title>
       <description>Use the app and driver compatibility reports for Windows 10 and Windows 11 devices before you deploy Intune policies for feature updates or update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-compatibility-reports</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/teamviewer-support</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Update rings for Windows 10 and later policy in Intune</title>
-      <description>Create and manage Intune policy for Windows update rings. You can configure, deploy, and pause update installation with Windows Update client policies using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-update-rings</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Information Protection in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about using Windows Information Protection with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-information-protection-configure</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remove apps and configurations from devices - Microsoft Intune</title>
-      <description>Learn how apps and configurations can be removed temporarily, then restored automatically or manually using the Remove apps and configuration device action by the IT administrator.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/remove-apps-config</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data collection in Intune - Microsoft Intune</title>
-      <description>Learn about personal data collected in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-collect</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zebra-lifeguard-ota-integration</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data security and sharing in Intune - Microsoft Intune</title>
-      <description>Learn how personal data is secured and shared in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-secure-share</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
