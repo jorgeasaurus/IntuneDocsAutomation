@@ -6,8 +6,266 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 20 Aug 2025 17:33:23 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 17:33:23 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 23:04:43 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 23:04:43 GMT</lastBuildDate>
+    <item>
+      <title>Set the mobile device management authority - Microsoft Intune</title>
+      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/mdm-authority-set</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Intune - Microsoft Intune</title>
+      <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-setup</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
+      <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-add</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop single-session with Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Windows 10 virtual machines with Microsoft Intune - Microsoft Intune</title>
+      <description>This article describes the general guidelines for using Windows 10 virtual machines with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unlicensed admins in Microsoft Intune - Microsoft Intune</title>
+      <description>This article describes how to give unlicensed admins permissions to access Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/unlicensed-admins</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a user in Intune</title>
+      <description>Create a user in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-user</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure a custom domain name - Microsoft Intune</title>
+      <description>Add a custom domain name for your Microsoft Intune subscription</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/custom-domain-name-configure</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Remediations to detect and fix support issues</title>
+      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Delivery Optimization settings in Microsoft Intune</title>
+      <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign Microsoft Intune licenses</title>
+      <description>Assign licenses to users so they can enroll in Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
+      <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Licenses available for Microsoft Intune</title>
+      <description>Intune is available with these licenses</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add users to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
+      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sign up or sign in to Microsoft Intune</title>
+      <description>How to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/account-sign-up</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
+      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-overview</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Install the Certificate Connector for Microsoft Intune</title>
+      <description>Learn how to install and configure the unified Certificate Connector for Microsoft Intune, which supports SCEP, PKCS, imported PKCS, and certificate revocation.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-connector-install</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Certificate Connector for Microsoft Intune - Azure</title>
+      <description>Learn about the unified Certificate Connector for Microsoft Intune, which supports SCEP, PKCS, imported PKCS, and certificate revocation.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-connector-overview</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Types of certificate that are supported by Microsoft Intune</title>
+      <description>Learn about Microsoft Intune's support for Simple Certificate Enrollment Protocol (SCEP), Public Key Cryptography Standards (PKCS) certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-configure</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create trusted certificate profiles in Microsoft Intune</title>
+      <description>Create and deploy trusted certificate profiles to deploy a trusted root certificate to managed devices in Intune. Trusted certificate profiles support use of Simple Certificate Enrollment Protocol (SCEP) and Public Key Cryptography Standards (PKCS) certificate profiles with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-trusted-root</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prerequisites for the Certificate Connector for Microsoft Intune</title>
+      <description>Review the software and network prerequisites for use of the Certificate Connector for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-connector-prerequisites</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Cloud PKI root and issuing CA for Microsoft Intune</title>
+      <description>Configure a root and issuing CA for the Microsoft Cloud PKI service.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-ca</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment models for Microsoft Intune cloud PKI - Microsoft Intune</title>
+      <description>Describes the deployment options for Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-deployment</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
+      <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-byoca</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
+      <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-fundamentals</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Issue DigiCert PKCS certificates with Microsoft Intune - Microsoft Intune</title>
+      <description>Install and configure the Certificate Connector for Microsoft Intune to issue PKCS certificates from DigiCert PKI Platform to Intune-managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-digicert-configure</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
+      <description>Monitor reports for certificates issued via Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-monitor</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delete issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
+      <description>Delete certificates issued via Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-delete</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View ChromeOS device information</title>
+      <description>View ChromeOS devices and details synced with the Chrome Enterprise connector in the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/chrome-enterprise-device-details</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote actions for ChromeOS devices</title>
+      <description>Remotely run Microsoft Intune device actions on ChromeOS devices in the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/chrome-enterprise-remote-actions</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use imported PFX certificates in Microsoft Intune</title>
+      <description>Use imported Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune. Import certificates, configure certificate templates, and create an Imported PKCS Certificate profile.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-imported-pfx-configure</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audit logs for Microsoft Intune cloud PKI - Microsoft Intune</title>
+      <description>Get audit logs for Microsoft cloud public key infrastructure (PKI) activity in the admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-audit-logs</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune</title>
+      <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sign and encrypt email using S/MIME - Microsoft Intune</title>
+      <description>Learn how to use email digital certificates in Microsoft Intune to sign and encrypt emails on devices. These certificates are called S/MIME and are configured using device configuration profiles. Signing and encryption certificates use PKCS, or private certificates, and use a connector to import certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-s-mime-encryption-sign</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure infrastructure to support SCEP certificate profiles with Microsoft Intune</title>
+      <description>To use Simple Certificate Enrollment Protocol (SCEP) with Microsoft Intune, configure your on-premises AD domain, create a certification authority, and set up the NDES server to support use of the Certificate Connector.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-scep-configure</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune</title>
+      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune</title>
+      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use SCEP certificate profiles with Microsoft Intune</title>
+      <description>Create and assign Simple Certificate Enrollment Protocol (SCEP) certificate profiles with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-profile-scep</link>
+      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows device enrollment guide for Microsoft Intune</title>
+      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-windows</link>
+      <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
+      <description>Enable Windows backup and restore in Intune for employees or students.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
+      <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Retire or wipe devices using Microsoft Intune</title>
       <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
@@ -339,12 +597,6 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Delivery Optimization settings in Microsoft Intune</title>
-      <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zebra-lifeguard-ota-integration</link>
@@ -355,258 +607,6 @@
       <description>Learn how personal data is secured and shared in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-secure-share</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin guide and checklist for macOS software updates</title>
-      <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-macos</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use custom compliance settings for Linux and Windows devices in Microsoft Intune</title>
-      <description>Manage custom compliance settings for Linux and Windows devices by using JSON files and discovery scripts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-use-custom-settings</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Windows Update client policies in Microsoft Intune</title>
-      <description>Manage Windows 10 and Windows 11 software updates by using Intune policy for Update rings for Windows and Windows feature updates for Windows Update client policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-for-business-configure</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure schedules to gradually roll out Windows Updates in Intune</title>
-      <description>Configure schedules that manage how and when Windows updates roll out to your managed devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-rollout-options</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help Web App. - Microsoft Intune</title>
-      <description>Use the Remote Help web app to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-webapp</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Specialty devices with Microsoft Intune</title>
-      <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/specialty-devices-with-intune</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune to expedite Windows quality updates</title>
-      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-expedite-updates</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows quality update policy</title>
-      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-quality-update-policy</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a custom role in Intune</title>
-      <description>Learn how to create a custom role in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Compliance in Microsoft Intune</title>
-      <description>Learn about compliance, dependencies, and features in Microsoft Intune supporting data protection and regulatory requirements.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/compliance-in-intune</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
-      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-reports</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pause Config Refresh - Microsoft Intune</title>
-      <description>Learn how Config Refresh can be paused for a configurable period of time, after which it's automatically re-enabled, or can be manually turned back on at any time by an IT administrator.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/pause-config-refresh</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings insight</title>
-      <description>The Settings insight feature adds insights giving you confidence in configurations that are successfully adopted by similar organizations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/settings-insight</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows backup and restore in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-supervised-mode</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View declarative device management-based software update reports for Apple devices in Microsoft Intune</title>
-      <description>Use Microsoft Intune to software updates reports for managed Apple devices based on Apples declarative device management capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-reports-apple-declarative-based</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely lock devices with Microsoft Intune</title>
-      <description>Use the Remote lock action in Microsoft Intune to lock a device that is protected by a PIN or password.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-lock</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rename a device with Microsoft Intune</title>
-      <description>Rename a device by using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rename</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Find the primary user of a Microsoft Intune device.</title>
-      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/find-primary-user</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
-      <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign up or sign in to Microsoft Intune</title>
-      <description>How to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/account-sign-up</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshooting Remote Help on Android.</title>
-      <description>Sometimes a Remote Help session starts in service but the client connection isn't established. Learn more about the possible causes in this article, and how to resolve them.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-android-troubleshoot</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device compliance policies in Microsoft Intune</title>
-      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-compliance-get-started</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Role-based access control (RBAC) with Microsoft Intune</title>
-      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage endpoint security policies in Microsoft Intune</title>
-      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-policy</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reset Windows 10 and 11 devices with Microsoft Intune</title>
-      <description>Use Fresh Start to remove or uninstall apps on Windows 10 and 11 by using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-fresh-start</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restart devices with Microsoft Intune</title>
-      <description>Restart Windows and iOS/iPadOS devices using Microsoft Intune in the Azure portal using the Restart remote action.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Android Enterprise system apps in Microsoft Intune</title>
-      <description>Learn how to manage Android Enterprise system apps in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-ae-system</link>
-      <pubDate>Tue, 19 Aug 2025 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
-      <pubDate>Tue, 19 Aug 2025 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Tue, 19 Aug 2025 17:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>APIs to onboard third party certificate authorities - Microsoft Intune</title>
-      <description>Add or integrate the SCEP GitHub solution for third party certificate authorities (CA) to issue SCEP certificates to devices in Microsoft Intune. This solution includes Java and C# APIs that validate, send success and failure notifications to Intune, and use SSL socket factory when communicating with Intune. Also view an overview of the steps to test your SCEP CA configuration.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/scep-libraries-apis</link>
-      <pubDate>Mon, 18 Aug 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS direct enrollment - Apple Configurator-Setup Assistant - Microsoft Intune</title>
-      <description>Use Apple Configurator to enroll corporate-owned iOS/iPadOS devices with Setup Assistant.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/apple-configurator-enroll-ios</link>
-      <pubDate>Fri, 15 Aug 2025 22:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
-      <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-direct-enroll-macos</link>
-      <pubDate>Fri, 15 Aug 2025 22:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Fri, 15 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Endpoint Privilege Management with Microsoft Intune</title>
-      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-overview</link>
-      <pubDate>Thu, 14 Aug 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot Win32 apps in Microsoft Intune</title>
-      <description>Learn about the most common methods to troubleshoot Win32 app issues with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-troubleshoot</link>
-      <pubDate>Thu, 14 Aug 2025 14:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings list for the Windows 365 Cloud PC security baseline in Intune - Microsoft Intune</title>
-      <description>View a list of the settings in the Microsoft Intune security baseline for Windows 365 Cloud PC. This list includes the default values for settings as found in the default configuration of the baseline.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-windows-365</link>
-      <pubDate>Wed, 13 Aug 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Copilot in Intune features overview</title>
-      <description>Microsoft Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
-      <pubDate>Wed, 13 Aug 2025 17:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Government Service overview</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
-      <pubDate>Wed, 13 Aug 2025 14:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Platform SSO for macOS devices</title>
-      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
-      <pubDate>Tue, 12 Aug 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Platform SSO scenarios for macOS devices</title>
-      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
-      <pubDate>Tue, 12 Aug 2025 17:37:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
