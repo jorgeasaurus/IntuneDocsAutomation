@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 22 Aug 2025 12:02:01 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 12:02:01 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 17:39:52 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 17:39:52 GMT</lastBuildDate>
+    <item>
+      <title>Configure feature updates policy for Windows 10 Windows 11 devices in Intune</title>
+      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows 10/11 devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
+      <pubDate>Fri, 22 Aug 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
+      <description>Enable Windows backup and restore in Intune for employees or students.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
+      <pubDate>Fri, 22 Aug 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View declarative device management-based software update reports for Apple devices in Microsoft Intune</title>
+      <description>Use Microsoft Intune to software updates reports for managed Apple devices based on Apples declarative device management capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-reports-apple-declarative-based</link>
+      <pubDate>Fri, 22 Aug 2025 17:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Planning guide to move to Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
@@ -66,12 +84,6 @@
       <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
       <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-fully-managed-enroll</link>
-      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
       <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -195,21 +207,27 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assign Microsoft Intune licenses</title>
-      <description>Assign licenses to users so they can enroll in Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Operating systems and browsers supported by Microsoft Intune</title>
       <description>Lists supported device platforms and browsers for Intune device management</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/supported-devices-browsers</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Assign Microsoft Intune licenses</title>
+      <description>Assign licenses to users so they can enroll in Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Android Open Source Project Supported Devices</title>
       <description>Lists Android open source project devices (AOSP) supported devices</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/android-os-project-supported-devices</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -225,21 +243,15 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
+      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Licenses available for Microsoft Intune</title>
       <description>Intune is available with these licenses</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
-      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -396,12 +408,6 @@
       <title>Retire or wipe devices using Microsoft Intune</title>
       <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure feature updates policy for Windows 10 Windows 11 devices in Intune</title>
-      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows 10/11 devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Audit, export or delete personal data collected by Intune - Microsoft Intune</title>
       <description>Learn how to audit, export, or delete personal data that is collected by Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-audit-export-delete</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update cellular data plan for iOS/iPadOS devices with Microsoft Intune</title>
-      <description>Learn how to update the cellular data plan for iOS/iPadOS devices that support eSIM.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/update-cellular-data-plan</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
