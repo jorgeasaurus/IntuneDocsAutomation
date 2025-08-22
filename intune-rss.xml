@@ -6,19 +6,91 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 21 Aug 2025 18:01:52 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2025 18:01:52 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 23:20:09 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 23:20:09 GMT</lastBuildDate>
     <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Thu, 21 Aug 2025 17:39:00 GMT</pubDate>
+      <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
+      <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-kiosk-enroll</link>
+      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
+      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-work-profile-enroll</link>
+      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Android Enterprise work profile for corporate owned devices - Microsoft Intune</title>
+      <description>Set up Android Enterprise work profile for corporate-owned devices enrolling in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-corporate-owned-work-profile-enroll</link>
+      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Thu, 21 Aug 2025 17:39:00 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
+      <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-fully-managed-enroll</link>
+      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
+      <description>Enable Windows backup and restore in Intune for employees or students.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
+      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Remote Help to assist users authenticated by your organization.</title>
+      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Performance recommendations when using filters</title>
+      <description>When using filters in Microsoft Intune, use Intune virtual groups that don't require Microsoft Entra ID syncing. To improve performance, reuse groups, make incremental group changes, and use filters to include and exclude.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-performance-recommendations</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
+      <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shared iOS and iPadOS devices - Microsoft Intune</title>
+      <description>Learn about Shared iOS and iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-shared-ios</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up enrollment time grouping - Microsoft Intune</title>
+      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/enrollment-time-grouping</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add users to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Role-based access control (RBAC) with Microsoft Intune</title>
+      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Set the mobile device management authority - Microsoft Intune</title>
@@ -105,6 +177,12 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Overview of the Microsoft Intune MDM lifecycle</title>
       <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
@@ -117,12 +195,6 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Licenses available for Microsoft Intune</title>
       <description>Intune is available with these licenses</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
@@ -132,12 +204,6 @@
       <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
       <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add users to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -291,21 +357,9 @@
       <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
-      <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Retire or wipe devices using Microsoft Intune</title>
       <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Remote Help to assist users authenticated by your organization.</title>
-      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
@@ -552,60 +606,6 @@
       <title>Remove a user from an iOS/iPadOS device with Microsoft Intune</title>
       <description>Learn how to remove a user from a shared iOS/iPadOS device with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-user</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optional diagnostic data that is collected by Intune client apps - Microsoft Intune</title>
-      <description>Learn about the optional diagnostic data that Intune Client apps collect.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/client-apps-optional-data</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View and correct personal data collected by Intune - Microsoft Intune</title>
-      <description>Learn how to view and correct personal data that's been collected by Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-view-correct</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Log out the user of an iOS/iPadOS device - Microsoft Intune</title>
-      <description>Learn how to log out the current user of an iOS/iPadOS device with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-logout-user</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reduce help desk costs - Microsoft Intune</title>
-      <description>Reducing help desk costs with self-service password reset</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/password-reset</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shut down devices with Microsoft Intune</title>
-      <description>Shut down iOS/iPadOS devices using remote actions in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-shutdown</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux device compliance settings in Microsoft Intune</title>
-      <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-linux</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wipe a macOS device - Microsoft Intune</title>
-      <description>Learn how to wipe all data, including the operating system, from a macOS device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-wipe-macos</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor results of your device compliance policies in Microsoft Intune</title>
-      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-monitor</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
-      <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
