@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 21 Aug 2025 23:20:09 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2025 23:20:09 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 06:01:50 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 06:01:50 GMT</lastBuildDate>
+    <item>
+      <title>Planning guide to move to Microsoft Intune</title>
+      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
+      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
+      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
+      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Microsoft Edge policy using ADMX template in Microsoft Intune</title>
+      <description>Add or create settings using ADMX administrative templates to configure Microsoft Edge on Windows devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-configure-edge</link>
+      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
+      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walkthrough-Create a settings catalog policy</title>
+      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
+      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
       <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
@@ -177,6 +207,12 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
+      <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
@@ -186,12 +222,6 @@
       <title>Overview of the Microsoft Intune MDM lifecycle</title>
       <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
-      <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -576,36 +606,6 @@
       <title>Data storage and processing in Intune - Microsoft Intune</title>
       <description>Learn how personal data is stored and processed in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-store-process</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for China deployments - Microsoft Intune</title>
-      <description>Review China endpoints for Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china-endpoints</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data Intune sends to Apple - Microsoft Intune</title>
-      <description>List of data that Intune sends to Apple.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-intune-sends-to-apple</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint analytics documentation</title>
-      <description>Official product documentation for Endpoint analytics in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create and assign a custom role in Intune</title>
-      <description>Create and assign a custom role for a remote device manager.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-custom-role</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remove a user from an iOS/iPadOS device with Microsoft Intune</title>
-      <description>Learn how to remove a user from a shared iOS/iPadOS device with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-user</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
