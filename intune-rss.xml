@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 22 Aug 2025 06:01:50 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 06:01:50 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 12:02:01 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:02:01 GMT</lastBuildDate>
     <item>
       <title>Planning guide to move to Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
@@ -114,6 +114,12 @@
       <title>Add users to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Update cellular data plan for iOS/iPadOS devices with Microsoft Intune</title>
       <description>Learn how to update the cellular data plan for iOS/iPadOS devices that support eSIM.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/update-cellular-data-plan</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data storage and processing in Intune - Microsoft Intune</title>
-      <description>Learn how personal data is stored and processed in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-store-process</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
