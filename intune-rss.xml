@@ -6,19 +6,49 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 26 Aug 2025 11:19:50 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 11:19:50 GMT</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 17:09:12 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 17:09:12 GMT</lastBuildDate>
+    <item>
+      <title>Configure Platform SSO for macOS devices</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Tue, 26 Aug 2025 01:10:00 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Tue, 26 Aug 2025 01:10:00 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platform SSO scenarios for macOS devices</title>
+      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
+      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
+      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
+      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune</title>
+      <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-configure-edge</link>
+      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walkthrough-Create a settings catalog policy</title>
+      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
+      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
@@ -63,12 +93,6 @@
       <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
-      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
-      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deploy Microsoft Edge policy using ADMX template in Microsoft Intune</title>
       <description>Add or create settings using ADMX administrative templates to configure Microsoft Edge on Windows devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-configure-edge</link>
@@ -78,12 +102,6 @@
       <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Walkthrough-Create a settings catalog policy</title>
-      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
       <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
     </item>
     <item>
@@ -243,6 +261,12 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Overview of the Microsoft Intune MDM lifecycle</title>
       <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
@@ -252,12 +276,6 @@
       <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
       <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Linux device enrollment guide for Microsoft Intune</title>
       <description>Enroll Linux devices in Intune using the Intune app. Set an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-linux</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for Android software updates in Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-android</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for software updates on BYOD in Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for BYOD and personally owned devices using Microsoft Intune. See tasks and settings that can manage updates on personal devices on Android and iOS/iPadOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-personal-byod</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use bulk device actions in Microsoft Intune device.</title>
-      <description>Use bulk remote device actions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/bulk-device-actions</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
