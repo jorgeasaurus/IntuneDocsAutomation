@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 26 Aug 2025 17:09:12 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 17:09:12 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 00:05:20 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 00:05:20 GMT</lastBuildDate>
+    <item>
+      <title>Find the primary user of a Microsoft Intune device.</title>
+      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/find-primary-user</link>
+      <pubDate>Tue, 26 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune management extension</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
+      <pubDate>Tue, 26 Aug 2025 20:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Platform SSO for macOS devices</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
@@ -261,12 +273,6 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Overview of the Microsoft Intune MDM lifecycle</title>
       <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
@@ -276,6 +282,12 @@
       <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
       <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Android FOTA Updates</title>
       <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/fota-updates-android</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use multiple administrative approvals in Intune - Microsoft Intune</title>
-      <description>Configure multi-admin approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux device enrollment guide for Microsoft Intune</title>
-      <description>Enroll Linux devices in Intune using the Intune app. Set an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-linux</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
