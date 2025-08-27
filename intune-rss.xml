@@ -6,8 +6,74 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 27 Aug 2025 12:02:09 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 12:02:09 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 17:19:51 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 17:19:51 GMT</lastBuildDate>
+    <item>
+      <title>Run remote actions on devices with Microsoft Intune</title>
+      <description>Use Microsoft Intune to run remote actions on Android, iOS/iPadOS, macOS, and Windows devices. You can reset the password, lock the device, wipe or reset the OS, scan for viruses, and more. Use this feature to remotely manage devices and have help desk run common tasks.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-management</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sync devices with Microsoft Intune</title>
+      <description>Synchronize devices that are registered or managed with Microsoft Intune to get the latest policies and actions. Includes the steps to sync by using the Azure portal, and lists the error codes that can be retried.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-sync</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure ChromeOS connector for Microsoft Intune</title>
+      <description>Learn how to connect the Google Admin Console to Microsoft Intune so that you can view and take action on enrolled ChromeOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/chrome-enterprise-connector-configure</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View and correct personal data collected by Intune - Microsoft Intune</title>
+      <description>Learn how to view and correct personal data that's been collected by Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-view-correct</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remotely administer devices in Microsoft Intune</title>
+      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/teamviewer-support</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View device details with Microsoft Intune</title>
+      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-manage-devices</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Find the primary user of a Microsoft Intune device.</title>
+      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/find-primary-user</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View ChromeOS device information</title>
+      <description>View ChromeOS devices and details synced with the Chrome Enterprise connector in the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/chrome-enterprise-device-details</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rename a device with Microsoft Intune</title>
+      <description>Rename a device by using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rename</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Manage Microsoft Edge on iOS and Android with Intune</title>
       <description>Use Intune app protection and configuration policies with Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
@@ -45,16 +111,22 @@
       <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Platform SSO scenarios for macOS devices</title>
       <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
       <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kiosk settings for Windows 10/11 in Microsoft Intune</title>
+      <description>Configure your Windows 10/11 client devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-windows</link>
+      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Windows 10/11 in Microsoft Intune</title>
+      <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10</link>
+      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
@@ -114,12 +186,6 @@
       <title>Planning guide to move to Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
-      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Microsoft Edge policy using ADMX template in Microsoft Intune</title>
-      <description>Add or create settings using ADMX administrative templates to configure Microsoft Edge on Windows devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-configure-edge</link>
       <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
     </item>
     <item>
@@ -285,6 +351,12 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
       <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
@@ -294,12 +366,6 @@
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -519,12 +585,6 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>Run remote actions on devices with Microsoft Intune</title>
-      <description>Use Microsoft Intune to run remote actions on Android, iOS/iPadOS, macOS, and Windows devices. You can reset the password, lock the device, wipe or reset the OS, scan for viruses, and more. Use this feature to remotely manage devices and have help desk run common tasks.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-management</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View device details with Microsoft Intune</title>
       <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-inventory</link>
@@ -543,69 +603,9 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>Sync devices with Microsoft Intune</title>
-      <description>Synchronize devices that are registered or managed with Microsoft Intune to get the latest policies and actions. Includes the steps to sync by using the Azure portal, and lists the error codes that can be retried.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-sync</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add app configuration policies for managed Android Enterprise devices - Microsoft Intune</title>
       <description>Use app configuration policies in Microsoft Intune to supply settings when users run a Managed Google Play app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-android</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune policies to manage macOS software updates</title>
-      <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-macos</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Send custom notifications to users with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Intune to create and send custom push notifications to users of iOS/iPadOS and Android devices</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/custom-notifications</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
-      <description>Delivery Optimization settings for Windows 10 and Windows 11 devices that you can deploy using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create Windows Driver updates policy for Windows 10 Windows 11 devices in Intune</title>
-      <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows 10 and Windows 11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-driver-updates-policy</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a JSON file for custom compliance settings in Microsoft Intune</title>
-      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-custom-json</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Remote Help on Android to assist users authenticated by your organization.</title>
-      <description>With the Remote Help app in Android, provide remote assistance to authenticated users who also run the Remote Help app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-android</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Activate iOS/iPadOS lost mode with Microsoft Intune</title>
-      <description>Turn on or start lost mode to customize a message that appears on the lock screen of a lost or stolen iOS/iPadOS device by using Microsoft Intune. And, get details on security and privacy information when you're using the lost mode action.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-lost-mode</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-ios-ipados</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign a role to an Intune administrator</title>
-      <description>Learn how to assign a built-in or custom role to a user in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/assign-role</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
