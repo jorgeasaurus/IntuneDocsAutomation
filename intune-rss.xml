@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 27 Aug 2025 17:19:51 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2025 17:19:51 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 23:44:05 GMT</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 23:44:05 GMT</lastBuildDate>
+    <item>
+      <title>Zero Trust with Microsoft Intune</title>
+      <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
+      <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
+      <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
+      <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third-party device compliance partners support in Microsoft Intune</title>
+      <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-compliance-partners</link>
+      <pubDate>Wed, 27 Aug 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Microsoft Edge on iOS and Android with Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
+      <pubDate>Wed, 27 Aug 2025 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Run remote actions on devices with Microsoft Intune</title>
       <description>Use Microsoft Intune to run remote actions on Android, iOS/iPadOS, macOS, and Windows devices. You can reset the password, lock the device, wipe or reset the OS, scan for viruses, and more. Use this feature to remotely manage devices and have help desk run common tasks.</description>
@@ -39,12 +69,6 @@
       <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View device details with Microsoft Intune</title>
       <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
@@ -73,12 +97,6 @@
       <description>Rename a device by using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rename</link>
       <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Microsoft Edge on iOS and Android with Intune</title>
-      <description>Use Intune app protection and configuration policies with Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
-      <pubDate>Wed, 27 Aug 2025 11:32:00 GMT</pubDate>
     </item>
     <item>
       <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune</title>
@@ -145,12 +163,6 @@
       <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
       <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
-      <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
-      <pubDate>Tue, 26 Aug 2025 01:10:00 GMT</pubDate>
     </item>
     <item>
       <title>Device restriction settings for Android in Microsoft Intune</title>
@@ -594,18 +606,6 @@
       <title>Reset device passcodes with Microsoft Intune</title>
       <description>Remove or reset the passcode by using the remove passcode action on devices you manage or monitor with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-passcode-reset</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
-      <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add app configuration policies for managed Android Enterprise devices - Microsoft Intune</title>
-      <description>Use app configuration policies in Microsoft Intune to supply settings when users run a Managed Google Play app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-android</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
