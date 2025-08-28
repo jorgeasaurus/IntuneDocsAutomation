@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 28 Aug 2025 05:19:52 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 05:19:52 GMT</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 11:19:52 GMT</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 11:19:52 GMT</lastBuildDate>
     <item>
       <title>Zero Trust with Microsoft Intune</title>
       <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
@@ -24,6 +24,12 @@
       <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
       <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
+      <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
       <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -105,12 +111,6 @@
       <pubDate>Wed, 27 Aug 2025 02:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>Find the primary user of a Microsoft Intune device.</title>
-      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/find-primary-user</link>
-      <pubDate>Tue, 26 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Understand Microsoft Intune management extension</title>
       <description>Understand Microsoft Intune management extension for Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
@@ -163,12 +163,6 @@
       <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
       <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
-      <pubDate>Tue, 26 Aug 2025 01:10:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure and secure devices with Microsoft Intune</title>
@@ -477,12 +471,6 @@
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>View ChromeOS device information</title>
-      <description>View ChromeOS devices and details synced with the Chrome Enterprise connector in the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/chrome-enterprise-device-details</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote actions for ChromeOS devices</title>
       <description>Remotely run Microsoft Intune device actions on ChromeOS devices in the Microsoft Intune admin center.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/chrome-enterprise-remote-actions</link>
@@ -597,15 +585,27 @@
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>View device details with Microsoft Intune</title>
-      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-inventory</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Reset device passcodes with Microsoft Intune</title>
       <description>Remove or reset the passcode by using the remove passcode action on devices you manage or monitor with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-passcode-reset</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
+      <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add app configuration policies for managed Android Enterprise devices - Microsoft Intune</title>
+      <description>Use app configuration policies in Microsoft Intune to supply settings when users run a Managed Google Play app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-android</link>
+      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Intune policies to manage macOS software updates</title>
+      <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-macos</link>
       <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
