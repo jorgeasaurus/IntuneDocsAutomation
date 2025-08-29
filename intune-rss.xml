@@ -6,18 +6,24 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 28 Aug 2025 23:17:24 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 23:17:24 GMT</lastBuildDate>
-    <item>
-      <title>Create a policy using settings catalog in Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
+    <pubDate>Fri, 29 Aug 2025 05:22:37 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 05:22:37 GMT</lastBuildDate>
     <item>
       <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
       <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
+      <pubDate>Fri, 29 Aug 2025 02:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
+      <pubDate>Fri, 29 Aug 2025 02:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
       <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Create and assign Simple Certificate Enrollment Protocol (SCEP) certificate profiles with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-profile-scep</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows device enrollment guide for Microsoft Intune</title>
-      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-windows</link>
-      <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
