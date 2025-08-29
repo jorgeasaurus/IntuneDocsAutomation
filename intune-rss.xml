@@ -6,8 +6,110 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 28 Aug 2025 17:16:29 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 17:16:29 GMT</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 23:17:24 GMT</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 23:17:24 GMT</lastBuildDate>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
+      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Universal Print policy using settings catalog in Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to create a Universal Print policy for Windows 10/11 client devices. The policy automatically installs printers on your managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-printer-provisioning</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Defender for Endpoint in Microsoft Intune</title>
+      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense solution.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common tasks and features in the settings catalog</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune</title>
+      <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-configure-edge</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint management services and solutions at Microsoft</title>
+      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-manager-overview</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide to manage macOS devices in Microsoft Intune</title>
+      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Run remote actions on devices with Microsoft Intune</title>
+      <description>Use Microsoft Intune to run remote actions on Android, iOS/iPadOS, macOS, and Windows devices. You can reset the password, lock the device, wipe or reset the OS, scan for viruses, and more. Use this feature to remotely manage devices and have help desk run common tasks.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-management</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide for Windows device management</title>
+      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data storage and processing in Intune - Microsoft Intune</title>
+      <description>Learn how personal data is stored and processed in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-store-process</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remotely administer devices in Microsoft Intune</title>
+      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune</title>
+      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is Microsoft Intune</title>
+      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
+      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Third-party device compliance partners support in Microsoft Intune</title>
       <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
@@ -43,12 +145,6 @@
       <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
       <pubDate>Wed, 27 Aug 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Run remote actions on devices with Microsoft Intune</title>
-      <description>Use Microsoft Intune to run remote actions on Android, iOS/iPadOS, macOS, and Windows devices. You can reset the password, lock the device, wipe or reset the OS, scan for viruses, and more. Use this feature to remotely manage devices and have help desk run common tasks.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-management</link>
-      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Sync devices with Microsoft Intune</title>
@@ -147,18 +243,6 @@
       <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
-      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
-      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune</title>
-      <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-configure-edge</link>
-      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Walkthrough-Create a settings catalog policy</title>
       <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
@@ -192,12 +276,6 @@
       <title>Planning guide to move to Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
-      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
       <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
     </item>
     <item>
@@ -529,84 +607,6 @@
       <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-windows</link>
       <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Retire or wipe devices using Microsoft Intune</title>
-      <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on Windows to assist authenticated users. - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-windows</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Properties catalog in Microsoft Intune</title>
-      <description>Configure Properties catalog policy to manage Device Inventory settings on Windows devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Collect diagnostics from an Intune managed device - Microsoft Intune</title>
-      <description>Learn how to collect diagnostics from an Intune managed device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/collect-diagnostics</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Find lost devices with Microsoft Intune</title>
-      <description>Locate lost or stolen devices by using the locate device feature in Microsoft Intune. Get details on security and privacy information when using the locate device action.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-locate</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Windows Driver updates policy for Windows 10 Windows 11 devices in Intune</title>
-      <description>Learn about using Microsoft Intune policy to manage Windows driver updates on your Windows 10 and Windows 11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-driver-updates-overview</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Disable Activation Lock on Apple devices with Intune - Microsoft Intune</title>
-      <description>Learn how to use Intune to disable Activation Lock on Apple devices to access locked devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-activation-lock-disable</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the settings catalog to configure DDM software updates</title>
-      <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device compliance policies in Microsoft Intune</title>
-      <description>Create device compliance policies for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/create-compliance-policy</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reset device passcodes with Microsoft Intune</title>
-      <description>Remove or reset the passcode by using the remove passcode action on devices you manage or monitor with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-passcode-reset</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
-      <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add app configuration policies for managed Android Enterprise devices - Microsoft Intune</title>
-      <description>Use app configuration policies in Microsoft Intune to supply settings when users run a Managed Google Play app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-android</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune policies to manage macOS software updates</title>
-      <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-macos</link>
-      <pubDate>Wed, 20 Aug 2025 14:26:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
