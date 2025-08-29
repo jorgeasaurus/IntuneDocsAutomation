@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 29 Aug 2025 05:22:37 GMT</pubDate>
-    <lastBuildDate>Fri, 29 Aug 2025 05:22:37 GMT</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 11:19:53 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 11:19:53 GMT</lastBuildDate>
     <item>
       <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
       <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
@@ -168,12 +168,6 @@
       <title>View and correct personal data collected by Intune - Microsoft Intune</title>
       <description>Learn how to view and correct personal data that's been collected by Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-view-correct</link>
-      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/teamviewer-support</link>
       <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
@@ -607,6 +601,12 @@
       <description>Create and assign Simple Certificate Enrollment Protocol (SCEP) certificate profiles with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-profile-scep</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows device enrollment guide for Microsoft Intune</title>
+      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-windows</link>
+      <pubDate>Wed, 20 Aug 2025 17:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
