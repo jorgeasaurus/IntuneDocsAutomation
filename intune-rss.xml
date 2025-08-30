@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 30 Aug 2025 05:40:45 GMT</pubDate>
-    <lastBuildDate>Sat, 30 Aug 2025 05:40:45 GMT</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 11:19:54 GMT</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 11:19:54 GMT</lastBuildDate>
     <item>
       <title>Use ADMX templates on Windows 10/11 devices in Microsoft Intune</title>
       <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
@@ -339,15 +339,15 @@
       <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Network endpoints for Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Role-based access control (RBAC) with Microsoft Intune</title>
       <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
+      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
@@ -417,21 +417,27 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assign Microsoft Intune licenses</title>
-      <description>Assign licenses to users so they can enroll in Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Operating systems and browsers supported by Microsoft Intune</title>
       <description>Lists supported device platforms and browsers for Intune device management</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/supported-devices-browsers</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Assign Microsoft Intune licenses</title>
+      <description>Assign licenses to users so they can enroll in Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Android Open Source Project Supported Devices</title>
       <description>Lists Android open source project devices (AOSP) supported devices</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/android-os-project-supported-devices</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -447,21 +453,15 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
+      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Licenses available for Microsoft Intune</title>
       <description>Intune is available with these licenses</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
-      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
