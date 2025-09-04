@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 04 Sep 2025 11:20:30 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 11:20:30 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 18:00:26 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 18:00:26 GMT</lastBuildDate>
+    <item>
+      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune</title>
+      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Thu, 04 Sep 2025 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Thu, 04 Sep 2025 15:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use derived credentials for mobile devices with Microsoft Intune</title>
+      <description>Use a third-party partners derived credential as an authentication method for Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/derived-credentials</link>
+      <pubDate>Thu, 04 Sep 2025 15:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
       <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
@@ -25,12 +43,6 @@
       <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Wed, 03 Sep 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Wed, 03 Sep 2025 17:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
@@ -459,12 +471,6 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
       <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
@@ -474,6 +480,12 @@
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune</title>
       <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign and encrypt email using S/MIME - Microsoft Intune</title>
-      <description>Learn how to use email digital certificates in Microsoft Intune to sign and encrypt emails on devices. These certificates are called S/MIME and are configured using device configuration profiles. Signing and encryption certificates use PKCS, or private certificates, and use a connector to import certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-s-mime-encryption-sign</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure infrastructure to support SCEP certificate profiles with Microsoft Intune</title>
-      <description>To use Simple Certificate Enrollment Protocol (SCEP) with Microsoft Intune, configure your on-premises AD domain, create a certification authority, and set up the NDES server to support use of the Certificate Connector.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-scep-configure</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
