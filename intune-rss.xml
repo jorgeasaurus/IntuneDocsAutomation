@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 04 Sep 2025 05:13:31 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 05:13:31 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 11:20:30 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 11:20:30 GMT</lastBuildDate>
+    <item>
+      <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
+      <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-status</link>
+      <pubDate>Thu, 04 Sep 2025 08:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune user help</title>
+      <description>Enroll your device in Intune to gain secure access to work-related email, apps, and Wi-Fi.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/user-help/</link>
+      <pubDate>Wed, 03 Sep 2025 22:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
+      <pubDate>Wed, 03 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -357,12 +375,6 @@
       <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Network endpoints for Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set the mobile device management authority - Microsoft Intune</title>
       <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/mdm-authority-set</link>
@@ -447,6 +459,12 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
       <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
@@ -456,12 +474,6 @@
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Configure infrastructure to support SCEP certificate profiles with Microsoft Intune</title>
       <description>To use Simple Certificate Enrollment Protocol (SCEP) with Microsoft Intune, configure your on-premises AD domain, create a certification authority, and set up the NDES server to support use of the Certificate Connector.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-scep-configure</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune</title>
-      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
