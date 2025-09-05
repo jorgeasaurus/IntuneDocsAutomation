@@ -6,8 +6,68 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 04 Sep 2025 23:19:59 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 23:19:59 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 06:02:08 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 06:02:08 GMT</lastBuildDate>
+    <item>
+      <title>Planning guide to move to Microsoft Intune</title>
+      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign device profiles in Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-assign</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Intune to import and analyze group policies</title>
+      <description>Import and analyze your group policy objects using the Group Policy analytics tool. See the policies that are supported and aren't supported in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device features and settings in Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, Windows Information Protection, administrative templates, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migrate your imported group policy to a policy in Microsoft Intune</title>
+      <description>After you import your Windows group policy objects in Microsoft Intune, use the migrate feature to transfer your GPOs to a Settings Catalog policy. This policy uses your imported GPOs, and can be assigned to users and devices managed by your organizations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics-migrate</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide for Windows device management</title>
+      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
+      <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Microsoft Store apps to Microsoft Intune</title>
+      <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-microsoft</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
+      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Import custom and third-party partner ADMX templates in Microsoft Intune</title>
+      <description>You can add, upload, or import custom and third-party partner ADMX and ADML files in Microsoft Intune. When they're imported, create a device configuration profile and assign the profile to your Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-import-custom</link>
+      <pubDate>Fri, 05 Sep 2025 02:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
@@ -132,12 +192,6 @@
       <title>Microsoft Intune Government Service overview</title>
       <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
-      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide for Windows device management</title>
-      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
       <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
@@ -315,12 +369,6 @@
       <pubDate>Fri, 22 Aug 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Planning guide to move to Microsoft Intune</title>
-      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
-      <pubDate>Fri, 22 Aug 2025 05:06:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
       <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-kiosk-enroll</link>
@@ -471,12 +519,6 @@
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Intune classic groups in the Azure portal - Microsoft Intune</title>
       <description>Learn what's new with groups in the Microsoft Intune Azure portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-get-started</link>
@@ -486,6 +528,12 @@
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -558,54 +606,6 @@
       <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
       <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-byoca</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
-      <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-fundamentals</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Issue DigiCert PKCS certificates with Microsoft Intune - Microsoft Intune</title>
-      <description>Install and configure the Certificate Connector for Microsoft Intune to issue PKCS certificates from DigiCert PKI Platform to Intune-managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-digicert-configure</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
-      <description>Monitor reports for certificates issued via Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-monitor</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delete issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
-      <description>Delete certificates issued via Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-delete</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote actions for ChromeOS devices</title>
-      <description>Remotely run Microsoft Intune device actions on ChromeOS devices in the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/chrome-enterprise-remote-actions</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use imported PFX certificates in Microsoft Intune</title>
-      <description>Use imported Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune. Import certificates, configure certificate templates, and create an Imported PKCS Certificate profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-imported-pfx-configure</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Audit logs for Microsoft Intune cloud PKI - Microsoft Intune</title>
-      <description>Get audit logs for Microsoft cloud public key infrastructure (PKI) activity in the admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-audit-logs</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune</title>
-      <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
