@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 05 Sep 2025 17:28:15 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2025 17:28:15 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 23:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 23:20:00 GMT</lastBuildDate>
+    <item>
+      <title>Retire or wipe devices using Microsoft Intune</title>
+      <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network access control integration with Microsoft Intune</title>
+      <description>Network access control (NAC) solutions check enrollment and compliance for devices with Intune. NAC includes certain behaviors and works with Conditional Access. See the steps to get onboarded, and get a list of partner solutions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/network-access-control-integrate</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Enterprise Application Management</title>
+      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
+      <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Planning guide to move to Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
@@ -228,12 +252,6 @@
       <title>Zero Trust with Microsoft Intune</title>
       <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
-      <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
-      <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
       <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Prerequisites for the Certificate Connector for Microsoft Intune</title>
       <description>Review the software and network prerequisites for use of the Certificate Connector for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-connector-prerequisites</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Cloud PKI root and issuing CA for Microsoft Intune</title>
-      <description>Configure a root and issuing CA for the Microsoft Cloud PKI service.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-ca</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment models for Microsoft Intune cloud PKI - Microsoft Intune</title>
-      <description>Describes the deployment options for Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-deployment</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
-      <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-byoca</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
