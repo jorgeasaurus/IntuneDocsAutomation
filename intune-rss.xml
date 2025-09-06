@@ -6,12 +6,18 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 06 Sep 2025 05:30:33 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 05:30:33 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 11:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 11:20:00 GMT</lastBuildDate>
     <item>
       <title>Retire or wipe devices using Microsoft Intune</title>
       <description>Retire or wipe a device on an Android, Android work profile, AOSP, iOS/iPadOS, macOS, or Windows device using Microsoft Intune. Also delete a device from Microsoft Entra ID.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/devices-wipe</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for US government deployments - Microsoft Intune</title>
+      <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-us-government-endpoints</link>
       <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -30,6 +36,18 @@
       <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
       <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
+      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -121,12 +139,6 @@
       <description>Enroll your device in Intune to gain secure access to work-related email, apps, and Wi-Fi.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/user-help/</link>
       <pubDate>Wed, 03 Sep 2025 22:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
-      <pubDate>Wed, 03 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
@@ -252,12 +264,6 @@
       <title>Zero Trust with Microsoft Intune</title>
       <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
-      <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
       <pubDate>Wed, 27 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Create trusted certificate profiles in Microsoft Intune</title>
       <description>Create and deploy trusted certificate profiles to deploy a trusted root certificate to managed devices in Intune. Trusted certificate profiles support use of Simple Certificate Enrollment Protocol (SCEP) and Public Key Cryptography Standards (PKCS) certificate profiles with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-trusted-root</link>
-      <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prerequisites for the Certificate Connector for Microsoft Intune</title>
-      <description>Review the software and network prerequisites for use of the Certificate Connector for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-connector-prerequisites</link>
       <pubDate>Wed, 20 Aug 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
