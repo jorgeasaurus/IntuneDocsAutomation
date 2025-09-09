@@ -6,13 +6,85 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 08 Sep 2025 18:02:12 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 18:02:12 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 23:20:03 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 23:20:03 GMT</lastBuildDate>
     <item>
       <title>Configure compliance policies with actions for noncompliance in Microsoft Intune</title>
       <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/actions-for-noncompliance</link>
-      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create device compliance policies in Microsoft Intune</title>
+      <description>Create device compliance policies for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/create-compliance-policy</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create discovery scripts for custom compliance policy in Microsoft Intune</title>
+      <description>Create scripts for Linux or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-custom-script</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use app-based Conditional Access policies with Intune - Microsoft Intune</title>
+      <description>Learn about using app-based Conditional Access policies with Microsoft Intune for both enrolled and unenrolled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/app-based-conditional-access-intune</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a JSON file for custom compliance settings in Microsoft Intune</title>
+      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-custom-json</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View the Android device administrator compliance settings for Microsoft Intune compliance policies</title>
+      <description>View the device compliance settings that are available for Android device administrator devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android (AOSP) compliance settings in Microsoft Intune</title>
+      <description>View the device compliance settings for Android (AOSP) that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-aosp</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compliance for Windows Subsystem for Linux</title>
+      <description>Evaluate WSL attributes on a host device for compliance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-wsl</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux device compliance settings in Microsoft Intune</title>
+      <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-linux</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor results of your device compliance policies in Microsoft Intune</title>
+      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-monitor</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up app-based Conditional Access policies with Intune - Microsoft Intune</title>
+      <description>Create Conditional Access policies that work with Intune app protection policies</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/app-based-conditional-access-intune-create</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use custom compliance settings for Linux and Windows devices in Microsoft Intune</title>
+      <description>Manage custom compliance settings for Linux and Windows devices by using JSON files and discovery scripts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-use-custom-settings</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS device compliance settings in Microsoft Intune</title>
+      <description>View the device compliance settings for macOS devices that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-mac-os</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Set up device-based Conditional Access policies with Intune - Microsoft Intune</title>
@@ -33,21 +105,15 @@
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Remediations to detect and fix support issues</title>
-      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
-      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
       <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access</link>
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Monitor results of your device compliance policies in Microsoft Intune</title>
-      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-monitor</link>
+      <title>Use Remediations to detect and fix support issues</title>
+      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
@@ -540,72 +606,6 @@
       <title>Set the mobile device management authority - Microsoft Intune</title>
       <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/mdm-authority-set</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Intune - Microsoft Intune</title>
-      <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-setup</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
-      <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-add</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerShell scripts for Remediations - Microsoft Intune</title>
-      <description>PowerShell script reference for Remediations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/powershell-scripts-remediation</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop single-session with Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Windows 10 virtual machines with Microsoft Intune - Microsoft Intune</title>
-      <description>This article describes the general guidelines for using Windows 10 virtual machines with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unlicensed admins in Microsoft Intune - Microsoft Intune</title>
-      <description>This article describes how to give unlicensed admins permissions to access Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/unlicensed-admins</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a user in Intune</title>
-      <description>Create a user in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-user</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure a custom domain name - Microsoft Intune</title>
-      <description>Add a custom domain name for your Microsoft Intune subscription</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/custom-domain-name-configure</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Delivery Optimization settings in Microsoft Intune</title>
-      <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Operating systems and browsers supported by Microsoft Intune</title>
-      <description>Lists supported device platforms and browsers for Intune device management</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/supported-devices-browsers</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Microsoft Intune licenses</title>
-      <description>Assign licenses to users so they can enroll in Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
       <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
   </channel>
