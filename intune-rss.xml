@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 09 Sep 2025 05:45:22 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Sep 2025 05:45:22 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 11:46:48 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 11:46:48 GMT</lastBuildDate>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
+      <pubDate>Mon, 08 Sep 2025 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows compliance settings in Microsoft Intune</title>
+      <description>See a list of all the settings you can use when setting compliance for your Windows 10, Windows 11, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure compliance policies with actions for noncompliance in Microsoft Intune</title>
       <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
@@ -18,6 +30,12 @@
       <title>Create device compliance policies in Microsoft Intune</title>
       <description>Create device compliance policies for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/create-compliance-policy</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS device compliance settings in Microsoft Intune</title>
+      <description>View the device compliance settings for iOS/iPadOS that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-ios</link>
       <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -54,6 +72,18 @@
       <title>Compliance for Windows Subsystem for Linux</title>
       <description>Evaluate WSL attributes on a host device for compliance.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-wsl</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 8.1 compliance settings in Microsoft Intune</title>
+      <description>View the device compliance settings for Windows 8.1 that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows-8-1</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Enterprise compliance settings in Microsoft Intune</title>
+      <description>See a list of all the settings you can use when setting compliance for your Android Enterprise devices in Microsoft Intune. Set password rules, choose a minimum or maximum operating system version, restrict specific apps, prevent reusing password, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-for-work</link>
       <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -141,15 +171,15 @@
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manually configure Jamf Pro integration with Microsoft Intune - Microsoft Intune</title>
-      <description>Manually configure Jamf Pro integration with Intune when you can't use the Jamf Cloud Connector.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access-integrate-jamf</link>
-      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add PowerShell scripts to Windows 10/11 devices in Microsoft Intune</title>
       <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows 10/11 devices in Microsoft Intune. Read common issues and resolutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/powershell-scripts</link>
+      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manually configure Jamf Pro integration with Microsoft Intune - Microsoft Intune</title>
+      <description>Manually configure Jamf Pro integration with Intune when you can't use the Jamf Cloud Connector.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access-integrate-jamf</link>
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
@@ -186,12 +216,6 @@
       <title>Configure the Microsoft Managed Home Screen app - Microsoft Intune</title>
       <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
-      <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
       <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -583,30 +607,6 @@
       <description>Learn about Shared iOS and iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-shared-ios</link>
       <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment time grouping - Microsoft Intune</title>
-      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/enrollment-time-grouping</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add users to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Role-based access control (RBAC) with Microsoft Intune</title>
-      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set the mobile device management authority - Microsoft Intune</title>
-      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/mdm-authority-set</link>
-      <pubDate>Wed, 20 Aug 2025 22:34:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
