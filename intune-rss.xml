@@ -6,8 +6,86 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 10 Sep 2025 11:19:02 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 11:19:02 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 18:02:26 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 18:02:26 GMT</lastBuildDate>
+    <item>
+      <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune</title>
+      <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-reports</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Managing Elevation Settings for Endpoint Privilege Management</title>
+      <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-elevation-settings</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Review the type of data that Microsoft Intune Endpoint Privilege Management collects</title>
+      <description>View details about the type of data Endpoint Privilege Management can collect and store when used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-data-collection</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Known Issues for Endpoint Privilege Management with Microsoft Intune</title>
+      <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-known-issues</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Endpoint Privilege Management to transition users from administrator to standard user</title>
+      <description>Understand the steps and phases for using Endpoint Privilege Management to transition users from administrators to standard users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-transition-administrator-to-standard-user</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Endpoint Privilege Management with Microsoft Intune</title>
+      <description>Understand the steps and phases for deploying Endpoint Privilege Management with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-deploy</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frequently asked questions for Endpoint Privilege Management</title>
+      <description>A list of frequently asked questions for customers deploying Microsoft Intune Endpoint Privilege Management</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-frequently-asked-questions</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating elevation rules with Endpoint Privilege Management</title>
+      <description>View guidance on how to create strong file elevation rules with Microsoft Intune Endpoint Privilege Management</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-elevation-rules</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use EPM support approvals for file elevation requests with Intune</title>
+      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about using Endpoint Privilege Management with Microsoft Intune</title>
+      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-overview</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use reusable groups of settings policies in Microsoft Intune</title>
+      <description>Manage groups of settings for Intune profiles as a single object and then add that settings group object to multiple profile instances. Later changes you make to the settings groups  automatically apply to each profile that includes the reusable settings group.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/reusable-settings-groups</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan and Prepare for Endpoint Privilege Management Deployment</title>
+      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-plan</link>
+      <pubDate>Wed, 10 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
@@ -18,12 +96,6 @@
       <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
       <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-status</link>
-      <pubDate>Tue, 09 Sep 2025 17:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Tue, 09 Sep 2025 17:32:00 GMT</pubDate>
     </item>
     <item>
@@ -535,78 +607,6 @@
       <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10</link>
       <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Walkthrough-Create a settings catalog policy</title>
-      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
-      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure and secure devices with Microsoft Intune</title>
-      <description>Learn how to configure policies with Microsoft Intune in preparation for device deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/configure-device-settings</link>
-      <pubDate>Mon, 25 Aug 2025 02:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure feature updates policy for Windows 10 Windows 11 devices in Intune</title>
-      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows 10/11 devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
-      <pubDate>Fri, 22 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
-      <pubDate>Fri, 22 Aug 2025 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View declarative device management-based software update reports for Apple devices in Microsoft Intune</title>
-      <description>Use Microsoft Intune to software updates reports for managed Apple devices based on Apples declarative device management capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-reports-apple-declarative-based</link>
-      <pubDate>Fri, 22 Aug 2025 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
-      <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-kiosk-enroll</link>
-      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
-      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-work-profile-enroll</link>
-      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android Enterprise work profile for corporate owned devices - Microsoft Intune</title>
-      <description>Set up Android Enterprise work profile for corporate-owned devices enrolling in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-corporate-owned-work-profile-enroll</link>
-      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
-      <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-fully-managed-enroll</link>
-      <pubDate>Thu, 21 Aug 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Remote Help to assist users authenticated by your organization.</title>
-      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Performance recommendations when using filters</title>
-      <description>When using filters in Microsoft Intune, use Intune virtual groups that don't require Microsoft Entra ID syncing. To improve performance, reuse groups, make incremental group changes, and use filters to include and exclude.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-performance-recommendations</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
-      <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
-      <pubDate>Thu, 21 Aug 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
