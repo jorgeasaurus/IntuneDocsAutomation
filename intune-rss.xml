@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 10 Sep 2025 18:02:26 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 18:02:26 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 23:36:39 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 23:36:39 GMT</lastBuildDate>
+    <item>
+      <title>Deployment models for Microsoft Intune cloud PKI - Microsoft Intune</title>
+      <description>Describes the deployment options for Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-deployment</link>
+      <pubDate>Wed, 10 Sep 2025 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune</title>
       <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
@@ -225,15 +231,15 @@
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Remediations to detect and fix support issues</title>
-      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
-      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
       <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access</link>
+      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Remediations to detect and fix support issues</title>
+      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Kiosk settings for Windows 10/11 in Microsoft Intune</title>
       <description>Configure your Windows 10/11 client devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-windows</link>
-      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Windows 10/11 in Microsoft Intune</title>
-      <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10</link>
       <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
     </item>
   </channel>
