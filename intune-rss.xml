@@ -6,12 +6,18 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 16 Sep 2025 05:18:08 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 05:18:08 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 11:22:34 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 11:22:34 GMT</lastBuildDate>
     <item>
       <title>What's new in Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Mon, 15 Sep 2025 17:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Operating systems and browsers supported by Microsoft Intune</title>
+      <description>Lists supported device platforms and browsers for Intune device management</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/supported-devices-browsers</link>
       <pubDate>Mon, 15 Sep 2025 17:01:00 GMT</pubDate>
     </item>
     <item>
@@ -231,15 +237,15 @@
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
-      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access</link>
-      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Remediations to detect and fix support issues</title>
       <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
+      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
+      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access</link>
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
@@ -435,15 +441,15 @@
       <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Common tasks and features in the settings catalog</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common tasks and features in the settings catalog</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
       <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -543,15 +549,15 @@
       <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage devices with endpoint security in Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-manage-devices</link>
-      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View device details with Microsoft Intune</title>
       <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
+      <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-manage-devices</link>
       <pubDate>Wed, 27 Aug 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
       <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kiosk settings for Windows 10/11 in Microsoft Intune</title>
-      <description>Configure your Windows 10/11 client devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-windows</link>
-      <pubDate>Tue, 26 Aug 2025 11:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
