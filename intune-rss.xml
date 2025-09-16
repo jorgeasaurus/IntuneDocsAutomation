@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 16 Sep 2025 11:22:34 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 11:22:34 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 18:02:36 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 18:02:36 GMT</lastBuildDate>
+    <item>
+      <title>Use the settings catalog to configure DDM software updates</title>
+      <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
+      <pubDate>Tue, 16 Sep 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to configure the Intune Company Portal apps, Company Portal website, and Intune app - Microsoft Intune</title>
+      <description>Learn how you can configure the Intune Company Portal apps, Company Portal website, and Intune app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/company-portal-app</link>
+      <pubDate>Tue, 16 Sep 2025 11:32:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -183,15 +195,15 @@
       <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android Enterprise compliance settings in Microsoft Intune</title>
-      <description>See a list of all the settings you can use when setting compliance for your Android Enterprise devices in Microsoft Intune. Set password rules, choose a minimum or maximum operating system version, restrict specific apps, prevent reusing password, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-for-work</link>
-      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Linux device compliance settings in Microsoft Intune</title>
       <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-linux</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Enterprise compliance settings in Microsoft Intune</title>
+      <description>See a list of all the settings you can use when setting compliance for your Android Enterprise devices in Microsoft Intune. Set password rules, choose a minimum or maximum operating system version, restrict specific apps, prevent reusing password, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-for-work</link>
       <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Configure Platform SSO for macOS devices</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
-      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Platform SSO scenarios for macOS devices</title>
-      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
       <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
     </item>
   </channel>
