@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 17 Sep 2025 11:02:37 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2025 11:02:37 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 17:33:53 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2025 17:33:53 GMT</lastBuildDate>
+    <item>
+      <title>Review app protection policy logs - Microsoft Intune</title>
+      <description>This topic describes how to configure Intune app protection policy (APP) logs.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-log</link>
+      <pubDate>Wed, 17 Sep 2025 11:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Wed, 17 Sep 2025 02:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use the settings catalog to configure DDM software updates</title>
       <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
@@ -453,15 +465,15 @@
       <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Common tasks and features in the settings catalog</title>
       <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
+      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
       <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -595,18 +607,6 @@
       <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-app-control-policy</link>
       <pubDate>Wed, 27 Aug 2025 02:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand Microsoft Intune management extension</title>
-      <description>Understand Microsoft Intune management extension for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
-      <pubDate>Tue, 26 Aug 2025 20:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Platform SSO for macOS devices</title>
-      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
-      <pubDate>Tue, 26 Aug 2025 14:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
