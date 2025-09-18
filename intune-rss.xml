@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 18 Sep 2025 05:09:42 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 05:09:42 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 11:42:37 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 11:42:37 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -105,6 +105,12 @@
       <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
     </item>
     <item>
+      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use multiple administrative approvals in Intune - Microsoft Intune</title>
       <description>Configure multi-admin approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
@@ -117,9 +123,63 @@
       <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
     </item>
     <item>
+      <title>List of settings for the Microsoft HoloLens 2 advanced security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune advanced security baseline for Microsoft HoloLens 2. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-hololens2-advanced</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline version 112 and later, for the Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-v2-edge-settings</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-v2-office-settings</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-edge</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft HoloLens 2 standard security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune standard security baseline for Microsoft HoloLens 2. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-hololens2-standard</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure security baseline policies in Microsoft Intune</title>
       <description>Deploy security baselines that establish a default and recommended security postures on Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baselines-configure</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Windows 365 Cloud PC security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Windows 365 Cloud PC. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-windows-365</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
+      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-mdm-all</link>
+      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android configuration list for Intune settings catalog</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-android</link>
       <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
     </item>
     <item>
@@ -249,12 +309,6 @@
       <pubDate>Tue, 09 Sep 2025 17:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
-      <pubDate>Mon, 08 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows compliance settings in Microsoft Intune</title>
       <description>See a list of all the settings you can use when setting compliance for your Windows 10, Windows 11, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
@@ -321,15 +375,15 @@
       <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android Enterprise compliance settings in Microsoft Intune</title>
-      <description>See a list of all the settings you can use when setting compliance for your Android Enterprise devices in Microsoft Intune. Set password rules, choose a minimum or maximum operating system version, restrict specific apps, prevent reusing password, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-for-work</link>
-      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Linux device compliance settings in Microsoft Intune</title>
       <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-linux</link>
+      <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Enterprise compliance settings in Microsoft Intune</title>
+      <description>See a list of all the settings you can use when setting compliance for your Android Enterprise devices in Microsoft Intune. Set password rules, choose a minimum or maximum operating system version, restrict specific apps, prevent reusing password, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-for-work</link>
       <pubDate>Mon, 08 Sep 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -375,15 +429,15 @@
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
-      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access</link>
-      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Remediations to detect and fix support issues</title>
       <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
+      <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
+      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access</link>
       <pubDate>Mon, 08 Sep 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
@@ -553,60 +607,6 @@
       <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
       <pubDate>Fri, 29 Aug 2025 02:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Universal Print policy using settings catalog in Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to create a Universal Print policy for Windows 10/11 client devices. The policy automatically installs printers on your managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-printer-provisioning</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Defender for Endpoint in Microsoft Intune</title>
-      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense solution.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common tasks and features in the settings catalog</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune</title>
-      <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-configure-edge</link>
-      <pubDate>Thu, 28 Aug 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint management services and solutions at Microsoft</title>
-      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-manager-overview</link>
-      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage macOS devices in Microsoft Intune</title>
-      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
-      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Government Service overview</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
-      <pubDate>Thu, 28 Aug 2025 17:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
