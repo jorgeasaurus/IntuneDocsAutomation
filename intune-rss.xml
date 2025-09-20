@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 20 Sep 2025 05:54:03 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Sep 2025 05:54:03 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 11:36:18 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 11:36:18 GMT</lastBuildDate>
     <item>
       <title>Manage Apple volume-purchased apps - Microsoft Intune</title>
       <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
@@ -297,15 +297,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View device details with Microsoft Intune</title>
       <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -351,18 +351,6 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
-      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Holographic Business shared device settings</title>
-      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Learn about using Windows Update client policies in Microsoft Intune</title>
       <description>Manage Windows software updates by using Intune policy for Update rings for Windows and Windows feature updates for Windows Update client policies in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-for-business-configure</link>
@@ -372,6 +360,18 @@
       <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices.</title>
       <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-settings</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
+      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Holographic Business shared device settings</title>
+      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -441,15 +441,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wi-Fi settings for Windows devices in Microsoft Intune</title>
-      <description>Add or create Wi-Fi configuration profile using Wi-Fi settings for Windows 10/11 client devices in Microsoft Intune. You can configure basic settings, or enterprise level settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Domain join profile settings for Windows devices in Microsoft Intune</title>
       <description>Create a domain join device configuration profile for Microsoft Entra hybrid joined devices. Use this profile to deploy on-premises Active Directory domain information to devices provisioned with Windows Autopilot and Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/domain-join-configure</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wi-Fi settings for Windows devices in Microsoft Intune</title>
+      <description>Add or create Wi-Fi configuration profile using Wi-Fi settings for Windows 10/11 client devices in Microsoft Intune. You can configure basic settings, or enterprise level settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-windows</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
