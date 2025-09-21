@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 20 Sep 2025 17:23:11 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Sep 2025 17:23:11 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 00:05:40 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 00:05:40 GMT</lastBuildDate>
     <item>
       <title>Manage Apple volume-purchased apps - Microsoft Intune</title>
       <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
@@ -249,27 +249,27 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Common tasks and features in the settings catalog</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enable eSIM data connections in Microsoft Intune</title>
       <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>Common tasks and features in the settings catalog</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use imported PFX certificates in Microsoft Intune</title>
       <description>Use imported Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune. Import certificates, configure certificate templates, and create an Imported PKCS Certificate profile.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-imported-pfx-configure</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -297,15 +297,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>View device details with Microsoft Intune</title>
-      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
       <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View device details with Microsoft Intune</title>
+      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -333,12 +333,6 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows shared device settings - Microsoft Intune</title>
-      <description>Add and use Windows 10/11 to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft Surface. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune</title>
       <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
@@ -351,15 +345,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
-      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
+      <title>Windows shared device settings - Microsoft Intune</title>
+      <description>Add and use Windows 10/11 to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft Surface. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Holographic Business shared device settings</title>
-      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
+      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
+      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -375,9 +369,27 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows Holographic Business shared device settings</title>
+      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Intune to expedite Windows quality updates</title>
       <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-expedite-updates</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows VPN settings in Microsoft Intune</title>
+      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upgrade to Windows Holographic for Business in Microsoft Intune</title>
+      <description>Upgrade HoloLens (first gen) to Windows 10 Holographic for Business using a device configuration profile in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/holographic-upgrade</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -390,18 +402,6 @@
       <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
       <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-reports</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upgrade to Windows Holographic for Business in Microsoft Intune</title>
-      <description>Upgrade HoloLens (first gen) to Windows 10 Holographic for Business using a device configuration profile in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/holographic-upgrade</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows VPN settings in Microsoft Intune</title>
-      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
