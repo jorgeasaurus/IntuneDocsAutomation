@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 22 Sep 2025 12:02:37 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Sep 2025 12:02:37 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2025 17:22:34 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2025 17:22:34 GMT</lastBuildDate>
+    <item>
+      <title>Device features and settings in Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, administrative templates, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
+      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prevent data leaks on non-managed devices - Microsoft Intune</title>
+      <description>Allow access to corporate data on devices and protect data from data leaks using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-leak-prevention</link>
+      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to wipe only corporate data from apps - Microsoft Intune</title>
+      <description>Learn how to selectively wipe only corporate data from Intune-managed apps with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-selective-wipe</link>
+      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Policy sets - Microsoft Intune</title>
+      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
+      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Microsoft Intune for increased security</title>
       <description>Learn how to improve your security posture with Microsoft Intune.</description>
@@ -141,12 +165,6 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device features and settings in Microsoft Intune</title>
-      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, Windows Information Protection, administrative templates, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add VPN settings to devices in Microsoft Intune</title>
       <description>On Android device administrator, Android Enterprise, iOS, iPadOS, macOS, and Windows devices, use built-in settings to create virtual private network (VPN) connections in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-configure</link>
@@ -255,6 +273,12 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enable eSIM data connections in Microsoft Intune</title>
       <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
@@ -267,27 +291,21 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use imported PFX certificates in Microsoft Intune</title>
       <description>Use imported Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune. Import certificates, configure certificate templates, and create an Imported PKCS Certificate profile.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-imported-pfx-configure</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remotely administer devices in Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows 8.1 device restriction settings in Microsoft Intune</title>
       <description>Learn the Intune settings you can use to control device settings and functionality on devices running Windows 8.1.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-8-1</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remotely administer devices in Microsoft Intune</title>
+      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -345,21 +363,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Sign and encrypt email using S/MIME - Microsoft Intune</title>
-      <description>Learn how to use email digital certificates in Microsoft Intune to sign and encrypt emails on devices. These certificates are called S/MIME and are configured using device configuration profiles. Signing and encryption certificates use PKCS, or private certificates, and use a connector to import certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-s-mime-encryption-sign</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune</title>
       <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
-      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
+      <title>Sign and encrypt email using S/MIME - Microsoft Intune</title>
+      <description>Learn how to use email digital certificates in Microsoft Intune to sign and encrypt emails on devices. These certificates are called S/MIME and are configured using device configuration profiles. Signing and encryption certificates use PKCS, or private certificates, and use a connector to import certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-s-mime-encryption-sign</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -381,6 +393,12 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
+      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Intune to expedite Windows quality updates</title>
       <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-expedite-updates</link>
@@ -393,12 +411,6 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows VPN settings in Microsoft Intune</title>
-      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Licenses available for Microsoft Intune</title>
       <description>Intune is available with these licenses</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
@@ -408,6 +420,12 @@
       <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
       <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-reports</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows VPN settings in Microsoft Intune</title>
+      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -589,24 +607,6 @@
       <description>In Microsoft Intune, use Explorer to query your data in natural language and run built-in queries that match your request. Copilot summarizes the results, and provides recommendations and actions based on the query results. You can also create policies that target users and groups in the query results. Use this feature to explore your Intune data, troubleshoot issues, and create custom reports.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-explorer</link>
       <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copilot in Intune shows device information and helps troubleshoot</title>
-      <description>Microsoft Security Copilot in Intune can help you get information about your devices, compare devices, and get error information. Use this information to help you manage and troubleshoot device issues.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-devices</link>
-      <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FAQ for Microsoft Copilot in Intune</title>
-      <description>Get answers to common questions when using Copilot in Microsoft Intune, including accessing Copilot, licensing, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-faq</link>
-      <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Intune security baselines for Windows devices</title>
-      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baselines</link>
-      <pubDate>Wed, 17 Sep 2025 18:07:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
