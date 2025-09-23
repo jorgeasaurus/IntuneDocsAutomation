@@ -6,607 +6,607 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 23 Sep 2025 11:02:34 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Sep 2025 11:02:34 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 17:58:40 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 17:58:40 GMT</lastBuildDate>
     <item>
-      <title>Microsoft Security Copilot agents in Microsoft Intune</title>
-      <description>Learn about Security Copilot agents in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/security-copilot-agents-intune</link>
-      <pubDate>Mon, 22 Sep 2025 22:33:00 GMT</pubDate>
+      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot Vulnerability Remediation Agent in Microsoft Intune</title>
-      <description>Learn how to set up and use the Vulnerability Remediation Agent for Security Copilot in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/vulnerability-remediation-agent</link>
-      <pubDate>Mon, 22 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device features and settings in Microsoft Intune</title>
-      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, administrative templates, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
-      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prevent data leaks on non-managed devices - Microsoft Intune</title>
-      <description>Allow access to corporate data on devices and protect data from data leaks using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-leak-prevention</link>
-      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to wipe only corporate data from apps - Microsoft Intune</title>
-      <description>Learn how to selectively wipe only corporate data from Intune-managed apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-selective-wipe</link>
-      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Policy sets - Microsoft Intune</title>
-      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
-      <pubDate>Mon, 22 Sep 2025 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
-      <pubDate>Sat, 20 Sep 2025 02:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Apple volume-purchased apps - Microsoft Intune</title>
-      <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-apps-ios</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Categorize devices into groups in Intune - Microsoft Intune</title>
-      <description>Categorize Intune-managed devices into groups for easier management in the admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-group-mapping</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add app configuration policies for managed Android Enterprise devices - Microsoft Intune</title>
-      <description>Use app configuration policies in Microsoft Intune to supply settings when users run a Managed Google Play app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-android</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
-      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Review app protection policy logs - Microsoft Intune</title>
-      <description>This topic describes how to configure Intune app protection policy (APP) logs.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-log</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and assign Win32 apps to Microsoft Intune</title>
-      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign up or sign in to Microsoft Intune</title>
-      <description>How to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/account-sign-up</link>
-      <pubDate>Fri, 19 Sep 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Fri, 19 Sep 2025 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure feature updates policy for Windows devices in Intune</title>
-      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set the mobile device management authority - Microsoft Intune</title>
-      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/mdm-authority-set</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a policy using settings catalog in Microsoft Intune</title>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kiosk settings for Windows in Microsoft Intune</title>
-      <description>Configure your Windows 10/11 client devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-assign</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Properties catalog in Microsoft Intune</title>
+      <title>Use ADMX templates on Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Properties catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Configure Properties catalog policy to manage Device Inventory settings on Windows devices you manage with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Types of certificate that are supported by Microsoft Intune</title>
-      <description>Learn about Microsoft Intune's support for Simple Certificate Enrollment Protocol (SCEP), Public Key Cryptography Standards (PKCS) certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create trusted certificate profiles in Microsoft Intune</title>
-      <description>Create and deploy trusted certificate profiles to deploy a trusted root certificate to managed devices in Intune. Trusted certificate profiles support use of Simple Certificate Enrollment Protocol (SCEP) and Public Key Cryptography Standards (PKCS) certificate profiles with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-trusted-root</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune to import and analyze group policies</title>
+      <title>Use Microsoft Intune to import and analyze group policies - Microsoft Intune</title>
       <description>Import and analyze your group policy objects using the Group Policy analytics tool. See the policies that are supported and aren't supported in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Universal Print policy using settings catalog in Microsoft Intune</title>
+      <title>Configure Universal Print policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use the settings catalog in Microsoft Intune to create a Universal Print policy for Windows 10/11 client devices. The policy automatically installs printers on your managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-printer-provisioning</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about Windows Driver updates policy for Windows devices in Intune</title>
-      <description>Learn about using Microsoft Intune policy to manage Windows driver updates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-driver-updates-overview</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Configure device configuration profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or configure a device configuration profile in Microsoft Intune. Select the platform type, configure the settings, and add a scope tag. Learn more about applicability rules, and the policy refresh cycle times.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-create</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a Wi-Fi profile for devices in Microsoft Intune</title>
+      <title>Configure macOS Enterprise SSO app extension with MDMs - Microsoft Intune</title>
+      <description>Learn more about the Microsoft Enterprise single sign-on (SSO) app extension plug-in. Add or create an macOS device profile using the SSO app extension in Microsoft Intune, Jamf Pro, and other MDM solution providers.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/use-enterprise-sso-plug-in-macos-with-intune</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Restrict devices features using policy in Microsoft Intune - Microsoft Intune</title>
+      <description>Add a device configuration profile to restrict features on Android device administrator, Android Enterprise, AOSP, macOS, iOS, iPadOS, and Windows 10/11 client devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-configure</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Wi-Fi profile for devices in Microsoft Intune - Microsoft Intune</title>
       <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Shared or multi-user Windows device settings in Microsoft Intune</title>
+      <title>Shared or multi-user Windows device settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add and use Windows 10/11 and Windows Holographic for Business devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft HoloLens. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add VPN settings to devices in Microsoft Intune</title>
+      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, administrative templates, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update Windows BIOS using configuration MDM policy - Microsoft Intune</title>
+      <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bios-configuration</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add VPN settings to devices in Microsoft Intune - Microsoft Intune</title>
       <description>On Android device administrator, Android Enterprise, iOS, iPadOS, macOS, and Windows devices, use built-in settings to create virtual private network (VPN) connections in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
-      <description>Delivery Optimization settings for Windows devices that you can deploy using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Migrate your imported group policy to a policy in Microsoft Intune</title>
+      <title>Migrate your imported group policy to a policy in Microsoft Intune - Microsoft Intune</title>
       <description>After you import your Windows group policy objects in Microsoft Intune, use the migrate feature to transfer your GPOs to a Settings Catalog policy. This policy uses your imported GPOs, and can be assigned to users and devices managed by your organizations.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/group-policy-analytics-migrate</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kiosk settings for Windows and Holographic devices in Microsoft Intune</title>
+      <title>Kiosk settings for Windows and Holographic devices in Microsoft Intune - Microsoft Intune</title>
       <description>Configure your Windows 10/11 and Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create Windows Driver updates policy in Intune</title>
-      <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-driver-updates-policy</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>See device configuration policies with Microsoft Intune - Microsoft Intune</title>
+      <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-monitor</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure wired network settings for Windows devices in Microsoft Intune</title>
-      <description>Create or add a wired network device configuration profile for Windows 10/11 devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wired-network-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Set up per-app VPN for iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See the prerequisites, create a group for the virtual private network (VPN) users, add a SCEP certificate profile, configure a per-app VPN profile, and assign some apps to the VPN profile in Microsoft Intune on iOS/iPadOS devices. Also lists the steps to verify the VPN connection on the device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-setting-configure-per-app</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Import Wi-Fi settings for Windows devices in Microsoft Intune</title>
+      <title>Create iOS/iPadOS or macOS device profile with Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create an iOS, iPadOS, or macOS device profile. Configure settings for AirPrint, layout of the home screen, app notifications, shared device, single sign-on, and web content filter settings in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-features-configure</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Import Wi-Fi settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
       <description>Export Wi-Fi settings from a Windows device as an XML file using the network shell (netsh wlan) command. Then, import this file in Intune to create a Wi-Fi profile for devices running Windows 10/11 and Windows Holographic for Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-import-windows-8-1</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create Wi-Fi profile with preshared key in Microsoft Intune</title>
+      <title>Create Wi-Fi profile with preshared key in Microsoft Intune - Microsoft Intune</title>
       <description>Use a custom profile to create a Wi-Fi profile with a preshared key (PSK), and get sample XML code for Android, Android Enterprise, Windows, and EAP-based Wi-Fi profiles in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-profile-shared-key</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
-      <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-fundamentals</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Update Windows BIOS features using DFCI MDM policies - Microsoft Intune</title>
+      <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-firmware-configuration-interface-windows</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Email settings for iOS/iPadOS devices in Microsoft Intune</title>
-      <description>See a list of all the email settings you can configure and add to iOS and iPadOS devices in Microsoft Intune, including using Exchange servers, and getting attributes from Microsoft Entra ID. You can also enable SSL, authenticate users with certificates or username/password, and synchronize email on iOS/iPadOS devices using device configuration profiles in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-ios</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
+      <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, and Legacy Zebra OEMConfig apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/oemconfig-managed-home-screen-permissions-android</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>eSIM configuration of a download server</title>
+      <title>eSIM configuration of a download server - Microsoft Intune</title>
       <description>Learn about configuration of an eSIM Download Server from Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration-download-server</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure 802.1x wired network settings for macOS and Windows devices in Microsoft Intune</title>
       <description>Create or add a wired network device configuration profile or policy using the IEEE 802.1X standard for macOS, Windows 10, and Windows 11 devices and computers. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wired-networks-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Email settings for Windows devices in Microsoft Intune</title>
-      <description>Create a device configuration email profile that that uses Exchange servers, and retrieves attributes from Microsoft Entra ID. You can also enable SSL, and synchronize email and schedules on Windows 10/11 client devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-windows-10</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Add custom settings to iOS/iPadOS devices in Microsoft Intune</title>
+      <description>Export iOS and iPadOS settings from Apple Configurator or Apple Profile Manager tools, and then import these settings into Microsoft Intune. These settings can create, use, and control custom settings and features on iOS/iPadOS devices. This custom profile can then be assigned or distributed to iOS/iPadOS devices in your organization to create a baseline or standard.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-ios</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows upgrade and S mode settings in Microsoft Intune</title>
-      <description>See a list of all the settings, and what they do when upgrading a Windows edition on a device, or switch out of S mode on a device using a device configuration profile in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/edition-upgrade-windows-settings</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Create macOS system and kernel extensions with Microsoft Intune</title>
+      <description>Learn more about system extensions and kernel extensions for macOS devices. In Microsoft Intune, add or create a device configuration policy that configures kernel extensions. In the extension, you can allow user override, add a team identifier, and add a bundle and team identifier.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kernel-extensions-overview-macos</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android Enterprise email settings in Microsoft Intune</title>
-      <description>Create device configuration email profiles that use Exchange servers, and retrieve attributes from Microsoft Entra ID. Enable SSL or SMIME, authenticate users with certificates or username/password, and synchronize email and schedules on Android Enterprise personally owned devices with a work profile using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-android-enterprise</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Deploy OEMConfig profiles to Zebra devices using Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to create and deploy multiple OEMConfig device configuration profiles on Zebra devices running Android Enterprise. Use Zebra actions and steps to order your profiles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/oemconfig-zebra-android-devices</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add or configure education settings in Microsoft Intune</title>
+      <title>Create an email device profile for iOS/iPadOS devices - Microsoft Intune</title>
+      <description>Learn how to use Microsoft Intune to create an email device profile so iOS/iPadOS devices can securely connect to company organization email.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/quickstart-email-profile</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allow or block apps for Samsung Knox Standard devices</title>
+      <description>Create a custom profile to allow and block apps for Samsung Knox Standard Android device administrator devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/samsung-knox-apps-allow-block</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom per-app VPN profile for Android DA in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a custom profile for per-app VPN profiles on Android device administrator with the Pulse Secure or Citrix VPN connection types in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-pulse-secure-per-app-vpn</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Windows Defender Application Control on HoloLens 2 devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure the Windows Defender Application Control (WDAC) CSP to allow or block apps from opening on HoloLens 2 devices in Microsoft Intune. Use PowerShell and a custom configuration profile.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-profile-hololens</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add or configure education settings in Microsoft Intune - Microsoft Intune</title>
       <description>Use the Take a Test app in a device configuration profile on Windows devices in Microsoft Intune. Create a configuration profile using the Education settings, and enter a test app URL, choose how users sign-in, monitor the screen during the test, and allow or prevent text suggestions during the test.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/education-settings-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows education settings in Microsoft Intune</title>
-      <description>See a list of all the education settings for Windows devices. Use these settings in a device configuration profile with the Take a Test app, choose how users or students sign in, monitor the screen during the test, and more in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/education-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android DA email settings in Microsoft Intune</title>
-      <description>Create device configuration email profiles that use Exchange servers, and retrieve attributes from Microsoft Entra ID. Enable SSL or SMIME, authenticate users with certificates or username/password, and synchronize email and schedules on Android device administrator Samsung Knox devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-android</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use imported PFX certificates in Microsoft Intune</title>
-      <description>Use imported Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune. Import certificates, configure certificate templates, and create an Imported PKCS Certificate profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-imported-pfx-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable eSIM data connections in Microsoft Intune</title>
-      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common tasks and features in the settings catalog</title>
+      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
       <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 8.1 device restriction settings in Microsoft Intune</title>
-      <description>Learn the Intune settings you can use to control device settings and functionality on devices running Windows 8.1.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-8-1</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Add custom settings to Linux devices in Microsoft Intune</title>
+      <description>Add Bash scripts to create a custom Linux profile in Microsoft Intune. Use the script to create, use, and control custom settings and features on Linux devices. This custom profile can then be assigned or distributed to Linux devices in your organization to create a baseline or standard.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-linux</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remotely administer devices in Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
-      <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Windows compatibility reports for Windows updates in Intune</title>
-      <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-compatibility-reports</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View device details with Microsoft Intune</title>
-      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
+      <title>Restrict USB devices using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Windows Update rings policy in Intune</title>
-      <description>Create and manage Intune policy for Windows update rings. You can configure, deploy, and pause update installation with Windows Update client policies using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-update-rings</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Delivery Optimization settings in Microsoft Intune</title>
-      <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upgrade Windows editions or switch S mode using Intune policy</title>
+      <title>Upgrade Windows editions or switch S mode using Intune policy - Microsoft Intune</title>
       <description>Use Microsoft Intune to upgrade Windows 10/11 client devices to a different edition, or switch S mode. Administrators can use a device configuration profile to upgrade Windows client Professional to Windows client Enterprise, and switch out of S mode. See the supported upgrade paths for Windows 10/11 Pro, N Edition, Education, Cloud, Enterprise, Core, and Holographic.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/edition-upgrade-configure-windows-10</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Find the primary user of a Microsoft Intune device.</title>
-      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/find-primary-user</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Windows Delivery Optimization settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows shared device settings - Microsoft Intune</title>
-      <description>Add and use Windows 10/11 to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft Surface. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Import custom and third-party partner ADMX templates in Microsoft Intune - Microsoft Intune</title>
+      <description>You can add, upload, or import custom and third-party partner ADMX and ADML files in Microsoft Intune. When they're imported, create a device configuration profile and assign the profile to your Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-import-custom</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune</title>
-      <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Questions with policies and profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Common questions, answers, and scenarios with device policies and profiles in Microsoft Intune. Learn more about profile changes not applying to users or devices, how long it takes for new policies to deploy, which settings apply when there are conflicts, what happens when you delete or remove a profile, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-troubleshoot</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Sign and encrypt email using S/MIME - Microsoft Intune</title>
-      <description>Learn how to use email digital certificates in Microsoft Intune to sign and encrypt emails on devices. These certificates are called S/MIME and are configured using device configuration profiles. Signing and encryption certificates use PKCS, or private certificates, and use a connector to import certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-s-mime-encryption-sign</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Single sign-on (SSO) for iOS/iPadOS and macOS - Microsoft Intune</title>
+      <description>Overview of Microsoft Enterprise SSO plug-in in Microsoft Intune, Jamf Pro, and other MDM solution providers. The Enterprise SSO plug-in is available on iOS/iPadOS and macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/use-enterprise-sso-plug-in-ios-ipados-macos</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about using Windows Update client policies in Microsoft Intune</title>
-      <description>Manage Windows software updates by using Intune policy for Update rings for Windows and Windows feature updates for Windows Update client policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-for-business-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Add custom settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows 10/11 client in Microsoft Intune. Use a custom profile to add custom settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-10</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices.</title>
-      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-settings</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Use Zebra Mobility Extensions on Android devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use Zebra devices running Android with Zebra Mobility Extensions (MX). See all the steps, including install the Company Portal app, sideload the app, assign device administrator role, create a StageNow profile, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-zebra-mx-overview</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
-      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Holographic Business shared device settings</title>
-      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune to expedite Windows quality updates</title>
-      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-expedite-updates</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows VPN settings in Microsoft Intune</title>
-      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Licenses available for Microsoft Intune</title>
-      <description>Intune is available with these licenses</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-reports</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upgrade to Windows Holographic for Business in Microsoft Intune</title>
-      <description>Upgrade HoloLens (first gen) to Windows 10 Holographic for Business using a device configuration profile in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/holographic-upgrade</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Add custom settings to macOS devices in Microsoft Intune</title>
+      <description>Import custom macOS settings into Microsoft Intune. These settings can create, use, and control custom settings and features on macOS devices. This custom profile can then be assigned or distributed to macOS devices in your organization to create a baseline or standard.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-macos</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure email settings in Microsoft Intune</title>
       <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Holographic Business device settings - Microsoft Intune</title>
-      <description>Read about and configure device restriction settings in Microsoft Intune for Windows Holographic for Business. Control unenrollment, geolocation, passwords, install apps from app store, cookies, and pop ups in Microsoft Edge, Microsoft Defender, search, cloud and storage, bluetooth connectivity, system time, and usage data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-holographic</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Add preference file settings to macOS devices in Microsoft Intune</title>
+      <description>Add an xml or plist file that includes key information about your app. Use a preference file device configuration profile to change key information in the property list file, and assign it to your macOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/preference-file-settings-macos</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a Windows Network Boundary profile in Microsoft Intune</title>
-      <description>Add a Windows Network Boundary policy to Windows devices using Microsoft Intune. Add trusted sites, trusted domains, IPv4 and IPv6 ranges, and proxy servers to a device configuration policy. Microsoft Defender Application Guard in Microsoft Edge trusts sites in this boundary.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/network-boundary-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-configure-edge</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Walkthrough-Create a settings catalog policy</title>
-      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Windows Health Monitoring profile in Microsoft Intune</title>
+      <title>Create a Windows Health Monitoring profile in Microsoft Intune - Microsoft Intune</title>
       <description>Add a Windows Health Monitoring profile to collect endpoint analytics and software update events on Windows 10/11 devices in Microsoft Intune. Use this data to recommend software, review startup performance, and fix support issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/windows-health-monitoring</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device restriction settings for Android in Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Create a Windows Network Boundary profile in Microsoft Intune - Microsoft Intune</title>
+      <description>Add a Windows Network Boundary policy to Windows devices using Microsoft Intune. Add trusted sites, trusted domains, IPv4 and IPv6 ranges, and proxy servers to a device configuration policy. Microsoft Defender Application Guard in Microsoft Edge trusts sites in this boundary.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/network-boundary-windows</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Domain join profile settings for Windows devices in Microsoft Intune</title>
+      <title>Platform SSO scenarios for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-scenarios</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
+      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/tutorial-settings-catalog-group-policy</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Domain join profile settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
       <description>Create a domain join device configuration profile for Microsoft Entra hybrid joined devices. Use this profile to deploy on-premises Active Directory domain information to devices provisioned with Windows Autopilot and Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/domain-join-configure</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wi-Fi settings for Windows devices in Microsoft Intune</title>
-      <description>Add or create Wi-Fi configuration profile using Wi-Fi settings for Windows 10/11 client devices in Microsoft Intune. You can configure basic settings, or enterprise level settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-windows</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+      <title>Use StageNow logs on Android Zebra devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See common issues and resolutions when using StageNow on Android devices with Microsoft Intune. Also learn how to get logs, and see examples of how to read the logs for success or errors.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-zebra-mx-logs-troubleshoot</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use SCEP certificate profiles with Microsoft Intune</title>
-      <description>Create and assign Simple Certificate Enrollment Protocol (SCEP) certificate profiles with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-profile-scep</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Windows devices in Microsoft Intune</title>
-      <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use ADMX templates on Windows devices in Microsoft Intune</title>
-      <description>Use Administrative templates in Microsoft Intune to create groups of settings for Windows 10/11 client devices. Use these settings in a device configuration profile. You can control Office programs, Microsoft Edge, access OneDrive, use remote desktop, enable Auto-Play, set power management settings, use HTTP printing, control user sign-in, and change the event log size.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure device configuration profiles in Microsoft Intune</title>
-      <description>Add or configure a device configuration profile in Microsoft Intune. Select the platform type, configure the settings, and add a scope tag. Learn more about applicability rules, and the policy refresh cycle times.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-create</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restrict devices features using policy in Microsoft Intune</title>
-      <description>Add a device configuration profile to restrict features on Android device administrator, Android Enterprise, AOSP, macOS, iOS, iPadOS, and Windows 10/11 client devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-configure</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS using configuration MDM policy</title>
-      <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bios-configuration</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS features using DFCI MDM policies</title>
-      <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-firmware-configuration-interface-windows</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device firmware configuration interface settings for Windows devices</title>
-      <description>See a list of all the DFCI profile settings and their descriptions on Windows 10/11 client devices. Use these settings in a configuration profile to control UEFI firmware layer features using Microsoft Intune policy. You can manage the CPU, built-in hardware, and boot options on client devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-firmware-configuration-interface-windows-settings</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows Defender Application Control on HoloLens 2 devices in Microsoft Intune</title>
-      <description>Configure the Windows Defender Application Control (WDAC) CSP to allow or block apps from opening on HoloLens 2 devices in Microsoft Intune. Use PowerShell and a custom configuration profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-profile-hololens</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Surface Hub Windows 10 Team device restrictions in Microsoft Intune</title>
-      <description>Add or configure Surface Hub devices settings running Windows 10 Team. Add a wake-up screen, create a maintenance window, use Miracast, and more in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10-teams</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Import custom and third-party partner ADMX templates in Microsoft Intune</title>
-      <description>You can add, upload, or import custom and third-party partner ADMX and ADML files in Microsoft Intune. When they're imported, create a device configuration profile and assign the profile to your Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-import-custom</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Questions with policies and profiles in Microsoft Intune</title>
-      <description>Common questions, answers, and scenarios with device policies and profiles in Microsoft Intune. Learn more about profile changes not applying to users or devices, how long it takes for new policies to deploy, which settings apply when there are conflicts, what happens when you delete or remove a profile, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-troubleshoot</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add custom settings for Windows devices in Microsoft Intune</title>
-      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows 10/11 client in Microsoft Intune. Use a custom profile to add custom settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-10</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Custom settings - Windows Holographic for Business devices</title>
-      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use custom device settings in Microsoft Intune</title>
+      <title>Use custom device settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add or create a profile to use custom settings for Windows 10/11 client, Android device administrator, Android Enterprise, macOS, and iOS/iPadOS devices using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-configure</link>
-      <pubDate>Thu, 18 Sep 2025 22:33:00 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune documentation</title>
-      <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
-      <pubDate>Thu, 18 Sep 2025 20:34:00 GMT</pubDate>
+      <title>Configure iOS/iPadOS Enterprise SSO app extension with MDMs - Microsoft Intune</title>
+      <description>Learn more about the Microsoft Enterprise single sign-on (SSO) plug-in. Add or create an iOS or iPadOS device configuration profile using the Microsoft Enterprise SSO plug-in app extension in Microsoft Intune, Jamf Pro, and other MDM solution providers.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/use-enterprise-sso-plug-in-ios-ipados-with-intune</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune</title>
-      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-app-control-policy</link>
-      <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
+      <title>Add custom settings to Android DA devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create a custom profile for Android device administrator (DA) devices in Microsoft Intune. Create a WiFi profile with a preshared key, create a per-app VPN profile, or allow/block apps for Samsung Knox Standard devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-android</link>
+      <pubDate>Tue, 23 Sep 2025 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assign device profiles in Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-assign</link>
-      <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
+      <title>App protection policies overview - Microsoft Intune</title>
+      <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>See device configuration policies with Microsoft Intune</title>
-      <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-monitor</link>
-      <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
+      <title>iOS/iPadOS app protection policy settings - Microsoft Intune</title>
+      <description>This article describes the iOS/iPadOS app protection policy (APP) settings for iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-ios</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot in Microsoft Intune</title>
-      <description>You can use Security Copilot to get information about your Intune data, including devices, apps, policies, and groups managed in Intune. You can also compare policies, get device specific details, and get target info for policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/security-copilot</link>
-      <pubDate>Wed, 17 Sep 2025 20:39:00 GMT</pubDate>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune management extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Apple volume-purchased apps - Microsoft Intune</title>
+      <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-apps-ios</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
+      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Microsoft 365 Apps to Windows 10/11 devices using Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how you can use Microsoft Intune to install Microsoft 365 apps on Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-office365</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign apps to groups in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-deploy</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App configuration policies for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to use app configuration policies on an iOS/iPadOS or Android device in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-overview</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android app protection policy settings - Microsoft Intune</title>
+      <description>This topic describes the app protection policy settings for Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Win32 app supersedence - Microsoft Intune</title>
+      <description>Learn how to use Win32 app supersedence with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-supersedence</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Win32 apps in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the most common methods to troubleshoot Win32 app issues with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-troubleshoot</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add a Windows line-of-business app to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add a Windows line-of-business (LOB) app using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-windows</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manually add the Windows 10 Company Portal app - Microsoft Intune</title>
+      <description>Learn how your workforce can manually add the Windows 10 Company Portal app to their PC from the Microsoft Store.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-company-portal-app</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows app deployment by using Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about Windows 10/11 app deployment scenarios available with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-windows-10-app-deploy</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add web apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about adding web apps (client-server applications) to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/web-app</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use shell scripts on macOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create, assign, monitor, and troubleshoot shell scripts for macOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/macos-shell-scripts</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add app configuration policies for managed Android Enterprise devices - Microsoft Intune</title>
+      <description>Use app configuration policies in Microsoft Intune to supply settings when users run a Managed Google Play app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-android</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Join your cloud-native endpoints to Microsoft Entra - Microsoft Intune</title>
+      <description>When moving to or using cloud-native endpoints, use Microsoft Entra joined endpoints. When your endpoints are joined to Microsoft Entra, you can use Windows Autopilot to provision or get devices ready for organization use. Learn more about the benefits to IT admins and end-users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/azure-ad-joined-hybrid-azure-ad-joined</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop single-session with Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an unmanaged macOS PKG app to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an unmanaged macOS PKG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/macos-unmanaged-pkg</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data protection for Windows MAM - Microsoft Intune</title>
+      <description>Enable protected MAM access to org data using Windows MAM.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/protect-mam-windows</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Include and exclude app assignments in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how you can use Microsoft Intune to include and exclude app assignments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-inc-exl-assignments</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add iOS store apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about adding iOS store apps to Microsoft Intune. You can assign apps using this method if the apps are free of charge in the App Store.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-ios</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and assign an app - Microsoft Intune</title>
+      <description>In this article, you'll use Microsoft Intune to add and assign an app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-add-assign-app</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Windows virtual machines with Microsoft Intune - Microsoft Intune</title>
+      <description>This article describes the general guidelines for using Windows 10/11 virtual machines with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Policies for Microsoft 365 apps - Microsoft Intune</title>
+      <description>Understand the policies available for Microsoft 365 apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-office-policies</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Microsoft 365 (Office) for iOS and Android with Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft 365 (Office) for iOS and Android to ensure collaboration experiences are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-office</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configuration policies for Intune App SDK managed apps - Microsoft Intune</title>
+      <description>Learn how to configure policies for Intune App SDK managed apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-managed-app</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Android store apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add Android store apps from the Google Play store to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-android</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Microsoft Intune management agent for macOS - Microsoft Intune</title>
+      <description>Learn about the Microsoft Intune management agent for macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-macos-agent</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Application Management (MAM) and Android Enterprise personally-owned work profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>See the available features when deciding to use Mobile Application Management (MAM) and/or Android Enterprise personally-owned work profiles for personal or BYOD Android devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/android-deployment-scenarios-app-protection-work-profiles</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Google Chrome for Android devices using Intune - Microsoft Intune</title>
+      <description>Use Intune configuration policies with Google Chrome for Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-configure-chrome-android</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get app bundle ID - Microsoft Intune</title>
+      <description>Get the app bundle ID in Microsoft Intune for Android, iOS/iPadOS, macOS, and Windows apps. Use the bundle ID in your app policies, device configuration profiles, enrollment policies, and compliance policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/get-app-bundle-id-intune-admin-center</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand app protection policy delivery and timing - Microsoft Intune</title>
+      <description>Learn the different deployment windows for app protection policies to understand when changes should appear on your end user devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-delivery</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Microsoft Defender for Endpoint to macOS devices using Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about adding Microsoft Defender for Endpoint to macOS devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-advanced-threat-protection-macos</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add built-in apps to mobile devices using Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how you can use Intune to make it easier to install built-in apps mobile devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-built-in</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure a VPN or per-app VPN for Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use an app configuration policy to add or create a VPN or per-app VPN profile for Android Enterprise devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-vpn-ae</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows cloud configuration step by step guide - Microsoft Intune</title>
+      <description>Use this Windows 10/11 cloud configuration step-by-step setup guide to create your own cloud configuration deployment. You create the Microsoft Entra group and policies using Microsoft Intune, including the enrollment profile, compliance policy, and security baseline. You also deploy apps and resources that users need to do their jobs.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration-setup-guide</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Microsoft Store apps to Intune (legacy) - Microsoft Intune</title>
+      <description>Learn about adding Microsoft Store (legacy) apps to Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-windows</link>
+      <pubDate>Tue, 23 Sep 2025 14:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
