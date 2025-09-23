@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 23 Sep 2025 05:22:33 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Sep 2025 05:22:33 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 11:02:34 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 11:02:34 GMT</lastBuildDate>
     <item>
       <title>Microsoft Security Copilot agents in Microsoft Intune</title>
       <description>Learn about Security Copilot agents in Microsoft Intune</description>
@@ -309,15 +309,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remotely administer devices in Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows 8.1 device restriction settings in Microsoft Intune</title>
       <description>Learn the Intune settings you can use to control device settings and functionality on devices running Windows 8.1.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-8-1</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remotely administer devices in Microsoft Intune</title>
+      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -333,15 +333,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View device details with Microsoft Intune</title>
       <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Restrict USB devices using settings catalog in Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-restrict-usb</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -399,15 +399,15 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Holographic Business shared device settings</title>
-      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
-      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune</title>
       <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kiosk-settings-holographic</link>
+      <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Holographic Business shared device settings</title>
+      <description>Add and use Windows Holographic for Business to configure devices that are shared, or used by multiple users in Microsoft Intune. See a list of the Account Management settings and what they do on the devices, including Microsoft HoloLens.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings-windows-holographic</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -417,9 +417,9 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Upgrade to Windows Holographic for Business in Microsoft Intune</title>
-      <description>Upgrade HoloLens (first gen) to Windows 10 Holographic for Business using a device configuration profile in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/holographic-upgrade</link>
+      <title>Windows VPN settings in Microsoft Intune</title>
+      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
@@ -435,9 +435,9 @@
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows VPN settings in Microsoft Intune</title>
-      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
+      <title>Upgrade to Windows Holographic for Business in Microsoft Intune</title>
+      <description>Upgrade HoloLens (first gen) to Windows 10 Holographic for Business using a device configuration profile in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/holographic-upgrade</link>
       <pubDate>Fri, 19 Sep 2025 04:45:00 GMT</pubDate>
     </item>
     <item>
