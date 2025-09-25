@@ -6,8 +6,68 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 Sep 2025 17:29:32 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 17:29:32 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 23:31:42 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 23:31:42 GMT</lastBuildDate>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
+      <pubDate>Wed, 24 Sep 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use ADMX templates on Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the settings catalog to configure administrative templates (ADMX) in Microsoft Intune on Windows 10/11 client devices. You can configure some Control Panel features, Start menu and task bar notifications, event log service, prevent IIS installation, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/administrative-templates-windows</link>
+      <pubDate>Wed, 24 Sep 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
+      <pubDate>Wed, 24 Sep 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Wed, 24 Sep 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Wed, 24 Sep 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Policy sets - Microsoft Intune</title>
+      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
+      <pubDate>Wed, 24 Sep 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 24 Sep 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
+      <pubDate>Wed, 24 Sep 2025 17:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Wed, 24 Sep 2025 17:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
+      <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-dedicated-devices-fully-managed-enroll</link>
+      <pubDate>Wed, 24 Sep 2025 17:59:00 GMT</pubDate>
+    </item>
     <item>
       <title>Device enrollment guide for Microsoft Intune - Microsoft Intune</title>
       <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
@@ -18,12 +78,6 @@
       <title>Use Remote Help to assist users authenticated by your organization. - Microsoft Intune</title>
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -327,15 +381,21 @@
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Windows cloud configuration in a guided scenario - Microsoft Intune</title>
       <description>Use a guided scenario to configure Windows 10/11 client devices in a cloud configuration in Microsoft Intune. Cloud config focuses on a simplified device experience for internet browsing and using Microsoft 365 apps, including Microsoft Teams.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration</link>
+      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
+      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
+      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get started with Microsoft Intune - Microsoft Intune</title>
+      <description>See an overview of the steps to start using Intune. Plan your move and deployment of Intune, determine your licensing needs and any platform requirements, use compliance and Conditional Access, deploy apps, create device configuration profiles, and enroll your devices to be managed. Get more information on mobile application management for BYOD or personal devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/get-started-with-intune</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -357,15 +417,9 @@
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get started with Microsoft Intune - Microsoft Intune</title>
-      <description>See an overview of the steps to start using Intune. Plan your move and deployment of Intune, determine your licensing needs and any platform requirements, use compliance and Conditional Access, deploy apps, create device configuration profiles, and enroll your devices to be managed. Get more information on mobile application management for BYOD or personal devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/get-started-with-intune</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
+      <title>View device details with Microsoft Intune - Microsoft Intune</title>
+      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -375,27 +429,21 @@
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>View device details with Microsoft Intune - Microsoft Intune</title>
-      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Filter reports and troubleshooting in Microsoft Intune - Microsoft Intune</title>
       <description>Use the device and app filter reports to get more information on successfully applied filters. Learn the effect of include and exclude filters in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-reports-troubleshoot</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Find the primary user of a Microsoft Intune device. - Microsoft Intune</title>
       <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/find-primary-user</link>
+      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -435,15 +483,15 @@
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <title>Tutorial - Walkthrough the Microsoft Intune admin center - Microsoft Intune</title>
+      <description>In this tutorial, you will tour Microsoft Intune in the Microsoft Intune admin center to better understand how to accomplish tasks.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tutorial-walkthrough-endpoint-manager</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a custom role in Intune - Microsoft Intune</title>
-      <description>Learn how to create a custom role in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
+      <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -459,9 +507,15 @@
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial - Walkthrough the Microsoft Intune admin center - Microsoft Intune</title>
-      <description>In this tutorial, you will tour Microsoft Intune in the Microsoft Intune admin center to better understand how to accomplish tasks.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tutorial-walkthrough-endpoint-manager</link>
+      <title>Create a custom role in Intune - Microsoft Intune</title>
+      <description>Learn how to create a custom role in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
+      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage and secure user and group identities overview - Microsoft Intune</title>
+      <description>Get an overview of the concepts and features you should know when managing identities in Microsoft Intune. Use existing users and groups, control access using RBAC, establish user affinity, and secure and authenticate users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-identities</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -477,21 +531,27 @@
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage and secure user and group identities overview - Microsoft Intune</title>
-      <description>Get an overview of the concepts and features you should know when managing identities in Microsoft Intune. Use existing users and groups, control access using RBAC, establish user affinity, and secure and authenticate users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-identities</link>
+      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
+      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <title>Public preview overview in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about public preview features in Microsoft Intune, and see an example. See a list of limitations, restrictions, and more in the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/public-preview</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Policy sets - Microsoft Intune</title>
-      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
+      <title>Licenses available for Microsoft Intune - Microsoft Intune</title>
+      <description>Intune is available with these licenses</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
+      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
+      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -510,30 +570,6 @@
       <title>Deployment guide for Linux device management - Microsoft Intune</title>
       <description>Use our platform deployment guide to set up Linux device management in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-linux</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Public preview overview in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about public preview features in Microsoft Intune, and see an example. See a list of limitations, restrictions, and more in the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/public-preview</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
-      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>About the Microsoft Intune tenant status page - Microsoft Intune</title>
-      <description>The Intune tenant status page displays details about your tenant and the status of connectors you've configured, and messages intended for tenants and about the Intune service health.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/tenant-status</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Licenses available for Microsoft Intune - Microsoft Intune</title>
-      <description>Intune is available with these licenses</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
     <item>
@@ -570,42 +606,6 @@
       <title>Try Microsoft Intune for free - Microsoft Intune</title>
       <description>Create a free trial subscription, understand supported configurations and networking requirements, and optionally configure your domain name.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/free-trial-sign-up</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 5 – Enroll devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enroll</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshooting Remote Help on Android. - Microsoft Intune</title>
-      <description>Sometimes a Remote Help session starts in service but the client connection isn't established. Learn more about the possible causes in this article, and how to resolve them.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-android-troubleshoot</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign up or sign in to Microsoft Intune - Microsoft Intune</title>
-      <description>How to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/account-sign-up</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of Microsoft Surface Management Portal - Microsoft Intune</title>
-      <description>Learn more about the features and capabilities of Microsoft Surface Management Portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/surface-management-portal</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
-      <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
-      <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mobile Application Management (MAM) for unenrolled devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Use mobile application management without enrollment to deploy apps, and protect organization data within the apps. Get an overview of the administrator and end user tasks for this enrollment option.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-mamwe</link>
       <pubDate>Wed, 24 Sep 2025 15:15:00 GMT</pubDate>
     </item>
   </channel>
