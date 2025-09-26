@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 25 Sep 2025 18:02:25 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 18:02:25 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 23:37:23 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 23:37:23 GMT</lastBuildDate>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
+      <pubDate>Thu, 25 Sep 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
+      <description>Use the device enrollment manager account to enroll devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-manager-enroll</link>
+      <pubDate>Thu, 25 Sep 2025 20:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Connect Intune account to managed Google Play account - Microsoft Intune</title>
+      <description>Learn how to connect your Intune account to your Managed Google Play account.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/connect-intune-android-enterprise</link>
+      <pubDate>Thu, 25 Sep 2025 20:46:00 GMT</pubDate>
+    </item>
     <item>
       <title>Reset and wipe Education devices - Microsoft Intune</title>
       <description>Learn about the reset and wipe options for Windows devices using Intune for Education, including scenarios when to delete devices.</description>
@@ -93,27 +111,21 @@
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Microsoft Entra ID - Microsoft Intune</title>
-      <description>Learn how to create and prepare your Microsoft Entra tenant for an education environment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-entra-id</link>
-      <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Common Education device restrictions configuration - Microsoft Intune</title>
       <description>Learn about common device restrictions configuration used by Education organizations in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-device-restrictions</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Common Education iPads restrictions configuration - Microsoft Intune</title>
-      <description>Learn about common iPads restrictions configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-ipads-device-restrictions</link>
+      <title>Set up Microsoft Entra ID - Microsoft Intune</title>
+      <description>Learn how to create and prepare your Microsoft Entra tenant for an education environment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-entra-id</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Education Windows device enrollment with provisioning packages - Microsoft Intune</title>
-      <description>Learn about how to enroll Windows devices with provisioning packages using SUSPCs and Windows Configuration Designer.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/enroll-package</link>
+      <title>Common Education iPads restrictions configuration - Microsoft Intune</title>
+      <description>Learn about common iPads restrictions configuration used by Education organizations in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-ipads-device-restrictions</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
@@ -129,15 +141,15 @@
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Education iOS device enrollment with Company Portal - Microsoft Intune</title>
-      <description>Learn how to enroll iOS/iPadOS devices using Company Portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/enroll-ios-company-portal</link>
+      <title>Education Windows device enrollment with provisioning packages - Microsoft Intune</title>
+      <description>Learn about how to enroll Windows devices with provisioning packages using SUSPCs and Windows Configuration Designer.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/enroll-package</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Introduction to the tutorial for deploying and managing devices in a school - Microsoft Intune</title>
-      <description>Introduction to deployment and management of devices in education environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/introduction</link>
+      <title>Education iOS device enrollment with Company Portal - Microsoft Intune</title>
+      <description>Learn how to enroll iOS/iPadOS devices using Company Portal.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/enroll-ios-company-portal</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
@@ -147,9 +159,9 @@
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Management functionalities for Surface devices - Microsoft Intune</title>
-      <description>Learn about the management capabilities offered to Surface devices, including firmware management and the Surface Management Portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/manage-surface-devices</link>
+      <title>Introduction to the tutorial for deploying and managing devices in a school - Microsoft Intune</title>
+      <description>Introduction to deployment and management of devices in education environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/introduction</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
@@ -162,6 +174,12 @@
       <title>Common Education Microsoft Edge configuration - Microsoft Intune</title>
       <description>Learn about common Microsoft Edge configuration used by Education organizations in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-edge</link>
+      <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Management functionalities for Surface devices - Microsoft Intune</title>
+      <description>Learn about the management capabilities offered to Surface devices, including firmware management and the Surface Management Portal.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/manage-surface-devices</link>
       <pubDate>Thu, 25 Sep 2025 14:38:00 GMT</pubDate>
     </item>
     <item>
@@ -210,12 +228,6 @@
       <title>Configure feature updates policy for Windows devices in Intune - Microsoft Intune</title>
       <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
-      <pubDate>Thu, 25 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
       <pubDate>Thu, 25 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Set up CrowdStrike Falcon for Mobile integration with Intune - Microsoft Intune</title>
       <description>How to set up CrowdStrike Falcon Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/crowdstrike-falcon-mtd-connector-integration</link>
-      <pubDate>Thu, 25 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune - Microsoft Intune</title>
-      <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-reports</link>
-      <pubDate>Thu, 25 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delete issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
-      <description>Delete certificates issued via Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-delete</link>
       <pubDate>Thu, 25 Sep 2025 04:41:00 GMT</pubDate>
     </item>
   </channel>
