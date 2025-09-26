@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 26 Sep 2025 11:32:33 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 11:32:33 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 17:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 17:12:31 GMT</lastBuildDate>
+    <item>
+      <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
+      <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
+      <pubDate>Fri, 26 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune product and capabilities documentation</title>
       <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
@@ -489,15 +495,15 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Teams for iOS and Android with Intune - Microsoft Intune</title>
-      <description>Use Intune app protection and configuration policies with Teams for iOS and Android to ensure team collaboration experiences are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-teams</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add Microsoft Store apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-microsoft</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Teams for iOS and Android with Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Teams for iOS and Android to ensure team collaboration experiences are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-teams</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -519,6 +525,12 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage Microsoft Edge on iOS and Android with Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add an Enterprise App Catalog app to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-enterprise-app</link>
@@ -528,12 +540,6 @@
       <title>How to use Intune in environments without Google Mobile Services - Microsoft Intune</title>
       <description>Learn how to use Intune in environments without Google Mobile Services.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-without-gms</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Microsoft Edge on iOS and Android with Intune - Microsoft Intune</title>
-      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -549,15 +555,9 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add a macOS DMG app to Microsoft Intune - Microsoft Intune</title>
-      <description>Add a macOS DMG app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-macos-dmg</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS app provisioning profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Intune gives you the tools to proactively assign a new provisioning profile to devices that have apps that are nearing expiry.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-provisioning-profile-ios</link>
+      <title>Deploy Windows update packages in Intune - Microsoft Intune</title>
+      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -567,15 +567,21 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Add a macOS DMG app to Microsoft Intune - Microsoft Intune</title>
+      <description>Add a macOS DMG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-macos-dmg</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add and assign Win32 apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Windows update packages in Intune - Microsoft Intune</title>
-      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
+      <title>iOS/iPadOS app provisioning profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Intune gives you the tools to proactively assign a new provisioning profile to devices that have apps that are nearing expiry.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-provisioning-profile-ios</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-macos</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add the Company Portal for macOS app - Microsoft Intune</title>
-      <description>Add the macOS Company Portal app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-company-portal-macos</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
   </channel>
