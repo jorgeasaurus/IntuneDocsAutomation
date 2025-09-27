@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 27 Sep 2025 06:02:07 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2025 06:02:07 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 11:13:55 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2025 11:13:55 GMT</lastBuildDate>
     <item>
       <title>Microsoft Security Copilot agents in Microsoft Intune - Microsoft Intune</title>
       <description>Learn about Security Copilot agents in Microsoft Intune</description>
@@ -25,6 +25,12 @@
       <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
       <pubDate>Fri, 26 Sep 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Intune product and capabilities documentation</title>
@@ -165,6 +171,18 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Connect to the Data Warehouse with Power BI - Microsoft Intune</title>
+      <description>You can download a file for use with Microsoft Power BI that allows you to load interactive, dynamically generated reports for your Microsoft Intune tenant.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-proc-get-a-link-powerbi</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
+      <description>Delivery Optimization settings for Windows devices that you can deploy using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Data protection for Windows MAM - Microsoft Intune</title>
       <description>Enable protected MAM access to org data using Windows MAM.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/protect-mam-windows</link>
@@ -183,9 +201,27 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use the Intune Data Warehouse - Microsoft Intune</title>
+      <description>Use the Intune Data Warehouse to build reports that provide insight into your enterprise mobile environment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-nav-create-intune-reports</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add and assign an app - Microsoft Intune</title>
       <description>In this article, you'll use Microsoft Intune to add and assign an app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-add-assign-app</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure wired network settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a wired network device configuration profile for Windows 10/11 devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wired-network-settings-windows</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Wi-Fi settings for iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a WiFi device configuration profile for iOS/iPadOS devices. See the different settings, including adding certificates, choosing an EAP type, and selecting an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-ios</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -234,6 +270,12 @@
       <title>Understanding Microsoft Intune management agent for macOS - Microsoft Intune</title>
       <description>Learn about the Microsoft Intune management agent for macOS.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-macos-agent</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS bundle IDs for built-in apps in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of the bundle IDs for the built-in iOS and iPadOS apps. Use these bundle IDs to explicitly allow apps in device configuration profiles and policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bundle-ids-built-in-ios-apps</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -321,6 +363,12 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/apple-settings-catalog-configurations</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Get started with frontline worker (FLW) device management</title>
       <description>Learn how to manage frontline worker devices using Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Get guidance on device use and Intune features built for FLW, like Remote Help. Also, learn about Microsoft Entra shared device mode (SDM) for FLW.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/frontline-worker-overview</link>
@@ -339,9 +387,27 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Get data from the Data Warehouse API with a REST client - Microsoft Intune</title>
+      <description>This topic describes how to retrieve data from the Microsoft Intune Data Warehouse using a RESTful API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-proc-data-rest</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add custom settings to iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>Export iOS and iPadOS settings from Apple Configurator or Apple Profile Manager tools, and then import these settings into Microsoft Intune. These settings can create, use, and control custom settings and features on iOS/iPadOS devices. This custom profile can then be assigned or distributed to iOS/iPadOS devices in your organization to create a baseline or standard.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-ios</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Wi-Fi settings for Android DA devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a WiFi device configuration profile for Android device administrator. See the different settings, including adding certificates, choosing an EAP type, and selecting an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-android</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Warehouse Collections - Microsoft Intune</title>
+      <description>The Intune Data Warehouse collections provide details related to the Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/intune-data-warehouse-collections</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -357,9 +423,27 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Data Warehouse data model - Microsoft Intune</title>
+      <description>The Microsoft Intune Data Warehouse samples data daily to provide a historical view of your continually changing mobile environment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-data-model</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Warehouse API endpoint - Microsoft Intune</title>
+      <description>This reference topic describes the Microsoft Intune Data Warehouse API URL structure. Filter examples are provided.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-api-url</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create and assign an app protection policy - Microsoft Intune</title>
       <description>In this article, you use Microsoft Intune to create and assign and app protection policy.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-create-assign-app-policy</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Warehouse API - Microsoft Intune</title>
+      <description>You can use the Intune Data Warehouse API to build reports that provide insight into your enterprise mobile environment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-nav-intune-data-warehouse</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -429,6 +513,12 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Reference for Application entities - Microsoft Intune</title>
+      <description>Reference topic for the Application category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-application</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Step 5. Understand Microsoft Edge for Business end user experience for Windows - Microsoft Intune</title>
       <description>Step 5. Understand Microsoft Edge for Business end user experience Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-end-user-experience</link>
@@ -447,9 +537,21 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>Reference for Policy entities - Microsoft Intune</title>
+      <description>Reference topic for the Policy category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-policy</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
       <description>Step 3. Integrate Microsoft Entra Conditional Access with Microsoft Edge for Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-3-scc</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile App Management (MAM) - Microsoft Intune</title>
+      <description>Reference topic for the Mobile App Management category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-mobile-app-management</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -459,21 +561,15 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Prepare a Win32 app to be uploaded to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to prepare a Win32 app to be uploaded to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-prepare</link>
+      <title>Move your Intune Data Warehouse account data - Microsoft Intune</title>
+      <description>Understand how to back up your Intune Data Warehouse data when moving your account.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/data-warehouse-account-move</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage volume-purchased iOS/iPadOS eBooks - Microsoft Intune</title>
-      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-ebooks-ios</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Configure Slack to use Intune for EMM and app configuration - Microsoft Intune</title>
-      <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/tutorial-configure-slack-enterprise-grid</link>
+      <title>Validate your app protection policy setup - Microsoft Intune</title>
+      <description>Learn how to test that your app protection policy is set up and working correctly in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-validate</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
@@ -489,123 +585,27 @@
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Validate your app protection policy setup - Microsoft Intune</title>
-      <description>Learn how to test that your app protection policy is set up and working correctly in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-validate</link>
+      <title>Prepare a Win32 app to be uploaded to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to prepare a Win32 app to be uploaded to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-prepare</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Configure Slack to use Intune for EMM and app configuration - Microsoft Intune</title>
+      <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/tutorial-configure-slack-enterprise-grid</link>
+      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage volume-purchased iOS/iPadOS eBooks - Microsoft Intune</title>
+      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-ebooks-ios</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
     <item>
       <title>Add custom settings to Linux devices in Microsoft Intune - Microsoft Intune</title>
       <description>Add Bash scripts to create a custom Linux profile in Microsoft Intune. Use the script to create, use, and control custom settings and features on Linux devices. This custom profile can then be assigned or distributed to Linux devices in your organization to create a baseline or standard.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-linux</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to wipe only corporate data from apps - Microsoft Intune</title>
-      <description>Learn how to selectively wipe only corporate data from Intune-managed apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-selective-wipe</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Microsoft Store apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-microsoft</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Teams for iOS and Android with Intune - Microsoft Intune</title>
-      <description>Use Intune app protection and configuration policies with Teams for iOS and Android to ensure team collaboration experiences are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-teams</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update your workloads to support cloud-native endpoints</title>
-      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Microsoft Edge on iOS and Android with Intune - Microsoft Intune</title>
-      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to use Intune in environments without Google Mobile Services - Microsoft Intune</title>
-      <description>Learn how to use Intune in environments without Google Mobile Services.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-without-gms</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Android Enterprise system apps in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage Android Enterprise system apps in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-ae-system</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Win32 app management in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-app-management</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add an Enterprise App Catalog app to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-enterprise-app</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get support in the Microsoft Intune admin center</title>
-      <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/get-support</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Microsoft Intune licenses - Microsoft Intune</title>
-      <description>Assign licenses to users so they can enroll in Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add apps to Microsoft Intune so you can assign apps to users and devices. Intune supports a wide range of app types.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and assign Win32 apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add a macOS DMG app to Microsoft Intune - Microsoft Intune</title>
-      <description>Add a macOS DMG app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-macos-dmg</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Windows update packages in Intune - Microsoft Intune</title>
-      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS app provisioning profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Intune gives you the tools to proactively assign a new provisioning profile to devices that have apps that are nearing expiry.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-provisioning-profile-ios</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add app configuration policies for managed iOS/iPadOS devices - Microsoft Intune</title>
-      <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-ios</link>
-      <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Fri, 26 Sep 2025 04:41:00 GMT</pubDate>
     </item>
   </channel>
