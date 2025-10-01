@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 01 Oct 2025 06:01:34 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 06:01:34 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 12:00:20 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 12:00:20 GMT</lastBuildDate>
     <item>
       <title>App protection policies overview - Microsoft Intune</title>
       <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
@@ -225,15 +225,15 @@
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
-      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Wipe - Microsoft Intune</title>
       <description>Learn how to wipe, or factory reset, devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-wipe</link>
+      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -264,12 +264,6 @@
       <title>Remote Device Actions – Wipe, Lock, Locate, and More - Microsoft Intune</title>
       <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
-      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
-      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -306,6 +300,12 @@
       <title>Update your workloads to support cloud-native endpoints</title>
       <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
+      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -381,12 +381,6 @@
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to configure the Intune Company Portal apps, Company Portal website, and Intune app - Microsoft Intune</title>
-      <description>Learn how you can configure the Intune Company Portal apps, Company Portal website, and Intune app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/company-portal-app</link>
-      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Remote Lock - Microsoft Intune</title>
       <description>Use the remote lock action in Microsoft Intune to lock a managed device that has a passcode or PIN.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-lock</link>
@@ -396,6 +390,12 @@
       <title>Remote Device Action: Rename Device - Microsoft Intune</title>
       <description>Learn how to use the Rename device remote action in Microsoft Intune to update the device name shown in the admin center. Useful for standardizing naming conventions, managing shared devices, and improving inventory clarity.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rename</link>
+      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to configure the Intune Company Portal apps, Company Portal website, and Intune app - Microsoft Intune</title>
+      <description>Learn how you can configure the Intune Company Portal apps, Company Portal website, and Intune app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/company-portal-app</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -414,12 +414,6 @@
       <title>Remote Device Action: Full Scan - Microsoft Intune</title>
       <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-full-scan</link>
-      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -444,6 +438,12 @@
       <title>Remote Device Action: Restart - Microsoft Intune</title>
       <description>Learn how to restart managed devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
+      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
