@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 01 Oct 2025 23:41:58 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 23:41:58 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 05:28:50 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 05:28:50 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -147,15 +147,15 @@
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune - Microsoft Intune</title>
-      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Encrypt Windows devices with Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune policy to manage encryption of Windows devices with either BitLocker or Personal Data Encryption.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/encrypt-devices</link>
+      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure</link>
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
@@ -237,12 +237,6 @@
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Retire - Microsoft Intune</title>
-      <description>Learn how to retire device using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-retire</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Delete - Microsoft Intune</title>
       <description>Learn how to delete devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-delete</link>
@@ -252,6 +246,12 @@
       <title>Remote Device Action: New Remote Assistance Session - Microsoft Intune</title>
       <description>Learn how to use the the new remote assistance session action in Intune to offer support to your users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-assist</link>
+      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Retire - Microsoft Intune</title>
+      <description>Learn how to retire device using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-retire</link>
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
@@ -309,15 +309,15 @@
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intune Remote Action: Deprovision - Microsoft Intune</title>
-      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-deprovision</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Full Scan - Microsoft Intune</title>
       <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-full-scan</link>
+      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Remote Action: Deprovision - Microsoft Intune</title>
+      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-deprovision</link>
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
@@ -345,15 +345,15 @@
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Restart - Microsoft Intune</title>
-      <description>Learn how to restart managed devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Fresh Start - Microsoft Intune</title>
       <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-fresh-start</link>
+      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Restart - Microsoft Intune</title>
+      <description>Learn how to restart managed devices with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
@@ -603,9 +603,9 @@
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
+      <title>Device query for multiple devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how device query for multiple devices allows you to gain comprehensive insights about all your devices using Kusto Query Language (KQL).</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/device-query-multiple-devices</link>
       <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
   </channel>
