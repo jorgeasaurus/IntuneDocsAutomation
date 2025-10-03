@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 03 Oct 2025 05:38:37 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Oct 2025 05:38:37 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Oct 2025 12:02:24 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Oct 2025 12:02:24 GMT</lastBuildDate>
     <item>
       <title>Using Remote Help on Windows to assist authenticated users. - Microsoft Intune</title>
       <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
@@ -63,6 +63,12 @@
       <pubDate>Thu, 02 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Intune Data Warehouse Collections - Microsoft Intune</title>
+      <description>The Intune Data Warehouse collections provide details related to the Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/intune-data-warehouse-collections</link>
+      <pubDate>Thu, 02 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Install Microsoft 365 apps to macOS devices using Microsoft Intune - Microsoft Intune</title>
       <description>Learn how you can use Microsoft Intune to install Microsoft 365 apps on macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-office365-macos</link>
@@ -72,6 +78,12 @@
       <title>Enable Win32 apps on S mode devices - Microsoft Intune</title>
       <description>Learn how to enable Win32 apps on S mode devices using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-s-mode</link>
+      <pubDate>Thu, 02 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Graph APIs to configure devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the Graph API entities with the matching Windows CSP and offset URI on Windows 10 devices and newer used when configuring devices in Microsoft Intune. See the matching API and CSP for shared PCs, endpoint protection, Microsoft Defender for Endpoint, identity protection, Windows 10 Teams, kiosk, and Windows Update client policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/graph-apis-used-by-intune-device-configuration-windows</link>
       <pubDate>Thu, 02 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -117,6 +129,12 @@
       <pubDate>Thu, 02 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Supported Microsoft Intune apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Thu, 02 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add Microsoft Edge to macOS devices using Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding Microsoft Edge to macOS devices using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-edge-macos</link>
@@ -144,6 +162,18 @@
       <title>Deploy Intune policies to manage Windows LAPS - Microsoft Intune</title>
       <description>Create policies to manage the Windows Local Administrator Policy Solution (LAPS) on Windows devices that enrolled with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-laps-policy</link>
+      <pubDate>Thu, 02 Oct 2025 17:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Thu, 02 Oct 2025 17:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for Android developer integration and testing guide - Plan the integration - Microsoft Intune</title>
+      <description>Plan the integration to incorporate Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase1</link>
       <pubDate>Thu, 02 Oct 2025 17:32:00 GMT</pubDate>
     </item>
     <item>
@@ -345,6 +375,12 @@
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
+      <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure</link>
+      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Encrypt Windows devices with Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune policy to manage encryption of Windows devices with either BitLocker or Personal Data Encryption.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/encrypt-devices</link>
@@ -354,12 +390,6 @@
       <title>Remote Device Action: Wipe - Microsoft Intune</title>
       <description>Learn how to wipe, or factory reset, devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-wipe</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune - Microsoft Intune</title>
-      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure</link>
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
     </item>
     <item>
@@ -577,36 +607,6 @@
       <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-policy</link>
       <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
-      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-plan</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Autopilot Reset - Microsoft Intune</title>
-      <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-autopilot-reset</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Fresh Start - Microsoft Intune</title>
-      <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-fresh-start</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Restart - Microsoft Intune</title>
-      <description>Learn how to restart managed devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
-      <pubDate>Wed, 01 Oct 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune documentation - Microsoft Intune</title>
-      <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
-      <pubDate>Tue, 30 Sep 2025 22:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
