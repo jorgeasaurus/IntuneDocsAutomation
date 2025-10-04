@@ -6,12 +6,18 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 04 Oct 2025 05:36:43 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Oct 2025 05:36:43 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Oct 2025 12:02:15 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Oct 2025 12:02:15 GMT</lastBuildDate>
     <item>
       <title>Audit, export or delete personal data collected by Intune - Microsoft Intune</title>
       <description>Learn how to audit, export, or delete personal data that is collected by Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-audit-export-delete</link>
+      <pubDate>Fri, 03 Oct 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
       <pubDate>Fri, 03 Oct 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -219,6 +225,12 @@
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the settings you can use when setting compliance for your Windows 10, Windows 11, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
+      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure compliance policies with actions for noncompliance in Microsoft Intune - Microsoft Intune</title>
       <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/actions-for-noncompliance</link>
@@ -309,6 +321,12 @@
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Supported filter device and app properties &amp; operators in Microsoft Intune - Microsoft Intune</title>
+      <description>When using filters, get more information on the device properties, supported operators, and supported Windows OS SKUs, including examples. Use these features to create rule expressions in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
+      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enable autodiscovery of Intune enrollment server - Microsoft Intune</title>
       <description>Simplify enrollment for users by enabling automatic discovery of the Intune enrollment server.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-create-cname</link>
@@ -378,6 +396,12 @@
       <title>Use Microsoft Defender for Endpoint in Microsoft Intune - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense solution.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection</link>
+      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PowerShell scripts for Remediations - Microsoft Intune</title>
+      <description>PowerShell script reference for Remediations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/powershell-scripts-remediation</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -489,6 +513,12 @@
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>iOS/iPadOS device compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for iOS/iPadOS that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-ios</link>
+      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Automatically enroll devices with Samsung Knox Mobile Enrollment - Microsoft Intune</title>
       <description>Learn how to enroll Android devices in Microsoft Intune with the Knox Mobile Enrollment tool.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-samsung-knox-mobile-enroll</link>
@@ -504,6 +534,18 @@
       <title>Set up user enrollment with Company Portal for iOS - Microsoft Intune</title>
       <description>Set up the profile based Apple User Enrollment option for personal devices enrolling in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/apple-user-enrollment-with-company-portal</link>
+      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune - Microsoft Intune</title>
+      <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-microsoft-defender-settings-windows</link>
+      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
@@ -564,48 +606,6 @@
       <title>Set up per-app VPN for iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>See the prerequisites, create a group for the virtual private network (VPN) users, add a SCEP certificate profile, configure a per-app VPN profile, and assign some apps to the VPN profile in Microsoft Intune on iOS/iPadOS devices. Also lists the steps to verify the VPN connection on the device.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-setting-configure-per-app</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
-      <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-direct-enroll-macos</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
-      <description>Use Microsoft Intune Security Tasks to manage threats and vulnerabilities identified by Microsoft Defender for Endpoint.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/atp-manage-vulnerabilities</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unlicensed admins in Microsoft Intune - Microsoft Intune</title>
-      <description>This article describes how to give unlicensed admins permissions to access Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/unlicensed-admins</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Send notifications to noncompliant devices - Microsoft Intune</title>
-      <description>In this topic, you use Microsoft Intune to send email notifications to noncompliant devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-send-notification</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create iOS/iPadOS or macOS device profile with Microsoft Intune - Microsoft Intune</title>
-      <description>Add or create an iOS, iPadOS, or macOS device profile. Configure settings for AirPrint, layout of the home screen, app notifications, shared device, single sign-on, and web content filter settings in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-features-configure</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero Trust with Microsoft Intune - Microsoft Intune</title>
-      <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment notifications in Intune - Microsoft Intune</title>
-      <description>Set up enrollment notifications in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/enrollment-notifications</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
   </channel>
