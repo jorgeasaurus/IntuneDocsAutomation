@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 07 Oct 2025 06:00:28 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 06:00:28 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 11:32:34 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 11:32:34 GMT</lastBuildDate>
     <item>
       <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
       <description>Use the device enrollment manager account to enroll devices in Intune.</description>
@@ -81,6 +81,12 @@
       <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune - Microsoft Intune</title>
+      <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-microsoft-defender-settings-windows</link>
+      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up enrollment notifications in Intune - Microsoft Intune</title>
       <description>Set up enrollment notifications in Intune for employees or students.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/enrollment-notifications</link>
@@ -105,6 +111,24 @@
       <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-antivirus-policy</link>
+      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage firewall settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies for devices you manage with endpoint security firewall policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-policy</link>
+      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
       <description>Enable Windows backup and restore in Intune for employees or students.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
@@ -126,12 +150,6 @@
       <title>Audit, export or delete personal data collected by Intune - Microsoft Intune</title>
       <description>Learn how to audit, export, or delete personal data that is collected by Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-audit-export-delete</link>
-      <pubDate>Fri, 03 Oct 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
       <pubDate>Fri, 03 Oct 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Set up user enrollment with Company Portal for iOS - Microsoft Intune</title>
       <description>Set up the profile based Apple User Enrollment option for personal devices enrolling in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/apple-user-enrollment-with-company-portal</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune - Microsoft Intune</title>
-      <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-microsoft-defender-settings-windows</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
-      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Route logs to Azure Monitor using Microsoft Intune - Microsoft Intune</title>
-      <description>Use Diagnostics Settings to send audit logs and operational logs in Microsoft Intune to Azure Storage account, Event Hubs, or Log Analytics. Choose how long you want to keep the data, and see some estimated costs for different size tenants.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/review-logs-using-azure-monitor</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
   </channel>
