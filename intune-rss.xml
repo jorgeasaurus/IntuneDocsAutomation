@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 08 Oct 2025 12:02:34 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Oct 2025 12:02:34 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 17:29:57 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 17:29:57 GMT</lastBuildDate>
+    <item>
+      <title>Route logs to Azure Monitor using Microsoft Intune - Microsoft Intune</title>
+      <description>Use Diagnostics Settings to send audit logs and operational logs in Microsoft Intune to Azure Storage account, Event Hubs, or Log Analytics. Choose how long you want to keep the data, and see some estimated costs for different size tenants.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/review-logs-using-azure-monitor</link>
+      <pubDate>Wed, 08 Oct 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Use Microsoft Intune to protect Exchange Online email from unmanaged iOS devices - Microsoft Intune</title>
+      <description>Learn how to use Microsoft Intune app protection policies and Conditional Access to prevent unmanaged iOS devices from accessing Exchange Online.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/tutorial-protect-email-on-unmanaged-devices</link>
+      <pubDate>Wed, 08 Oct 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Configure Slack to use Intune for EMM and app configuration - Microsoft Intune</title>
+      <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/tutorial-configure-slack-enterprise-grid</link>
+      <pubDate>Wed, 08 Oct 2025 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
+      <description>Learn to secure Exchange Online with iOS Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/tutorial-protect-email-on-enrolled-devices</link>
+      <pubDate>Wed, 08 Oct 2025 14:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
@@ -147,15 +171,15 @@
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
-      <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-compliance-get-started</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
+      <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Deployment guide to manage macOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the settings catalog to configure DDM software updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to configure Apple's declarative device management (DDM) settings to install a specific update by an enforced deadline. This feature uses the settings catalog to configure managed software updates for supervised iOS/iPadOS and managed macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/managed-software-updates-ios-macos</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shared or multi-user Windows device settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Add and use Windows 10/11 and Windows Holographic for Business devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft HoloLens. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/shared-user-device-settings</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
-      <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/groups-add</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Defender for Endpoint in Microsoft Intune - Microsoft Intune</title>
-      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense solution.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
   </channel>
