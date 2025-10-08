@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 08 Oct 2025 06:02:20 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Oct 2025 06:02:20 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 12:02:34 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 12:02:34 GMT</lastBuildDate>
     <item>
       <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
@@ -18,6 +18,12 @@
       <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
       <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-cleanup-rules</link>
+      <pubDate>Tue, 07 Oct 2025 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune user help - Microsoft Intune</title>
+      <description>Enroll your device in Intune to gain secure access to work-related email, apps, and Wi-Fi.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/user-help/</link>
       <pubDate>Tue, 07 Oct 2025 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -36,6 +42,12 @@
       <title>Configure a tenant-wide Windows Hello for Business policy with Microsoft Intune - Microsoft Intune</title>
       <description>Apply policy for Windows Hello for Business on devices at the time they enroll with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-hello</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the settings you can use when setting compliance for your Windows, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
@@ -75,6 +87,18 @@
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows 8.1 compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for Windows 8.1 that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows-8-1</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure endpoint protection on macOS devices with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune to configure macOS devices use the built-in firewall to allow or block specific apps or to use stealth mode, to use Gatekeeper to determine where apps install, and to use FileVault disk encryption.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-macos</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
@@ -96,6 +120,18 @@
       <title>Deploy policy for Windows Hello to groups of Windows devices - Microsoft Intune</title>
       <description>Use a Microsoft Intune profile for Identity protection configure Windows Hello for Business on Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/identity-protection-configure</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
+      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Hello for Business settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View details for Windows Hello for Business settings you configure in an Intune identity protection profile for device groups in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/identity-protection-windows-settings</link>
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
@@ -429,12 +465,6 @@
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>See a list of all the settings you can use when setting compliance for your Windows 10, Windows 11, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure compliance policies with actions for noncompliance in Microsoft Intune - Microsoft Intune</title>
       <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/actions-for-noncompliance</link>
@@ -576,36 +606,6 @@
       <title>Use Microsoft Defender for Endpoint in Microsoft Intune - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense solution.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerShell scripts for Remediations - Microsoft Intune</title>
-      <description>PowerShell script reference for Remediations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/powershell-scripts-remediation</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned user-associated devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned user-associated devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-aosp-corporate-owned-user-associated-enroll</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
-      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-work-profile-enroll</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS using configuration MDM policy - Microsoft Intune</title>
-      <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bios-configuration</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
   </channel>
