@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 08 Oct 2025 17:29:57 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Oct 2025 17:29:57 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 23:52:35 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 23:52:35 GMT</lastBuildDate>
+    <item>
+      <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
+      <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-cleanup-rules</link>
+      <pubDate>Wed, 08 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
+      <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
+      <pubDate>Wed, 08 Oct 2025 18:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>Route logs to Azure Monitor using Microsoft Intune - Microsoft Intune</title>
       <description>Use Diagnostics Settings to send audit logs and operational logs in Microsoft Intune to Azure Storage account, Event Hubs, or Log Analytics. Choose how long you want to keep the data, and see some estimated costs for different size tenants.</description>
@@ -36,12 +48,6 @@
       <title>Update Microsoft 365 apps with the settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-update-office</link>
-      <pubDate>Tue, 07 Oct 2025 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
-      <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-cleanup-rules</link>
       <pubDate>Tue, 07 Oct 2025 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Manage and secure devices overview - Microsoft Intune</title>
       <description>Get an overview of the concepts and features you should know when managing devices that access organization resources in Microsoft Intune. You can manage new and existing devices, including BYOD personal devices, check health compliance and view reports, configure device features, and secure devices using mobile threat solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-devices</link>
-      <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage macOS devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
       <pubDate>Fri, 03 Oct 2025 20:34:00 GMT</pubDate>
     </item>
   </channel>
