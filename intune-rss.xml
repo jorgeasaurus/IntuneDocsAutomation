@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 11 Oct 2025 11:18:43 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Oct 2025 11:18:43 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 17:32:33 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 17:32:33 GMT</lastBuildDate>
+    <item>
+      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
+      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baselines</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure device configuration profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or configure a device configuration profile in Microsoft Intune. Select the platform type, configure the settings, and add a scope tag. Learn more about applicability rules, and the policy refresh cycle times.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-create</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
       <description>See a list of all the settings you can use when setting compliance for your Windows, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
@@ -405,12 +417,6 @@
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Discovered Apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
       <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
@@ -426,6 +432,12 @@
       <title>Guided Scenario - Cloud-Managed Modern Desktop - Microsoft Intune</title>
       <description>Learn about the guided scenario to set up and configure a basic Modern Desktop from the Microsoft 365 Device Management portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/guided-scenarios-cloud-managed-pc</link>
+      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discovered Apps - Microsoft Intune</title>
+      <description>Understand details about the detected apps that Intune found on a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
     </item>
     <item>
@@ -579,33 +591,21 @@
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-compliance-get-started</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
       <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-compliance-get-started</link>
+      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
       <description>Use the device enrollment manager account to enroll devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-manager-enroll</link>
-      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
-      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
-      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add corporate identifiers to Intune - Microsoft Intune</title>
-      <description>Add corporate identifiers (enrollment method, IMEI, and serial numbers) to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/corporate-identifiers-add</link>
       <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
