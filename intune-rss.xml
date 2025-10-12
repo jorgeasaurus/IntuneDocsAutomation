@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 12 Oct 2025 05:21:41 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 05:21:41 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 11:23:18 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2025 11:23:18 GMT</lastBuildDate>
     <item>
       <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
       <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
@@ -19,6 +19,90 @@
       <description>Add or configure a device configuration profile in Microsoft Intune. Select the platform type, configure the settings, and add a scope tag. Learn more about applicability rules, and the policy refresh cycle times.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-create</link>
       <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune endpoint security firewall settings - Microsoft Intune</title>
+      <description>Endpoint security firewall policy settings for Windows and macOS in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-profile-settings</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Use Microsoft Entra ID to Access Intune APIs in Microsoft Graph - Microsoft Intune</title>
+      <description>Describes steps needed for apps to use Microsoft Entra ID to access the Intune APIs in Microsoft Graph.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/intune-graph-apis</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune endpoint security Account protection (Preview) policy settings - Microsoft Intune</title>
+      <description>Endpoint security Account protection policy settings in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-account-protection-profile-settings</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune endpoint security Attack surface reduction settings - Microsoft Intune</title>
+      <description>Details about the settings in the endpoint security Attack surface reduction policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-asr-profile-settings</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
+      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
+      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-settings</link>
+      <pubDate>Sat, 11 Oct 2025 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft HoloLens 2 advanced security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune advanced security baseline for Microsoft HoloLens 2. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-hololens2-advanced</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline version 112 and later, for the Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-v2-edge-settings</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-v2-office-settings</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-edge</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft HoloLens 2 standard security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune standard security baseline for Microsoft HoloLens 2. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-hololens2-standard</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Windows 365 Cloud PC security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Windows 365 Cloud PC. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-windows-365</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
+      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-mdm-all</link>
+      <pubDate>Sat, 11 Oct 2025 02:47:00 GMT</pubDate>
     </item>
     <item>
       <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
@@ -42,12 +126,6 @@
       <title>Get Started With the Microsoft Intune App SDK - Microsoft Intune</title>
       <description>Quickly enable your mobile app for mobile application management (MAM) with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-get-started</link>
-      <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune endpoint security firewall settings - Microsoft Intune</title>
-      <description>Endpoint security firewall policy settings for Windows and macOS in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-profile-settings</link>
       <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -105,18 +183,6 @@
       <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intune endpoint security Attack surface reduction settings - Microsoft Intune</title>
-      <description>Details about the settings in the endpoint security Attack surface reduction policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-asr-profile-settings</link>
-      <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
-      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
-      <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune - Microsoft Intune</title>
       <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-pfx-configure</link>
@@ -138,12 +204,6 @@
       <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
       <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-prerequisites</link>
-      <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
-      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-settings</link>
       <pubDate>Fri, 10 Oct 2025 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -547,66 +607,6 @@
       <description>Create Endpoint protection settings when you create a macOS or Windows device profile in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-configure</link>
       <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Compliance for Windows Subsystem for Linux - Microsoft Intune</title>
-      <description>Evaluate WSL attributes on a host device for compliance.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-wsl</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure endpoint protection on macOS devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Intune to configure macOS devices use the built-in firewall to allow or block specific apps or to use stealth mode, to use Gatekeeper to determine where apps install, and to use FileVault disk encryption.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-macos</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-monitor</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
-      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy policy for Windows Hello to groups of Windows devices - Microsoft Intune</title>
-      <description>Use a Microsoft Intune profile for Identity protection configure Windows Hello for Business on Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/identity-protection-configure</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use custom compliance settings for Linux and Windows devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Manage custom compliance settings for Linux and Windows devices by using JSON files and discovery scripts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-use-custom-settings</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help Web App. - Microsoft Intune</title>
-      <description>Use the Remote Help web app to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-webapp</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on macOS to assist authenticated users. - Microsoft Intune</title>
-      <description>Use Remote Help to provide remote assistance to authenticated users and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-macos</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-compliance-get-started</link>
-      <pubDate>Tue, 07 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
-      <description>Use the device enrollment manager account to enroll devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-manager-enroll</link>
-      <pubDate>Mon, 06 Oct 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
