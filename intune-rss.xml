@@ -6,8 +6,80 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 15 Oct 2025 12:02:40 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2025 12:02:40 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 17:51:53 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 17:51:53 GMT</lastBuildDate>
+    <item>
+      <title>Bulk enrollment for Windows devices - Microsoft Intune</title>
+      <description>Create a bulk enrollment package for Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-bulk-enroll</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scenarios for using Conditional Access with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Conditional Access is commonly used with Intune compliance policy for devices and apps</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access-intune-common-ways-use</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avoid policy conflicts - Microsoft Intune</title>
+      <description>Learn how to avoid policy conflicts when creating and deploying new policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/manage-avoid-policy-conflicts</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is Intune for Education? - Microsoft Intune</title>
+      <description>Learn about Intune for Education and how it is different from the full Intune management experience.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/introduction-intune-education</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Education Windows Update configuration - Microsoft Intune</title>
+      <description>Learn about common Windows Update configuration used by Education organizations in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-windows-update</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Education Start menu configuration - Microsoft Intune</title>
+      <description>Learn about common Start menu configuration used by Education organizations in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-start-menu</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Education device restrictions configuration - Microsoft Intune</title>
+      <description>Learn about common device restrictions configuration used by Education organizations in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-device-restrictions</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Education privacy configuration - Microsoft Intune</title>
+      <description>Learn about common privacy configuration used by Education organizations in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-windows-privacy</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan Education device grouping and targeting - Microsoft Intune</title>
+      <description>Plan how you'll group devices and users and target policies and applications.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/plan-grouping</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up device management - Microsoft Intune</title>
+      <description>Learn how to configure the Intune service and set up the environment for education.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kiosk settings for Windows in Microsoft Intune - Microsoft Intune</title>
       <description>Configure your Windows 10/11 client devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
@@ -189,18 +261,6 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a custom role in Intune - Microsoft Intune</title>
-      <description>Learn how to create a custom role in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
       <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
@@ -210,6 +270,18 @@
       <title>Policy Sets - Microsoft Intune</title>
       <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a custom role in Intune - Microsoft Intune</title>
+      <description>Learn how to create a custom role in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -534,78 +606,6 @@
       <title>Review App Protection Policy Logs - Microsoft Intune</title>
       <description>This topic describes how to configure Intune app protection policy (APP) logs.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-log</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Step 4. Create app configuration policy for Microsoft Edge for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-4-acp-edge</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data Warehouse Data Model - Microsoft Intune</title>
-      <description>The Microsoft Intune Data Warehouse samples data daily to provide a historical view of your continually changing mobile environment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-data-model</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Data Warehouse API Endpoint - Microsoft Intune</title>
-      <description>This reference topic describes the Microsoft Intune Data Warehouse API URL structure. Filter examples are provided.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-api-url</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create and Assign an App Protection Policy - Microsoft Intune</title>
-      <description>In this article, you use Microsoft Intune to create and assign and app protection policy.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-create-assign-app-policy</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Step 2. Create app protection policies for Microsoft Edge for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-2-app</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guided Scenario - Deploy Microsoft Edge for Mobile - Microsoft Intune</title>
-      <description>Learn about the guided scenario to deploy Microsoft Edge for Mobile from the Microsoft 365 Device Management portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/guided-scenarios-edge</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guided Scenarios Overview - Microsoft Intune</title>
-      <description>Learn about the Intune guided scenarios available in the Microsoft 365 Device Management portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/guided-scenarios-overview</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guided Scenario - Secure Microsoft Office Mobile Apps - Microsoft Intune</title>
-      <description>Learn about the guided scenario to deploy secure Microsoft Office mobile apps from the Microsoft 365 Device Management portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/guided-scenarios-office-mobile</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 5. Understand Microsoft Edge for Business End User Experience for Windows - Microsoft Intune</title>
-      <description>Step 5. Understand Microsoft Edge for Business end user experience Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-end-user-experience</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Volume-Purchased Apps and Books with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about how you can use Microsoft Intune to manage and monitor your use of volume-purchased apps and books from stores."</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-apps</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 6. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
-      <description>Step 6. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-6-troubleshoot</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Configure Slack to Use Intune for EMM and App Configuration - Microsoft Intune</title>
-      <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/tutorial-configure-slack-enterprise-grid</link>
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
     </item>
   </channel>
