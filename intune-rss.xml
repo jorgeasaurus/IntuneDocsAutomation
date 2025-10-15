@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 14 Oct 2025 23:12:32 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2025 23:12:32 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 06:02:34 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 06:02:34 GMT</lastBuildDate>
+    <item>
+      <title>Restrict devices features using policy in Microsoft Intune - Microsoft Intune</title>
+      <description>Add a device configuration profile to restrict features on Android device administrator, Android Enterprise, AOSP, macOS, iOS, iPadOS, and Windows 10/11 client devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-configure</link>
+      <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
+      <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>eSIM configuration of a download server - Microsoft Intune</title>
+      <description>Learn about configuration of an eSIM Download Server from Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration-download-server</link>
+      <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
+      <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -63,15 +87,15 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Windows cloud configuration in a guided scenario - Microsoft Intune</title>
       <description>Use a guided scenario to configure Windows 10/11 client devices in a cloud configuration in Microsoft Intune. Cloud config focuses on a simplified device experience for internet browsing and using Microsoft 365 apps, including Microsoft Teams.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -105,6 +129,12 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create a custom role in Intune - Microsoft Intune</title>
       <description>Learn how to create a custom role in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
@@ -120,12 +150,6 @@
       <title>Policy Sets - Microsoft Intune</title>
       <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -583,30 +607,6 @@
       <description>This topic provides a list of changes for the Microsoft Intune Data Warehouse API.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-changelog</link>
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discovered Apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/powershell-scripts</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Try Microsoft Intune for Free - Microsoft Intune</title>
-      <description>Create a free trial subscription, understand supported configurations and networking requirements, and optionally configure your domain name.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/free-trial-sign-up</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
-      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
-      <pubDate>Thu, 09 Oct 2025 14:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
