@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 16 Oct 2025 05:54:45 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2025 05:54:45 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 11:52:33 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 11:52:33 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune product and capabilities documentation</title>
+      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bulk enrollment for Windows devices - Microsoft Intune</title>
       <description>Create a bulk enrollment package for Microsoft Intune</description>
@@ -69,15 +75,15 @@
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up device management - Microsoft Intune</title>
-      <description>Learn how to configure the Intune service and set up the environment for education.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial-Get started with cloud-native Windows endpoints</title>
       <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up device management - Microsoft Intune</title>
+      <description>Learn how to configure the Intune service and set up the environment for education.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -117,9 +123,15 @@
       <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>Surface Hub Windows 10 Team device restrictions in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or configure Surface Hub devices settings running Windows 10 Team. Add a wake-up screen, create a maintenance window, use Miracast, and more in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10-teams</link>
+      <title>Upgrade to Windows Holographic for Business in Microsoft Intune - Microsoft Intune</title>
+      <description>Upgrade HoloLens (first gen) to Windows 10 Holographic for Business using a device configuration profile in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/holographic-upgrade</link>
+      <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows VPN settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn and read about all the available VPN settings in Microsoft Intune, what they're used for, and what they do. See the traffic rules, Conditional Access, and DNS and proxy settings for Windows 10/11 and Windows Holographic for Business devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-windows-10</link>
       <pubDate>Wed, 15 Oct 2025 02:54:00 GMT</pubDate>
     </item>
     <item>
@@ -231,15 +243,15 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-windows</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create filters in Microsoft Intune - Microsoft Intune</title>
       <description>Learn more about policy assignment filters, and see the steps to create, update, or delete a filter in Microsoft Intune. Create an assignment filter for managed devices or managed apps scenarios.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows device enrollment guide for Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-windows</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -249,15 +261,15 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage firewall settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Configure and deploy policies for devices you manage with endpoint security firewall policy in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-policy</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
       <description>Learn about Intune reports and properties provided via Graph API.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports-export-graph-available-reports</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage firewall settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies for devices you manage with endpoint security firewall policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-policy</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Get App Bundle ID - Microsoft Intune</title>
       <description>Get the app bundle ID in Microsoft Intune for Android, iOS/iPadOS, macOS, and Windows apps. Use the bundle ID in your app policies, device configuration profiles, enrollment policies, and compliance policies in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/get-app-bundle-id-intune-admin-center</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
-      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Review App Protection Policy Logs - Microsoft Intune</title>
-      <description>This topic describes how to configure Intune app protection policy (APP) logs.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-log</link>
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
     </item>
   </channel>
