@@ -6,13 +6,19 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 17 Oct 2025 06:02:15 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Oct 2025 06:02:15 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 12:02:29 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:02:29 GMT</lastBuildDate>
     <item>
       <title>Intune operated by 21Vianet in China - Microsoft Intune</title>
       <description>Intune operated by 21Vianet in China.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china</link>
       <pubDate>Thu, 16 Oct 2025 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platforms and policy types supported by filters in Microsoft Intune - Microsoft Intune</title>
+      <description>See the supported apps, compliance policies, and device configuration profiles that support filters in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
+      <pubDate>Thu, 16 Oct 2025 20:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Create and assign a custom role in Intune - Microsoft Intune</title>
@@ -87,15 +93,15 @@
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up device management - Microsoft Intune</title>
-      <description>Learn how to configure the Intune service and set up the environment for education.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial-Get started with cloud-native Windows endpoints</title>
       <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up device management - Microsoft Intune</title>
+      <description>Learn how to configure the Intune service and set up the environment for education.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -225,27 +231,21 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Platforms and policy types supported by filters in Microsoft Intune - Microsoft Intune</title>
-      <description>See the supported apps, compliance policies, and device configuration profiles that support filters in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Filter reports and troubleshooting in Microsoft Intune - Microsoft Intune</title>
       <description>Use the device and app filter reports to get more information on successfully applied filters. Learn the effect of include and exclude filters in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-reports-troubleshoot</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -279,18 +279,6 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Policy Sets - Microsoft Intune</title>
-      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
@@ -300,6 +288,18 @@
       <title>Create a custom role in Intune - Microsoft Intune</title>
       <description>Learn how to create a custom role in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Policy Sets - Microsoft Intune</title>
+      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-sets</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
