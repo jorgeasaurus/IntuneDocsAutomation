@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 19 Oct 2025 05:52:35 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Oct 2025 05:52:35 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 11:34:17 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2025 11:34:17 GMT</lastBuildDate>
     <item>
       <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
@@ -129,15 +129,15 @@
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up device management - Microsoft Intune</title>
       <description>Learn how to configure the Intune service and set up the environment for education.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
+      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -198,12 +198,6 @@
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on Windows to assist authenticated users. - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-windows</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -606,6 +600,12 @@
       <title>Add Web Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding web apps (client-server applications) to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/web-app</link>
+      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>High-Level Architecture for Microsoft Intune - Microsoft Intune</title>
+      <description>This reference architecture shows options for integrating Microsoft Intune in your Azure environment with Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/high-level-architecture</link>
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
     </item>
   </channel>
