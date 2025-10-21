@@ -6,18 +6,36 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 20 Oct 2025 17:02:41 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2025 17:02:41 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 23:42:35 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 23:42:35 GMT</lastBuildDate>
     <item>
-      <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
-      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
-      <pubDate>Sat, 18 Oct 2025 02:47:00 GMT</pubDate>
+      <title>Questions with policies and profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Common questions, answers, and scenarios with device policies and profiles in Microsoft Intune. Learn more about profile changes not applying to users or devices, how long it takes for new policies to deploy, which settings apply when there are conflicts, what happens when you delete or remove a profile, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-troubleshoot</link>
+      <pubDate>Mon, 20 Oct 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get started with macOS endpoints</title>
+      <description>Microsoft Intune guide to set up and configure macOS devices from setup to creating policies and enrolling devices. You secure your corporate and organization-owned endpoints that are enrolled in Intune, and then deploy at scale with Apple Business Manager or Apple School Manager.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/end-to-end-guides/macos-endpoints-get-started</link>
+      <pubDate>Mon, 20 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View enrollment reports - Microsoft Intune</title>
+      <description>Monitor and troubleshoot issues with enrollment restrictions and enrollment status page assignments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/view-enrollment-reports</link>
+      <pubDate>Mon, 20 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Mon, 20 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
+      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
       <pubDate>Sat, 18 Oct 2025 02:47:00 GMT</pubDate>
     </item>
     <item>
@@ -261,15 +279,15 @@
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
-      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Filter reports and troubleshooting in Microsoft Intune - Microsoft Intune</title>
       <description>Use the device and app filter reports to get more information on successfully applied filters. Learn the effect of include and exclude filters in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-reports-troubleshoot</link>
+      <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
       <pubDate>Tue, 14 Oct 2025 17:52:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Manually Add the Windows 10 Company Portal App - Microsoft Intune</title>
       <description>Learn how your workforce can manually add the Windows 10 Company Portal app to their PC from the Microsoft Store.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/store-apps-company-portal-app</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerShell Scripts for Remediations - Microsoft Intune</title>
-      <description>PowerShell script reference for Remediations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/powershell-scripts-remediation</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Web Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about adding web apps (client-server applications) to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/web-app</link>
-      <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>High-Level Architecture for Microsoft Intune - Microsoft Intune</title>
-      <description>This reference architecture shows options for integrating Microsoft Intune in your Azure environment with Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/high-level-architecture</link>
       <pubDate>Thu, 09 Oct 2025 17:35:00 GMT</pubDate>
     </item>
   </channel>
