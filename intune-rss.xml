@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 22 Oct 2025 06:02:34 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2025 06:02:34 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2025 12:02:36 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2025 12:02:36 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune product and capabilities documentation</title>
+      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
@@ -123,6 +129,12 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
+      <title>Intune Data Platform Schema - Microsoft Intune</title>
+      <description>Review the Intune data platform schema for device query and inventory, including supported properties and data types in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/data-platform-schema</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Admin checklist for software updates on BYOD in Microsoft Intune - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updated for BYOD and personally owned devices using Microsoft Intune. See tasks and settings that can manage updates on personal devices on Android and iOS/iPadOS platforms.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-personal-byod</link>
@@ -132,6 +144,12 @@
       <title>Anomaly Detection in Endpoint Analytics - Microsoft Intune</title>
       <description>Learn how anomaly detection in Microsoft Intune endpoint analytics proactively monitors device health, detects issues, and provides actionable insights for IT admins.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/anomaly-detection</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/apple-settings-catalog-configurations</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -189,15 +207,21 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Endpoint Analytics - Microsoft Intune</title>
       <description>Step-by-step guide to configure endpoint analytics in Microsoft Intune, enroll devices, and manage data collection policies for device insights.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/configure</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
+      <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/data-collection</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -243,12 +267,6 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>Advanced Analytics Troubleshooting and Frequently Asked Questions - Microsoft Intune</title>
-      <description>Find troubleshooting steps and FAQs for Microsoft Intune Advanced Analytics, including endpoint analytics issues, data refresh, and dashboard customization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-troubleshooting-faqs</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune Reports - Microsoft Intune</title>
       <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
@@ -258,6 +276,12 @@
       <title>Intune Remote Action: Rotate FileVault Recovery Key - Microsoft Intune</title>
       <description>Learn how to rotate the FileVault recovery key with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rotate-filevault</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Advanced Analytics Troubleshooting and Frequently Asked Questions - Microsoft Intune</title>
+      <description>Find troubleshooting steps and FAQs for Microsoft Intune Advanced Analytics, including endpoint analytics issues, data refresh, and dashboard customization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-troubleshooting-faqs</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -357,6 +381,12 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device Query for Multiple Devices in Microsoft Intune - Microsoft Intune</title>
       <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/device-query-multiple-devices</link>
@@ -444,6 +474,18 @@
       <title>Battery Health Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
       <description>Learn how the battery health report in Microsoft Intune Advanced Analytics provides insights into device battery performance, degradation, and proactive replacement strategies.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/battery-health</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-android</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -537,12 +579,6 @@
       <pubDate>Thu, 16 Oct 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune product and capabilities documentation</title>
-      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Bulk enrollment for Windows devices - Microsoft Intune</title>
       <description>Create a bulk enrollment package for Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-bulk-enroll</link>
@@ -570,42 +606,6 @@
       <title>Common Education Windows Update configuration - Microsoft Intune</title>
       <description>Learn about common Windows Update configuration used by Education organizations in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-windows-update</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common Education Start menu configuration - Microsoft Intune</title>
-      <description>Learn about common Start menu configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-start-menu</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common Education device restrictions configuration - Microsoft Intune</title>
-      <description>Learn about common device restrictions configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-device-restrictions</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
-      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common Education privacy configuration - Microsoft Intune</title>
-      <description>Learn about common privacy configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-windows-privacy</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plan Education device grouping and targeting - Microsoft Intune</title>
-      <description>Plan how you'll group devices and users and target policies and applications.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/plan-grouping</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
   </channel>
