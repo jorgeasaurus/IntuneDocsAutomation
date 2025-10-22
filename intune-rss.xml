@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 22 Oct 2025 12:02:36 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2025 12:02:36 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2025 18:02:40 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2025 18:02:40 GMT</lastBuildDate>
+    <item>
+      <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
+      <pubDate>Wed, 22 Oct 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Domain join profile settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create a domain join device configuration profile for Microsoft Entra hybrid joined devices. Use this profile to deploy on-premises Active Directory domain information to devices provisioned with Windows Autopilot and Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/domain-join-configure</link>
+      <pubDate>Wed, 22 Oct 2025 14:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune product and capabilities documentation</title>
       <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
@@ -381,18 +393,6 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Query for Multiple Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/device-query-multiple-devices</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enhanced Device Timeline in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover the enhanced device timeline in Microsoft Intune endpoint analytics for detailed device event history and advanced troubleshooting.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/enhanced-device-timeline</link>
@@ -408,6 +408,18 @@
       <title>Restart Frequency in Endpoint Analytics - Microsoft Intune</title>
       <description>Analyze restart frequency in Microsoft Intune endpoint analytics to identify device reboot patterns, troubleshoot issues, and improve reliability.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/restart-frequency</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/device-query-multiple-devices</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Avoid policy conflicts - Microsoft Intune</title>
       <description>Learn how to avoid policy conflicts when creating and deploying new policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/manage-avoid-policy-conflicts</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Intune for Education? - Microsoft Intune</title>
-      <description>Learn about Intune for Education and how it is different from the full Intune management experience.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/introduction-intune-education</link>
-      <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common Education Windows Update configuration - Microsoft Intune</title>
-      <description>Learn about common Windows Update configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-windows-update</link>
       <pubDate>Wed, 15 Oct 2025 17:34:00 GMT</pubDate>
     </item>
   </channel>
