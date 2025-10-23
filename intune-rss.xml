@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 23 Oct 2025 05:18:34 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2025 05:18:34 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 11:38:55 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 11:38:55 GMT</lastBuildDate>
     <item>
       <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
       <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
@@ -429,18 +429,6 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>What is Microsoft Intune Advanced Analytics - Microsoft Intune</title>
-      <description>Discover what Microsoft Intune Advanced Analytics is, how it extends endpoint analytics with advanced device insights, proactive troubleshooting, and enhanced reporting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Scopes in Endpoint Analytics - Microsoft Intune</title>
-      <description>Learn how to use device scopes in Microsoft Intune endpoint analytics with scope tags for custom device reporting and targeted insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/device-scopes</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View Software Update Reports for Apple Devices - Microsoft Intune</title>
       <description>Track Apple device update status in real time with Intune's declarative software update reporting. Learn how Microsoft Intune surfaces update changes directly from managed Apple devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/updates/apple-reports</link>
@@ -453,9 +441,15 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
-      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/resource-performance-report</link>
+      <title>What is Microsoft Intune Advanced Analytics - Microsoft Intune</title>
+      <description>Discover what Microsoft Intune Advanced Analytics is, how it extends endpoint analytics with advanced device insights, proactive troubleshooting, and enhanced reporting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Scopes in Endpoint Analytics - Microsoft Intune</title>
+      <description>Learn how to use device scopes in Microsoft Intune endpoint analytics with scope tags for custom device reporting and targeted insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/device-scopes</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -483,6 +477,12 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
+      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
+      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/resource-performance-report</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Remote Device Action: Rotate local admin password - Microsoft Intune</title>
       <description>Learn how to rotate the local admin password on Windows and macOS devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rotate-local-admin-password</link>
@@ -507,12 +507,6 @@
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Pause Config Refresh - Microsoft Intune</title>
-      <description>Learn how to temporarily pause policy enforcement on Windows 11 devices using Intune's Pause Config Refresh remote action to support troubleshooting and manual changes.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/pause-config-refresh</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Microsoft Intune policies to manage macOS software updates - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/updates/software-updates-macos</link>
@@ -522,6 +516,12 @@
       <title>Remote Device Action: Play Lost Mode Sound - Microsoft Intune</title>
       <description>Learn how to use the Play lost device sound remote action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-play-lost-mode-sound</link>
+      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Pause Config Refresh - Microsoft Intune</title>
+      <description>Learn how to temporarily pause policy enforcement on Windows 11 devices using Intune's Pause Config Refresh remote action to support troubleshooting and manual changes.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/pause-config-refresh</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
     <item>
