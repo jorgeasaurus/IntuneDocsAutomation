@@ -6,13 +6,37 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 25 Oct 2025 05:22:31 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2025 05:22:31 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2025 11:10:22 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Oct 2025 11:10:22 GMT</lastBuildDate>
     <item>
       <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
       <pubDate>Fri, 24 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Fri, 24 Oct 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased device security - Microsoft Intune</title>
+      <description>Secure devices with Microsoft Intune to support your Zero Trust journey.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-devices</link>
+      <pubDate>Fri, 24 Oct 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased tenant security - Microsoft Intune</title>
+      <description>Secure your tenant with Microsoft Intune to support your Zero Trust journey.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-tenant</link>
+      <pubDate>Fri, 24 Oct 2025 14:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased data security - Microsoft Intune</title>
+      <description>Secure data on devices with Microsoft Intune to support your Zero Trust journey.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-data</link>
+      <pubDate>Fri, 24 Oct 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
       <title>In development - Microsoft Intune</title>
@@ -411,6 +435,12 @@
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
+      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Android Enterprise security configurations for corporate-owned fully managed profiles - Microsoft Intune</title>
       <description>Review example configurations of basic, enhanced, and high security for devices with Android Enterprise corporate-owned fully managed profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/android-fully-managed-security-configurations</link>
@@ -420,12 +450,6 @@
       <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
       <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
@@ -465,15 +489,15 @@
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>What is Microsoft Intune - Microsoft Intune</title>
-      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Monitor Microsoft Defender for Endpoint with Microsoft Intune - Microsoft Intune</title>
       <description>Monitor Microsoft Defender for Endpoint with Intune, including device compliance and onboarding status.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-defender-monitor</link>
+      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is Microsoft Intune - Microsoft Intune</title>
+      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
       <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Lost Mode - Microsoft Intune</title>
-      <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-lost-mode</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scores, Baselines, and Insights in Endpoint Analytics - Microsoft Intune</title>
-      <description>Understand endpoint analytics scores, baselines, and insights in Microsoft Intune to measure and improve device performance metrics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/scores</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for Android software updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/software-updates-guide-android</link>
-      <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Data Platform Schema - Microsoft Intune</title>
-      <description>Review the Intune data platform schema for device query and inventory, including supported properties and data types in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/data-platform-schema</link>
       <pubDate>Tue, 21 Oct 2025 20:29:00 GMT</pubDate>
     </item>
   </channel>
