@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 26 Oct 2025 11:09:16 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Oct 2025 11:09:16 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2025 17:10:16 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 17:10:16 GMT</lastBuildDate>
     <item>
       <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
@@ -171,6 +171,18 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
+      <title>Advanced Analytics Troubleshooting and Frequently Asked Questions - Microsoft Intune</title>
+      <description>Find troubleshooting steps and FAQs for Microsoft Intune Advanced Analytics, including endpoint analytics issues, data refresh, and dashboard customization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-troubleshooting-faqs</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-enterprise-app</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Deploy Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Understand the steps and phases for deploying Endpoint Privilege Management with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-deploy</link>
@@ -189,15 +201,9 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Advanced Analytics Troubleshooting and Frequently Asked Questions - Microsoft Intune</title>
-      <description>Find troubleshooting steps and FAQs for Microsoft Intune Advanced Analytics, including endpoint analytics issues, data refresh, and dashboard customization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-troubleshooting-faqs</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-enterprise-app</link>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -213,27 +219,21 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
       <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
-      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/resource-performance-report</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
       <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-troubleshoot-monitor</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
+      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/resource-performance-report</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -249,18 +249,6 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploying Advanced Analytics - Microsoft Intune</title>
-      <description>Learn how to deploy Microsoft Intune Advanced Analytics, enable advanced analytics features, and integrate endpoint analytics for proactive device management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-deploy</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
-      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-plan</link>
@@ -273,9 +261,15 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Query for Multiple Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/device-query-multiple-devices</link>
+      <title>Deploying Advanced Analytics - Microsoft Intune</title>
+      <description>Learn how to deploy Microsoft Intune Advanced Analytics, enable advanced analytics features, and integrate endpoint analytics for proactive device management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-deploy</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
+      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -288,6 +282,12 @@
       <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
       <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/device-query-multiple-devices</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -435,6 +435,12 @@
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
+      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Android Enterprise security configurations for corporate-owned fully managed profiles - Microsoft Intune</title>
       <description>Review example configurations of basic, enhanced, and high security for devices with Android Enterprise corporate-owned fully managed profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/android-fully-managed-security-configurations</link>
@@ -444,12 +450,6 @@
       <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
       <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
     <item>
