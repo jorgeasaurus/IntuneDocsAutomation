@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 28 Oct 2025 05:22:37 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Oct 2025 05:22:37 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2025 11:18:09 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:18:09 GMT</lastBuildDate>
     <item>
       <title>Collect device hardware info with the properties catalog - Microsoft Intune</title>
       <description>Use the properties catalog in Microsoft Intune view and collect enhanced device hardware info on Windows devices you manage with Intune. You can collect info like BIOS version, TPM status, disk info, memory details, and network adapter configurations. Use this information to get deeper visibility into your device inventory and troubleshoot issues.</description>
@@ -18,6 +18,12 @@
       <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
       <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-cleanup-rules</link>
+      <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-android</link>
       <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -147,15 +153,15 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: New Remote Assistance Session - Microsoft Intune</title>
-      <description>Learn how to use the the new remote assistance session action in Intune to offer support to your users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-assist</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Delete - Microsoft Intune</title>
       <description>Learn how to delete devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-delete</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: New Remote Assistance Session - Microsoft Intune</title>
+      <description>Learn how to use the the new remote assistance session action in Intune to offer support to your users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-assist</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -225,10 +231,22 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
+      <title>iOS/iPadOS device settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Add, configure, or create settings on iOS/iPadOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-ios</link>
+      <pubDate>Mon, 27 Oct 2025 17:39:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
       <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-kiosk-enroll</link>
       <pubDate>Mon, 27 Oct 2025 17:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
+      <pubDate>Mon, 27 Oct 2025 14:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Create filters in Microsoft Intune - Microsoft Intune</title>
@@ -588,24 +606,6 @@
       <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
       <description>See a list of all the settings you can use when setting compliance for your Windows, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
-      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baselines</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure device configuration profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or configure a device configuration profile in Microsoft Intune. Select the platform type, configure the settings, and add a scope tag. Learn more about applicability rules, and the policy refresh cycle times.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-create</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
