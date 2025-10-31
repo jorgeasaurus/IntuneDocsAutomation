@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 31 Oct 2025 06:02:18 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2025 06:02:18 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2025 12:02:35 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2025 12:02:35 GMT</lastBuildDate>
     <item>
       <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
@@ -15,28 +15,40 @@
       <pubDate>Thu, 30 Oct 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Tue, 28 Oct 2025 17:36:00 GMT</pubDate>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure Microsoft Intune for increased device security - Microsoft Intune</title>
       <description>Secure devices with Microsoft Intune to support your Zero Trust journey.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-devices</link>
-      <pubDate>Tue, 28 Oct 2025 04:53:00 GMT</pubDate>
+      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure Microsoft Intune for increased tenant security - Microsoft Intune</title>
       <description>Secure your tenant with Microsoft Intune to support your Zero Trust journey.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-tenant</link>
-      <pubDate>Tue, 28 Oct 2025 04:53:00 GMT</pubDate>
+      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure Microsoft Intune for increased data security - Microsoft Intune</title>
       <description>Secure data on devices with Microsoft Intune to support your Zero Trust journey.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-data</link>
-      <pubDate>Tue, 28 Oct 2025 04:53:00 GMT</pubDate>
+      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Intune sends to Google - Microsoft Intune</title>
+      <description>List of data that Intune sends to Google when Android enterprise device management is enabled with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-intune-sends-to-google</link>
+      <pubDate>Thu, 30 Oct 2025 17:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Tue, 28 Oct 2025 17:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Collect device hardware info with the properties catalog - Microsoft Intune</title>
@@ -301,12 +313,6 @@
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
       <pubDate>Fri, 24 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
-      <pubDate>Fri, 24 Oct 2025 14:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
@@ -600,12 +606,6 @@
       <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
-      <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>See a list of all the settings you can use when setting compliance for your Windows, Windows Holographic, and Surface Hub devices in Microsoft Intune. Check for compliance on the minimum and maximum operating system, set password restrictions and length, check for partner anti-virus (AV) solutions, enable encryption on data storage, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-windows</link>
       <pubDate>Wed, 22 Oct 2025 20:36:00 GMT</pubDate>
     </item>
   </channel>
