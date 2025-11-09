@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 09 Nov 2025 06:02:12 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Nov 2025 06:02:12 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 12:02:13 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 12:02:13 GMT</lastBuildDate>
     <item>
       <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
@@ -147,15 +147,15 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Lost Mode - Microsoft Intune</title>
-      <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-lost-mode</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Delete - Microsoft Intune</title>
       <description>Learn how to delete devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-delete</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Lost Mode - Microsoft Intune</title>
+      <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-lost-mode</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -165,15 +165,15 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Run Remediation - Microsoft Intune</title>
-      <description>Learn how to initiate on demand remediations with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-run-remediation</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Remove Passcode - Microsoft Intune</title>
       <description>Learn how to remove a passcode with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-passcode</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Run Remediation - Microsoft Intune</title>
+      <description>Learn how to initiate on demand remediations with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-run-remediation</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -189,6 +189,12 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
+      <title>Remote Device Action: Full Scan - Microsoft Intune</title>
+      <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-full-scan</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Remote Device Action: Shutdown - Microsoft Intune</title>
       <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-shutdown</link>
@@ -198,12 +204,6 @@
       <title>Remote Device Action: New Remote Assistance Session - Microsoft Intune</title>
       <description>Learn how to use the the new remote assistance session action in Intune to offer support to your users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-assist</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Full Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-full-scan</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -339,15 +339,15 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
-      <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What is Microsoft Intune Advanced Analytics - Microsoft Intune</title>
       <description>Discover what Microsoft Intune Advanced Analytics is, how it extends endpoint analytics with advanced device insights, proactive troubleshooting, and enhanced reporting.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
+      <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -357,9 +357,21 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
+      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
+      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Managing Elevation Settings for Endpoint Privilege Management - Microsoft Intune</title>
       <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-elevation-settings</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-plan</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -387,27 +399,27 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-plan</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
       <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-fundamentals</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Anomaly Detection in Endpoint Analytics - Microsoft Intune</title>
-      <description>Learn how anomaly detection in Microsoft Intune endpoint analytics proactively monitors device health, detects issues, and provides actionable insights for IT admins.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/anomaly-detection</link>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
       <title>Use Endpoint Privilege Management to transition users from administrator to standard user - Microsoft Intune</title>
       <description>Understand the steps and phases for using Endpoint Privilege Management to transition users from administrators to standard users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-transition-administrator-to-standard-user</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anomaly Detection in Endpoint Analytics - Microsoft Intune</title>
+      <description>Learn how anomaly detection in Microsoft Intune endpoint analytics proactively monitors device health, detects issues, and provides actionable insights for IT admins.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/anomaly-detection</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -513,12 +525,6 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
-      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
       <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/resource-performance-report</link>
@@ -564,12 +570,6 @@
       <title>Enhanced Device Timeline in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover the enhanced device timeline in Microsoft Intune endpoint analytics for detailed device event history and advanced troubleshooting.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/enhanced-device-timeline</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
