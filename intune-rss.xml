@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 10 Nov 2025 05:59:40 GMT</pubDate>
-    <lastBuildDate>Mon, 10 Nov 2025 05:59:40 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Nov 2025 11:35:57 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Nov 2025 11:35:57 GMT</lastBuildDate>
     <item>
       <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
@@ -129,6 +129,12 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
+      <title>Remote Device Action: Retire - Microsoft Intune</title>
+      <description>Learn how to retire device using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-retire</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Remote Device Action: Sync - Microsoft Intune</title>
       <description>Learn how to use the device sync remote action in Intune to apply policy, app, and configuration updates to managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-sync</link>
@@ -138,12 +144,6 @@
       <title>Remote Device Action: Send Custom Notifications - Microsoft Intune</title>
       <description>Use Intune to create and send custom notifications to users of iOS/iPadOS and Android devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/custom-notifications</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Retire - Microsoft Intune</title>
-      <description>Learn how to retire device using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-retire</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -189,15 +189,15 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Full Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-full-scan</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Shutdown - Microsoft Intune</title>
       <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-shutdown</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Full Scan - Microsoft Intune</title>
+      <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-full-scan</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -357,12 +357,6 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
-      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Managing Elevation Settings for Endpoint Privilege Management - Microsoft Intune</title>
       <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-elevation-settings</link>
@@ -405,12 +399,6 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Endpoint Privilege Management to transition users from administrator to standard user - Microsoft Intune</title>
       <description>Understand the steps and phases for using Endpoint Privilege Management to transition users from administrators to standard users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-transition-administrator-to-standard-user</link>
@@ -429,27 +417,27 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
-      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Plan for Advanced Analytics - Microsoft Intune</title>
       <description>Plan Microsoft Intune Advanced Analytics by understanding requirements, prerequisites, and best practices for endpoint analytics and advanced reporting.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-plan</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Monitor issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
-      <description>Monitor reports for certificates issued via Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-monitor</link>
+      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
+      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
       <title>Frequently asked questions for Endpoint Privilege Management - Microsoft Intune</title>
       <description>A list of frequently asked questions for customers deploying Microsoft Intune Endpoint Privilege Management</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-frequently-asked-questions</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
+      <description>Monitor reports for certificates issued via Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-monitor</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -513,15 +501,21 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device Scopes in Endpoint Analytics - Microsoft Intune</title>
       <description>Learn how to use device scopes in Microsoft Intune endpoint analytics with scope tags for custom device reporting and targeted insights.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/device-scopes</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
+      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
+      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -570,6 +564,12 @@
       <title>Enhanced Device Timeline in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover the enhanced device timeline in Microsoft Intune endpoint analytics for detailed device event history and advanced troubleshooting.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/enhanced-device-timeline</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
