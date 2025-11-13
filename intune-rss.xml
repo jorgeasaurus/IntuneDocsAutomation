@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 13 Nov 2025 05:12:37 GMT</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2025 05:12:37 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 12:02:33 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 12:02:33 GMT</lastBuildDate>
+    <item>
+      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>Use Microsoft Intune Security Tasks to manage threats and vulnerabilities identified by Microsoft Defender for Endpoint.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/atp-manage-vulnerabilities</link>
+      <pubDate>Thu, 13 Nov 2025 09:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
@@ -24,6 +30,12 @@
       <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
       <description>Enable Windows backup and restore in Intune for employees or students.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
+      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported filter device and app properties &amp; operators in Microsoft Intune - Microsoft Intune</title>
+      <description>When using filters, get more information on the device properties, supported operators, and supported Windows OS SKUs, including examples. Use these features to create rule expressions in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
     <item>
@@ -72,6 +84,12 @@
       <title>Configure the Microsoft Managed Home Screen App - Microsoft Intune</title>
       <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-managed-home-screen-app</link>
+      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-android</link>
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
     <item>
@@ -180,12 +198,6 @@
       <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
       <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-cleanup-rules</link>
-      <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
-      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-android</link>
       <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
-      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
-      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/resource-performance-report</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
   </channel>
