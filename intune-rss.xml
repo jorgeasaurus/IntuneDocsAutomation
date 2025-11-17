@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 17 Nov 2025 06:01:43 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 06:01:43 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 11:32:37 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 11:32:37 GMT</lastBuildDate>
     <item>
       <title>Microsoft Intune Reports - Microsoft Intune</title>
       <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
@@ -93,15 +93,15 @@
       <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune - Microsoft Intune</title>
-      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
-      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune - Microsoft Intune</title>
+      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
       <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
     </item>
     <item>
@@ -315,15 +315,15 @@
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Reset Passcode - Microsoft Intune</title>
-      <description>Learn how to reset a passcode with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-passcode-reset</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Retire - Microsoft Intune</title>
       <description>Learn how to retire device using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-retire</link>
+      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Reset Passcode - Microsoft Intune</title>
+      <description>Learn how to reset a passcode with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-passcode-reset</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
     <item>
@@ -549,12 +549,6 @@
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
-      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deployment models for Microsoft Intune cloud PKI - Microsoft Intune</title>
       <description>Describes the deployment options for Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-deployment</link>
@@ -570,12 +564,6 @@
       <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
       <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-byoca</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
     <item>
@@ -606,6 +594,18 @@
       <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-known-issues</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan for Advanced Analytics - Microsoft Intune</title>
+      <description>Plan Microsoft Intune Advanced Analytics by understanding requirements, prerequisites, and best practices for endpoint analytics and advanced reporting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-plan</link>
+      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
+      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
   </channel>
