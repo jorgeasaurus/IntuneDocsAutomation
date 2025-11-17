@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 17 Nov 2025 11:32:37 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 11:32:37 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 18:02:16 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 18:02:16 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
+      <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-compatibility-reports</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune Reports - Microsoft Intune</title>
       <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
@@ -15,21 +39,9 @@
       <pubDate>Fri, 14 Nov 2025 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Fri, 14 Nov 2025 23:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Fri, 14 Nov 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Fri, 14 Nov 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-known-issues</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plan for Advanced Analytics - Microsoft Intune</title>
-      <description>Plan Microsoft Intune Advanced Analytics by understanding requirements, prerequisites, and best practices for endpoint analytics and advanced reporting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/advanced-analytics-plan</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
-      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
   </channel>
