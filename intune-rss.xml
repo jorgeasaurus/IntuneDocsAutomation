@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 18 Nov 2025 06:02:23 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2025 06:02:23 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 11:32:32 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 11:32:32 GMT</lastBuildDate>
     <item>
       <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
@@ -39,6 +39,18 @@
       <pubDate>Mon, 17 Nov 2025 21:38:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - Get Started With MAM - Microsoft Intune</title>
+      <description>Get started with Intune before incorporating Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase3</link>
+      <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - App Participation Features - Microsoft Intune</title>
+      <description>Understand App participation features when incorporating Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase7</link>
+      <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
       <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
@@ -51,9 +63,33 @@
       <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune product and capabilities documentation</title>
+      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for iOS Developer Guide - Intune SDK Integration Into Your iOS App - Microsoft Intune</title>
+      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Intune SDK integration into your iOS app</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase3</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
       <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-compatibility-reports</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wrap iOS Apps With the Intune App Wrapping Tool - Microsoft Intune</title>
+      <description>Learn how to wrap your iOS apps without changing the code of the app itself. Prepare the apps so you can apply mobile app management policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-wrapper-prepare-ios</link>
       <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
     </item>
     <item>
@@ -570,42 +606,6 @@
       <title>Deployment models for Microsoft Intune cloud PKI - Microsoft Intune</title>
       <description>Describes the deployment options for Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-deployment</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android FOTA Updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/fota-updates-android</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
-      <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-configure-byoca</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>Understand the steps and phases for deploying Endpoint Privilege Management with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-deploy</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
-      <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-fundamentals</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Endpoint Privilege Management to transition users from administrator to standard user - Microsoft Intune</title>
-      <description>Understand the steps and phases for using Endpoint Privilege Management to transition users from administrators to standard users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-transition-administrator-to-standard-user</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anomaly Detection in Endpoint Analytics - Microsoft Intune</title>
-      <description>Learn how anomaly detection in Microsoft Intune endpoint analytics proactively monitors device health, detects issues, and provides actionable insights for IT admins.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/anomaly-detection</link>
       <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
   </channel>
