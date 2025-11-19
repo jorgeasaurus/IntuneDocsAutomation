@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 18 Nov 2025 17:21:20 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2025 17:21:20 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 23:15:41 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 23:15:41 GMT</lastBuildDate>
+    <item>
+      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-deploy</link>
+      <pubDate>Tue, 18 Nov 2025 22:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discovered Apps - Microsoft Intune</title>
+      <description>Understand details about the detected apps that Intune found on a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
+      <pubDate>Tue, 18 Nov 2025 22:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Tue, 18 Nov 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mobile-threat-defense</link>
+      <pubDate>Tue, 18 Nov 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iVerify Enterprise Mobile Threat Defense with Intune - Microsoft Intune</title>
+      <description>Set up iVerify Enterprise Mobile Security with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/iverify-mobile-threat-defense-connector</link>
+      <pubDate>Tue, 18 Nov 2025 18:41:00 GMT</pubDate>
+    </item>
     <item>
       <title>App Protection Policies Overview - Microsoft Intune</title>
       <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
@@ -36,12 +66,6 @@
       <title>Add Web Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding web apps (client-server applications) to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/web-app</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -169,12 +193,6 @@
       <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
       <pubDate>Thu, 13 Nov 2025 23:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-deploy</link>
-      <pubDate>Thu, 13 Nov 2025 21:32:00 GMT</pubDate>
     </item>
     <item>
       <title>Include and Exclude App Assignments in Microsoft Intune - Microsoft Intune</title>
@@ -589,24 +607,6 @@
       <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
       <pubDate>Mon, 27 Oct 2025 08:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
-      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
-      <pubDate>Fri, 24 Oct 2025 20:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
-      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-cloud-pki-overview</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Query in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/analytics/device-query</link>
-      <pubDate>Thu, 23 Oct 2025 22:39:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
