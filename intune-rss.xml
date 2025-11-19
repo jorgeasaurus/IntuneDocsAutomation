@@ -6,13 +6,109 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 19 Nov 2025 11:49:47 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 11:49:47 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 17:12:38 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 17:12:38 GMT</lastBuildDate>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zero Trust with Microsoft Intune - Microsoft Intune</title>
+      <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>Use Microsoft Intune Security Tasks to manage threats and vulnerabilities identified by Microsoft Defender for Endpoint.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/atp-manage-vulnerabilities</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
+      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Wed, 19 Nov 2025 03:43:00 GMT</pubDate>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about Policy Configuration Agent and set it up</title>
+      <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Started with the Device Offboarding Agent</title>
+      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Admin Tasks - Microsoft Intune</title>
+      <description>Use the centralized Admin tasks view in Microsoft Intune to manage tasks across capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Security Copilot agents in Microsoft Intune</title>
+      <description>Learn about Security Copilot agents in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/security-copilot-agents-intune</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Policy Configuration Agent to create policies</title>
+      <description>Learn how to use the Policy Configuration Agent in Microsoft Intune to create policies. You can create policies on files you uploaded, natural language prompts, or industry baselines. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent-use</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot Agents in Intune</title>
+      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Device Offboarding Agent</title>
+      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
+      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Change Review Agent Overview</title>
+      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Remediation Agent Overview and Set Up</title>
+      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities</title>
+      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent-use</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Change Review Agent</title>
+      <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent-use</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
       <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
@@ -69,33 +165,9 @@
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Benefits of Intune App SDK - Microsoft Intune</title>
-      <description>The Intune App SDK is available for both the iOS and Android platforms, and enables mobile app management features with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - MAM Integration Essentials - Microsoft Intune</title>
-      <description>Understand MAM integration essentials to incorporate Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase4</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
       <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for iOS Developer Guide - Web-View Features - Microsoft Intune</title>
-      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -213,12 +285,6 @@
       <pubDate>Thu, 13 Nov 2025 23:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
-      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
-      <pubDate>Thu, 13 Nov 2025 23:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Include and Exclude App Assignments in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how you can use Microsoft Intune to include and exclude app assignments.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-inc-exl-assignments</link>
@@ -247,12 +313,6 @@
       <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
       <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
-      <description>Use Microsoft Intune Security Tasks to manage threats and vulnerabilities identified by Microsoft Defender for Endpoint.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/atp-manage-vulnerabilities</link>
-      <pubDate>Thu, 13 Nov 2025 09:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Connect Intune account to managed Google Play account - Microsoft Intune</title>
@@ -546,66 +606,6 @@
       <title>Remote Device Action: BitLocker Key Rotation - Microsoft Intune</title>
       <description>Learn how to rotate the BitLocker recovery key with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rotate-bitlocker-keys</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Actions – Wipe, Lock, Locate, and More - Microsoft Intune</title>
-      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Remove Apps and Configuration - Microsoft Intune</title>
-      <description>Learn how apps and configurations can be removed temporarily, then restored automatically or manually using the Remove apps and configuration device action with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/remove-apps-config</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Remote Action: Rotate FileVault Recovery Key - Microsoft Intune</title>
-      <description>Learn how to rotate the FileVault recovery key with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rotate-filevault</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Rotate local admin password - Microsoft Intune</title>
-      <description>Learn how to rotate the local admin password on Windows and macOS devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rotate-local-admin-password</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Pause Config Refresh - Microsoft Intune</title>
-      <description>Learn how to temporarily pause policy enforcement on Windows 11 devices using Intune's Pause Config Refresh remote action to support troubleshooting and manual changes.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/pause-config-refresh</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Remote Lock - Microsoft Intune</title>
-      <description>Use the remote lock action in Microsoft Intune to lock a managed device that has a passcode or PIN.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-lock</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Rename Device - Microsoft Intune</title>
-      <description>Learn how to use the Rename device remote action in Microsoft Intune to update the device name shown in the admin center. Useful for standardizing naming conventions, managing shared devices, and improving inventory clarity.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rename</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Autopilot Reset - Microsoft Intune</title>
-      <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-autopilot-reset</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Fresh Start - Microsoft Intune</title>
-      <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-fresh-start</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Restart - Microsoft Intune</title>
-      <description>Learn how to restart managed devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
   </channel>
