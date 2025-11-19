@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 19 Nov 2025 05:25:09 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 05:25:09 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 11:49:47 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 11:49:47 GMT</lastBuildDate>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -69,9 +69,33 @@
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
+      <title>Benefits of Intune App SDK - Microsoft Intune</title>
+      <description>The Intune App SDK is available for both the iOS and Android platforms, and enables mobile app management features with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - MAM Integration Essentials - Microsoft Intune</title>
+      <description>Understand MAM integration essentials to incorporate Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase4</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
       <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for iOS Developer Guide - Web-View Features - Microsoft Intune</title>
+      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -583,30 +607,6 @@
       <description>Learn how to restart managed devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-restart</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS device settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Add, configure, or create settings on iOS/iPadOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-ios</link>
-      <pubDate>Mon, 27 Oct 2025 17:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
-      <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-kiosk-enroll</link>
-      <pubDate>Mon, 27 Oct 2025 17:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Microsoft Intune licenses - Microsoft Intune</title>
-      <description>Assign licenses to users so they can enroll in Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/licenses-assign</link>
-      <pubDate>Mon, 27 Oct 2025 08:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add users to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
-      <pubDate>Mon, 27 Oct 2025 08:41:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
