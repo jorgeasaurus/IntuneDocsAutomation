@@ -6,8 +6,62 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 20 Nov 2025 00:05:20 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 00:05:20 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 05:12:33 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 05:12:33 GMT</lastBuildDate>
+    <item>
+      <title>Create device platform restrictions - Microsoft Intune</title>
+      <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/create-device-platform-restrictions</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment Filter Performance Tips for Intune - Microsoft Intune</title>
+      <description>Optimize Microsoft Intune performance with assignment filters. Learn to use virtual groups, reuse groups, and apply filters effectively. Improve policy deployment speed with incremental group changes, and use assignment filters to include and exclude.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-performance-recommendations</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configuration Policies for Intune App SDK Managed Apps - Microsoft Intune</title>
+      <description>Learn how to configure policies for Intune App SDK managed apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-managed-app</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment filter reports &amp; troubleshooting - Microsoft Intune</title>
+      <description>Learn how to use assignment filter reports to troubleshoot policies in Microsoft Intune. View filter evaluation results, resolve conflicts, and understand include vs. exclude modes.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-reports-troubleshoot</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
+      <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Wipe - Microsoft Intune</title>
+      <description>Learn how to wipe, or factory reset, devices with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-wipe</link>
+      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Started with the Device Offboarding Agent</title>
+      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
+      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Device Offboarding Agent</title>
+      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
+      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Change Review Agent Overview</title>
+      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
+      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
       <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
@@ -51,12 +105,6 @@
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Started with the Device Offboarding Agent</title>
-      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Admin Tasks - Microsoft Intune</title>
       <description>Use the centralized Admin tasks view in Microsoft Intune to manage tasks across capabilities.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
@@ -81,21 +129,9 @@
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the Device Offboarding Agent</title>
-      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
       <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Change Review Agent Overview</title>
-      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
@@ -363,12 +399,6 @@
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create filters in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn more about policy assignment filters, and see the steps to create, update, or delete a filter in Microsoft Intune. Create an assignment filter for managed devices or managed apps scenarios.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
       <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
@@ -483,12 +513,6 @@
       <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Action: Wipe - Microsoft Intune</title>
-      <description>Learn how to wipe, or factory reset, devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-wipe</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Disable Activation Lock - Microsoft Intune</title>
       <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-activation-lock-disable</link>
@@ -582,30 +606,6 @@
       <title>Remote Device Action: New Remote Assistance Session - Microsoft Intune</title>
       <description>Learn how to use the the new remote assistance session action in Intune to offer support to your users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remote-assist</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Play Lost Mode Sound - Microsoft Intune</title>
-      <description>Learn how to use the Play lost device sound remote action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-play-lost-mode-sound</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Quick Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender quick scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-quick-scan</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Remote Action: Deprovision - Microsoft Intune</title>
-      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-deprovision</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: BitLocker Key Rotation - Microsoft Intune</title>
-      <description>Learn how to rotate the BitLocker recovery key with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-rotate-bitlocker-keys</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
   </channel>
