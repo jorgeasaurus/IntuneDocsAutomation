@@ -6,8 +6,50 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 20 Nov 2025 17:52:30 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 17:52:30 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 23:47:24 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 23:47:24 GMT</lastBuildDate>
+    <item>
+      <title>Learn about Policy Configuration Agent and set it up</title>
+      <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Started with the Device Offboarding Agent</title>
+      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot Agents in Intune</title>
+      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Change Review Agent</title>
+      <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent-use</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Change Review Agent Overview</title>
+      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Remediation Agent Overview and Set Up</title>
+      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
+      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
+      <pubDate>Thu, 20 Nov 2025 18:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -51,28 +93,10 @@
       <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Started with the Device Offboarding Agent</title>
-      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
-      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use the Device Offboarding Agent</title>
       <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
       <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Change Review Agent Overview</title>
-      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
-      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
-      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
-      <pubDate>Wed, 19 Nov 2025 18:41:00 GMT</pubDate>
     </item>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
@@ -99,12 +123,6 @@
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about Policy Configuration Agent and set it up</title>
-      <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Admin Tasks - Microsoft Intune</title>
       <description>Use the centralized Admin tasks view in Microsoft Intune to manage tasks across capabilities.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
@@ -123,27 +141,9 @@
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot Agents in Intune</title>
-      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
       <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Change Review Agent</title>
-      <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent-use</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability Remediation Agent Overview and Set Up</title>
-      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
