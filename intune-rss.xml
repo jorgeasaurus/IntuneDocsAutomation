@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 21 Nov 2025 06:02:14 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2025 06:02:14 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 11:12:35 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:12:35 GMT</lastBuildDate>
     <item>
       <title>Learn about Policy Configuration Agent and set it up</title>
       <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
@@ -27,15 +27,15 @@
       <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the Change Review Agent</title>
-      <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent-use</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Change Review Agent Overview</title>
       <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
+      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Change Review Agent</title>
+      <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent-use</link>
       <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
@@ -57,6 +57,12 @@
       <pubDate>Thu, 20 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
+      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
+      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create device platform restrictions - Microsoft Intune</title>
       <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/create-device-platform-restrictions</link>
@@ -75,6 +81,18 @@
       <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
     </item>
     <item>
+      <title>Intune Data Warehouse Collections - Microsoft Intune</title>
+      <description>The Intune Data Warehouse collections provide details related to the Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/intune-data-warehouse-collections</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platforms and policy types supported by assignment filters - Microsoft Intune</title>
+      <description>Learn which apps, compliance policies, and device configuration profiles and their platforms support assignment filters in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Assignment filter reports &amp; troubleshooting - Microsoft Intune</title>
       <description>Learn how to use assignment filter reports to troubleshoot policies in Microsoft Intune. View filter evaluation results, resolve conflicts, and understand include vs. exclude modes.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-reports-troubleshoot</link>
@@ -84,6 +102,12 @@
       <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
       <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters</link>
+      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devices - Intune Data Warehouse - Microsoft Intune</title>
+      <description>Reference article for the Devices category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-devices</link>
       <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
     </item>
     <item>
@@ -381,12 +405,6 @@
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Supported filter device and app properties &amp; operators in Microsoft Intune - Microsoft Intune</title>
-      <description>When using filters, get more information on the device properties, supported operators, and supported Windows OS SKUs, including examples. Use these features to create rule expressions in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Learn about the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Microsoft Tunnel Gateway, a VPN server for Intune that runs on Linux. With Microsoft Tunnel, cloud-based devices you manage with Intune can reach your on-premises infrastructure.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-overview</link>
@@ -588,24 +606,6 @@
       <title>Remote Device Action: Update Cellular Data Plan - Microsoft Intune</title>
       <description>Learn how to update the cellular data plan for iOS/iPadOS devices that support eSIM with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/update-cellular-data-plan</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Run Remediation - Microsoft Intune</title>
-      <description>Learn how to initiate on demand remediations with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-run-remediation</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Logout current user - Microsoft Intune</title>
-      <description>Learn how to use the logout the current user from a Shared iPad with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-logout-user</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Remove User - Microsoft Intune</title>
-      <description>Learn how to remove a user from a Shared iPad with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-user</link>
       <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
   </channel>
