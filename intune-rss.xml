@@ -6,30 +6,126 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 21 Nov 2025 17:12:32 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2025 17:12:32 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 23:52:36 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 23:52:36 GMT</lastBuildDate>
+    <item>
+      <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
+      <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Collect Diagnostics - Microsoft Intune</title>
+      <description>Learn how to collect diagnostics with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/collect-diagnostics</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-plan</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
+      <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
+      <link>https://learn.microsoft.com/en-us/intune/analytics/work-from-anywhere</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>eSIM configuration of a download server - Microsoft Intune</title>
+      <description>Learn about configuration of an eSIM Download Server from Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration-download-server</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Actions – Wipe, Lock, Locate, and More - Microsoft Intune</title>
+      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Learn about Policy Configuration Agent and set it up</title>
       <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Get Started with the Device Offboarding Agent</title>
       <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot Agents in Intune</title>
-      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
+      <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
+      <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-troubleshoot-monitor</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Remediation Agent Overview and Set Up</title>
+      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Change Review Agent Overview</title>
       <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable autodiscovery of Intune enrollment server - Microsoft Intune</title>
+      <description>Simplify enrollment for users by enabling automatic discovery of the Intune enrollment server.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-create-cname</link>
+      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Windows Backup for Organizations - Microsoft Intune</title>
+      <description>Enable Windows backup and restore in Intune for employees or students.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
+      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View enrollment reports - Microsoft Intune</title>
+      <description>Monitor and troubleshoot issues with enrollment restrictions and enrollment status page assignments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/view-enrollment-reports</link>
+      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot Agents in Intune</title>
+      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
       <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
@@ -39,22 +135,10 @@
       <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Vulnerability Remediation Agent Overview and Set Up</title>
-      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
       <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
       <pubDate>Thu, 20 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Thu, 20 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Assignment filter properties and operators reference - Microsoft Intune</title>
@@ -273,12 +357,6 @@
       <pubDate>Mon, 17 Nov 2025 21:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Mon, 17 Nov 2025 21:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
@@ -396,12 +474,6 @@
       <title>Connect Intune account to managed Google Play account - Microsoft Intune</title>
       <description>Learn how to connect your Intune account to your Managed Google Play account.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/connect-intune-android-enterprise</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows Backup for Organizations in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
     <item>
@@ -535,78 +607,6 @@
       <description>Use the properties catalog in Microsoft Intune view and collect enhanced device hardware info on Windows devices you manage with Intune. You can collect info like BIOS version, TPM status, disk info, memory details, and network adapter configurations. Use this information to get deeper visibility into your device inventory and troubleshoot issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
       <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
-      <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-cleanup-rules</link>
-      <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use derived credentials for mobile devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Use a third-party partners derived credential as an authentication method for Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/derived-credentials</link>
-      <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-activation-lock-disable</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Find lost devices - Microsoft Intune</title>
-      <description>Locate lost or stolen devices by using the locate device feature in Microsoft Intune. Get details on security and privacy information when using the locate device action.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-locate</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Collect Diagnostics - Microsoft Intune</title>
-      <description>Learn how to collect diagnostics with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/collect-diagnostics</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Retire - Microsoft Intune</title>
-      <description>Learn how to retire device using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-retire</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Reset Passcode - Microsoft Intune</title>
-      <description>Learn how to reset a passcode with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-passcode-reset</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Sync - Microsoft Intune</title>
-      <description>Learn how to use the device sync remote action in Intune to apply policy, app, and configuration updates to managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-sync</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Send Custom Notifications - Microsoft Intune</title>
-      <description>Use Intune to create and send custom notifications to users of iOS/iPadOS and Android devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/custom-notifications</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Delete - Microsoft Intune</title>
-      <description>Learn how to delete devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-delete</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Lost Mode - Microsoft Intune</title>
-      <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-lost-mode</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Update Cellular Data Plan - Microsoft Intune</title>
-      <description>Learn how to update the cellular data plan for iOS/iPadOS devices that support eSIM with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/update-cellular-data-plan</link>
-      <pubDate>Mon, 27 Oct 2025 20:49:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
