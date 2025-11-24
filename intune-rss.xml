@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 24 Nov 2025 05:55:29 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 05:55:29 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 11:12:33 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:12:33 GMT</lastBuildDate>
     <item>
       <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
@@ -30,12 +30,6 @@
       <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-plan</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
@@ -102,6 +96,12 @@
       <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
       <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-troubleshoot-monitor</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
@@ -303,12 +303,6 @@
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Android App Protection Policy Settings - Microsoft Intune</title>
       <description>This article describes the app protection policy settings for Android devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
@@ -342,6 +336,12 @@
       <title>Microsoft Intune App SDK for iOS Developer Guide - Web-View Features - Microsoft Intune</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -393,12 +393,6 @@
       <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune App SDK for iOS Developer Guide - Intune SDK Integration Into Your iOS App - Microsoft Intune</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Intune SDK integration into your iOS app</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase3</link>
@@ -414,6 +408,12 @@
       <title>Wrap iOS Apps With the Intune App Wrapping Tool - Microsoft Intune</title>
       <description>Learn how to wrap your iOS apps without changing the code of the app itself. Prepare the apps so you can apply mobile app management policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-wrapper-prepare-ios</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
       <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
     </item>
     <item>
@@ -459,15 +459,15 @@
       <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune - Microsoft Intune</title>
-      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
-      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune - Microsoft Intune</title>
+      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
       <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
     </item>
     <item>
