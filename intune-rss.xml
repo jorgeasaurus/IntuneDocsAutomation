@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 24 Nov 2025 11:12:33 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 11:12:33 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 00:04:29 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 00:04:29 GMT</lastBuildDate>
+    <item>
+      <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
+      <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-status</link>
+      <pubDate>Mon, 24 Nov 2025 21:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Mon, 24 Nov 2025 21:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
+      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/updates/apple</link>
+      <pubDate>Mon, 24 Nov 2025 18:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Started with the Device Offboarding Agent</title>
+      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
+      <pubDate>Mon, 24 Nov 2025 15:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use Remote Help to Assist Users Authenticated by your Organization - Microsoft Intune</title>
       <description>With the Remote Help app, provide remote assistance to authenticated users who also run the Remote Help app.</description>
@@ -42,12 +66,6 @@
       <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/analytics/work-from-anywhere</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get Started with the Device Offboarding Agent</title>
-      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
@@ -589,24 +607,6 @@
       <description>Secure your tenant with Microsoft Intune to support your Zero Trust journey.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-tenant</link>
       <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased data security - Microsoft Intune</title>
-      <description>Secure data on devices with Microsoft Intune to support your Zero Trust journey.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-data</link>
-      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data Intune sends to Google - Microsoft Intune</title>
-      <description>List of data that Intune sends to Google when Android enterprise device management is enabled with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-intune-sends-to-google</link>
-      <pubDate>Thu, 30 Oct 2025 17:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Collect device hardware info with the properties catalog - Microsoft Intune</title>
-      <description>Use the properties catalog in Microsoft Intune view and collect enhanced device hardware info on Windows devices you manage with Intune. You can collect info like BIOS version, TPM status, disk info, memory details, and network adapter configurations. Use this information to get deeper visibility into your device inventory and troubleshoot issues.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
-      <pubDate>Mon, 27 Oct 2025 22:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
