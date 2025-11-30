@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 30 Nov 2025 06:02:21 GMT</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2025 06:02:21 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 11:52:38 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 11:52:38 GMT</lastBuildDate>
     <item>
       <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities</title>
       <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
@@ -66,6 +66,12 @@
       <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-plan</link>
+      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
@@ -129,21 +135,15 @@
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
+      <title>Enable Windows Backup for Organizations - Microsoft Intune</title>
+      <description>Enable Windows backup and restore in Intune for employees or students.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
+      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
     </item>
     <item>
       <title>Enable autodiscovery of Intune enrollment server - Microsoft Intune</title>
       <description>Simplify enrollment for users by enabling automatic discovery of the Intune enrollment server.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-create-cname</link>
-      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows Backup for Organizations - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
       <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
     </item>
     <item>
@@ -237,6 +237,12 @@
       <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage Admin Tasks - Microsoft Intune</title>
+      <description>Use the centralized Admin tasks view in Microsoft Intune to manage tasks across capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
+      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
@@ -255,9 +261,9 @@
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Admin Tasks - Microsoft Intune</title>
-      <description>Use the centralized Admin tasks view in Microsoft Intune to manage tasks across capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
+      <title>Use the Policy Configuration Agent to create policies</title>
+      <description>Learn how to use the Policy Configuration Agent in Microsoft Intune to create policies. You can create policies on files you uploaded, natural language prompts, or industry baselines. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent-use</link>
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
@@ -270,12 +276,6 @@
       <title>Microsoft Security Copilot agents in Microsoft Intune</title>
       <description>Learn about Security Copilot agents in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/security-copilot-agents-intune</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Policy Configuration Agent to create policies</title>
-      <description>Learn how to use the Policy Configuration Agent in Microsoft Intune to create policies. You can create policies on files you uploaded, natural language prompts, or industry baselines. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent-use</link>
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
@@ -327,6 +327,12 @@
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Android App Protection Policy Settings - Microsoft Intune</title>
       <description>This article describes the app protection policy settings for Android devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
@@ -360,12 +366,6 @@
       <title>Microsoft Intune App SDK for iOS Developer Guide - Web-View Features - Microsoft Intune</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -417,6 +417,12 @@
       <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
     </item>
     <item>
+      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
+      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Intune App SDK for iOS Developer Guide - Intune SDK Integration Into Your iOS App - Microsoft Intune</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Intune SDK integration into your iOS app</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase3</link>
@@ -432,12 +438,6 @@
       <title>Wrap iOS Apps With the Intune App Wrapping Tool - Microsoft Intune</title>
       <description>Learn how to wrap your iOS apps without changing the code of the app itself. Prepare the apps so you can apply mobile app management policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-wrapper-prepare-ios</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
       <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
     </item>
     <item>
@@ -477,15 +477,15 @@
       <pubDate>Thu, 13 Nov 2025 21:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
-      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
-      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
       <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
     </item>
     <item>
