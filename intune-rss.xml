@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 02 Dec 2025 06:02:26 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 06:02:26 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 11:52:34 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 11:52:34 GMT</lastBuildDate>
     <item>
       <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
       <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
@@ -24,6 +24,12 @@
       <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-manage-devices</link>
+      <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
+      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
       <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-ios-ipados</link>
       <pubDate>Mon, 10 Nov 2025 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Remove Passcode - Microsoft Intune</title>
-      <description>Learn how to remove a passcode with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-passcode</link>
-      <pubDate>Mon, 10 Nov 2025 18:42:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
