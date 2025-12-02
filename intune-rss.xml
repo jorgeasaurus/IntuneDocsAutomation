@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 01 Dec 2025 17:12:35 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 17:12:35 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 00:05:41 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 00:05:41 GMT</lastBuildDate>
+    <item>
+      <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
+      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
+      <pubDate>Mon, 01 Dec 2025 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/encrypt-devices</link>
+      <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-manage-devices</link>
+      <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune endpoint security disk encryption policy - Microsoft Intune</title>
+      <description>Configure and deploy Microsoft Intune endpoint security policy disk encryption policies for BitLocker and FileVault.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-disk-encryption-policy</link>
+      <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
+      <pubDate>Mon, 01 Dec 2025 18:43:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities</title>
       <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
@@ -577,36 +607,6 @@
       <description>Learn how to remove a passcode with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-passcode</link>
       <pubDate>Mon, 10 Nov 2025 18:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
-      <pubDate>Wed, 05 Nov 2025 20:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune - Microsoft Intune</title>
-      <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-reports</link>
-      <pubDate>Mon, 03 Nov 2025 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Apple Volume-Purchased Apps - Microsoft Intune</title>
-      <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-apps-ios</link>
-      <pubDate>Fri, 31 Oct 2025 20:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
-      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased device security - Microsoft Intune</title>
-      <description>Secure devices with Microsoft Intune to support your Zero Trust journey.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-secure-devices</link>
-      <pubDate>Thu, 30 Oct 2025 20:34:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
