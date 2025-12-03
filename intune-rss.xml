@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 03 Dec 2025 11:36:14 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Dec 2025 11:36:14 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 18:02:24 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 18:02:24 GMT</lastBuildDate>
+    <item>
+      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-deploy</link>
+      <pubDate>Wed, 03 Dec 2025 15:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discovered Apps - Microsoft Intune</title>
+      <description>Understand details about the detected apps that Intune found on a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
+      <pubDate>Wed, 03 Dec 2025 15:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Transfer Policy Exceptions for Apps - Microsoft Intune</title>
+      <description>Create exceptions to the Intune App Protection Policy (APP) data transfer policy.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-exception</link>
+      <pubDate>Wed, 03 Dec 2025 12:42:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
@@ -357,18 +375,6 @@
       <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-deploy</link>
-      <pubDate>Tue, 18 Nov 2025 22:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discovered Apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-discovered-apps</link>
-      <pubDate>Tue, 18 Nov 2025 22:41:00 GMT</pubDate>
-    </item>
-    <item>
       <title>iVerify Enterprise Mobile Threat Defense with Intune - Microsoft Intune</title>
       <description>Set up iVerify Enterprise Mobile Security with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/iverify-mobile-threat-defense-connector</link>
@@ -601,12 +607,6 @@
       <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-android</link>
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
-      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
-      <pubDate>Wed, 12 Nov 2025 21:34:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
