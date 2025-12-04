@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 04 Dec 2025 06:02:16 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Dec 2025 06:02:16 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 12:02:31 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 12:02:31 GMT</lastBuildDate>
     <item>
       <title>Troubleshoot auto-enrolling existing Configuration Manager devices in Intune - Intune</title>
       <description>Helps you understand and troubleshoot issues when you set up co-management by taking Path 1 - Auto-enroll existing Configuration Manager-managed devices into Intune.</description>
@@ -30,6 +30,12 @@
       <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-deploy</link>
+      <pubDate>Wed, 03 Dec 2025 15:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prepare Apps for Mobile Application Management With Microsoft Intune - Microsoft Intune</title>
+      <description>The information in this article helps you decide when you should use the App wrapping tool and the App SDK to enable your custom line-of-business apps to use the mobile app management policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/apps-prepare-mobile-application-management</link>
       <pubDate>Wed, 03 Dec 2025 15:40:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
       <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-windows</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
   </channel>
