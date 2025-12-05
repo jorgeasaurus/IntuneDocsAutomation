@@ -6,13 +6,19 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 05 Dec 2025 05:12:33 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 05:12:33 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 12:02:32 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:02:32 GMT</lastBuildDate>
     <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-dedicated-devices-fully-managed-enroll</link>
       <pubDate>Fri, 05 Dec 2025 04:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of enrollment restrictions - Microsoft Intune</title>
+      <description>Learn about the enrollment restrictions available in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/enrollment-restrictions-set</link>
+      <pubDate>Thu, 04 Dec 2025 23:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Troubleshoot auto-enrolling existing Configuration Manager devices in Intune - Intune</title>
@@ -600,12 +606,6 @@
       <title>Explore Intune data with natural language and take action - Microsoft Intune</title>
       <description>In Microsoft Intune, use Explorer to query your data in natural language and run built-in queries that match your request. Copilot summarizes the results, and provides recommendations and actions based on the query results. You can also create policies that target users and groups in the query results. Use this feature to explore your Intune data, troubleshoot issues, and create custom reports.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-explorer</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Control AI features on Android Enterprise devices</title>
-      <description>Using Microsoft Intune, you can manage and restrict AI usage on Android devices enrolled in Intune. This guide provides lists the steps in Intune to block AI apps, websites, screen-driven experiences, on-device AI services, and OEM-specific AI features. You can manage Microsoft Copilot, Google Gemini, Samsung Galaxy AI, claude.ai, ChatGPT, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/ai/manage-ai-android</link>
       <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
   </channel>
