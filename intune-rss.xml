@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 06 Dec 2025 00:05:26 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 00:05:26 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 05:32:30 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 05:32:30 GMT</lastBuildDate>
+    <item>
+      <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
+      <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-known-issues</link>
+      <pubDate>Sat, 06 Dec 2025 00:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows enrollment attestation - Microsoft Intune</title>
+      <description>Find out how the Device attestation status report can help you and learn to use the Attest device action to ensure your devices are secure and reliable.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-attestation</link>
+      <pubDate>Sat, 06 Dec 2025 00:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
@@ -595,18 +607,6 @@
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of the App Lifecycle for Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the managed apps lifecycle in Microsoft Intune. The app lifecycle involves adding, deploying, configuring, protecting, and retiring apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-lifecycle</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - Get Started With MAM - Microsoft Intune</title>
-      <description>Get started with Intune before incorporating Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase3</link>
-      <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
