@@ -6,8 +6,164 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 05 Dec 2025 17:31:55 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 17:31:55 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 00:05:26 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 00:05:26 GMT</lastBuildDate>
+    <item>
+      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
+      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-ios</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
+      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-app-control-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/encrypt-devices-filevault</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/encryption-monitor</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Intune policies with tenant attached Configuration Manager devices - Microsoft Intune</title>
+      <description>Use tenant attach to add Configuration Manager devices to Microsoft Intune and then deploy Intune policies to those devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/tenant-attach-intune</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-2-app</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune endpoint detection and response policy. - Microsoft Intune</title>
+      <description>Configure and deploy policies for devices you manage with endpoint security endpoint detection and response policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-edr-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage account protection settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune endpoint security account protection policies to protect the identity and accounts of users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-account-protection-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-defender-integrate</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage attack surface reduction settings with Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies for devices you manage with endpoint security attack surface reduction policy settings in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-asr-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune endpoint security disk encryption policy - Microsoft Intune</title>
+      <description>Configure and deploy Microsoft Intune endpoint security policy disk encryption policies for BitLocker and FileVault.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-disk-encryption-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-4-acp-edge</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 1. Create Microsoft Entra Conditional Access with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 1. Create Microsoft Entra Conditional Access with Microsoft Edge for Business.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-1-mamca</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
+      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-3-scc</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 6. Deploy Microsoft Edge security baseline - Microsoft Intune</title>
+      <description>Step 6. Deploy the Microsoft Edge security baseline for rapid Windows security configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-6-security-baseline</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 7. Understand Microsoft Edge for Business End User Experience for Windows - Microsoft Intune</title>
+      <description>Step 7. Understand Microsoft Edge for Business end user experience Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-7-end-user-experience</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-settings-catalog</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 8. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
+      <description>Step 8. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-8-troubleshoot</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
     <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
@@ -63,21 +219,9 @@
       <pubDate>Wed, 03 Dec 2025 12:42:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-ios</link>
-      <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>iOS/iPadOS direct enrollment - Apple Configurator-Setup Assistant - Microsoft Intune</title>
       <description>Use Apple Configurator to enroll corporate-owned iOS/iPadOS devices with Setup Assistant.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/apple-configurator-enroll-ios</link>
-      <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
       <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -93,21 +237,9 @@
       <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
       <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
-      <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
       <pubDate>Tue, 02 Dec 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
@@ -133,18 +265,6 @@
       <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
       <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune endpoint security disk encryption policy - Microsoft Intune</title>
-      <description>Configure and deploy Microsoft Intune endpoint security policy disk encryption policies for BitLocker and FileVault.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-disk-encryption-policy</link>
-      <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
-      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
-      <pubDate>Mon, 01 Dec 2025 18:43:00 GMT</pubDate>
     </item>
     <item>
       <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities</title>
@@ -487,126 +607,6 @@
       <description>Get started with Intune before incorporating Intune mobile app management (MAM) into your Android app.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase3</link>
       <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - App Participation Features - Microsoft Intune</title>
-      <description>Understand App participation features when incorporating Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase7</link>
-      <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Mon, 17 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune documentation - Microsoft Intune</title>
-      <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune product and capabilities documentation</title>
-      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for iOS Developer Guide - Intune SDK Integration Into Your iOS App - Microsoft Intune</title>
-      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Intune SDK integration into your iOS app</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase3</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
-      <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-update-compatibility-reports</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wrap iOS Apps With the Intune App Wrapping Tool - Microsoft Intune</title>
-      <description>Learn how to wrap your iOS apps without changing the code of the app itself. Prepare the apps so you can apply mobile app management policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-wrapper-prepare-ios</link>
-      <pubDate>Mon, 17 Nov 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
-      <pubDate>Fri, 14 Nov 2025 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guided Update Supersedence for Enterprise App Management - Microsoft Intune</title>
-      <description>Learn how to update an Enterprise App Catalog app using supersedence with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-eam-supersedence</link>
-      <pubDate>Fri, 14 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-enterprise-app</link>
-      <pubDate>Fri, 14 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
-      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
-      <pubDate>Thu, 13 Nov 2025 23:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Include and Exclude App Assignments in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how you can use Microsoft Intune to include and exclude app assignments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-inc-exl-assignments</link>
-      <pubDate>Thu, 13 Nov 2025 21:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Group to Manage Users - Microsoft Intune</title>
-      <description>In this article, you'll use Microsoft Intune to create a group based on existing users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-group</link>
-      <pubDate>Thu, 13 Nov 2025 21:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
-      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
-      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
-      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-defender</link>
-      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune - Microsoft Intune</title>
-      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
-      <pubDate>Thu, 13 Nov 2025 19:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Connect Intune account to managed Google Play account - Microsoft Intune</title>
-      <description>Learn how to connect your Intune account to your Managed Google Play account.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/connect-intune-android-enterprise</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the Microsoft Tunnel Gateway, a VPN server for Intune that runs on Linux. With Microsoft Tunnel, cloud-based devices you manage with Intune can reach your on-premises infrastructure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-overview</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Explore Intune data with natural language and take action - Microsoft Intune</title>
-      <description>In Microsoft Intune, use Explorer to query your data in natural language and run built-in queries that match your request. Copilot summarizes the results, and provides recommendations and actions based on the query results. You can also create policies that target users and groups in the query results. Use this feature to explore your Intune data, troubleshoot issues, and create custom reports.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-explorer</link>
-      <pubDate>Wed, 12 Nov 2025 22:38:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
