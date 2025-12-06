@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 06 Dec 2025 05:32:30 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 05:32:30 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 11:32:35 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 11:32:35 GMT</lastBuildDate>
     <item>
       <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
@@ -72,6 +72,18 @@
       <title>Intune endpoint detection and response policy. - Microsoft Intune</title>
       <description>Configure and deploy policies for devices you manage with endpoint security endpoint detection and response policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-edr-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-antivirus-policy</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage firewall settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies for devices you manage with endpoint security firewall policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-policy</link>
       <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
@@ -159,12 +171,6 @@
       <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
-      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
       <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-settings-catalog</link>
@@ -174,6 +180,12 @@
       <title>Step 8. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
       <description>Step 8. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-8-troubleshoot</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
       <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Benefits of Intune App SDK - Microsoft Intune</title>
       <description>The Intune App SDK is available for both the iOS and Android platforms, and enables mobile app management features with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - MAM Integration Essentials - Microsoft Intune</title>
-      <description>Understand MAM integration essentials to incorporate Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase4</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for iOS Developer Guide - Web-View Features - Microsoft Intune</title>
-      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Web-view features</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase7</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
   </channel>
