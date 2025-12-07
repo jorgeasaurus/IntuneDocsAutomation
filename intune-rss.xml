@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 07 Dec 2025 05:52:28 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 05:52:28 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 11:14:44 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 11:14:44 GMT</lastBuildDate>
     <item>
       <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
@@ -99,6 +99,12 @@
       <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
+      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage attack surface reduction settings with Microsoft Intune - Microsoft Intune</title>
       <description>Configure and deploy policies for devices you manage with endpoint security attack surface reduction policy settings in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-asr-policy</link>
@@ -117,21 +123,9 @@
       <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
-      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
       <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
-      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
       <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
     </item>
     <item>
@@ -186,6 +180,12 @@
       <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
       <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
+      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
       <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
     </item>
     <item>
@@ -579,15 +579,15 @@
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
-      <description>Understand Microsoft Intune management extension for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
       <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
     <item>
