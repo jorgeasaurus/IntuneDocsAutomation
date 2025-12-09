@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 08 Dec 2025 17:05:39 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 17:05:39 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 23:28:42 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 23:28:42 GMT</lastBuildDate>
+    <item>
+      <title>Use third-party certification authorities (CA) with SCEP in Microsoft Intune - Microsoft Intune</title>
+      <description>In Microsoft Intune, you can add a vendor or third-party certificate authority (CA) to issue certificates to mobile devices using the SCEP protocol. In this overview, a Microsoft Entra application gives Microsoft Intune permissions to validate certificates. Then, use the application ID, authentication key, and tenant ID of the Microsoft Entra application in the setup of your SCEP server to issue certificates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificate-authority-add-scep-overview</link>
+      <pubDate>Mon, 08 Dec 2025 18:44:00 GMT</pubDate>
+    </item>
     <item>
       <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
@@ -600,12 +606,6 @@
       <title>Benefits of Intune App SDK - Microsoft Intune</title>
       <description>The Intune App SDK is available for both the iOS and Android platforms, and enables mobile app management features with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - MAM Integration Essentials - Microsoft Intune</title>
-      <description>Understand MAM integration essentials to incorporate Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase4</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
   </channel>
