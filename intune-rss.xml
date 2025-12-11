@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 10 Dec 2025 18:02:28 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 18:02:28 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 00:05:49 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:05:49 GMT</lastBuildDate>
+    <item>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
+      <pubDate>Wed, 10 Dec 2025 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 10 Dec 2025 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage account protection settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune endpoint security account protection policies to protect the identity and accounts of users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-account-protection-policy</link>
+      <pubDate>Wed, 10 Dec 2025 21:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
+      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-overview</link>
+      <pubDate>Wed, 10 Dec 2025 18:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot managed device to Network Device Enrollment Service (NDES) communication in Microsoft Intune - Intune</title>
+      <description>Troubleshoot managed device to NDES server communication when using Simple Certificate Enrollment Protocol (SCEP) certificate profiles to deploy certificates with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-device-to-ndes</link>
+      <pubDate>Wed, 10 Dec 2025 18:11:00 GMT</pubDate>
+    </item>
     <item>
       <title>Network endpoints for US government deployments - Microsoft Intune</title>
       <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
@@ -33,27 +63,21 @@
       <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up iVerify Enterprise Mobile Threat Defense with Intune - Microsoft Intune</title>
       <description>How to set up iVerify Enterprise Mobile Security with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/iverify-mtd-connector-integration</link>
       <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
-      <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-macos</link>
       <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
     </item>
     <item>
@@ -129,12 +153,6 @@
       <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage account protection settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune endpoint security account protection policies to protect the identity and accounts of users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-account-protection-policy</link>
-      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune, including connecting the products, onboarding devices, and assigning policies for compliance and risk level assessment.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-defender-integrate</link>
@@ -162,12 +180,6 @@
       <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
       <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
-      <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
-      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
       <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>iOS/iPadOS App Protection Policy Settings - Microsoft Intune</title>
       <description>This article describes the iOS/iPadOS app protection policy (APP) settings for iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-ios</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
-      <description>Understand Microsoft Intune management extension for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android App Protection Policy Settings - Microsoft Intune</title>
-      <description>This article describes the app protection policy settings for Android devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
       <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
   </channel>
