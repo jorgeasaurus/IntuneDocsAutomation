@@ -6,18 +6,210 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 11 Dec 2025 17:38:48 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 17:38:48 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 00:05:49 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 00:05:49 GMT</lastBuildDate>
     <item>
-      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
-      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
-      <pubDate>Wed, 10 Dec 2025 23:35:00 GMT</pubDate>
+      <title>Configure feature updates policy for Windows devices in Intune - Microsoft Intune</title>
+      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collect device hardware info with the properties catalog - Microsoft Intune</title>
+      <description>Use the properties catalog in Microsoft Intune view and collect enhanced device hardware info on Windows devices you manage with Intune. You can collect info like BIOS version, TPM status, disk info, memory details, and network adapter configurations. Use this information to get deeper visibility into your device inventory and troubleshoot issues.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
+      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-manager-overview</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Explore Intune data with natural language and take action - Microsoft Intune</title>
+      <description>In Microsoft Intune, use Explorer to query your data in natural language and run built-in queries that match your request. Copilot summarizes the results, and provides recommendations and actions based on the query results. You can also create policies that target users and groups in the query results. Use this feature to explore your Intune data, troubleshoot issues, and create custom reports.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-explorer</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot Agents in Intune - Microsoft Intune</title>
+      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Device Offboarding Agent - Microsoft Intune</title>
+      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
+      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices in Advanced Analytics - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scores, Baselines, and Insights in Endpoint Analytics - Microsoft Intune</title>
+      <description>Understand endpoint analytics scores, baselines, and insights in Microsoft Intune to measure and improve device performance metrics.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/scores</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Application Reliability Report in Endpoint Analytics - Microsoft Intune</title>
+      <description>Explore application reliability in Microsoft Intune endpoint analytics to analyze app crashes, improve user productivity, and enhance device performance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/app-reliability</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data collection in Intune - Microsoft Intune</title>
+      <description>Learn about personal data collected in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/privacy-data-collect</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Advanced Analytics overview - Microsoft Intune</title>
+      <description>Discover what Microsoft Intune Advanced Analytics is, how it extends endpoint analytics with advanced device insights, proactive troubleshooting, and enhanced reporting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query in Advanced Analytics - Microsoft Intune</title>
+      <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Endpoint Analytics - Microsoft Intune</title>
+      <description>Step-by-step guide to configure endpoint analytics in Microsoft Intune, enroll devices, and manage data collection policies for device insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/configure</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint Analytics in Microsoft Adoption Score - Microsoft Intune</title>
+      <description>Learn how Microsoft Adoption Score integrates endpoint analytics to provide insights on device performance, startup performance, application reliability, and work-from-anywhere readiness for your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/adoption-score</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Startup Performance Report in Endpoint Analytics - Microsoft Intune</title>
+      <description>Learn how startup performance in Microsoft Intune endpoint analytics helps analyze boot times, identify issues, and optimize device performance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/startup-performance</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up device management - Microsoft Intune</title>
+      <description>Learn how to configure the Intune service and set up the environment for education.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
+      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/get-support</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Endpoint Analytics - Microsoft Intune</title>
+      <description>Troubleshoot Microsoft Intune endpoint analytics, including device enrollment issues, startup performance, and data collection problems.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/troubleshoot</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint analytics overview - Microsoft Intune</title>
+      <description>Discover how Microsoft Intune endpoint analytics provides actionable insights to optimize device performance, improve user experience, and enable proactive IT troubleshooting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battery Health Report in Advanced Analytics - Microsoft Intune</title>
+      <description>Learn how the battery health report in Microsoft Intune Advanced Analytics provides insights into device battery performance, degradation, and proactive replacement strategies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/battery-health</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
+      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Windows Health Monitoring profile in Microsoft Intune - Microsoft Intune</title>
+      <description>Add a Windows Health Monitoring profile to collect endpoint analytics and software update events on Windows 10/11 devices in Microsoft Intune. Use this data to recommend software, review startup performance, and fix support issues.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/windows-health-monitoring</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is Microsoft Intune - Microsoft Intune</title>
+      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anomalies Report in Advanced Analytics - Microsoft Intune</title>
+      <description>Discover how anomalies report in Microsoft Intune Advanced Analytics helps IT admins monitor device health, detect issues, and get actionable insights to improve endpoint reliability.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/anomalies</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
+      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/resource-performance</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
+      <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Scopes in endpoint analytics - Microsoft Intune</title>
+      <description>Learn how to use device scopes in Microsoft Intune endpoint analytics with scope tags for custom device reporting and targeted insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Timeline Report in Advanced Analytics - Microsoft Intune</title>
+      <description>Discover the device timeline in Microsoft Intune endpoint analytics for detailed device event history and advanced troubleshooting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-timeline</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
       <pubDate>Wed, 10 Dec 2025 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -327,7 +519,7 @@
       <pubDate>Mon, 01 Dec 2025 21:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities</title>
+      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
       <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent-use</link>
       <pubDate>Tue, 25 Nov 2025 18:41:00 GMT</pubDate>
@@ -357,7 +549,7 @@
       <pubDate>Mon, 24 Nov 2025 18:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Started with the Device Offboarding Agent</title>
+      <title>Get Started with the Device Offboarding Agent - Microsoft Intune</title>
       <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
       <pubDate>Mon, 24 Nov 2025 15:36:00 GMT</pubDate>
@@ -393,13 +585,13 @@
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Vulnerability Remediation Agent Overview and Set Up</title>
+      <title>Vulnerability Remediation Agent Overview and Set Up - Microsoft Intune</title>
       <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Change Review Agent Overview</title>
+      <title>Change Review Agent Overview - Microsoft Intune</title>
       <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
@@ -415,198 +607,6 @@
       <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
       <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Policy Configuration Agent and set it up</title>
-      <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
-      <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-troubleshoot-monitor</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
-      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
-      <pubDate>Fri, 21 Nov 2025 21:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows Backup for Organizations - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-backup-restore</link>
-      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable autodiscovery of Intune enrollment server - Microsoft Intune</title>
-      <description>Simplify enrollment for users by enabling automatic discovery of the Intune enrollment server.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-create-cname</link>
-      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View enrollment reports - Microsoft Intune</title>
-      <description>Monitor and troubleshoot issues with enrollment restrictions and enrollment status page assignments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/view-enrollment-reports</link>
-      <pubDate>Fri, 21 Nov 2025 18:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security Copilot Agents in Intune</title>
-      <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Change Review Agent</title>
-      <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent-use</link>
-      <pubDate>Thu, 20 Nov 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
-      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
-      <pubDate>Thu, 20 Nov 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
-      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device platform restrictions - Microsoft Intune</title>
-      <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/create-device-platform-restrictions</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configuration Policies for Intune App SDK Managed Apps - Microsoft Intune</title>
-      <description>Learn how to configure policies for Intune App SDK managed apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-managed-app</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assignment Filter Performance Tips for Intune - Microsoft Intune</title>
-      <description>Optimize Microsoft Intune performance with assignment filters. Learn to use virtual groups, reuse groups, and apply filters effectively. Improve policy deployment speed with incremental group changes, and use assignment filters to include and exclude.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-performance-recommendations</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Data Warehouse Collections - Microsoft Intune</title>
-      <description>The Intune Data Warehouse collections provide details related to the Data Warehouse API.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/intune-data-warehouse-collections</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Platforms and policy types supported by assignment filters - Microsoft Intune</title>
-      <description>Learn which apps, compliance policies, and device configuration profiles and their platforms support assignment filters in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assignment filter reports &amp; troubleshooting - Microsoft Intune</title>
-      <description>Learn how to use assignment filter reports to troubleshoot policies in Microsoft Intune. View filter evaluation results, resolve conflicts, and understand include vs. exclude modes.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-reports-troubleshoot</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
-      <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devices - Intune Data Warehouse - Microsoft Intune</title>
-      <description>Reference article for the Devices category of entity collections in the Intune Data Warehouse API.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-devices</link>
-      <pubDate>Thu, 20 Nov 2025 03:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Wipe - Microsoft Intune</title>
-      <description>Learn how to wipe, or factory reset, devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-wipe</link>
-      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Device Offboarding Agent</title>
-      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
-      <pubDate>Thu, 20 Nov 2025 00:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Admin Tasks - Microsoft Intune</title>
-      <description>Use the centralized Admin tasks view in Microsoft Intune to manage tasks across capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
-      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero Trust with Microsoft Intune - Microsoft Intune</title>
-      <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
-      <description>Use Microsoft Intune Security Tasks to manage threats and vulnerabilities identified by Microsoft Defender for Endpoint.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/atp-manage-vulnerabilities</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Policy Configuration Agent to create policies</title>
-      <description>Learn how to use the Policy Configuration Agent in Microsoft Intune to create policies. You can create policies on files you uploaded, natural language prompts, or industry baselines. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent-use</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
-      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Security Copilot agents in Microsoft Intune</title>
-      <description>Learn about Security Copilot agents in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/security-copilot-agents-intune</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
-      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-support-approved</link>
-      <pubDate>Wed, 19 Nov 2025 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mobile-threat-defense</link>
-      <pubDate>Tue, 18 Nov 2025 18:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>App Protection Policies Overview - Microsoft Intune</title>
-      <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS App Protection Policy Settings - Microsoft Intune</title>
-      <description>This article describes the iOS/iPadOS app protection policy (APP) settings for iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-ios</link>
-      <pubDate>Tue, 18 Nov 2025 15:37:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
