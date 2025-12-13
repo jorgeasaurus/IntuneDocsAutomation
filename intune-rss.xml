@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 12 Dec 2025 17:50:54 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 17:50:54 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 00:05:45 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 00:05:45 GMT</lastBuildDate>
+    <item>
+      <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
+      <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-dedicated-devices-fully-managed-enroll</link>
+      <pubDate>Fri, 12 Dec 2025 21:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Fri, 12 Dec 2025 21:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy endpoint detection and response policy with Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune endpoint security policies to configure and deploy Microsoft Defender for Endpoint EDR capabilities to Windows, macOS, and Linux devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-edr-policy</link>
+      <pubDate>Fri, 12 Dec 2025 21:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
       <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
@@ -84,12 +102,6 @@
       <title>Security Copilot in Intune features overview - Microsoft Intune</title>
       <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/copilot/copilot-intune-overview</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -207,12 +219,6 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>What is Microsoft Intune - Microsoft Intune</title>
-      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create a Windows Health Monitoring profile in Microsoft Intune - Microsoft Intune</title>
       <description>Add a Windows Health Monitoring profile to collect endpoint analytics and software update events on Windows 10/11 devices in Microsoft Intune. Use this data to recommend software, review startup performance, and fix support issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/windows-health-monitoring</link>
@@ -222,6 +228,12 @@
       <title>Distributed IT with multiple admins - Microsoft Intune</title>
       <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is Microsoft Intune - Microsoft Intune</title>
+      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -369,12 +381,6 @@
       <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intune endpoint detection and response policy. - Microsoft Intune</title>
-      <description>Configure and deploy policies for devices you manage with endpoint security endpoint detection and response policy in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-edr-policy</link>
-      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
       <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-antivirus-policy</link>
@@ -457,12 +463,6 @@
       <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
       <pubDate>Fri, 05 Dec 2025 18:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
-      <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-dedicated-devices-fully-managed-enroll</link>
-      <pubDate>Fri, 05 Dec 2025 04:43:00 GMT</pubDate>
     </item>
     <item>
       <title>Overview of enrollment restrictions - Microsoft Intune</title>
