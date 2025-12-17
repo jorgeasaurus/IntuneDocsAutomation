@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 17 Dec 2025 05:03:43 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 05:03:43 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 11:12:33 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 11:12:33 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune product and capabilities documentation - Microsoft Intune</title>
+      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
@@ -36,6 +42,18 @@
       <title>Windows Delivery Optimization settings in Microsoft Intune - Microsoft Intune</title>
       <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
+      <description>Delivery Optimization settings for Windows devices that you can deploy using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/apple-settings-catalog-configurations</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -81,21 +99,33 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
       <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/reports</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <title>Software update errors and descriptions in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of the Software Update agent error code in Microsoft Intune, including the error code, symbolic name, and error description.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/software-update-agent-error-codes</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
+      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/settings</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -105,15 +135,21 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
       <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
+      <title>Windows quality update policy - Microsoft Intune</title>
+      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -129,12 +165,6 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows quality update policy - Microsoft Intune</title>
-      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune Reports - Microsoft Intune</title>
       <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
@@ -147,21 +177,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create Windows Driver updates policy in Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-policy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -183,15 +207,21 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
       <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
-      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/</link>
+      <title>Configure feature updates policy for Windows devices in Intune - Microsoft Intune</title>
+      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-updates</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -213,9 +243,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure feature updates policy for Windows devices in Intune - Microsoft Intune</title>
-      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-updates</link>
+      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
+      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -231,15 +261,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
+      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -252,6 +282,12 @@
       <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-macos</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -318,18 +354,6 @@
       <title>Microsoft Intune documentation - Microsoft Intune</title>
       <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune product and capabilities documentation - Microsoft Intune</title>
-      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure feature updates policy for Windows devices in Intune - Microsoft Intune</title>
-      <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/windows-10-feature-updates</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -453,15 +477,15 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint analytics overview - Microsoft Intune</title>
-      <description>Discover how Microsoft Intune endpoint analytics provides actionable insights to optimize device performance, improve user experience, and enable proactive IT troubleshooting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Battery Health Report in Advanced Analytics - Microsoft Intune</title>
       <description>Learn how the battery health report in Microsoft Intune Advanced Analytics provides insights into device battery performance, degradation, and proactive replacement strategies.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/battery-health</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint analytics overview - Microsoft Intune</title>
+      <description>Discover how Microsoft Intune endpoint analytics provides actionable insights to optimize device performance, improve user experience, and enable proactive IT troubleshooting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -483,15 +507,15 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
-      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/resource-performance</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Anomalies Report in Advanced Analytics - Microsoft Intune</title>
       <description>Discover how anomalies report in Microsoft Intune Advanced Analytics helps IT admins monitor device health, detect issues, and get actionable insights to improve endpoint reliability.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/anomalies</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resource Performance Report in Microsoft Intune Advanced Analytics - Microsoft Intune</title>
+      <description>Explore the resource performance report in Microsoft Intune Advanced Analytics for CPU and RAM insights, device performance analysis, and proactive endpoint analytics.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/resource-performance</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -583,30 +607,6 @@
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-known-issues</link>
       <pubDate>Sat, 06 Dec 2025 00:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows enrollment attestation - Microsoft Intune</title>
-      <description>Find out how the Device attestation status report can help you and learn to use the Attest device action to ensure your devices are secure and reliable.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enrollment-attestation</link>
-      <pubDate>Sat, 06 Dec 2025 00:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
-      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
-      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
-      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-app-control-policy</link>
-      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/encrypt-devices-filevault</link>
-      <pubDate>Fri, 05 Dec 2025 21:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
