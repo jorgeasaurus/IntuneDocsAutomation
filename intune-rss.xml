@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 18 Dec 2025 06:02:19 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 06:02:19 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 12:02:43 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 12:02:43 GMT</lastBuildDate>
     <item>
       <title>Microsoft Intune product and capabilities documentation - Microsoft Intune</title>
       <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
@@ -117,6 +117,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
       <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/settings</link>
@@ -135,21 +141,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
       <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
-      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -159,15 +153,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows quality update policy - Microsoft Intune</title>
-      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
+      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
+      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-ios-ipados</link>
+      <title>Windows quality update policy - Microsoft Intune</title>
+      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -177,9 +171,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
+      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-ios-ipados</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -189,9 +183,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -213,21 +207,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
       <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android FOTA Updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for Android software updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/software-updates-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -240,6 +228,18 @@
       <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
       <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android FOTA Updates - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Admin checklist for Android software updates in Microsoft Intune - Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/software-updates-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -258,12 +258,6 @@
       <title>Configure Windows Update rings policy in Intune - Microsoft Intune</title>
       <description>Create and manage Intune policy for Windows update rings. You can configure, deploy, and pause update installation with Windows Update client policies using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -288,6 +282,12 @@
       <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-macos</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
