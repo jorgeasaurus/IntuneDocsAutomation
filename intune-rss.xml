@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 18 Dec 2025 00:04:56 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 00:04:56 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 06:02:19 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 06:02:19 GMT</lastBuildDate>
     <item>
       <title>Microsoft Intune product and capabilities documentation - Microsoft Intune</title>
       <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
@@ -189,6 +189,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
@@ -204,12 +210,6 @@
       <title>Learn about Windows Driver updates policy for Windows devices in Intune - Microsoft Intune</title>
       <description>Learn about using Microsoft Intune policy to manage Windows driver updates.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-overview</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -261,15 +261,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/zebra-lifeguard-ota-integration</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-macos</link>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -285,9 +279,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
+      <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/zebra-lifeguard-ota-integration</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-macos</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
