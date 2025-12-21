@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 20 Dec 2025 18:02:05 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Dec 2025 18:02:05 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 00:05:46 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 00:05:46 GMT</lastBuildDate>
     <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
@@ -159,6 +159,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows quality update policy - Microsoft Intune</title>
+      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
@@ -168,12 +174,6 @@
       <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
       <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows quality update policy - Microsoft Intune</title>
-      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -189,15 +189,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create Windows Driver updates policy in Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-policy</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -441,12 +441,6 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Endpoint Analytics - Microsoft Intune</title>
-      <description>Step-by-step guide to configure endpoint analytics in Microsoft Intune, enroll devices, and manage data collection policies for device insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/configure</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Advanced Analytics overview - Microsoft Intune</title>
       <description>Discover what Microsoft Intune Advanced Analytics is, how it extends endpoint analytics with advanced device insights, proactive troubleshooting, and enhanced reporting.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/</link>
@@ -456,6 +450,12 @@
       <title>Device Query in Advanced Analytics - Microsoft Intune</title>
       <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Endpoint Analytics - Microsoft Intune</title>
+      <description>Step-by-step guide to configure endpoint analytics in Microsoft Intune, enroll devices, and manage data collection policies for device insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/configure</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
