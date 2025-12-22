@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 21 Dec 2025 23:50:21 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Dec 2025 23:50:21 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 06:02:21 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 06:02:21 GMT</lastBuildDate>
     <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
@@ -207,15 +207,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
-      <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
       <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/settings</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
+      <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -255,15 +255,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -297,6 +297,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
@@ -306,12 +312,6 @@
       <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
       <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
