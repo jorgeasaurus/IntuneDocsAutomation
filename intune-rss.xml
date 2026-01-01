@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 01 Jan 2026 06:02:29 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2026 06:02:29 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 12:02:33 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 12:02:33 GMT</lastBuildDate>
     <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
@@ -297,6 +297,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
@@ -306,12 +312,6 @@
       <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
       <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -483,12 +483,6 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up device management - Microsoft Intune</title>
-      <description>Learn how to configure the Intune service and set up the environment for education.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
       <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/get-support</link>
@@ -498,6 +492,12 @@
       <title>Troubleshooting Endpoint Analytics - Microsoft Intune</title>
       <description>Troubleshoot Microsoft Intune endpoint analytics, including device enrollment issues, startup performance, and data collection problems.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/troubleshoot</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up device management - Microsoft Intune</title>
+      <description>Learn how to configure the Intune service and set up the environment for education.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
