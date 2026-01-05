@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 05 Jan 2026 05:51:38 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 05:51:38 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 11:52:36 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 11:52:36 GMT</lastBuildDate>
     <item>
       <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
       <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
@@ -105,6 +105,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
+      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/settings</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
       <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
@@ -117,21 +123,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
-      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/settings</link>
+      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
       <title>Learn about Windows Driver updates policy for Windows devices in Intune - Microsoft Intune</title>
       <description>Learn about using Microsoft Intune policy to manage Windows driver updates.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-overview</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -165,6 +165,12 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Android FOTA Updates - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/zebra-lifeguard-ota-integration</link>
@@ -186,12 +192,6 @@
       <title>Configure schedules to gradually roll out Windows Updates in Intune - Microsoft Intune</title>
       <description>Configure schedules that manage how and when Windows updates roll out to your managed devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/rollout-options</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android FOTA Updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -243,15 +243,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
-      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
+      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -261,15 +261,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create Windows Driver updates policy in Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-policy</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -399,15 +399,15 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the Device Offboarding Agent - Microsoft Intune</title>
-      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Intune Data Platform Schema - Microsoft Intune</title>
       <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/data-platform-schema</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Device Offboarding Agent - Microsoft Intune</title>
+      <description>Learn how to use the Device Offboarding Agent in Microsoft Intune to identify and offboard devices that are no longer in use.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent-use</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -426,6 +426,12 @@
       <title>Frequently Asked Questions About Advanced Analytics in Microsoft Intune - Microsoft Intune</title>
       <description>This article provides answers to some frequently asked questions about Advanced Analytics.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/faq</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Endpoint Analytics - Microsoft Intune</title>
+      <description>Troubleshoot Microsoft Intune endpoint analytics, including device enrollment issues, startup performance, and data collection problems.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/troubleshoot</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -486,12 +492,6 @@
       <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
       <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/get-support</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshooting Endpoint Analytics - Microsoft Intune</title>
-      <description>Troubleshoot Microsoft Intune endpoint analytics, including device enrollment issues, startup performance, and data collection problems.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/troubleshoot</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
