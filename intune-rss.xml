@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 06 Jan 2026 23:52:32 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 23:52:32 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 05:52:34 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 05:52:34 GMT</lastBuildDate>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
+      <pubDate>Wed, 07 Jan 2026 03:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>Manually Add the Windows Company Portal App - Microsoft Intune</title>
       <description>Learn how your workforce can manually add the Windows 10 Company Portal app to their PC from the Microsoft Store.</description>
@@ -303,15 +309,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Admin checklist for Android software updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/software-updates-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
       <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Admin checklist for Android software updates in Microsoft Intune - Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/software-updates-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -327,12 +333,6 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
       <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
@@ -342,6 +342,12 @@
       <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
       <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-scale-guidelines</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -390,12 +396,6 @@
       <title>Microsoft Intune documentation - Microsoft Intune</title>
       <description>Learn more about Microsoft Intune's unified endpoint management and security solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
-      <description>Understand Microsoft Intune management extension for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
@@ -507,15 +507,15 @@
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
-      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/get-support</link>
-      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up device management - Microsoft Intune</title>
       <description>Learn how to configure the Intune service and set up the environment for education.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/set-up-microsoft-intune</link>
+      <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
+      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/get-support</link>
       <pubDate>Thu, 11 Dec 2025 21:48:00 GMT</pubDate>
     </item>
     <item>
