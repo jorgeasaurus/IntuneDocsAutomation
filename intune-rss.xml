@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 07 Jan 2026 17:30:35 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 17:30:35 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 23:36:58 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 23:36:58 GMT</lastBuildDate>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Wed, 07 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
+      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-enterprise-app-management</link>
+      <pubDate>Wed, 07 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
+      <pubDate>Wed, 07 Jan 2026 21:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about Windows Driver updates policy for Windows devices in Intune - Microsoft Intune</title>
+      <description>Learn about using Microsoft Intune policy to manage Windows driver updates.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-overview</link>
+      <pubDate>Wed, 07 Jan 2026 21:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an iOS/iPadOS Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an iOS/iPadOS line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-ios</link>
+      <pubDate>Wed, 07 Jan 2026 21:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Data storage and processing in Intune - Microsoft Intune</title>
       <description>Learn how personal data is stored and processed in Intune.</description>
@@ -72,12 +102,6 @@
       <title>Microsoft Intune product and capabilities documentation - Microsoft Intune</title>
       <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -168,12 +192,6 @@
       <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Windows Driver updates policy for Windows devices in Intune - Microsoft Intune</title>
-      <description>Learn about using Microsoft Intune policy to manage Windows driver updates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-overview</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -589,24 +607,6 @@
       <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-overview</link>
       <pubDate>Wed, 10 Dec 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot managed device to Network Device Enrollment Service (NDES) communication in Microsoft Intune - Intune</title>
-      <description>Troubleshoot managed device to NDES server communication when using Simple Certificate Enrollment Protocol (SCEP) certificate profiles to deploy certificates with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-device-to-ndes</link>
-      <pubDate>Wed, 10 Dec 2025 18:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-enrollment-program-enroll-ios</link>
-      <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
-      <pubDate>Mon, 08 Dec 2025 23:37:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
