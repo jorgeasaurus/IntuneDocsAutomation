@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 14 Jan 2026 23:32:38 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2026 23:32:38 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 06:02:17 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:02:17 GMT</lastBuildDate>
+    <item>
+      <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-app-management</link>
+      <pubDate>Wed, 14 Jan 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
+      <pubDate>Wed, 14 Jan 2026 23:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
@@ -594,18 +606,6 @@
       <title>Configure feature updates policy for Windows devices in Intune - Microsoft Intune</title>
       <description>Create and manage Intune policy for Windows feature updates. Configure and deploy policy to maintain the Windows feature version of Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-updates</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
-      <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
-      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
