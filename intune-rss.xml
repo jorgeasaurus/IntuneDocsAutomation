@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 18 Jan 2026 05:17:40 GMT</pubDate>
-    <lastBuildDate>Sun, 18 Jan 2026 05:17:40 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 12:02:18 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 12:02:18 GMT</lastBuildDate>
     <item>
       <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
@@ -117,15 +117,15 @@
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create Mobile Threat Defense (MTD) app protection policy with Intune - Microsoft Intune</title>
-      <description>Create Mobile Threat Defense (MTD) app protection policy with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-app-protection-policy</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
       <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-connector-enable</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Mobile Threat Defense (MTD) app protection policy with Intune - Microsoft Intune</title>
+      <description>Create Mobile Threat Defense (MTD) app protection policy with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-app-protection-policy</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -138,6 +138,12 @@
       <title>Enable the Mobile Threat Defense connector for unenrolled devices - Microsoft Intune</title>
       <description>Enable the Mobile Threat Defense connector in Microsoft Intune for unenrolled devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-enable-unenrolled-devices</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lookout Mobile Endpoint with Microsoft Intune - Microsoft Intune</title>
+      <description>How to set up Lookout Mobile Threat Defense (MTD) How to set up to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/lookout-mobile-threat-defense-connector</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -207,15 +213,15 @@
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up BlackBerry Protect with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the CylancePROTECT (BlackBerry) MTD solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/blackberry-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Symantec Endpoint Protection Mobile connector with Microsoft Intune - Microsoft Intune</title>
       <description>How to set up Symantec Endpoint Protection Mobile with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/skycure-mobile-threat-defense-connector</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up BlackBerry Protect with Microsoft Intune - Microsoft Intune</title>
+      <description>How to set up the CylancePROTECT (BlackBerry) MTD solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/blackberry-mtd-connector-integration</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -258,12 +264,6 @@
       <title>Use Sophos Mobile with Intune - Microsoft Intune</title>
       <description>How to use the Sophos Mobile solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/sophos-mtd-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lookout Mobile Endpoint with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up Lookout Mobile Threat Defense (MTD) How to set up to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/lookout-mobile-threat-defense-connector</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -387,15 +387,21 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure Windows Update rings policy in Intune - Microsoft Intune</title>
+      <description>Create and manage Intune policy for Windows update rings. You can configure, deploy, and pause update installation with Windows Update client policies using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Windows Update rings policy in Intune - Microsoft Intune</title>
-      <description>Create and manage Intune policy for Windows update rings. You can configure, deploy, and pause update installation with Windows Update client policies using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
+      <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/reports</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -405,9 +411,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/reports</link>
+      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -423,12 +429,6 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
-      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/apple-settings-catalog-configurations</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
       <description>Delivery Optimization settings for Windows devices that you can deploy using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
@@ -441,9 +441,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
+      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/apple-settings-catalog-configurations</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -465,12 +465,6 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
-      <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
       <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
@@ -483,21 +477,9 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows cloud configuration step by step guide - Microsoft Intune</title>
-      <description>Use this Windows 10/11 cloud configuration step-by-step setup guide to create your own cloud configuration deployment. You create the Microsoft Entra group and policies using Microsoft Intune, including the enrollment profile, compliance policy, and security baseline. You also deploy apps and resources that users need to do their jobs.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration-setup-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
-      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent-use</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android FOTA Updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
+      <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
+      <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -513,9 +495,21 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
+      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent-use</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Windows quality update policy - Microsoft Intune</title>
       <description>Use Hotpatch updates to receive security updates without restarting your device</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android FOTA Updates - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -525,15 +519,15 @@
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Admin checklist for software updates on BYOD in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for BYOD and personally owned devices using Microsoft Intune. See tasks and settings that can manage updates on personal devices on Android and iOS/iPadOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/byod-software-updates-guide</link>
+      <title>Windows cloud configuration step by step guide - Microsoft Intune</title>
+      <description>Use this Windows 10/11 cloud configuration step-by-step setup guide to create your own cloud configuration deployment. You create the Microsoft Entra group and policies using Microsoft Intune, including the enrollment profile, compliance policy, and security baseline. You also deploy apps and resources that users need to do their jobs.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration-setup-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Windows Holographic devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage and complete different tasks on devices running Windows Holographic for Business and HoloLens. You can configure the Company Portal app, create a compliance policy, customize OMA-URI settings, deploy apps, categorize devices in groups, create profiles, restrict devices, enable software updates, set terms and conditions, configure VPN and Wi-Fi settings, and use Hello for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-holographic-for-business</link>
+      <title>Admin checklist for software updates on BYOD in Microsoft Intune - Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updated for BYOD and personally owned devices using Microsoft Intune. See tasks and settings that can manage updates on personal devices on Android and iOS/iPadOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/byod-software-updates-guide</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
@@ -546,6 +540,12 @@
       <title>Use Windows cloud configuration in a guided scenario - Microsoft Intune</title>
       <description>Use a guided scenario to configure Windows 10/11 client devices in a cloud configuration in Microsoft Intune. Cloud config focuses on a simplified device experience for internet browsing and using Microsoft 365 apps, including Microsoft Teams.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration</link>
+      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Windows Holographic devices with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and complete different tasks on devices running Windows Holographic for Business and HoloLens. You can configure the Company Portal app, create a compliance policy, customize OMA-URI settings, deploy apps, categorize devices in groups, create profiles, restrict devices, enable software updates, set terms and conditions, configure VPN and Wi-Fi settings, and use Hello for Business.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-holographic-for-business</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
     <item>
