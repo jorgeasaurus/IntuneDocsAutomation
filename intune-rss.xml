@@ -6,8 +6,80 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 21 Jan 2026 05:13:17 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Jan 2026 05:13:17 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 12:02:43 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 12:02:43 GMT</lastBuildDate>
+    <item>
+      <title>Set up automatic enrollment in Intune - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment of Windows devices that join or register with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/quickstart-setup-auto-enrollment</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Send Email Notifications to Noncompliant Devices - Microsoft Intune</title>
+      <description>Learn how to create notification templates and send email alerts to users with noncompliant devices in Microsoft Intune. Configure actions for noncompliance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-send-notification</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll a Windows device - Microsoft Intune</title>
+      <description>Learn how to enroll a Windows device into Microsoft Intune. Follow this step-by-step evaluation guide to test device enrollment and verify it in the Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/quickstart-enroll-windows-device</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign an App - Microsoft Intune</title>
+      <description>Learn how to add and assign apps to user groups in Microsoft Intune. Ensure your workforce has access to the apps they need.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-add-assign-app</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a user in Intune and assign a license - Microsoft Intune</title>
+      <description>Learn how to create a user in Microsoft Intune and assign an Intune license to this user.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-user</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Try Microsoft Intune for free - Microsoft Intune</title>
+      <description>Evaluate Microsoft Intune with a free trial. Step through common settings, enroll devices, create policies, and learn about cloud-based device management. Start your trial today.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/try-intune-overview</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create and Assign an App Protection Policy - Microsoft Intune</title>
+      <description>Learn how to create and assign an app protection policy in Microsoft Intune to protect your organization's data. Get step-by-step guidance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-create-assign-app-policy</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
+      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-set-password-length-android</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create an Email Device Profile for iOS/iPadOS Devices - Microsoft Intune</title>
+      <description>Learn how to create an email device profile in Microsoft Intune for iOS/iPadOS devices. Configure email settings to help users securely access organization email.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/quickstart-email-profile</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create and assign a custom role in Intune - Microsoft Intune</title>
+      <description>Learn how to create and assign a custom Intune RBAC role with specific permissions for security operations. Follow this guide to implement least privilege access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-custom-role</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Group to Manage Users - Microsoft Intune</title>
+      <description>Learn how to create a group in Microsoft Intune and add users to the groups. Use groups to manage user access to company resources and assign policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-group</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
+      <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/free-trial-sign-up</link>
+      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
       <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
@@ -534,78 +606,6 @@
       <title>Windows cloud configuration step by step guide - Microsoft Intune</title>
       <description>Use this Windows 10/11 cloud configuration step-by-step setup guide to create your own cloud configuration deployment. You create the Microsoft Entra group and policies using Microsoft Intune, including the enrollment profile, compliance policy, and security baseline. You also deploy apps and resources that users need to do their jobs.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration-setup-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for software updates on BYOD in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for BYOD and personally owned devices using Microsoft Intune. See tasks and settings that can manage updates on personal devices on Android and iOS/iPadOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/byod-software-updates-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View Software Update Reports for Apple Devices - Microsoft Intune</title>
-      <description>Track Apple device update status in real time with Intune's declarative software update reporting. Learn how Microsoft Intune surfaces update changes directly from managed Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/reports</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows cloud configuration in a guided scenario - Microsoft Intune</title>
-      <description>Use a guided scenario to configure Windows 10/11 client devices in a cloud configuration in Microsoft Intune. Cloud config focuses on a simplified device experience for internet browsing and using Microsoft 365 apps, including Microsoft Teams.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows Holographic devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage and complete different tasks on devices running Windows Holographic for Business and HoloLens. You can configure the Company Portal app, create a compliance policy, customize OMA-URI settings, deploy apps, categorize devices in groups, create profiles, restrict devices, enable software updates, set terms and conditions, configure VPN and Wi-Fi settings, and use Hello for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-holographic-for-business</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software update errors and descriptions in Microsoft Intune - Microsoft Intune</title>
-      <description>See a list of the Software Update agent error code in Microsoft Intune, including the error code, symbolic name, and error description.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/software-update-agent-error-codes</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
-      <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
-      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
-      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/reports</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-deploy</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create Windows Driver updates policy in Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage policies that install Windows driver updates on your Intune managed Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-policy</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
