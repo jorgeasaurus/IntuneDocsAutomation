@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 23 Jan 2026 06:02:26 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 06:02:26 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 11:42:50 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 11:42:50 GMT</lastBuildDate>
+    <item>
+      <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
+      <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-intune-setup</link>
+      <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Move from Basic Mobility and Security to Intune-Migration Guide - Microsoft Intune</title>
+      <description>Follow this migration guide to move your mobile device management from Microsoft 365 Basic Mobility and Security to Intune. Includes policy mapping and license assignment steps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/migrate-to-intune</link>
+      <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configurations policy mapping from Basic Mobility and Security to Intune - Microsoft Intune</title>
+      <description>A detailed list of the policy map between Basic Mobility and Security configurations and Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-map-configurations</link>
+      <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Route logs to Azure Monitor using Microsoft Intune - Microsoft Intune</title>
       <description>Use Diagnostics Settings to send audit logs and operational logs in Microsoft Intune to Azure Storage account, Event Hubs, or Log Analytics. Choose how long you want to keep the data, and see some estimated costs for different size tenants.</description>
@@ -588,24 +606,6 @@
       <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
       <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent-use</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows quality update policy - Microsoft Intune</title>
-      <description>Use Hotpatch updates to receive security updates without restarting your device</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates-policy</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android FOTA Updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/fota-updates</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-macos</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
