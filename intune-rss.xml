@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 24 Jan 2026 05:32:30 GMT</pubDate>
-    <lastBuildDate>Sat, 24 Jan 2026 05:32:30 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 11:27:52 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 11:27:52 GMT</lastBuildDate>
     <item>
       <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
       <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
@@ -69,9 +69,21 @@
       <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Access requirements policy mapping from Basic Mobility and Security to Intune - Microsoft Intune</title>
+      <description>A detailed list of the policy map between Basic Mobility and Security access requirements and Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-map-access-requirements</link>
+      <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configurations policy mapping from Basic Mobility and Security to Intune - Microsoft Intune</title>
       <description>A detailed list of the policy map between Basic Mobility and Security configurations and Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-map-configurations</link>
+      <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Miscellaneous policy mapping from Basic Mobility and Security to Intune - Microsoft Intune</title>
+      <description>A detailed miscellaneous policy map between Basic Mobility and Security access requirements and Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/policy-map-miscellaneous</link>
       <pubDate>Fri, 23 Jan 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
       <description>Delivery Optimization settings for Windows devices that you can deploy using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
-      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/apple-settings-catalog-configurations</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
