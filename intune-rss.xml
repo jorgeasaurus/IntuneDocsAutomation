@@ -6,8 +6,56 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 23 Jan 2026 18:02:20 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 18:02:20 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 00:05:42 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:05:42 GMT</lastBuildDate>
+    <item>
+      <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-4-acp-edge</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-2-app</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 1. Create Microsoft Entra Conditional Access with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 1. Create Microsoft Entra Conditional Access with Microsoft Edge for Business.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-1-mamca</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-settings-catalog</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
+      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-3-scc</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
+      <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-7-troubleshoot</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 6. Understand Microsoft Edge for Business End User Experience for Windows - Microsoft Intune</title>
+      <description>Step 6. Understand Microsoft Edge for Business end user experience Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-6-end-user-experience</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
       <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
@@ -558,54 +606,6 @@
       <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
-      <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, and Legacy Zebra OEMConfig apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/oemconfig-managed-home-screen-permissions-android</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protect devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-protect</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows compatibility reports for Windows updates in Intune - Microsoft Intune</title>
-      <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune policies to manage macOS software updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-macos</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
-      <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/zebra-lifeguard-ota-integration</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-ios-ipados</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
-      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent-use</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
