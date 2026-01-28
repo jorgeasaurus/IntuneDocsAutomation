@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 27 Jan 2026 23:32:33 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 23:32:33 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 05:12:33 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:12:33 GMT</lastBuildDate>
+    <item>
+      <title>Set up Intune - Microsoft Intune</title>
+      <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-setup</link>
+      <pubDate>Tue, 27 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Monitor App Protection Policies - Microsoft Intune</title>
+      <description>This article describes how to monitor app protection policies in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policies-monitor</link>
+      <pubDate>Tue, 27 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Service Description - Microsoft Intune</title>
+      <description>Microsoft Intune is a cloud-based service that helps you manage Windows, iOS/iPadOS, macOS, and Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/microsoft-intune-service-description</link>
+      <pubDate>Tue, 27 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Configure Slack to Use Intune for EMM and App Configuration - Microsoft Intune</title>
+      <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/tutorial-configure-slack-enterprise-grid</link>
+      <pubDate>Tue, 27 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
       <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
@@ -582,30 +606,6 @@
       <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-govt-service-description</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Delivery Optimization settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Configure device configuration policy to manage Delivery Optimization settings on Windows devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-windows</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Update settings you can manage with Intune Update Ring policies for Windows devices. - Microsoft Intune</title>
-      <description>View the settings for Windows Update that you can manage through Intune policy for Update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/settings</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Delivery Optimization settings for Intune - Microsoft Intune</title>
-      <description>Delivery Optimization settings for Windows devices that you can deploy using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/delivery-optimization-settings</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
