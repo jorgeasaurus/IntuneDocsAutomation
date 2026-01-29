@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 29 Jan 2026 12:05:15 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 12:05:15 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 17:42:30 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 17:42:30 GMT</lastBuildDate>
+    <item>
+      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
+      <pubDate>Wed, 28 Jan 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automatic enrollment in Intune - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment of Windows devices that join or register with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/quickstart-setup-auto-enrollment</link>
+      <pubDate>Wed, 28 Jan 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device enrollment guide for Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment</link>
+      <pubDate>Wed, 28 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sign up or sign in to Microsoft Intune - Microsoft Intune</title>
+      <description>How to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/account-sign-up</link>
+      <pubDate>Wed, 28 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
+      <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/free-trial-sign-up</link>
+      <pubDate>Wed, 28 Jan 2026 08:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up Intune - Microsoft Intune</title>
       <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
@@ -129,12 +159,6 @@
       <pubDate>Wed, 21 Jan 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up automatic enrollment in Intune - Microsoft Intune</title>
-      <description>Enable Intune automatic enrollment of Windows devices that join or register with your Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/quickstart-setup-auto-enrollment</link>
-      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Send Email Notifications to Noncompliant Devices - Microsoft Intune</title>
       <description>Learn how to create notification templates and send email alerts to users with noncompliant devices in Microsoft Intune. Configure actions for noncompliance.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/quickstart-send-notification</link>
@@ -192,12 +216,6 @@
       <title>Create a Group to Manage Users - Microsoft Intune</title>
       <description>Learn how to create a group in Microsoft Intune and add users to the groups. Use groups to manage user access to company resources and assign policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-group</link>
-      <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
-      <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/free-trial-sign-up</link>
       <pubDate>Wed, 21 Jan 2026 08:36:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Configure Windows Update rings policy in Intune - Microsoft Intune</title>
       <description>Create and manage Intune policy for Windows update rings. You can configure, deploy, and pause update installation with Windows Update client policies using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune to expedite Windows quality updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to expedite the installation of Windows updates on managed devices as soon as possible.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-updates</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Windows Update for Business reports for Windows Updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Windows Update for Business reports to view data for Windows Updates you deploy with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/reports</link>
-      <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
       <pubDate>Tue, 16 Dec 2025 17:04:00 GMT</pubDate>
     </item>
   </channel>
