@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 31 Jan 2026 11:26:13 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Jan 2026 11:26:13 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 18:02:40 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 18:02:40 GMT</lastBuildDate>
+    <item>
+      <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
+      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
+      <pubDate>Fri, 30 Jan 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Scopes in endpoint analytics - Microsoft Intune</title>
+      <description>Learn how to use device scopes in Microsoft Intune endpoint analytics with scope tags for custom device reporting and targeted insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
+      <pubDate>Fri, 30 Jan 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
+      <pubDate>Fri, 30 Jan 2026 23:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
       <description>Understand Microsoft Intune management extension for Windows.</description>
@@ -99,15 +117,15 @@
       <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/powershell-scripts</link>
-      <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add Microsoft Edge for Windows to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding Microsoft Edge for Windows to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-windows-edge</link>
+      <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/powershell-scripts</link>
       <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
@@ -387,12 +405,6 @@
       <pubDate>Tue, 20 Jan 2026 13:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
-      <pubDate>Fri, 16 Jan 2026 18:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-defender-with-intune</link>
@@ -594,18 +606,6 @@
       <title>Set up Better Mobile integration with Intune - Microsoft Intune</title>
       <description>Integrate the third-party mobile threat defense solution of Better Mobile with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/better-mobile-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Trellix Mobile Security MTD with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the Trellix Mobile Security mobile threat defense (MTD) solution with Microsoft Intune to control mobile device access to your corporate resources</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/trellix-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Pradeo Mobile Threat Defense to integrate with Intune - Microsoft Intune</title>
-      <description>How to set up the Pradeo Mobile Threat Protection solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/pradeo-mtd-connector-integration</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
   </channel>
