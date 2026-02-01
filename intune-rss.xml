@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 01 Feb 2026 06:02:38 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2026 06:02:38 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Feb 2026 12:02:38 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2026 12:02:38 GMT</lastBuildDate>
     <item>
       <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
       <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
@@ -135,6 +135,12 @@
       <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
+      <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/configure-byoca</link>
+      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
       <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/fundamentals</link>
@@ -144,12 +150,6 @@
       <title>Configure Microsoft Cloud PKI root and issuing CA for Microsoft Intune - Microsoft Intune</title>
       <description>Configure a root and issuing CA for the Microsoft Cloud PKI service.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/configure-ca</link>
-      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bring your own certificate authority with Cloud PKI - Microsoft Intune</title>
-      <description>Create a Microsoft Cloud PKI BYOCA issuing CA in Intune and anchor it to an on-premises or private CA.</description>
-      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/configure-byoca</link>
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
@@ -171,12 +171,6 @@
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
-      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
-      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
-      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Delete issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
       <description>Delete certificates issued via Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/delete</link>
@@ -186,6 +180,12 @@
       <title>Monitor issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
       <description>Monitor reports for certificates issued via Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/monitor</link>
+      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
+      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
@@ -273,6 +273,12 @@
       <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Step 6. Understand Microsoft Edge for Business End User Experience for Windows - Microsoft Intune</title>
+      <description>Step 6. Understand Microsoft Edge for Business end user experience Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-6-end-user-experience</link>
+      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
       <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-7-troubleshoot</link>
@@ -282,12 +288,6 @@
       <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
       <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
-      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 6. Understand Microsoft Edge for Business End User Experience for Windows - Microsoft Intune</title>
-      <description>Step 6. Understand Microsoft Edge for Business end user experience Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-6-end-user-experience</link>
       <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
@@ -483,15 +483,15 @@
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create Mobile Threat Defense (MTD) app protection policy with Intune - Microsoft Intune</title>
-      <description>Create Mobile Threat Defense (MTD) app protection policy with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-app-protection-policy</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add and assign MTD apps to Microsoft Intune - Microsoft Intune</title>
       <description>Use Intune to add Mobile Threat Defense (MTD) apps, Microsoft Authenticator app, and iOS configuration policy in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-apps-ios-app-configuration-policy-add-assign</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Mobile Threat Defense (MTD) app protection policy with Intune - Microsoft Intune</title>
+      <description>Create Mobile Threat Defense (MTD) app protection policy with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-app-protection-policy</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -513,27 +513,33 @@
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Sophos Mobile integration with Intune - Microsoft Intune</title>
-      <description>How to set up the Sophos Mobile solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/sophos-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up Zimperium MTD integration with Microsoft Intune - Microsoft Intune</title>
       <description>How to set up the Zimperium Mobile Threat Defense (MTD) solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zimperium-mtd-connector-integration</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Lookout Mobile Endpoint Security with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up Lookout Mobile Endpoint Security and Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/lookout-mtd-connector-integration</link>
+      <title>Set up Sophos Mobile integration with Intune - Microsoft Intune</title>
+      <description>How to set up the Sophos Mobile solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/sophos-mtd-connector-integration</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lookout Mobile Endpoint with Microsoft Intune - Microsoft Intune</title>
+      <description>How to set up Lookout Mobile Threat Defense (MTD) How to set up to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/lookout-mobile-threat-defense-connector</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
       <title>Zimperium MTD connector with Microsoft Intune - Microsoft Intune</title>
       <description>How to set up Zimperium Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zimperium-mobile-threat-defense-connector</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Lookout Mobile Endpoint Security with Microsoft Intune - Microsoft Intune</title>
+      <description>How to set up Lookout Mobile Endpoint Security and Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/lookout-mtd-connector-integration</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -549,15 +555,15 @@
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Jamf Mobile Security with Intune - Microsoft Intune</title>
-      <description>How to set up Jamf Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-mtd-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up Check Point Harmony integration with Intune - Microsoft Intune</title>
       <description>How to set up CheckPoint Harmony Mobile Threat Defense (MTD) with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/checkpoint-sandblast-mobile-mtd-connector-integration</link>
+      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Jamf Mobile Security with Intune - Microsoft Intune</title>
+      <description>How to set up Jamf Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-mtd-connector</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Pradeo Mobile Threat Defense connector and Microsoft Intune - Microsoft Intune</title>
       <description>How to set up the Pradeo Mobile Threat Protection with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/pradeo-mobile-threat-defense-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Better Mobile integration with Intune - Microsoft Intune</title>
-      <description>Integrate the third-party mobile threat defense solution of Better Mobile with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/better-mobile-mtd-connector-integration</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
   </channel>
