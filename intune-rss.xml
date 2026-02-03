@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 03 Feb 2026 12:05:39 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 12:05:39 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 17:42:28 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 17:42:28 GMT</lastBuildDate>
+    <item>
+      <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
+      <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, and Legacy Zebra OEMConfig apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/oemconfig-managed-home-screen-permissions-android</link>
+      <pubDate>Mon, 02 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud PKI CA Expiration - Microsoft Intune</title>
+      <description>Learn how to renew a certificate authority (CA) in Microsoft Cloud PKI to maintain continuous certificate issuance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/renew-ca</link>
+      <pubDate>Mon, 02 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating elevation rules with Endpoint Privilege Management - Microsoft Intune</title>
+      <description>View guidance on how to create strong file elevation rules with Microsoft Intune Endpoint Privilege Management</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-elevation-rules</link>
+      <pubDate>Mon, 02 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
       <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
@@ -159,15 +177,21 @@
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Audit logs for Microsoft Intune cloud PKI - Microsoft Intune</title>
+      <description>Get audit logs for Microsoft cloud public key infrastructure (PKI) activity in the admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/audit-logs</link>
+      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
       <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Audit logs for Microsoft Intune cloud PKI - Microsoft Intune</title>
-      <description>Get audit logs for Microsoft cloud public key infrastructure (PKI) activity in the admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/audit-logs</link>
+      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
+      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
@@ -180,12 +204,6 @@
       <title>Monitor issued PKI certificates with Microsoft Intune - Microsoft Intune</title>
       <description>Monitor reports for certificates issued via Microsoft Intune cloud PKI.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/monitor</link>
-      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
-      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
-      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
       <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
     <item>
@@ -240,6 +258,12 @@
       <title>Tutorial - Configure Slack to Use Intune for EMM and App Configuration - Microsoft Intune</title>
       <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/tutorial-configure-slack-enterprise-grid</link>
+      <pubDate>Tue, 27 Jan 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Tue, 27 Jan 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Symantec Endpoint Protection Mobile connector with Microsoft Intune - Microsoft Intune</title>
       <description>How to set up Symantec Endpoint Protection Mobile with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/skycure-mobile-threat-defense-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up BlackBerry Protect with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the CylancePROTECT (BlackBerry) MTD solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/blackberry-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Check Point Harmony Mobile Mobile Threat Defense Intune - Microsoft Intune</title>
-      <description>How to set up Check Point Harmony Mobile Threat Defense with Microsoft Intune control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/checkpoint-sandblast-mobile-mobile-threat-defense-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trellix Mobile Security connector with Intune - Microsoft Intune</title>
-      <description>How to set up Trellix Mobile Security with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/trellix-mobile-threat-defense-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pradeo Mobile Threat Defense connector and Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the Pradeo Mobile Threat Protection with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/pradeo-mobile-threat-defense-connector</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
   </channel>
