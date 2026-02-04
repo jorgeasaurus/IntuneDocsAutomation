@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 04 Feb 2026 12:05:13 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 12:05:13 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 17:46:28 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 17:46:28 GMT</lastBuildDate>
     <item>
       <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
@@ -81,15 +81,15 @@
       <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>View device details with Microsoft Intune - Microsoft Intune</title>
-      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
-      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
+      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View device details with Microsoft Intune - Microsoft Intune</title>
+      <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
       <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
@@ -123,6 +123,12 @@
       <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
+      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
       <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-connector-enable</link>
@@ -138,6 +144,12 @@
       <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
       <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
@@ -595,18 +607,6 @@
       <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/vpp-apps-ios</link>
       <pubDate>Wed, 14 Jan 2026 15:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add an iOS/iPadOS Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about how to add an iOS/iPadOS line-of-business (LOB) app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-ios</link>
-      <pubDate>Wed, 14 Jan 2026 15:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Tue, 13 Jan 2026 21:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
