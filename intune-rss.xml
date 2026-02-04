@@ -6,8 +6,68 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 03 Feb 2026 17:42:28 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 17:42:28 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 00:01:13 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Centrally manage Admin Tasks - Microsoft Intune</title>
+      <description>Centrally manage admin tasks in Microsoft Intune. Use the unified Admin tasks view to organize and act on administrative tasks from Device Offboarding, Endpoint Privilege Management, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
+      <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-connector-enable</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frequently asked questions for Endpoint Privilege Management - Microsoft Intune</title>
+      <description>A list of frequently asked questions for customers deploying Microsoft Intune Endpoint Privilege Management</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-frequently-asked-questions</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mobile-threat-defense</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
+      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-plan</link>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android App Protection Policy Settings - Microsoft Intune</title>
+      <description>This article describes the app protection policy settings for Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
+      <pubDate>Tue, 03 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
+      <pubDate>Tue, 03 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
+      <pubDate>Tue, 03 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
       <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, and Legacy Zebra OEMConfig apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
@@ -309,12 +369,6 @@
       <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-overview</link>
-      <pubDate>Fri, 23 Jan 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
       <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-intune-setup</link>
@@ -465,12 +519,6 @@
       <pubDate>Tue, 13 Jan 2026 21:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Centrally manage Admin Tasks - Microsoft Intune</title>
-      <description>Use the centralized Admin tasks view in Microsoft Intune to manage common administrative tasks from across Intune capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/admin-tasks</link>
-      <pubDate>Mon, 12 Jan 2026 21:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Troubleshooting Endpoint Analytics - Microsoft Intune</title>
       <description>Troubleshoot Microsoft Intune endpoint analytics, including device enrollment issues, startup performance, and data collection problems.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/troubleshoot</link>
@@ -498,12 +546,6 @@
       <title>Create Mobile Threat Defense compliance policies in Intune - Microsoft Intune</title>
       <description>Create an Intune device compliance policy that uses your MTD partner threat levels to determine if a mobile device can access company resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-device-compliance-policy-create</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mtd-connector-enable</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -564,48 +606,6 @@
       <title>Set up Lookout Mobile Endpoint Security with Microsoft Intune - Microsoft Intune</title>
       <description>How to set up Lookout Mobile Endpoint Security and Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/lookout-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Trend Micro MTD integration with Intune - Microsoft Intune</title>
-      <description>How to set up Trend Micro Mobile Security with Microsoft Intune to control mobile device access to your corporate resources</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/trend-micro-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trend Micro Mobile Security and Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up Trend Micro Mobile Threat Defense with with Microsoft Intune to control mobile device access to your corporate resources</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/trend-micro-mobile-threat-defense-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Check Point Harmony integration with Intune - Microsoft Intune</title>
-      <description>How to set up CheckPoint Harmony Mobile Threat Defense (MTD) with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/checkpoint-sandblast-mobile-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Jamf Mobile Security with Intune - Microsoft Intune</title>
-      <description>How to set up Jamf Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-mtd-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Jamf Mobile Threat Protection integration with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the Jamf Mobile Threat Protection solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-mtd-connector-integration</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Better Mobile Threat Defense with Intune - Microsoft Intune</title>
-      <description>How to set up the Better Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/better-mobile-threat-defense-connector</link>
-      <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Symantec Endpoint Protection Mobile connector with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up Symantec Endpoint Protection Mobile with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/skycure-mobile-threat-defense-connector</link>
       <pubDate>Fri, 09 Jan 2026 23:32:00 GMT</pubDate>
     </item>
   </channel>
