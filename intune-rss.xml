@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 10 Feb 2026 11:12:36 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 11:12:36 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 17:32:37 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 17:32:37 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Learn more about managing devices, apps, and security with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
@@ -109,12 +115,6 @@
       <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
       <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune product and capabilities documentation - Microsoft Intune</title>
-      <description>Learn more about how Microsoft Intune products and capabilities can help you secure, deploy, and manage users, apps, and endpoint devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
@@ -333,15 +333,15 @@
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
-      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/zebra-lifeguard-ota-integration</link>
+      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom settings - Windows Holographic for Business devices - Microsoft Intune</title>
+      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows Holographic for Business in Microsoft Intune, including Microsoft HoloLens. You can set AllowFastReconnect, AllowVPN, AllowUpdateService, UpdateServiceURL, RequireUpdatesApproval, ApprovedUpdates, and ApplicationLaunchRestrictions policy configuration service provider (CSP) settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-holographic</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
