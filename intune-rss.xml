@@ -6,8 +6,56 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 09 Feb 2026 18:12:39 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 18:12:39 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 23:52:28 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:52:28 GMT</lastBuildDate>
+    <item>
+      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
+      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
+      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
+      <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/get-support</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
+      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-manager-overview</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add, Configure, and Protect Apps with Intune - Microsoft Intune</title>
+      <description>Add, configure, and protect apps with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-protect-apps</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
+      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Windows Feature Update Policies - Microsoft Intune</title>
+      <description>Learn about Windows feature update polies and how to manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-update-policy</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collect device hardware info with the properties catalog - Microsoft Intune</title>
+      <description>Use the properties catalog in Microsoft Intune view and collect enhanced device hardware info on Windows devices you manage with Intune. You can collect info like BIOS version, TPM status, disk info, memory details, and network adapter configurations. Use this information to get deeper visibility into your device inventory and troubleshoot issues.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
+      <pubDate>Mon, 09 Feb 2026 18:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Prepare a Win32 App to Be Uploaded to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to prepare a Win32 app to be uploaded to Microsoft Intune.</description>
@@ -78,12 +126,6 @@
       <title>Manage Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about Windows Update ring policies for Windows devices, how to create and manage them, and improve update deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
-      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
@@ -237,12 +279,6 @@
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Windows Feature Update Policies - Microsoft Intune</title>
-      <description>Learn about Windows feature update polies and how to manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-update-policy</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Software Update Errors and Descriptions - Microsoft Intune</title>
       <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/software-update-agent-error-codes</link>
@@ -354,12 +390,6 @@
       <title>View device details with Microsoft Intune - Microsoft Intune</title>
       <description>View your device details, including operating systems, storage space, manufacturer, and model. Get a list of installed apps, check compliance policies, and set up TeamViewer with Microsoft Intune in Azure. Similar to viewing inventory of the devices you manage.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-inventory</link>
-      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
-      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-manager-overview</link>
       <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
@@ -577,36 +607,6 @@
       <description>Enable protected MAM access to org data using Windows MAM.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/protect-mam-windows</link>
       <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Review App Protection Policy Logs - Microsoft Intune</title>
-      <description>This topic describes how to configure Intune app protection policy (APP) logs.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-log</link>
-      <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Microsoft Edge for Windows to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about adding Microsoft Edge for Windows to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-windows-edge</link>
-      <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create and Assign an App Protection Policy - Microsoft Intune</title>
-      <description>Learn how to create and assign an app protection policy in Microsoft Intune to protect your organization's data. Get step-by-step guidance.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/quickstart-create-assign-app-policy</link>
-      <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/powershell-scripts</link>
-      <pubDate>Thu, 29 Jan 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
-      <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-add-ons</link>
-      <pubDate>Thu, 29 Jan 2026 13:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
