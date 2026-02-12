@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 11 Feb 2026 18:15:59 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 18:15:59 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 00:06:59 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:06:59 GMT</lastBuildDate>
+    <item>
+      <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
+      <description>Use compatibility reports for Windows devices in Intune to identify app and driver risks before deploying feature updates or update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
+      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud PKI CA Expiration - Microsoft Intune</title>
+      <description>Learn how to renew a certificate authority (CA) in Microsoft Cloud PKI to maintain continuous certificate issuance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/renew-ca</link>
+      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
+      <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-troubleshoot-monitor</link>
+      <pubDate>Wed, 11 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
       <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
@@ -351,12 +381,6 @@
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
-      <description>Use the app and driver compatibility reports for Windows devices before you deploy Intune policies for feature updates or update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Microsoft Intune policies to manage macOS software updates - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-macos</link>
@@ -582,30 +606,6 @@
       <title>Deployment guide to manage Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Learn the recommended processes to manage Android devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-android</link>
-      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Windows virtual machines with Microsoft Intune - Microsoft Intune</title>
-      <description>This article describes the general guidelines for using Windows 10/11 virtual machines with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines</link>
-      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add users to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
-      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide for Linux device management - Microsoft Intune</title>
-      <description>Use our platform deployment guide to set up Linux device management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-linux</link>
-      <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide for Windows device management - Microsoft Intune</title>
-      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
       <pubDate>Wed, 04 Feb 2026 08:34:00 GMT</pubDate>
     </item>
   </channel>
