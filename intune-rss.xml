@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 18 Feb 2026 18:11:08 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 18:11:08 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 00:09:03 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:09:03 GMT</lastBuildDate>
+    <item>
+      <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
+      <pubDate>Wed, 18 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
+      <pubDate>Wed, 18 Feb 2026 19:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/manage-microsoft-edge</link>
+      <pubDate>Wed, 18 Feb 2026 19:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
@@ -19,12 +37,6 @@
       <description>This article describes the app protection policy settings for Android devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-settings-android</link>
       <pubDate>Fri, 13 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
-      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
-      <pubDate>Fri, 13 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
@@ -321,15 +333,15 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
-      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
+      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -390,12 +402,6 @@
       <title>Prepare a Win32 App to Be Uploaded to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to prepare a Win32 app to be uploaded to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-prepare</link>
-      <pubDate>Fri, 06 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
       <pubDate>Fri, 06 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Use Windows Holographic devices with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and complete different tasks on devices running Windows Holographic for Business and HoloLens. You can configure the Company Portal app, create a compliance policy, customize OMA-URI settings, deploy apps, categorize devices in groups, create profiles, restrict devices, enable software updates, set terms and conditions, configure VPN and Wi-Fi settings, and use Hello for Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-holographic-for-business</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Hotpatch With Windows Quality Updates - Microsoft Intune</title>
-      <description>Learn how hotpatch works with Windows quality update policies in Microsoft Intune to install eligible security updates without requiring an immediate device restart.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/hotpatch</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
   </channel>
