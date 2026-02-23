@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 23 Feb 2026 05:44:51 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 05:44:51 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 12:07:29 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 12:07:29 GMT</lastBuildDate>
     <item>
       <title>Microsoft Intune Reports - Microsoft Intune</title>
       <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
@@ -129,12 +129,6 @@
       <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
-      <description>Use compatibility reports for Windows devices in Intune to identify app and driver risks before deploying feature updates or update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
-      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Cloud PKI CA Expiration - Microsoft Intune</title>
       <description>Learn how to renew a certificate authority (CA) in Microsoft Cloud PKI to maintain continuous certificate issuance.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/renew-ca</link>
@@ -144,6 +138,12 @@
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
+      <description>Use compatibility reports for Windows devices in Intune to identify app and driver risks before deploying feature updates or update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
       <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -195,6 +195,12 @@
       <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Apple device feature settings in Microsoft Intune - Microsoft Intune</title>
+      <description>See all the settings to configure iOS, iPadOS, and macOS devices for AirPrint, home screen layout, app notifications, shared devices, single sign-on, and web content filter settings in Microsoft Intune. Use these settings in a device configuration profile to configure iOS, iPadOS, and macOS devices to use these Apple features on your devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-features-apple</link>
+      <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
       <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
@@ -210,12 +216,6 @@
       <title>Configure VPN settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
       <description>Add or create a VPN configuration profile on iOS/iPadOS and macOS devices using virtual private network (VPN) configuration settings in Microsoft Intune. Configure the connection details, authentication methods, split tunneling, custom VPN settings with the identifier, key and value pairs, per-app VPN settings that include Safari URLs, and on-demand VPNs with SSIDs or DNS search domains, proxy settings to include a configuration script, IP or FQDN address, and TCP port.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-apple</link>
-      <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple device feature settings in Microsoft Intune - Microsoft Intune</title>
-      <description>See all the settings to configure iOS, iPadOS, and macOS devices for AirPrint, home screen layout, app notifications, shared devices, single sign-on, and web content filter settings in Microsoft Intune. Use these settings in a device configuration profile to configure iOS, iPadOS, and macOS devices to use these Apple features on your devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-features-apple</link>
       <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
@@ -261,15 +261,15 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a Wi-Fi profile for devices in Microsoft Intune - Microsoft Intune</title>
-      <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-configure</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Wi-Fi profile for devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-configure</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -399,15 +399,15 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
-      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
+      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -447,15 +447,15 @@
       <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
-      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
-      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Windows Feature Update Policies - Microsoft Intune</title>
       <description>Learn about Windows feature update polies and how to manage them in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-update-policy</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
+      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
       <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
@@ -513,15 +513,15 @@
       <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Windows Update Ring Policies - Microsoft Intune</title>
-      <description>Learn about Windows Update ring policies for Windows devices, how to create and manage them, and improve update deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
       <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
+      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Windows Update Ring Policies - Microsoft Intune</title>
+      <description>Learn about Windows Update ring policies for Windows devices, how to create and manage them, and improve update deployment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
@@ -546,6 +546,12 @@
       <title>Use Microsoft Intune policies to manage macOS software updates - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-macos</link>
+      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Update Management Overview - Microsoft Intune</title>
+      <description>Learn how to manage Windows updates with Intune. Control update settings, define rollout strategies, and ensure consistent device security across your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
@@ -585,27 +591,21 @@
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Windows Driver Updates - Microsoft Intune</title>
-      <description>Learn how to manage Windows driver updates using Intune driver update policies to keep Windows devices current and stable.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-guide-macos</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Admin checklist for Android software updates in Microsoft Intune - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updated for Android devices using Microsoft Intune. See tasks and settings that can manage updates on corporate owned Android Enterprise devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/software-updates-guide</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Admin checklist for software updates on BYOD in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for BYOD and personally owned devices using Microsoft Intune. See tasks and settings that can manage updates on personal devices on Android and iOS/iPadOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/byod-software-updates-guide</link>
+      <title>Manage Windows Driver Updates - Microsoft Intune</title>
+      <description>Learn how to manage Windows driver updates using Intune driver update policies to keep Windows devices current and stable.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates</link>
+      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
+      <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-update-policy</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
   </channel>
