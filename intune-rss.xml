@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 26 Feb 2026 06:17:22 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 06:17:22 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 12:08:42 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 12:08:42 GMT</lastBuildDate>
     <item>
       <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
@@ -33,6 +33,12 @@
       <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Protection and configuration levels overview in Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the different levels of protection and configuration in Microsoft Intune, including minimum, enhanced, and high levels.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/protection-configuration-levels</link>
@@ -43,6 +49,12 @@
       <description>Learn the recommended seven-layer deployment progression for implementing Zero Trust device security with Microsoft Intune, from app protection to endpoint data loss prevention.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-zero-trust</link>
       <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
+      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-device-properties</link>
+      <pubDate>Wed, 25 Feb 2026 16:59:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
@@ -567,12 +579,6 @@
       <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable use of Windows diagnostic data by Intune - Microsoft Intune</title>
-      <description>Enable Windows diagnostic data in processor configuration for your tenant to enable its use by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/data-enable-windows-data</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about Windows Update ring policies for Windows devices, how to create and manage them, and improve update deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
@@ -600,12 +606,6 @@
       <title>Use Microsoft Intune policies to manage macOS software updates - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-macos</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Update Management Overview - Microsoft Intune</title>
-      <description>Learn how to manage Windows updates with Intune. Control update settings, define rollout strategies, and ensure consistent device security across your organization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
   </channel>
