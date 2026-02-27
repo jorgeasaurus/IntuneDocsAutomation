@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 26 Feb 2026 23:32:56 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 23:32:56 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 05:26:26 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 05:26:26 GMT</lastBuildDate>
+    <item>
+      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
+      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Route logs to Azure Monitor using Microsoft Intune - Microsoft Intune</title>
+      <description>Use Diagnostics Settings to send audit logs and operational logs in Microsoft Intune to Azure Storage account, Event Hubs, or Log Analytics. Choose how long you want to keep the data, and see some estimated costs for different size tenants.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/review-logs-using-azure-monitor</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices in Advanced Analytics - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
       <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
@@ -507,12 +531,6 @@
       <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
-      <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/</link>
-      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
       <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
       <link>https://learn.microsoft.com/en-us/intune/get-support</link>
@@ -589,24 +607,6 @@
       <description>Learn how to assign a built-in or custom role to a user in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/assign-role</link>
       <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
-      <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Windows Update Ring Policies - Microsoft Intune</title>
-      <description>Learn about Windows Update ring policies for Windows devices, how to create and manage them, and improve update deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-rings</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Windows Feature Updates - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune policies to manage Windows feature updates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-updates</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
