@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 27 Feb 2026 12:05:15 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 12:05:15 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 17:16:17 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 17:16:17 GMT</lastBuildDate>
     <item>
       <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
       <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
@@ -33,9 +33,27 @@
       <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Platforms and policy types supported by assignment filters - Microsoft Intune</title>
+      <description>Learn which apps, compliance policies, and device configuration profiles and their platforms support assignment filters in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
       <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-ios</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10</link>
       <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
@@ -45,9 +63,33 @@
       <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Intune Data Warehouse Collections - Microsoft Intune</title>
+      <description>The Intune Data Warehouse collections provide details related to the Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/intune-data-warehouse-collections</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Issue DigiCert PKCS certificates with Microsoft Intune - Microsoft Intune</title>
       <description>Install and configure the Certificate Connector for Microsoft Intune to issue PKCS certificates from DigiCert PKI Platform to Intune-managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-digicert-configure</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reference for Application Entities - Microsoft Intune</title>
+      <description>Reference topic for the Application category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-application</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile App Management (MAM) - Microsoft Intune</title>
+      <description>Reference topic for the Mobile App Management category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-mobile-app-management</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>User - Intune Data Warehouse - Microsoft Intune</title>
+      <description>Reference topic for the User category of entity collections in the Intune Data Warehouse API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/reports-ref-user</link>
       <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
@@ -565,48 +607,6 @@
       <description>Use the properties catalog in Microsoft Intune view and collect enhanced device hardware info on Windows devices you manage with Intune. You can collect info like BIOS version, TPM status, disk info, memory details, and network adapter configurations. Use this information to get deeper visibility into your device inventory and troubleshoot issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/properties-catalog</link>
       <pubDate>Mon, 09 Feb 2026 18:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prepare a Win32 App to Be Uploaded to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to prepare a Win32 app to be uploaded to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-prepare</link>
-      <pubDate>Fri, 06 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-app-management</link>
-      <pubDate>Fri, 06 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
-      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
-      <pubDate>Fri, 06 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
-      <pubDate>Fri, 06 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune built-in roles reference - Microsoft Intune</title>
-      <description>Permissions reference for built-in roles for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control-reference</link>
-      <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a custom role in Intune - Microsoft Intune</title>
-      <description>Learn how to create a custom role in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
-      <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign a role to an Intune administrator - Microsoft Intune</title>
-      <description>Learn how to assign a built-in or custom role to a user in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/assign-role</link>
-      <pubDate>Thu, 05 Feb 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
