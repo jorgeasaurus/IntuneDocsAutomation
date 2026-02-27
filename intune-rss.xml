@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 26 Feb 2026 17:52:24 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 17:52:24 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 23:32:56 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 23:32:56 GMT</lastBuildDate>
+    <item>
+      <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
+      <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-ios</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configuration Policies for Intune App SDK Managed Apps - Microsoft Intune</title>
+      <description>Learn how to configure policies for Intune App SDK managed apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-managed-app</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Issue DigiCert PKCS certificates with Microsoft Intune - Microsoft Intune</title>
+      <description>Install and configure the Certificate Connector for Microsoft Intune to issue PKCS certificates from DigiCert PKI Platform to Intune-managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/certificates-digicert-configure</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
@@ -588,24 +606,6 @@
       <title>Manage Windows Feature Updates - Microsoft Intune</title>
       <description>Learn how to use Microsoft Intune policies to manage Windows feature updates.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/feature-updates</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Rings Policy Settings - Microsoft Intune</title>
-      <description>Reference article that lists all the settings for Windows Update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-ring-policy-settings</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Windows quality updates - Microsoft Intune</title>
-      <description>Learn how to manage Windows quality updates in Microsoft Intune using quality update policies, expedited updates, and hotpatch to keep devices secure and compliant.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/quality-updates</link>
-      <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune policies to manage macOS software updates - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage system updates for supervised macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-macos</link>
       <pubDate>Wed, 04 Feb 2026 18:33:00 GMT</pubDate>
     </item>
   </channel>
