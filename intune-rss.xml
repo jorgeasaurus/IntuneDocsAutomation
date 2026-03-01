@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 01 Mar 2026 06:10:42 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2026 06:10:42 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 11:32:36 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 11:32:36 GMT</lastBuildDate>
     <item>
       <title>Configure Update Policies for Apple Devices - Microsoft Intune</title>
       <description>Learn how to configure software update policies for Apple devices using Apple's Declarative Device Management (DDM) model. Improve security, reduce user disruption, and ensure compliance with reliable, automated updates across your organization.</description>
@@ -21,15 +21,15 @@
       <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Query for Multiple Devices in Advanced Analytics - Microsoft Intune</title>
-      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
-      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices in Advanced Analytics - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
       <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
@@ -45,15 +45,15 @@
       <pubDate>Thu, 26 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
-      <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-ios</link>
-      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device restriction settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
       <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-windows-10</link>
+      <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
+      <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-configuration-policies-use-ios</link>
       <pubDate>Thu, 26 Feb 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
@@ -117,15 +117,15 @@
       <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
-      <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Protection and configuration levels overview in Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the different levels of protection and configuration in Microsoft Intune, including minimum, enhanced, and high levels.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/protection-configuration-levels</link>
+      <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
       <pubDate>Wed, 25 Feb 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -141,15 +141,15 @@
       <pubDate>Wed, 25 Feb 2026 16:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Wed, 25 Feb 2026 16:59:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enable Windows diagnostic data and license verification - Microsoft Intune</title>
       <description>Learn how to enable Intune tenant settings to use Windows diagnostic data and verify Windows licenses required for dependent features.</description>
       <link>https://learn.microsoft.com/en-us/intune/tenant-administration/windows-diagnostic-data</link>
+      <pubDate>Wed, 25 Feb 2026 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Wed, 25 Feb 2026 16:59:00 GMT</pubDate>
     </item>
     <item>
@@ -291,15 +291,15 @@
       <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cloud PKI CA Expiration - Microsoft Intune</title>
-      <description>Learn how to renew a certificate authority (CA) in Microsoft Cloud PKI to maintain continuous certificate issuance.</description>
-      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/renew-ca</link>
-      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
       <description>Use compatibility reports for Windows devices in Intune to identify app and driver risks before deploying feature updates or update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
+      <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud PKI CA Expiration - Microsoft Intune</title>
+      <description>Learn how to renew a certificate authority (CA) in Microsoft Cloud PKI to maintain continuous certificate issuance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/renew-ca</link>
       <pubDate>Wed, 11 Feb 2026 23:32:00 GMT</pubDate>
     </item>
     <item>
@@ -321,15 +321,15 @@
       <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Single sign-on (SSO) for iOS/iPadOS and macOS - Microsoft Intune</title>
-      <description>Overview of Microsoft Enterprise SSO plug-in in Microsoft Intune, Jamf Pro, and other MDM solution providers. The Enterprise SSO plug-in is available on iOS/iPadOS and macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/use-enterprise-sso-plug-in-ios-ipados-macos</link>
-      <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profiles</link>
+      <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Single sign-on (SSO) for iOS/iPadOS and macOS - Microsoft Intune</title>
+      <description>Overview of Microsoft Enterprise SSO plug-in in Microsoft Intune, Jamf Pro, and other MDM solution providers. The Enterprise SSO plug-in is available on iOS/iPadOS and macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/use-enterprise-sso-plug-in-ios-ipados-macos</link>
       <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
@@ -351,6 +351,12 @@
       <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure WiFi settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-apple</link>
+      <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Apple device feature settings in Microsoft Intune - Microsoft Intune</title>
       <description>See all the settings to configure iOS, iPadOS, and macOS devices for AirPrint, home screen layout, app notifications, shared devices, single sign-on, and web content filter settings in Microsoft Intune. Use these settings in a device configuration profile to configure iOS, iPadOS, and macOS devices to use these Apple features on your devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-features-apple</link>
@@ -360,12 +366,6 @@
       <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
       <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-configuration-profile</link>
-      <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure WiFi settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-apple</link>
       <pubDate>Wed, 11 Feb 2026 08:34:00 GMT</pubDate>
     </item>
     <item>
@@ -399,6 +399,12 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-apple</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/software-updates-ios</link>
@@ -411,15 +417,15 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
-      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create a Wi-Fi profile for devices in Microsoft Intune - Microsoft Intune</title>
       <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-configure</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -432,12 +438,6 @@
       <title>Restrict devices features using policy in Microsoft Intune - Microsoft Intune</title>
       <description>Add a device configuration profile to restrict features on Android device administrator, Android Enterprise, AOSP, macOS, iOS, iPadOS, and Windows 10/11 client devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-configure</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-apple</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -477,15 +477,15 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>iOS/iPadOS bundle IDs for built-in apps in Microsoft Intune - Microsoft Intune</title>
-      <description>See a list of the bundle IDs for the built-in iOS and iPadOS apps. Use these bundle IDs to explicitly allow apps in device configuration profiles and policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bundle-ids-built-in-ios-apps</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add Wi-Fi settings for Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Create or add a WiFi device configuration profile for Android Enterprise, Android Kiosk, and AOSP devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune. For kiosk devices, also enter the Pre-shared key of your network.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/wi-fi-settings-android-enterprise</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS bundle IDs for built-in apps in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of the bundle IDs for the built-in iOS and iPadOS apps. Use these bundle IDs to explicitly allow apps in device configuration profiles and policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/bundle-ids-built-in-ios-apps</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -501,6 +501,12 @@
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Add custom settings to Apple devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Export iOS, iPadOS, and macOS settings from Apple Configurator or Apple Profile Manager tools, and then import these settings into Microsoft Intune. These settings can create, use, and control custom settings and features on iOS, iPadOS, and macOS devices. This custom profile can then be assigned or distributed to iOS, iPadOS, and macOS devices in your organization to create a baseline or standard.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-apple</link>
+      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use VPN settings for Android Enterprise in Microsoft Intune - Microsoft Intune</title>
       <description>See all the settings to create VPN connections on Android Enterprise devices in Microsoft Intune, including COBO, COSU, COPE, and BYOD. Enter the connection name, IP address, or FQDN of the VPN server. Choose how users authenticate and choose Citrix, SonicWall, Check Point Capsule, and Pulse Secure connection types.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-android-enterprise</link>
@@ -510,12 +516,6 @@
       <title>iOS/iPadOS supervised device security configurations - Microsoft Intune</title>
       <description>Review example supervised device security configurations of basic, enhanced, and high security for iOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/ios-ipados-supervised-device-security-configurations</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add custom settings to Apple devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Export iOS, iPadOS, and macOS settings from Apple Configurator or Apple Profile Manager tools, and then import these settings into Microsoft Intune. These settings can create, use, and control custom settings and features on iOS, iPadOS, and macOS devices. This custom profile can then be assigned or distributed to iOS, iPadOS, and macOS devices in your organization to create a baseline or standard.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-apple</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -567,12 +567,6 @@
       <pubDate>Tue, 10 Feb 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
-      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
-      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
       <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
       <link>https://learn.microsoft.com/en-us/intune/get-support</link>
@@ -600,6 +594,12 @@
       <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
       <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
+      <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
+      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
       <pubDate>Mon, 09 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
