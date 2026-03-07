@@ -6,13 +6,25 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 06 Mar 2026 17:28:21 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2026 17:28:21 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2026 23:32:40 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2026 23:32:40 GMT</lastBuildDate>
+    <item>
+      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
+      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
+      <pubDate>Fri, 06 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Thu, 05 Mar 2026 23:46:00 GMT</pubDate>
+      <pubDate>Fri, 06 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
+      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/mde-security-integration</link>
+      <pubDate>Fri, 06 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
@@ -321,12 +333,6 @@
       <pubDate>Wed, 18 Feb 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
-      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/windows-enroll</link>
-      <pubDate>Wed, 18 Feb 2026 19:05:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-protect</link>
@@ -600,12 +606,6 @@
       <title>Settings insight - Microsoft Intune</title>
       <description>Settings insight provides peer benchmarking information during security baseline configuration, showing when organizations similar to yours use Microsoft's recommended default values.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/settings-insight</link>
-      <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/device-supervised-mode</link>
       <pubDate>Tue, 10 Feb 2026 23:34:00 GMT</pubDate>
     </item>
   </channel>
