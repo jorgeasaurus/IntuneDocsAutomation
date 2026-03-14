@@ -3,292 +3,672 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What's New in Microsoft Intune</title>
+    <title>The Intune Gazette — What's New</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        :root {
+            --paper: #F5F0E8;
+            --paper-dark: #EDE7DA;
+            --ink: #1C1917;
+            --ink-light: #57534E;
+            --ink-faint: #A8A29E;
+            --rule: #C4BAA8;
+            --rule-heavy: #78716C;
+            --accent: #B91C1C;
+            --accent-light: #DC2626;
+            --accent-bg: #FEF2F2;
+            --serif: 'Playfair Display', 'Georgia', serif;
+            --body: 'Crimson Pro', 'Georgia', serif;
+            --mono: 'IBM Plex Mono', 'Courier New', monospace;
         }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        html { scroll-behavior: smooth; }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            line-height: 1.6;
-            color: #000;
-            background-color: #fff;
-            max-width: 900px;
+            font-family: var(--body);
+            font-size: 17px;
+            line-height: 1.65;
+            color: var(--ink);
+            background-color: var(--paper);
+            background-image:
+                radial-gradient(circle at 1px 1px, rgba(0,0,0,0.03) 1px, transparent 0);
+            background-size: 24px 24px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* ── GRAIN OVERLAY ── */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.025;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            background-size: 256px 256px;
+        }
+
+        .page-wrapper {
+            max-width: 1060px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 0 28px;
         }
 
-        .header {
+        /* ── MASTHEAD ── */
+        .masthead {
+            padding: 48px 0 0;
             text-align: center;
-            margin-bottom: 40px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid #e0e0e0;
+            position: relative;
         }
 
-        .header h1 {
-            font-size: 2.5rem;
-            font-weight: 300;
-            margin-bottom: 10px;
-            color: #000;
+        .masthead-rule {
+            height: 4px;
+            background: var(--ink);
+            margin-bottom: 6px;
         }
 
-        .header .subtitle {
-            font-size: 1.1rem;
-            color: #666;
-            margin-bottom: 20px;
+        .masthead-rule-thin {
+            height: 1px;
+            background: var(--ink);
+            margin-bottom: 16px;
         }
 
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-            font-size: 1.1rem;
-        }
-
-        .loading-spinner {
-            display: inline-block;
-            width: 20px;
-            height: 20px;
-            border: 2px solid #e0e0e0;
-            border-radius: 50%;
-            border-top-color: #000;
-            animation: spin 1s ease-in-out infinite;
-            margin-right: 10px;
-        }
-
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-
-        .stats {
-            display: flex;
-            justify-content: space-around;
-            background-color: #f8f9fa;
-            padding: 20px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            flex-wrap: wrap;
-        }
-
-        .stat {
-            text-align: center;
-            margin: 10px;
-        }
-
-        .stat-number {
-            font-size: 2rem;
-            font-weight: 600;
-            color: #000;
-        }
-
-        .stat-label {
-            font-size: 0.9rem;
-            color: #666;
+        .dateline {
+            font-family: var(--mono);
+            font-size: 0.7rem;
+            font-weight: 400;
+            letter-spacing: 0.15em;
             text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .category {
-            margin-bottom: 40px;
-        }
-
-        .category-title {
-            font-size: 1.5rem;
-            font-weight: 500;
-            margin-bottom: 20px;
-            padding-bottom: 8px;
-            border-bottom: 2px solid #000;
-            display: inline-block;
-        }
-
-        .update-item {
-            margin-bottom: 30px;
-            padding: 20px;
-            border: 1px solid #e0e0e0;
-            border-radius: 8px;
-            transition: box-shadow 0.2s ease;
-        }
-
-        .update-item:hover {
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .update-title {
-            font-size: 1.2rem;
-            font-weight: 500;
-            margin-bottom: 10px;
-            color: #000;
-        }
-
-        .update-description {
-            color: #444;
-            margin-bottom: 15px;
-            line-height: 1.5;
-        }
-
-        .update-meta {
+            color: var(--ink-light);
             display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            font-size: 0.9rem;
-            color: #666;
-        }
-
-        .meta-item {
-            display: flex;
+            justify-content: space-between;
             align-items: center;
+            margin-bottom: 16px;
         }
 
-        .meta-icon {
-            margin-right: 5px;
-        }
-
-        .update-link {
-            color: #000;
-            text-decoration: none;
-            font-weight: 500;
-            transition: opacity 0.2s ease;
-        }
-
-        .update-link:hover {
-            opacity: 0.7;
-        }
-
-        .error {
-            background-color: #fff5f5;
-            border: 1px solid #feb2b2;
-            color: #c53030;
-            padding: 20px;
-            border-radius: 8px;
-            text-align: center;
-            margin: 20px 0;
-        }
-
-        .footer {
-            text-align: center;
-            padding: 40px 20px;
-            margin-top: 60px;
-            border-top: 1px solid #e0e0e0;
-            color: #666;
-            font-size: 0.9rem;
-        }
-
-        .refresh-btn {
-            background: #000;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-size: 0.9rem;
-            transition: opacity 0.2s ease;
-            margin-top: 10px;
-        }
-
-        .refresh-btn:hover {
-            opacity: 0.8;
-        }
-
-        .table-of-contents {
-            background-color: #f8f9fa;
-            border: 1px solid #e0e0e0;
-            border-radius: 8px;
-            padding: 20px;
-            margin-bottom: 30px;
-            display: none;
-        }
-
-        .toc-title {
-            font-size: 1.2rem;
-            font-weight: 500;
-            margin-bottom: 15px;
-            color: #000;
-        }
-
-        .toc-list {
-            list-style: none;
-            padding: 0;
-        }
-
-        .toc-item {
+        .masthead-title {
+            font-family: var(--serif);
+            font-size: clamp(2.8rem, 6vw, 4.6rem);
+            font-weight: 900;
+            line-height: 0.95;
+            letter-spacing: -0.02em;
+            color: var(--ink);
             margin-bottom: 8px;
         }
 
-        .toc-link {
-            color: #000;
-            text-decoration: none;
-            font-weight: 400;
-            padding: 5px 10px;
-            border-radius: 4px;
-            display: block;
-            transition: background-color 0.2s ease;
+        .masthead-title em {
+            font-style: italic;
+            font-weight: 700;
+            color: var(--accent);
         }
 
-        .toc-link:hover {
-            background-color: #e9ecef;
+        .masthead-subtitle {
+            font-family: var(--body);
+            font-style: italic;
+            font-size: 1.15rem;
+            font-weight: 300;
+            color: var(--ink-light);
+            margin-bottom: 16px;
+        }
+
+        .masthead-rule-bottom {
+            height: 1px;
+            background: var(--ink);
+            margin-bottom: 4px;
+        }
+
+        .masthead-rule-bottom-heavy {
+            height: 3px;
+            background: var(--ink);
+            margin-bottom: 0;
+        }
+
+        /* ── TOOLBAR ── */
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--rule);
+        }
+
+        .toolbar-left {
+            font-family: var(--mono);
+            font-size: 0.72rem;
+            color: var(--ink-faint);
+            letter-spacing: 0.05em;
+        }
+
+        .refresh-btn {
+            font-family: var(--mono);
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            background: var(--ink);
+            color: var(--paper);
+            border: none;
+            padding: 8px 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .refresh-btn::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: var(--accent);
+            transform: translateX(-101%);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .refresh-btn:hover::after {
+            transform: translateX(0);
+        }
+
+        .refresh-btn span {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* ── LOADING ── */
+        .loading {
+            text-align: center;
+            padding: 80px 20px;
+            font-family: var(--mono);
+            font-size: 0.85rem;
+            color: var(--ink-faint);
+            letter-spacing: 0.05em;
+        }
+
+        .loading-bar {
+            width: 120px;
+            height: 2px;
+            background: var(--rule);
+            margin: 16px auto 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .loading-bar::after {
+            content: '';
+            position: absolute;
+            left: 0; top: 0;
+            width: 40%;
+            height: 100%;
+            background: var(--ink);
+            animation: loadSlide 1.2s ease-in-out infinite;
+        }
+
+        @keyframes loadSlide {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(350%); }
+        }
+
+        /* ── STATS RIBBON ── */
+        .stats-ribbon {
+            display: none;
+            border-bottom: 1px solid var(--rule);
+        }
+
+        .stats-inner {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        .stat-cell {
+            padding: 20px 16px;
+            text-align: center;
+            position: relative;
+        }
+
+        .stat-cell:not(:last-child)::after {
+            content: '';
+            position: absolute;
+            right: 0; top: 20%;
+            height: 60%;
+            width: 1px;
+            background: var(--rule);
+        }
+
+        .stat-number {
+            font-family: var(--serif);
+            font-size: 2.2rem;
+            font-weight: 900;
+            color: var(--ink);
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .stat-label {
+            font-family: var(--mono);
+            font-size: 0.62rem;
+            font-weight: 400;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--ink-faint);
+        }
+
+        /* ── TABLE OF CONTENTS (sidebar index) ── */
+        .toc-bar {
+            display: none;
+            padding: 20px 0;
+            border-bottom: 1px solid var(--rule);
+        }
+
+        .toc-label {
+            font-family: var(--mono);
+            font-size: 0.62rem;
+            font-weight: 500;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--ink-faint);
+            margin-bottom: 12px;
+        }
+
+        .toc-grid {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0;
+        }
+
+        .toc-grid li {
+            flex: 1 1 auto;
+        }
+
+        .toc-grid a {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            padding: 6px 16px 6px 0;
+            text-decoration: none;
+            color: var(--ink);
+            font-family: var(--body);
+            font-size: 0.95rem;
+            font-weight: 600;
+            border-right: 1px solid var(--rule);
+            transition: color 0.15s;
+        }
+
+        .toc-grid li:last-child a {
+            border-right: none;
+        }
+
+        .toc-grid a:hover {
+            color: var(--accent);
         }
 
         .toc-count {
-            color: #666;
-            font-size: 0.9rem;
-            float: right;
+            font-family: var(--mono);
+            font-size: 0.68rem;
+            color: var(--ink-faint);
+            margin-left: 8px;
         }
 
-        @media (max-width: 768px) {
-            body {
-                padding: 15px;
+        /* ── CONTENT AREA ── */
+        .content-area {
+            padding-top: 8px;
+        }
+
+        /* ── CATEGORY SECTIONS ── */
+        .category-section {
+            padding: 32px 0 24px;
+            border-bottom: 1px solid var(--rule);
+            opacity: 0;
+            transform: translateY(18px);
+            animation: revealSection 0.6s ease forwards;
+        }
+
+        .category-section:last-child {
+            border-bottom: none;
+        }
+
+        @keyframes revealSection {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .section-header {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .section-label {
+            font-family: var(--mono);
+            font-size: 0.58rem;
+            font-weight: 500;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--paper);
+            background: var(--ink);
+            padding: 3px 10px;
+            white-space: nowrap;
+        }
+
+        .section-title {
+            font-family: var(--serif);
+            font-size: 1.7rem;
+            font-weight: 700;
+            line-height: 1.15;
+            color: var(--ink);
+        }
+
+        .section-rule {
+            height: 2px;
+            background: var(--ink);
+            margin-bottom: 20px;
+        }
+
+        /* ── UPDATE ITEMS ── */
+        .updates-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+        }
+
+        .update-card {
+            padding: 16px 20px 16px 0;
+            border-right: 1px solid var(--rule);
+            position: relative;
+        }
+
+        .update-card:nth-child(even) {
+            padding: 16px 0 16px 20px;
+            border-right: none;
+        }
+
+        .update-card::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: var(--rule);
+        }
+
+        .update-card:nth-last-child(-n+2)::after {
+            display: none;
+        }
+
+        .update-headline {
+            font-family: var(--serif);
+            font-size: 1.08rem;
+            font-weight: 700;
+            line-height: 1.3;
+            color: var(--ink);
+            margin-bottom: 8px;
+        }
+
+        .update-headline a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.15s;
+        }
+
+        .update-headline a:hover {
+            color: var(--accent);
+        }
+
+        .update-excerpt {
+            font-family: var(--body);
+            font-size: 0.92rem;
+            font-weight: 300;
+            line-height: 1.55;
+            color: var(--ink-light);
+            margin-bottom: 10px;
+        }
+
+        .update-dateline {
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            font-weight: 400;
+            letter-spacing: 0.08em;
+            color: var(--ink-faint);
+            text-transform: uppercase;
+        }
+
+        .update-dateline a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.15s;
+        }
+
+        .update-dateline a:hover {
+            border-bottom-color: var(--accent);
+        }
+
+        /* ── Lead story: first item in first category is featured ── */
+        .lead-story {
+            grid-column: 1 / -1;
+            border-right: none;
+            padding: 16px 0 20px;
+            border-bottom: 2px solid var(--ink);
+            margin-bottom: 4px;
+        }
+
+        .lead-story::after { display: none; }
+
+        .lead-story .update-headline {
+            font-size: 1.65rem;
+            font-weight: 900;
+            line-height: 1.15;
+            margin-bottom: 12px;
+        }
+
+        .lead-story .update-excerpt {
+            font-size: 1.05rem;
+            font-weight: 300;
+            max-width: 72ch;
+        }
+
+        /* ── ERROR STATE ── */
+        .error-notice {
+            border: 2px solid var(--accent);
+            padding: 28px 32px;
+            margin: 24px 0;
+            position: relative;
+        }
+
+        .error-notice::before {
+            content: 'NOTICE';
+            font-family: var(--mono);
+            font-size: 0.6rem;
+            font-weight: 500;
+            letter-spacing: 0.2em;
+            color: var(--paper);
+            background: var(--accent);
+            padding: 2px 10px;
+            position: absolute;
+            top: -10px;
+            left: 20px;
+        }
+
+        .error-notice h3 {
+            font-family: var(--serif);
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+
+        .error-notice p {
+            font-size: 0.92rem;
+            color: var(--ink-light);
+            margin-bottom: 6px;
+        }
+
+        .error-notice ul {
+            margin: 8px 0;
+            padding-left: 20px;
+            font-size: 0.88rem;
+            color: var(--ink-light);
+        }
+
+        /* ── FOOTER / COLOPHON ── */
+        .colophon {
+            padding: 32px 0 48px;
+            margin-top: 16px;
+            border-top: 3px solid var(--ink);
+            text-align: center;
+        }
+
+        .colophon-text {
+            font-family: var(--mono);
+            font-size: 0.68rem;
+            letter-spacing: 0.08em;
+            color: var(--ink-faint);
+            line-height: 1.8;
+        }
+
+        .colophon-text a {
+            color: var(--ink-light);
+            text-decoration: none;
+            border-bottom: 1px solid var(--rule);
+            transition: color 0.15s, border-color 0.15s;
+        }
+
+        .colophon-text a:hover {
+            color: var(--accent);
+            border-bottom-color: var(--accent);
+        }
+
+        .colophon-mark {
+            font-family: var(--serif);
+            font-size: 1.4rem;
+            font-weight: 900;
+            color: var(--ink);
+            margin-bottom: 8px;
+            letter-spacing: -0.02em;
+        }
+
+        /* ── RESPONSIVE ── */
+        @media (max-width: 720px) {
+            body { font-size: 16px; }
+
+            .masthead-title { font-size: clamp(2rem, 8vw, 3rem); }
+
+            .dateline { flex-direction: column; gap: 2px; text-align: center; }
+
+            .stats-inner { grid-template-columns: 1fr; }
+
+            .stat-cell:not(:last-child)::after {
+                width: 60%;
+                height: 1px;
+                right: auto;
+                left: 20%;
+                top: auto;
+                bottom: 0;
             }
 
-            .header h1 {
-                font-size: 2rem;
+            .updates-grid { grid-template-columns: 1fr; }
+
+            .update-card,
+            .update-card:nth-child(even) {
+                padding: 14px 0;
+                border-right: none;
             }
 
-            .stats {
-                flex-direction: column;
-            }
+            .lead-story .update-headline { font-size: 1.35rem; }
 
-            .update-meta {
-                flex-direction: column;
-                gap: 8px;
+            .toc-grid { flex-direction: column; }
+
+            .toc-grid a {
+                border-right: none;
+                border-bottom: 1px solid var(--rule);
+                padding: 8px 0;
             }
+        }
+
+        /* ── STAGGER ANIMATION ── */
+        .category-section:nth-child(1) { animation-delay: 0s; }
+        .category-section:nth-child(2) { animation-delay: 0.08s; }
+        .category-section:nth-child(3) { animation-delay: 0.16s; }
+        .category-section:nth-child(4) { animation-delay: 0.24s; }
+        .category-section:nth-child(5) { animation-delay: 0.32s; }
+        .category-section:nth-child(6) { animation-delay: 0.40s; }
+        .category-section:nth-child(7) { animation-delay: 0.48s; }
+
+        /* ── SCROLL REVEAL ── */
+        .reveal-on-scroll {
+            opacity: 0;
+            transform: translateY(12px);
+            transition: opacity 0.5s ease, transform 0.5s ease;
+        }
+
+        .reveal-on-scroll.visible {
+            opacity: 1;
+            transform: translateY(0);
         }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>What's New in Microsoft Intune</h1>
-        <div class="subtitle">Latest documentation updates from Microsoft Learn</div>
-        <div class="last-refresh" id="lastRefresh" style="color: #888; font-size: 0.9rem; margin-bottom: 15px;"></div>
-        <button class="refresh-btn" onclick="loadFeed()">Refresh Updates</button>
-    </div>
+    <div class="page-wrapper">
 
-    <div id="loading" class="loading">
-        <div class="loading-spinner"></div>
-        Loading latest updates...
-    </div>
+        <!-- MASTHEAD -->
+        <header class="masthead">
+            <div class="masthead-rule"></div>
+            <div class="masthead-rule-thin"></div>
+            <div class="dateline">
+                <span id="editionDate">Loading&hellip;</span>
+                <span>Microsoft Learn &middot; RSS Syndication</span>
+                <span id="editionLabel">Documentation Feed</span>
+            </div>
+            <h1 class="masthead-title">The Intune <em>Gazette</em></h1>
+            <p class="masthead-subtitle">All the latest documentation updates &mdash; curated &amp; categorized</p>
+            <div class="masthead-rule-bottom"></div>
+            <div class="masthead-rule-bottom-heavy"></div>
+        </header>
 
-    <div id="table-of-contents" class="table-of-contents">
-        <h2 class="toc-title">Table of Contents</h2>
-        <ul id="toc-list" class="toc-list"></ul>
-    </div>
+        <!-- TOOLBAR -->
+        <div class="toolbar">
+            <div class="toolbar-left" id="lastRefresh"></div>
+            <button class="refresh-btn" onclick="loadFeed()"><span>Refresh Feed</span></button>
+        </div>
 
-    <div id="stats" class="stats" style="display: none;"></div>
-    <div id="content"></div>
+        <!-- LOADING -->
+        <div id="loading" class="loading">
+            Fetching latest dispatches&hellip;
+            <div class="loading-bar"></div>
+        </div>
 
-    <div class="footer">
-        <p>Updates sourced from <a href="https://docs.microsoft.com/api/search/rss?locale=en-us&facet=&%24filter=scopes%2Fany%28t%3A+t+eq+%27Intune%27%29" target="_blank">Microsoft Learn RSS Feed</a></p>
-        <p>Last updated: <span id="lastUpdated"></span></p>
+        <!-- STATS RIBBON -->
+        <div id="stats" class="stats-ribbon">
+            <div class="stats-inner" id="statsInner"></div>
+        </div>
+
+        <!-- TABLE OF CONTENTS -->
+        <nav id="table-of-contents" class="toc-bar">
+            <div class="toc-label">Sections</div>
+            <ul id="toc-list" class="toc-grid"></ul>
+        </nav>
+
+        <!-- CONTENT -->
+        <main id="content" class="content-area"></main>
+
+        <!-- COLOPHON -->
+        <footer class="colophon">
+            <div class="colophon-mark">IG</div>
+            <div class="colophon-text">
+                Sourced from the <a href="https://docs.microsoft.com/api/search/rss?locale=en-us&facet=&%24filter=scopes%2Fany%28t%3A+t+eq+%27Intune%27%29" target="_blank" rel="noopener">Microsoft Learn RSS Feed</a><br>
+                Updated via GitHub Actions &middot; <span id="lastUpdated"></span>
+            </div>
+        </footer>
+
     </div>
 
     <script>
-        // Local RSS file and metadata
         const LOCAL_RSS_FILE = './intune-rss.xml';
         const RSS_METADATA_FILE = './rss-metadata.json';
-        
-        // Category mapping
+
         const categoryMapping = {
             'Security & Compliance': ['security', 'compliance', 'baseline', 'protection', 'threat', 'conditional access', 'authentication'],
             'App Management': ['app', 'application', 'store', 'deployment', 'packaging', 'mobile application management', 'mam'],
@@ -299,89 +679,61 @@
             'General Updates': []
         };
 
+        const sectionNumbers = {};
+        let sectionCounter = 1;
+
         function categorizeUpdate(title, description) {
             const content = (title + ' ' + description).toLowerCase();
-            
             for (const [category, keywords] of Object.entries(categoryMapping)) {
                 if (category === 'General Updates') continue;
-                
                 for (const keyword of keywords) {
-                    if (content.includes(keyword)) {
-                        return category;
-                    }
+                    if (content.includes(keyword)) return category;
                 }
             }
             return 'General Updates';
         }
 
-        function parseRSSDate(dateString) {
-            return new Date(dateString);
-        }
+        function parseRSSDate(dateString) { return new Date(dateString); }
 
         function formatDate(date) {
-            return date.toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-            });
+            return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+        }
+
+        function formatDateShort(date) {
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).toUpperCase();
         }
 
         function isRecentUpdate(pubDate, daysBack = 30) {
-            const cutoffDate = new Date();
-            cutoffDate.setDate(cutoffDate.getDate() - daysBack);
-            return new Date(pubDate) > cutoffDate;
+            const cutoff = new Date();
+            cutoff.setDate(cutoff.getDate() - daysBack);
+            return new Date(pubDate) > cutoff;
         }
 
         async function fetchRSSMetadata() {
             try {
-                const response = await fetch(RSS_METADATA_FILE);
-                if (response.ok) {
-                    return await response.json();
-                }
-            } catch (error) {
-                console.log('No metadata file found, using defaults');
-            }
+                const r = await fetch(RSS_METADATA_FILE);
+                if (r.ok) return await r.json();
+            } catch (e) { console.log('No metadata file found'); }
             return null;
         }
 
         async function fetchRSSFeed() {
-            try {
-                console.log('Fetching local RSS file...');
-                
-                const response = await fetch(LOCAL_RSS_FILE);
-                if (!response.ok) {
-                    throw new Error(`Failed to fetch local RSS file: ${response.status}`);
-                }
-                
-                const xmlContent = await response.text();
-                const parser = new DOMParser();
-                const xmlDoc = parser.parseFromString(xmlContent, 'text/xml');
-                
-                // Check if parsing was successful
-                if (xmlDoc.documentElement.nodeName === 'parsererror') {
-                    throw new Error('XML parsing failed');
-                }
-                
-                console.log('Successfully loaded local RSS feed');
-                return xmlDoc;
-                
-            } catch (error) {
-                console.warn('Failed to load local RSS file:', error.message);
-                throw error;
-            }
+            const response = await fetch(LOCAL_RSS_FILE);
+            if (!response.ok) throw new Error(`Failed to fetch RSS: ${response.status}`);
+            const xml = await response.text();
+            const doc = new DOMParser().parseFromString(xml, 'text/xml');
+            if (doc.documentElement.nodeName === 'parsererror') throw new Error('XML parsing failed');
+            return doc;
         }
-
 
         function parseRSSItems(xmlDoc) {
             const items = xmlDoc.querySelectorAll('item');
             const updates = [];
-            
             items.forEach(item => {
                 const title = item.querySelector('title')?.textContent || '';
                 const description = item.querySelector('description')?.textContent || '';
                 const link = item.querySelector('link')?.textContent || '';
                 const pubDate = item.querySelector('pubDate')?.textContent || '';
-                
                 if (title && isRecentUpdate(pubDate)) {
                     updates.push({
                         title: title.trim(),
@@ -392,69 +744,53 @@
                     });
                 }
             });
-            
             return updates.sort((a, b) => b.pubDate - a.pubDate);
         }
 
         function groupByCategory(updates) {
             const grouped = {};
-            
-            updates.forEach(update => {
-                if (!grouped[update.category]) {
-                    grouped[update.category] = [];
-                }
-                grouped[update.category].push(update);
+            updates.forEach(u => {
+                if (!grouped[u.category]) grouped[u.category] = [];
+                grouped[u.category].push(u);
             });
-            
             return grouped;
         }
 
         function renderStats(updates) {
-            const totalUpdates = updates.length;
-            const categories = [...new Set(updates.map(u => u.category))].length;
-            const latestUpdate = updates.length > 0 ? updates[0].pubDate : null;
-            
-            const statsHtml = `
-                <div class="stat">
-                    <div class="stat-number">${totalUpdates}</div>
-                    <div class="stat-label">Total Updates</div>
+            const total = updates.length;
+            const cats = [...new Set(updates.map(u => u.category))].length;
+            const latest = updates.length > 0 ? updates[0].pubDate : null;
+
+            document.getElementById('statsInner').innerHTML = `
+                <div class="stat-cell">
+                    <div class="stat-number">${total}</div>
+                    <div class="stat-label">Dispatches</div>
                 </div>
-                <div class="stat">
-                    <div class="stat-number">${categories}</div>
-                    <div class="stat-label">Categories</div>
+                <div class="stat-cell">
+                    <div class="stat-number">${cats}</div>
+                    <div class="stat-label">Sections</div>
                 </div>
-                <div class="stat">
-                    <div class="stat-number">${latestUpdate ? latestUpdate.toLocaleDateString('en-US', { month: 'long' }) : 'N/A'}</div>
-                    <div class="stat-label">Latest Month</div>
+                <div class="stat-cell">
+                    <div class="stat-number">${latest ? latest.toLocaleDateString('en-US', { month: 'short' }).toUpperCase() : 'N/A'}</div>
+                    <div class="stat-label">Latest Edition</div>
                 </div>
             `;
-            
-            document.getElementById('stats').innerHTML = statsHtml;
-            document.getElementById('stats').style.display = 'flex';
+            document.getElementById('stats').style.display = 'block';
         }
 
         function renderTableOfContents(grouped) {
             const tocList = document.getElementById('toc-list');
             const tocDiv = document.getElementById('table-of-contents');
-            
-            let tocHtml = '';
-            
-            for (const [category, categoryUpdates] of Object.entries(grouped)) {
-                if (categoryUpdates.length === 0) continue;
-                
-                const categoryId = category.replace(/\s+/g, '-').toLowerCase();
-                tocHtml += `
-                    <li class="toc-item">
-                        <a href="#category-${categoryId}" class="toc-link">
-                            ${category}
-                            <span class="toc-count">${categoryUpdates.length}</span>
-                        </a>
-                    </li>
-                `;
+            let html = '';
+
+            for (const [category, items] of Object.entries(grouped)) {
+                if (items.length === 0) continue;
+                const id = category.replace(/\s+/g, '-').toLowerCase();
+                html += `<li><a href="#category-${id}">${category}<span class="toc-count">${items.length}</span></a></li>`;
             }
-            
-            if (tocHtml) {
-                tocList.innerHTML = tocHtml;
+
+            if (html) {
+                tocList.innerHTML = html;
                 tocDiv.style.display = 'block';
             } else {
                 tocDiv.style.display = 'none';
@@ -464,137 +800,137 @@
         function renderUpdates(updates) {
             const grouped = groupByCategory(updates);
             const contentDiv = document.getElementById('content');
-            
-            // Render table of contents
             renderTableOfContents(grouped);
-            
+
             let html = '';
-            
-            for (const [category, categoryUpdates] of Object.entries(grouped)) {
-                if (categoryUpdates.length === 0) continue;
-                
-                html += `
-                    <div class="category" id="category-${category.replace(/\s+/g, '-').toLowerCase()}">
-                        <h2 class="category-title">${category}</h2>
-                `;
-                
-                categoryUpdates.forEach(update => {
-                    const description = update.description.length > 200 
-                        ? update.description.substring(0, 200) + '...' 
+            let sectionIdx = 0;
+            let isFirstCategory = true;
+
+            for (const [category, items] of Object.entries(grouped)) {
+                if (items.length === 0) continue;
+                sectionIdx++;
+                const catId = category.replace(/\s+/g, '-').toLowerCase();
+                const sectionNum = String(sectionIdx).padStart(2, '0');
+
+                html += `<section class="category-section" id="category-${catId}" style="animation-delay: ${sectionIdx * 0.08}s">`;
+                html += `<div class="section-header">
+                    <span class="section-label">§${sectionNum}</span>
+                    <h2 class="section-title">${category}</h2>
+                </div>`;
+                html += `<div class="section-rule"></div>`;
+                html += `<div class="updates-grid">`;
+
+                items.forEach((update, i) => {
+                    const desc = update.description.length > 180
+                        ? update.description.substring(0, 180) + '…'
                         : update.description;
-                    
-                    html += `
-                        <div class="update-item">
-                            <h3 class="update-title">${update.title}</h3>
-                            <p class="update-description">${description}</p>
-                            <div class="update-meta">
-                                <div class="meta-item">
-                                    <span class="meta-icon">📅</span>
-                                    Updated: ${formatDate(update.pubDate)}
-                                </div>
-                                <div class="meta-item">
-                                    <span class="meta-icon">🔗</span>
-                                    <a href="${update.link}" target="_blank" class="update-link">View Documentation</a>
-                                </div>
-                                <div class="meta-item">
-                                    <span class="meta-icon">📚</span>
-                                    Source: Microsoft Learn
-                                </div>
-                            </div>
-                        </div>
-                    `;
+
+                    const isLead = isFirstCategory && i === 0;
+                    const cardClass = isLead ? 'update-card lead-story' : 'update-card';
+
+                    html += `<article class="${cardClass}">
+                        <h3 class="update-headline"><a href="${update.link}" target="_blank" rel="noopener">${update.title}</a></h3>
+                        <p class="update-excerpt">${desc}</p>
+                        <div class="update-dateline">${formatDateShort(update.pubDate)} · <a href="${update.link}" target="_blank" rel="noopener">Read on Microsoft Learn →</a></div>
+                    </article>`;
                 });
-                
-                html += '</div>';
+
+                html += `</div></section>`;
+                isFirstCategory = false;
             }
-            
-            if (html === '') {
-                html = '<div class="error">No recent updates found. Try refreshing or check back later.</div>';
+
+            if (!html) {
+                html = `<div class="error-notice"><h3>No Recent Dispatches</h3><p>No updates found in the last 30 days. Check back soon.</p></div>`;
                 document.getElementById('table-of-contents').style.display = 'none';
             }
-            
+
             contentDiv.innerHTML = html;
+            initScrollReveal();
         }
 
         function showError(message, isLocalFile = false) {
-            const errorContent = isLocalFile ? `
-                <div class="error">
-                    <h3>Using Sample Data</h3>
+            const inner = isLocalFile ? `
+                <div class="error-notice">
+                    <h3>Sample Data Mode</h3>
                     <p>${message}</p>
-                    <p><strong>Note:</strong> This page is designed to work with a GitHub Actions workflow that automatically downloads the RSS feed. The sample data below demonstrates the layout.</p>
-                    <ul style="text-align: left; margin: 10px 0;">
+                    <p>This page is powered by a GitHub Actions workflow that fetches the RSS feed automatically.</p>
+                    <ul>
                         <li>Push this repository to GitHub</li>
                         <li>Enable GitHub Actions and GitHub Pages</li>
-                        <li>The workflow will automatically update the RSS data every 6 hours</li>
+                        <li>The workflow refreshes the feed every 6 hours</li>
                     </ul>
-                    <p>Sample data is shown below:</p>
                 </div>
             ` : `
-                <div class="error">
-                    <h3>Unable to load updates</h3>
+                <div class="error-notice">
+                    <h3>Unable to Load Feed</h3>
                     <p>${message}</p>
-                    <p>Please try refreshing the page or check if the RSS feed is available.</p>
+                    <p>Please try refreshing or verify the RSS feed is available.</p>
                 </div>
             `;
-            
-            document.getElementById('content').innerHTML = errorContent;
+            document.getElementById('content').innerHTML = inner;
+        }
+
+        function initScrollReveal() {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(e => {
+                    if (e.isIntersecting) {
+                        e.target.classList.add('visible');
+                        observer.unobserve(e.target);
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal-on-scroll').forEach(el => observer.observe(el));
         }
 
         async function loadFeed() {
             const loadingDiv = document.getElementById('loading');
             const statsDiv = document.getElementById('stats');
             const contentDiv = document.getElementById('content');
-            
-            // Show loading state
+
             loadingDiv.style.display = 'block';
             statsDiv.style.display = 'none';
             contentDiv.innerHTML = '';
-            
+
             try {
-                // Load metadata first
                 const metadata = await fetchRSSMetadata();
-                
-                // Load RSS feed
                 const xmlDoc = await fetchRSSFeed();
                 const updates = parseRSSItems(xmlDoc);
-                
-                // Extract and display the RSS feed's last refresh date
+
+                // Set edition date from feed
                 const channelPubDate = xmlDoc.querySelector('channel > pubDate')?.textContent;
                 if (channelPubDate) {
-                    const refreshDate = new Date(channelPubDate);
-                    document.getElementById('lastRefresh').textContent = 
-                        `Last refresh: ${refreshDate.toLocaleDateString('en-US', { 
-                            year: 'numeric', 
-                            month: 'long', 
-                            day: 'numeric',
-                            hour: '2-digit',
-                            minute: '2-digit'
-                        })}`;
+                    const d = new Date(channelPubDate);
+                    document.getElementById('editionDate').textContent =
+                        d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }).toUpperCase();
+                    document.getElementById('lastRefresh').textContent =
+                        `Feed refreshed: ${d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' })}`;
+                } else {
+                    const now = new Date();
+                    document.getElementById('editionDate').textContent =
+                        now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }).toUpperCase();
                 }
-                
+
                 loadingDiv.style.display = 'none';
-                
+
                 if (updates.length > 0) {
                     renderStats(updates);
                     renderUpdates(updates);
                 } else {
                     showError('No recent updates found in the RSS feed.', false);
                 }
-                
-                // Use metadata for last updated if available, otherwise current time
-                const lastUpdatedText = metadata ? 
-                    `${metadata.lastUpdated} (${metadata.itemCount} items from GitHub Actions)` : 
-                    new Date().toLocaleString();
-                
+
+                const lastUpdatedText = metadata
+                    ? `${metadata.lastUpdated} · ${metadata.itemCount} items via GitHub Actions`
+                    : new Date().toLocaleString();
                 document.getElementById('lastUpdated').textContent = lastUpdatedText;
-                
+
             } catch (error) {
                 loadingDiv.style.display = 'none';
                 showError(`Error loading RSS feed: ${error.message}`, false);
             }
         }
 
-        // Load feed when page loads
         document.addEventListener('DOMContentLoaded', loadFeed);
     </script>
 </body>
