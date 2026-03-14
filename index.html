@@ -177,6 +177,132 @@
             z-index: 1;
         }
 
+        /* ── SEARCH BAR ── */
+        .search-bar {
+            display: none;
+            padding: 16px 0;
+            border-bottom: 1px solid var(--rule);
+            position: relative;
+        }
+
+        .search-field {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .search-icon {
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--ink-faint);
+            white-space: nowrap;
+        }
+
+        .search-input {
+            flex: 1;
+            font-family: var(--body);
+            font-size: 1rem;
+            font-weight: 400;
+            color: var(--ink);
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid var(--rule);
+            padding: 6px 0;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-input::placeholder {
+            color: var(--ink-faint);
+            font-style: italic;
+        }
+
+        .search-input:focus {
+            border-bottom-color: var(--ink);
+        }
+
+        .search-clear {
+            font-family: var(--mono);
+            font-size: 0.68rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--ink-faint);
+            background: none;
+            border: 1px solid var(--rule);
+            padding: 4px 12px;
+            cursor: pointer;
+            transition: all 0.15s;
+            display: none;
+        }
+
+        .search-clear:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .search-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 8px;
+        }
+
+        .search-count {
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            letter-spacing: 0.08em;
+            color: var(--ink-faint);
+            display: none;
+        }
+
+        .search-kbd {
+            font-family: var(--mono);
+            font-size: 0.6rem;
+            color: var(--ink-faint);
+            letter-spacing: 0.05em;
+        }
+
+        .search-kbd kbd {
+            display: inline-block;
+            font-family: var(--mono);
+            font-size: 0.58rem;
+            color: var(--ink-light);
+            background: var(--paper-dark);
+            border: 1px solid var(--rule);
+            padding: 1px 6px;
+            margin: 0 2px;
+        }
+
+        mark {
+            background: transparent;
+            color: var(--accent);
+            font-weight: 600;
+            font-style: normal;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 48px 20px;
+        }
+
+        .no-results-title {
+            font-family: var(--serif);
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--ink);
+            margin-bottom: 6px;
+        }
+
+        .no-results-text {
+            font-family: var(--body);
+            font-size: 0.95rem;
+            font-style: italic;
+            color: var(--ink-faint);
+        }
+
         /* ── LOADING ── */
         .loading {
             text-align: center;
@@ -634,6 +760,18 @@
             <button class="refresh-btn" onclick="loadFeed()"><span>Refresh Feed</span></button>
         </div>
 
+        <!-- SEARCH -->
+        <div id="searchBar" class="search-bar">
+            <div class="search-field">
+                <span class="search-icon">Search</span>
+                <input type="text" id="searchInput" class="search-input" placeholder="Filter dispatches by keyword…" autocomplete="off" spellcheck="false">
+                <button id="searchClear" class="search-clear" onclick="clearSearch()">Clear</button>
+            </div>
+            <div class="search-meta">
+                <span id="searchCount" class="search-count"></span>
+            </div>
+        </div>
+
         <!-- LOADING -->
         <div id="loading" class="loading">
             Fetching latest dispatches&hellip;
@@ -682,6 +820,8 @@
         const sectionNumbers = {};
         let sectionCounter = 1;
 
+        let allUpdates = [];
+
         function categorizeUpdate(title, description) {
             const content = (title + ' ' + description).toLowerCase();
             for (const [category, keywords] of Object.entries(categoryMapping)) {
@@ -728,14 +868,14 @@
 
         function parseRSSItems(xmlDoc) {
             const items = xmlDoc.querySelectorAll('item');
-            const updates = [];
+            const all = [];
             items.forEach(item => {
                 const title = item.querySelector('title')?.textContent || '';
                 const description = item.querySelector('description')?.textContent || '';
                 const link = item.querySelector('link')?.textContent || '';
                 const pubDate = item.querySelector('pubDate')?.textContent || '';
-                if (title && isRecentUpdate(pubDate)) {
-                    updates.push({
+                if (title) {
+                    all.push({
                         title: title.trim(),
                         description: description.trim(),
                         link: link.trim(),
@@ -744,7 +884,9 @@
                     });
                 }
             });
-            return updates.sort((a, b) => b.pubDate - a.pubDate);
+            all.sort((a, b) => b.pubDate - a.pubDate);
+            const recent = all.filter(u => isRecentUpdate(u.pubDate));
+            return recent.length > 0 ? recent : all;
         }
 
         function groupByCategory(updates) {
@@ -883,6 +1025,124 @@
             document.querySelectorAll('.reveal-on-scroll').forEach(el => observer.observe(el));
         }
 
+        function highlightText(text, query) {
+            if (!query) return text;
+            const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            return text.replace(new RegExp(`(${escaped})`, 'gi'), '<mark>$1</mark>');
+        }
+
+        function renderFilteredUpdates(query) {
+            const q = query.trim().toLowerCase();
+            const countEl = document.getElementById('searchCount');
+            const clearBtn = document.getElementById('searchClear');
+
+            if (!q) {
+                countEl.style.display = 'none';
+                clearBtn.style.display = 'none';
+                renderUpdates(allUpdates);
+                renderStats(allUpdates);
+                return;
+            }
+
+            clearBtn.style.display = 'inline-block';
+
+            const filtered = allUpdates.filter(u =>
+                u.title.toLowerCase().includes(q) ||
+                u.description.toLowerCase().includes(q) ||
+                u.category.toLowerCase().includes(q)
+            );
+
+            countEl.style.display = 'inline';
+            countEl.textContent = `${filtered.length} of ${allUpdates.length} dispatches`;
+
+            if (filtered.length === 0) {
+                document.getElementById('content').innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-title">No matches for "${query}"</div>
+                        <div class="no-results-text">Try a different keyword or clear the search</div>
+                    </div>`;
+                document.getElementById('table-of-contents').style.display = 'none';
+                return;
+            }
+
+            renderStats(filtered);
+
+            const grouped = groupByCategory(filtered);
+            const contentDiv = document.getElementById('content');
+            renderTableOfContents(grouped);
+
+            let html = '';
+            let sectionIdx = 0;
+            let isFirstCategory = true;
+
+            for (const [category, items] of Object.entries(grouped)) {
+                if (items.length === 0) continue;
+                sectionIdx++;
+                const catId = category.replace(/\s+/g, '-').toLowerCase();
+                const sectionNum = String(sectionIdx).padStart(2, '0');
+
+                html += `<section class="category-section" id="category-${catId}" style="animation-delay: ${sectionIdx * 0.08}s">`;
+                html += `<div class="section-header">
+                    <span class="section-label">§${sectionNum}</span>
+                    <h2 class="section-title">${category}</h2>
+                </div>`;
+                html += `<div class="section-rule"></div>`;
+                html += `<div class="updates-grid">`;
+
+                items.forEach((update, i) => {
+                    const desc = update.description.length > 180
+                        ? update.description.substring(0, 180) + '…'
+                        : update.description;
+
+                    const isLead = isFirstCategory && i === 0;
+                    const cardClass = isLead ? 'update-card lead-story' : 'update-card';
+
+                    html += `<article class="${cardClass}">
+                        <h3 class="update-headline"><a href="${update.link}" target="_blank" rel="noopener">${highlightText(update.title, query)}</a></h3>
+                        <p class="update-excerpt">${highlightText(desc, query)}</p>
+                        <div class="update-dateline">${formatDateShort(update.pubDate)} · <a href="${update.link}" target="_blank" rel="noopener">Read on Microsoft Learn →</a></div>
+                    </article>`;
+                });
+
+                html += `</div></section>`;
+                isFirstCategory = false;
+            }
+
+            contentDiv.innerHTML = html;
+            initScrollReveal();
+        }
+
+        function clearSearch() {
+            const input = document.getElementById('searchInput');
+            input.value = '';
+            renderFilteredUpdates('');
+            input.focus();
+        }
+
+        function initSearch() {
+            const input = document.getElementById('searchInput');
+            let debounceTimer;
+
+            input.addEventListener('input', () => {
+                clearTimeout(debounceTimer);
+                debounceTimer = setTimeout(() => renderFilteredUpdates(input.value), 150);
+            });
+
+            document.addEventListener('keydown', (e) => {
+                if (e.key === '/' && document.activeElement !== input) {
+                    e.preventDefault();
+                    input.focus();
+                }
+                if (e.key === 'Escape' && document.activeElement === input) {
+                    if (input.value) {
+                        clearSearch();
+                    } else {
+                        input.blur();
+                    }
+                }
+            });
+        }
+
         async function loadFeed() {
             const loadingDiv = document.getElementById('loading');
             const statsDiv = document.getElementById('stats');
@@ -914,6 +1174,8 @@
                 loadingDiv.style.display = 'none';
 
                 if (updates.length > 0) {
+                    allUpdates = updates;
+                    document.getElementById('searchBar').style.display = 'block';
                     renderStats(updates);
                     renderUpdates(updates);
                 } else {
@@ -931,7 +1193,10 @@
             }
         }
 
-        document.addEventListener('DOMContentLoaded', loadFeed);
+        document.addEventListener('DOMContentLoaded', () => {
+            initSearch();
+            loadFeed();
+        });
     </script>
 </body>
 </html>
