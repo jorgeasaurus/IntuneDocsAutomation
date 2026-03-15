@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 15 Mar 2026 05:45:55 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 05:45:55 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 12:03:51 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:03:51 GMT</lastBuildDate>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
@@ -75,15 +75,15 @@
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
-      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
       <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-antivirus-policy</link>
+      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
@@ -123,6 +123,12 @@
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
+      <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/get-support-admin-center</link>
+      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Intune endpoint security firewall settings for Configuration Manager devices - Microsoft Intune</title>
       <description>Endpoint security firewall policy settings for tenant attached devices you manage with Configuration Manager. You can configure firewall setting after you configure tenant attach for Configuration Manager.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-firewall-profile-settings-tenant-attach</link>
@@ -132,6 +138,12 @@
       <title>Antivirus policy settings for Windows Security experience policy for Microsoft Intune - Microsoft Intune</title>
       <description>Endpoint security Antivirus policy settings for the Windows Security app in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-security-experience-windows-settings</link>
+      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unlicensed admins in Microsoft Intune - Microsoft Intune</title>
+      <description>This article describes how to give unlicensed admins permissions to access Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/unlicensed-admins</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
@@ -147,21 +159,9 @@
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
-      <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/get-support-admin-center</link>
-      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure endpoint protection on macOS devices with Microsoft Intune - Microsoft Intune</title>
       <description>Use Intune to configure macOS devices use the built-in firewall to allow or block specific apps or to use stealth mode, to use Gatekeeper to determine where apps install, and to use FileVault disk encryption.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-macos</link>
-      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unlicensed admins in Microsoft Intune - Microsoft Intune</title>
-      <description>This article describes how to give unlicensed admins permissions to access Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/unlicensed-admins</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
@@ -273,6 +273,12 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
+      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up Intune - Microsoft Intune</title>
       <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-plan-setup</link>
@@ -315,15 +321,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get started with Microsoft Intune - Microsoft Intune</title>
-      <description>See an overview of the steps to start using Intune. Plan your move and deployment of Intune, determine your licensing needs and any platform requirements, use compliance and Conditional Access, deploy apps, create device configuration profiles, and enroll your devices to be managed. Get more information on mobile application management for BYOD or personal devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/get-started-with-intune</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deployment guide to manage macOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get started with Microsoft Intune - Microsoft Intune</title>
+      <description>See an overview of the steps to start using Intune. Plan your move and deployment of Intune, determine your licensing needs and any platform requirements, use compliance and Conditional Access, deploy apps, create device configuration profiles, and enroll your devices to be managed. Get more information on mobile application management for BYOD or personal devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/get-started-with-intune</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -363,15 +369,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deployment guide to manage Android devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn the recommended processes to manage Android devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-android</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Audit changes and events in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to review audit logs that record Microsoft Intune activities.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/monitor-audit-logs</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide to manage Android devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn the recommended processes to manage Android devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-android</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -411,15 +417,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Started with the Device Offboarding Agent - Microsoft Intune</title>
-      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Using Windows virtual machines with Microsoft Intune - Microsoft Intune</title>
       <description>This article describes the general guidelines for using Windows 10/11 virtual machines with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Started with the Device Offboarding Agent - Microsoft Intune</title>
+      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
+      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -501,15 +507,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Understand App Protection Policy Delivery and Timing - Microsoft Intune</title>
-      <description>Learn the different deployment windows for app protection policies to understand when changes should appear on your end user devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-delivery</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
       <description>Learn how to improve your security posture with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand App Protection Policy Delivery and Timing - Microsoft Intune</title>
+      <description>Learn the different deployment windows for app protection policies to understand when changes should appear on your end user devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-delivery</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -519,15 +525,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
-      <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
       <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/data-collection</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
+      <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -543,12 +549,6 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Change Review Agent Overview - Microsoft Intune</title>
       <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
@@ -558,6 +558,12 @@
       <title>Get started with frontline worker (FLW) device management - Microsoft Intune</title>
       <description>Learn how to manage frontline worker devices using Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Get guidance on device use and Intune features built for FLW, like Remote Help. Also, learn about Microsoft Entra shared device mode (SDM) for FLW.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/frontline-worker-overview</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -591,21 +597,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
-      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/get-support</link>
+      <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
+      <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
+      <link>https://learn.microsoft.com/en-us/intune/governance/device-cleanup-rules</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Licenses available for Microsoft Intune - Microsoft Intune</title>
-      <description>Intune is available with these licenses</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment</link>
+      <title>Data storage and processing in Intune - Microsoft Intune</title>
+      <description>Learn how personal data is stored and processed in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-storage-processing</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
