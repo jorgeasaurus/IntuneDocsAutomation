@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 19 Mar 2026 17:22:47 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 17:22:47 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 00:08:33 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 00:08:33 GMT</lastBuildDate>
+    <item>
+      <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
+      <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-management</link>
+      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
+      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
+      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add apps to Microsoft Intune so you can assign apps to users and devices. Intune supports a wide range of app types.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add</link>
+      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor App Information and Assignments - Microsoft Intune</title>
+      <description>After you assign an app to users or devices, use this information to help you monitor the app's status.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-monitor</link>
+      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Android Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add a Android line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-android</link>
+      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-use</link>
+      <pubDate>Thu, 19 Mar 2026 18:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up Intune - Microsoft Intune</title>
       <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
@@ -570,42 +606,6 @@
       <title>Learn about Policy Configuration Agent and set it up - Microsoft Intune</title>
       <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
-      <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/data-collection</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
-      <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Work From Anywhere Report in Endpoint Analytics - Microsoft Intune</title>
-      <description>Discover how the Work from Anywhere report in Microsoft Intune endpoint analytics provides insights into remote productivity, device readiness, and user experience.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/work-from-anywhere</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Change Review Agent Overview - Microsoft Intune</title>
-      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/change-review-agent</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get started with frontline worker (FLW) device management - Microsoft Intune</title>
-      <description>Learn how to manage frontline worker devices using Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Get guidance on device use and Intune features built for FLW, like Remote Help. Also, learn about Microsoft Entra shared device mode (SDM) for FLW.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/frontline-worker-overview</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
-      <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
