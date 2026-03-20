@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 20 Mar 2026 06:13:59 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 06:13:59 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 12:02:39 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:02:39 GMT</lastBuildDate>
     <item>
       <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
       <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
@@ -85,6 +85,18 @@
       <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enroll</link>
       <pubDate>Thu, 19 Mar 2026 13:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for US government deployments - Microsoft Intune</title>
+      <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-us-government-endpoints</link>
+      <pubDate>Thu, 19 Mar 2026 08:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for China deployments - Microsoft Intune</title>
+      <description>Review China endpoints for Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china-endpoints</link>
+      <pubDate>Thu, 19 Mar 2026 08:40:00 GMT</pubDate>
     </item>
     <item>
       <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
@@ -594,18 +606,6 @@
       <title>Enable Windows diagnostic data and license verification - Microsoft Intune</title>
       <description>Learn how to enable Intune tenant settings to use Windows diagnostic data and verify Windows licenses required for dependent features.</description>
       <link>https://learn.microsoft.com/en-us/intune/privacy/windows-diagnostic-data</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
-      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Policy Configuration Agent and set it up - Microsoft Intune</title>
-      <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
