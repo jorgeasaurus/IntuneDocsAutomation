@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 23 Mar 2026 05:22:47 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 05:22:47 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 11:27:49 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:27:49 GMT</lastBuildDate>
     <item>
       <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
       <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
@@ -177,27 +177,21 @@
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up user enrollment with Company Portal for iOS - Microsoft Intune</title>
-      <description>Set up the profile based Apple User Enrollment option for personal devices enrolling in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/apple-user-enrollment-with-company-portal</link>
-      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
       <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-antivirus-policy</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune - Microsoft Intune</title>
-      <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-microsoft-defender-settings-windows</link>
+      <title>Set up user enrollment with Company Portal for iOS - Microsoft Intune</title>
+      <description>Set up the profile based Apple User Enrollment option for personal devices enrolling in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/apple-user-enrollment-with-company-portal</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
+      <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune - Microsoft Intune</title>
+      <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-microsoft-defender-settings-windows</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
@@ -276,6 +270,12 @@
       <title>Windows Antivirus policy settings from Windows security settings for tenant attached devices in Microsoft Intune - Microsoft Intune</title>
       <description>Review the settings in the *Windows Security experience* profile for tenant attached devices. To use this Endpoint security Antivirus policy, you must first configure tenant attach for Configuration Manager for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/antivirus-windows-security-settings-windows-tenant-attach</link>
+      <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
@@ -417,15 +417,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deployment guide to manage macOS devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Endpoint analytics overview - Microsoft Intune</title>
       <description>Discover how Microsoft Intune endpoint analytics provides actionable insights to optimize device performance, improve user experience, and enable proactive IT troubleshooting.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide to manage macOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn the recommended processes to manage macOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-macos</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -438,6 +438,12 @@
       <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-ios-ipados</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Licenses available for Microsoft Intune - Microsoft Intune</title>
+      <description>Intune is available with these licenses</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -471,15 +477,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Jamf Managed Device Compliance with Microsoft Entra ID - Microsoft Intune</title>
-      <description>Integrate Jamf Pro with Microsoft Intune to report device compliance to Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-managed-device-compliance-with-entra-id</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Frequently asked questions about MAM and app protection - Microsoft Intune</title>
       <description>This article provides answers to some frequently asked questions on Intune mobile application management (MAM) and Intune app protection.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mam-faq</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jamf Managed Device Compliance with Microsoft Entra ID - Microsoft Intune</title>
+      <description>Integrate Jamf Pro with Microsoft Intune to report device compliance to Microsoft Entra ID.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-managed-device-compliance-with-entra-id</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -507,6 +513,12 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Enable Windows diagnostic data and license verification - Microsoft Intune</title>
+      <description>Learn how to enable Intune tenant settings to use Windows diagnostic data and verify Windows licenses required for dependent features.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/windows-diagnostic-data</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
       <description>Learn how to improve your security posture with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
@@ -525,15 +537,15 @@
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Licenses available for Microsoft Intune - Microsoft Intune</title>
-      <description>Intune is available with these licenses</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add users to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/users-add</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
+      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -546,12 +558,6 @@
       <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/device-protect</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
-      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-windows-10</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Understand App Protection Policy Delivery and Timing - Microsoft Intune</title>
       <description>Learn the different deployment windows for app protection policies to understand when changes should appear on your end user devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-protection-policy-delivery</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows diagnostic data and license verification - Microsoft Intune</title>
-      <description>Learn how to enable Intune tenant settings to use Windows diagnostic data and verify Windows licenses required for dependent features.</description>
-      <link>https://learn.microsoft.com/en-us/intune/privacy/windows-diagnostic-data</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
