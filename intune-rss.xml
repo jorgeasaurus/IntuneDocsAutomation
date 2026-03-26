@@ -6,8 +6,50 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 26 Mar 2026 11:42:40 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 11:42:40 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 18:16:19 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:16:19 GMT</lastBuildDate>
+    <item>
+      <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
+      <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-management</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
+      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add apps to Microsoft Intune so you can assign apps to users and devices. Intune supports a wide range of app types.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
+      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor App Information and Assignments - Microsoft Intune</title>
+      <description>After you assign an app to users or devices, use this information to help you monitor the app's status.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-monitor</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Android Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add a Android line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-android</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
@@ -37,36 +79,6 @@
       <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-ios-ipados</link>
       <pubDate>Mon, 23 Mar 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
-      <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/app-management</link>
-      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
-      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
-      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add apps to Microsoft Intune so you can assign apps to users and devices. Intune supports a wide range of app types.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add</link>
-      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor App Information and Assignments - Microsoft Intune</title>
-      <description>After you assign an app to users or devices, use this information to help you monitor the app's status.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-monitor</link>
-      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add an Android Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about how to add a Android line-of-business (LOB) app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-android</link>
-      <pubDate>Thu, 19 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
@@ -127,12 +139,6 @@
       <description>Review China endpoints for Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china-endpoints</link>
       <pubDate>Thu, 19 Mar 2026 08:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
-      <description>Understand Microsoft Intune management extension for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
-      <pubDate>Tue, 17 Mar 2026 23:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
@@ -600,12 +606,6 @@
       <title>Deployment guide for Windows device management - Microsoft Intune</title>
       <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
-      <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remote-help-troubleshoot-monitor</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
