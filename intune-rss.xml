@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 26 Mar 2026 18:16:19 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 18:16:19 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 23:22:44 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 23:22:44 GMT</lastBuildDate>
+    <item>
+      <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
+      <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-defender-integrate</link>
+      <pubDate>Thu, 26 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Questions with policies and profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Common questions, answers, and scenarios with device policies and profiles in Microsoft Intune. Learn more about profile changes not applying to users or devices, how long it takes for new policies to deploy, which settings apply when there are conflicts, what happens when you delete or remove a profile, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-troubleshoot</link>
+      <pubDate>Thu, 26 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage attack surface reduction settings with Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies for devices you manage with endpoint security attack surface reduction policy settings in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-asr-policy</link>
+      <pubDate>Thu, 26 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-upgrade</link>
+      <pubDate>Thu, 26 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
       <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
@@ -309,18 +333,6 @@
       <pubDate>Thu, 12 Mar 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Questions with policies and profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Common questions, answers, and scenarios with device policies and profiles in Microsoft Intune. Learn more about profile changes not applying to users or devices, how long it takes for new policies to deploy, which settings apply when there are conflicts, what happens when you delete or remove a profile, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-troubleshoot</link>
-      <pubDate>Wed, 11 Mar 2026 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage attack surface reduction settings with Microsoft Intune - Microsoft Intune</title>
-      <description>Configure and deploy policies for devices you manage with endpoint security attack surface reduction policy settings in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-security-asr-policy</link>
-      <pubDate>Wed, 11 Mar 2026 18:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure security baseline policies in Microsoft Intune - Microsoft Intune</title>
       <description>Deploy security baselines that establish a default and recommended security postures on Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baselines-configure</link>
@@ -594,18 +606,6 @@
       <title>Vulnerability Remediation Agent Overview and Set Up - Microsoft Intune</title>
       <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
       <link>https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>View the required roles to use TeamViewer, how to install the TeamViewer connector, and step-by-step guidance to remotely administer devices using Microsoft Intune in the Azure portal</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/teamviewer-support</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide for Windows device management - Microsoft Intune</title>
-      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
