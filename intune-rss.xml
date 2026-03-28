@@ -6,8 +6,86 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 27 Mar 2026 17:47:01 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 17:47:01 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 23:42:48 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 23:42:48 GMT</lastBuildDate>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
+      <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
+      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a custom role in Intune - Microsoft Intune</title>
+      <description>Learn how to create a custom role in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/create-custom-role</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-oem-configuration-overview</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices in Advanced Analytics - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run Kusto Query Language (KQL) queries, analyze device inventory, and gain cross-platform insights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign a role to an Intune administrator - Microsoft Intune</title>
+      <description>Learn how to assign a built-in or custom role to a user in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/assign-role</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an iOS/iPadOS Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an iOS/iPadOS line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/lob-apps-ios</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-common-features</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
+      <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-recovery-lock</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Device Action: Rotate Recovery Lock Passcode - Microsoft Intune</title>
+      <description>Learn how to rotate the macOS Recovery Lock passcode with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/rotate-recovery-lock-passcode</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
       <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
@@ -96,12 +174,6 @@
       <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
       <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-add-android-for-work</link>
-      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
-      <description>Understand Microsoft Intune management extension for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/intune-management-extension</link>
       <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -223,12 +295,6 @@
       <description>Review China endpoints for Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china-endpoints</link>
       <pubDate>Thu, 19 Mar 2026 08:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
-      <pubDate>Tue, 17 Mar 2026 18:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
@@ -540,72 +606,6 @@
       <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
       <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-work-profile-enroll</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide to manage Android devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn the recommended processes to manage Android devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-android</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequently asked questions about MAM and app protection - Microsoft Intune</title>
-      <description>This article provides answers to some frequently asked questions on Intune mobile application management (MAM) and Intune app protection.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mam-faq</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jamf Managed Device Compliance with Microsoft Entra ID - Microsoft Intune</title>
-      <description>Integrate Jamf Pro with Microsoft Intune to report device compliance to Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/jamf-managed-device-compliance-with-entra-id</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manually configure Jamf Pro integration with Microsoft Intune - Microsoft Intune</title>
-      <description>Manually configure Jamf Pro integration with Intune when you can't use the Jamf Cloud Connector.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access-integrate-jamf</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get Started With the Microsoft Intune App SDK - Microsoft Intune</title>
-      <description>Quickly enable your mobile app for mobile application management (MAM) with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-get-started</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-aosp-corporate-owned-userless-enroll</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows diagnostic data and license verification - Microsoft Intune</title>
-      <description>Learn how to enable Intune tenant settings to use Windows diagnostic data and verify Windows licenses required for dependent features.</description>
-      <link>https://learn.microsoft.com/en-us/intune/privacy/windows-diagnostic-data</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/zero-trust-configure-security</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Windows virtual machines with Microsoft Intune - Microsoft Intune</title>
-      <description>This article describes the general guidelines for using Windows 10/11 virtual machines with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines</link>
-      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get Started with the Device Offboarding Agent - Microsoft Intune</title>
-      <description>Learn about the Device Offboarding Agent in Microsoft Intune, its prerequisites, how it works, and how to configure it.</description>
-      <link>https://learn.microsoft.com/en-us/intune/agents/device-offboarding-agent</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
