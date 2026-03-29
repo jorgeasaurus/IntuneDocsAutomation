@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 29 Mar 2026 00:10:15 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2026 00:10:15 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 05:22:48 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:22:48 GMT</lastBuildDate>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
@@ -69,33 +69,21 @@
       <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
-      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
       <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-recovery-lock</link>
       <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
+      <title>Remote Device Action: Rotate Recovery Lock Passcode - Microsoft Intune</title>
+      <description>Learn how to rotate the macOS Recovery Lock passcode with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/rotate-recovery-lock-passcode</link>
       <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Role-based access control (RBAC) with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how RBAC lets you control who can perform actions and make changes in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/role-based-access-control</link>
-      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Rotate Recovery Lock Passcode - Microsoft Intune</title>
-      <description>Learn how to rotate the macOS Recovery Lock passcode with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/rotate-recovery-lock-passcode</link>
       <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -210,6 +198,12 @@
       <title>Microsoft Intune App SDK for iOS Developer Guide - Multi-Identity - Microsoft Intune</title>
       <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Multi-Identity</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-ios-phase5</link>
+      <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
       <pubDate>Thu, 26 Mar 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -606,6 +600,12 @@
       <title>ServiceNow integration with Microsoft Intune - Microsoft Intune</title>
       <description>ServiceNow integration enables help desk staff, who are licensed to use Remote Help, to use ServiceNow to view incidents and details of the tech issue that an employee is facing from the Troubleshooting pane. This article also describes how to configure ServiceNow integration with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/service-now-integration</link>
+      <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
+      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/android-work-profile-enroll</link>
       <pubDate>Mon, 09 Mar 2026 18:36:00 GMT</pubDate>
     </item>
   </channel>
