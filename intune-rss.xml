@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 30 Mar 2026 18:14:39 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 18:14:39 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 23:29:03 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 23:29:03 GMT</lastBuildDate>
     <item>
       <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
@@ -411,15 +411,15 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
-      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/tutorial-group-policy-migration</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
+      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/tutorial-group-policy-migration</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -567,9 +567,21 @@
       <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-supported-intune-apps</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
       <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/settings-catalog-recovery-lock</link>
+      <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-endpoints</link>
       <pubDate>Fri, 27 Mar 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Manage and secure devices overview - Microsoft Intune</title>
       <description>Get an overview of the concepts and features you should know when managing devices that access organization resources in Microsoft Intune. You can manage new and existing devices, including BYOD personal devices, check health compliance and view reports, configure device features, and secure devices using mobile threat solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-devices</link>
-      <pubDate>Fri, 27 Mar 2026 07:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
-      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/help-desk-operators</link>
-      <pubDate>Fri, 27 Mar 2026 07:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get started with frontline worker (FLW) device management - Microsoft Intune</title>
-      <description>Learn how to manage frontline worker devices using Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Get guidance on device use and Intune features built for FLW, like Remote Help. Also, learn about Microsoft Entra shared device mode (SDM) for FLW.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/frontline-worker-overview</link>
       <pubDate>Fri, 27 Mar 2026 07:32:00 GMT</pubDate>
     </item>
   </channel>
