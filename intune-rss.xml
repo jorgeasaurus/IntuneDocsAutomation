@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 31 Mar 2026 17:42:50 GMT</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2026 17:42:50 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 00:11:55 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:11:55 GMT</lastBuildDate>
+    <item>
+      <title>Deployment guide for Linux device management - Microsoft Intune</title>
+      <description>Use our platform deployment guide to set up Linux device management in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-linux</link>
+      <pubDate>Tue, 31 Mar 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux device enrollment guide for Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll Linux devices in Intune using the Intune app. Set an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-enrollment-linux</link>
+      <pubDate>Tue, 31 Mar 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Tue, 31 Mar 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
@@ -36,12 +54,6 @@
       <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
       <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
-      <pubDate>Tue, 31 Mar 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Tue, 31 Mar 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -483,15 +495,15 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
-      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/tutorial-group-policy-migration</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
+      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/tutorial-group-policy-migration</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Device Scopes - Microsoft Intune</title>
       <description>Learn how to use device scopes in Microsoft Intune with scope tags for custom device reporting and targeted insights.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
-      <pubDate>Mon, 30 Mar 2026 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advanced Analytics FAQ - Microsoft Intune</title>
-      <description>This article provides answers to some frequently asked questions about Advanced Analytics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/faq</link>
-      <pubDate>Mon, 30 Mar 2026 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Data Platform Schema - Microsoft Intune</title>
-      <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
       <pubDate>Mon, 30 Mar 2026 12:34:00 GMT</pubDate>
     </item>
   </channel>
