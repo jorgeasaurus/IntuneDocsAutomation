@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 01 Apr 2026 06:02:52 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 06:02:52 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 12:00:51 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 12:00:51 GMT</lastBuildDate>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Wed, 01 Apr 2026 07:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Deployment guide for Linux device management - Microsoft Intune</title>
       <description>Use our platform deployment guide to set up Linux device management in Microsoft Intune.</description>
@@ -21,6 +27,12 @@
       <pubDate>Tue, 31 Mar 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Platforms and policy types supported by assignment filters - Microsoft Intune</title>
+      <description>Learn which apps, compliance policies, and device configuration profiles and their platforms support assignment filters in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters-supported-workloads</link>
+      <pubDate>Tue, 31 Mar 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
@@ -30,12 +42,6 @@
       <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-add</link>
-      <pubDate>Tue, 31 Mar 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
       <pubDate>Tue, 31 Mar 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -54,6 +60,12 @@
       <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
       <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
+      <pubDate>Tue, 31 Mar 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - App Participation Features - Microsoft Intune</title>
+      <description>Understand App participation features when incorporating Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/developer/app-sdk-android-phase7</link>
       <pubDate>Tue, 31 Mar 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -507,15 +519,15 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Common Education iPads Apple Intelligence configuration - Microsoft Intune</title>
-      <description>Learn about common iPads Apple Intelligence configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-ipads-ai</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-edge</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Education iPads Apple Intelligence configuration - Microsoft Intune</title>
+      <description>Learn about common iPads Apple Intelligence configuration used by Education organizations in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-ipads-ai</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Device Timeline Report - Microsoft Intune</title>
       <description>Use the device timeline report in Intune to review device event history, identify issues faster, and correlate incidents to start troubleshooting now.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-timeline</link>
-      <pubDate>Mon, 30 Mar 2026 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data collection in Intune - Microsoft Intune</title>
-      <description>Learn about personal data collected in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-collection</link>
-      <pubDate>Mon, 30 Mar 2026 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Scopes - Microsoft Intune</title>
-      <description>Learn how to use device scopes in Microsoft Intune with scope tags for custom device reporting and targeted insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
       <pubDate>Mon, 30 Mar 2026 12:34:00 GMT</pubDate>
     </item>
   </channel>
