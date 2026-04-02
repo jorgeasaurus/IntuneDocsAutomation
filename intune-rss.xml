@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 01 Apr 2026 18:13:46 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 18:13:46 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 00:09:46 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 00:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
+      <pubDate>Wed, 01 Apr 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Wed, 01 Apr 2026 22:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
       <description>Learn about Intune reports and properties provided via Graph API.</description>
@@ -147,12 +159,6 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use the Change Review Agent - Microsoft Intune</title>
       <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-change-review-agent</link>
@@ -219,15 +225,15 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
-      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/copilot/</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What is Microsoft Intune - Microsoft Intune</title>
       <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/what-is-intune</link>
+      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
+      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
       <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-settings-catalog</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create macOS system and kernel extensions with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn more about system extensions and kernel extensions for macOS devices. In Microsoft Intune, add or create a device configuration policy that configures kernel extensions. In the extension, you can allow user override, add a team identifier, and add a bundle and team identifier.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kernel-extensions-overview-macos</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
