@@ -6,24 +6,60 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 02 Apr 2026 17:21:50 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 17:21:50 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2026 00:10:45 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:10:45 GMT</lastBuildDate>
+    <item>
+      <title>Remote Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
+      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
+      <pubDate>Thu, 02 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Expedite Policies for Windows Quality Updates - Microsoft Intune</title>
+      <description>Learn how to use expedite policies in Microsoft Intune to quickly deploy a specific Windows security update, bypass deferrals, and monitor installation status across devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-policy</link>
+      <pubDate>Thu, 02 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <pubDate>Thu, 02 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
       <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
-      <pubDate>Thu, 02 Apr 2026 12:33:00 GMT</pubDate>
+      <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
-      <pubDate>Wed, 01 Apr 2026 22:36:00 GMT</pubDate>
+      <title>Remote Device Action: Collect Diagnostics - Microsoft Intune</title>
+      <description>Learn how to collect diagnostics with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/collect-diagnostics</link>
+      <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use reusable groups of settings policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Manage groups of settings for Intune profiles as a single object and then add that settings group object to multiple profile instances. Later changes you make to the settings groups  automatically apply to each profile that includes the reusable settings group.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/reusable-settings-groups</link>
+      <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
+      <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/get-support-admin-center</link>
+      <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/macos-laps</link>
       <pubDate>Wed, 01 Apr 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -259,12 +295,6 @@
       <description>Get answers to common questions when using Copilot in Microsoft Intune, including accessing Copilot, licensing, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/faq</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Expedite Policies for Windows Quality Updates - Microsoft Intune</title>
-      <description>Learn how to use expedite policies in Microsoft Intune to quickly deploy a specific Windows security update, bypass deferrals, and monitor installation status across devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-policy</link>
-      <pubDate>Wed, 01 Apr 2026 12:35:00 GMT</pubDate>
     </item>
     <item>
       <title>In development - Microsoft Intune</title>
@@ -576,36 +606,6 @@
       <title>Tutorial-Get started with cloud-native Windows endpoints - Microsoft Intune</title>
       <description>Set up secure cloud-native Windows endpoints that are Microsoft Entra joined, enrolled in Intune, and then deploy at scale with Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-windows-endpoints</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common Education device restrictions configuration - Microsoft Intune</title>
-      <description>Learn about common device restrictions configuration used by Education organizations in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-settings-catalog-device-restrictions</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mamedge-5-settings-catalog</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create macOS system and kernel extensions with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn more about system extensions and kernel extensions for macOS devices. In Microsoft Intune, add or create a device configuration policy that configures kernel extensions. In the extension, you can allow user override, add a team identifier, and add a bundle and team identifier.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kernel-extensions-overview-macos</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common issues and resolutions with cloud-native endpoints - Microsoft Intune</title>
-      <description>Learn more about the known and resolutions when using cloud-native endpoints. Use user-based authentication; don't use machine authentication. Existing group policy objects might not apply.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-known-issues</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get started with Windows frontline worker devices - Microsoft Intune</title>
-      <description>Learn how to manage frontline worker devices using Windows devices in Microsoft Intune. Select the best enrollment option, configure the home screen, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/frontline-worker-overview-windows</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
