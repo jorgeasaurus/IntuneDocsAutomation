@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 04 Apr 2026 06:17:26 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2026 06:17:26 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 11:32:43 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:32:43 GMT</lastBuildDate>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -18,6 +18,12 @@
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/in-development</link>
+      <pubDate>Fri, 03 Apr 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
+      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baseline-settings-mdm-all</link>
       <pubDate>Fri, 03 Apr 2026 17:35:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>macOS extension settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add, configure, or create settings on macOS devices to use system extensions and kernel extensions. Also, allow users to override approved extensions, allow all extensions from a team identifier, or allow specific extensions or apps in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/kernel-extensions-settings-macos</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
-      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-planning-guide</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
