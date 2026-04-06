@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 06 Apr 2026 06:31:19 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 06:31:19 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 12:11:32 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 12:11:32 GMT</lastBuildDate>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -135,6 +135,12 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
+      <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-update-policy</link>
+      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device Query - Microsoft Intune</title>
       <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
@@ -144,12 +150,6 @@
       <title>Manage Windows Driver Updates - Microsoft Intune</title>
       <description>Learn how to manage Windows driver updates using Intune driver update policies to keep Windows devices current and stable.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
-      <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-update-policy</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -165,15 +165,15 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
-      <description>Use compatibility reports for Windows devices in Intune to identify app and driver risks before deploying feature updates or update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Zero Trust with Microsoft Intune - Microsoft Intune</title>
       <description>Microsoft Intune contributes to a strong Zero Trust strategy and architecture by managing and securing endpoints that access organizational resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/zero-trust-with-microsoft-intune</link>
+      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
+      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoint-management</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -189,9 +189,9 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
-      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoint-management</link>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -231,6 +231,12 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
+      <title>Explore Intune data with natural language and take action - Microsoft Intune</title>
+      <description>In Microsoft Intune, use Explorer to query your data in natural language and run built-in queries that match your request. Copilot summarizes the results, and provides recommendations and actions based on the query results. You can also create policies that target users and groups in the query results. Use this feature to explore your Intune data, troubleshoot issues, and create custom reports.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/explorer</link>
+      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Vulnerability Remediation Agent Overview and Set Up - Microsoft Intune</title>
       <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/vulnerability-remediation-agent</link>
@@ -261,6 +267,12 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
+      <title>FAQ for Microsoft Copilot in Intune - Microsoft Intune</title>
+      <description>Get answers to common questions when using Copilot in Microsoft Intune, including accessing Copilot, licensing, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/faq</link>
+      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use the Change Review Agent - Microsoft Intune</title>
       <description>Learn how to use the Change Review Agent in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-change-review-agent</link>
@@ -270,12 +282,6 @@
       <title>Use the Policy Configuration Agent to create policies - Microsoft Intune</title>
       <description>Learn how to use the Policy Configuration Agent in Microsoft Intune to create policies. You can create policies on files you uploaded, natural language prompts, or industry baselines. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-policy-configuration-agent</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -291,15 +297,15 @@
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>Explore Intune data with natural language and take action - Microsoft Intune</title>
-      <description>In Microsoft Intune, use Explorer to query your data in natural language and run built-in queries that match your request. Copilot summarizes the results, and provides recommendations and actions based on the query results. You can also create policies that target users and groups in the query results. Use this feature to explore your Intune data, troubleshoot issues, and create custom reports.</description>
-      <link>https://learn.microsoft.com/en-us/intune/copilot/explorer</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Security Copilot Agents in Intune - Microsoft Intune</title>
       <description>Discover how Microsoft Security Copilot enhances Microsoft Intune through AI-powered security agents. Learn about available agents and explore their capabilities.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/</link>
+      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Compatibility Reports for Windows Updates in Intune - Microsoft Intune</title>
+      <description>Use compatibility reports for Windows devices in Intune to identify app and driver risks before deploying feature updates or update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/compatibility-reports</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -312,12 +318,6 @@
       <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
       <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-vulnerability-remediation-agent</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FAQ for Microsoft Copilot in Intune - Microsoft Intune</title>
-      <description>Get answers to common questions when using Copilot in Microsoft Intune, including accessing Copilot, licensing, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/copilot/faq</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
@@ -375,12 +375,6 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
-      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/remediations</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-apple</link>
@@ -411,15 +405,15 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Update Rings Policy Settings - Microsoft Intune</title>
       <description>Reference article that lists all the settings for Windows Update rings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/update-ring-policy-settings</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/azure-virtual-desktop-multi-session</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -501,15 +495,15 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add custom settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows 10/11 client in Microsoft Intune. Use a custom profile to add custom settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-10</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage and secure user and group identities overview - Microsoft Intune</title>
       <description>Get an overview of the concepts and features you should know when managing identities in Microsoft Intune. Use existing users and groups, control access using RBAC, establish user affinity, and secure and authenticate users.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/manage-identities</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add custom settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create a custom profile to use the OMA-URI settings for devices running Windows 10/11 client in Microsoft Intune. Use a custom profile to add custom settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/custom-settings-windows-10</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -537,15 +531,15 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy policy for Windows Hello to groups of Windows devices - Microsoft Intune</title>
-      <description>Use a Microsoft Intune profile for Identity protection configure Windows Hello for Business on Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/identity-protection-configure</link>
-      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Rollout Options for Feature Update Policies - Microsoft Intune</title>
       <description>Configure rollout options in feature update policies to control when Windows feature updates become available to devices and deploy updates gradually.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/rollout-options</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy policy for Windows Hello to groups of Windows devices - Microsoft Intune</title>
+      <description>Use a Microsoft Intune profile for Identity protection configure Windows Hello for Business on Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/identity-protection-configure</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -591,9 +585,9 @@
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Linux device compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-linux</link>
+      <title>Restrict USB devices using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/restrict-usb</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -606,6 +600,12 @@
       <title>Remote Device Action: Remove Passcode - Microsoft Intune</title>
       <description>Learn how to remove a passcode with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/device-remove-passcode</link>
+      <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux device compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-linux</link>
       <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
