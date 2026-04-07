@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 07 Apr 2026 06:26:03 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 06:26:03 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 12:02:44 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 12:02:44 GMT</lastBuildDate>
+    <item>
+      <title>Add Win32 app supersedence - Microsoft Intune</title>
+      <description>Learn how to create supersedence relationships between Win32 apps in Microsoft Intune to update or replace existing apps with newer versions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-supersedence</link>
+      <pubDate>Tue, 07 Apr 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Manage devices, apps, and security with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>App Protection Policies Overview - Microsoft Intune</title>
       <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
@@ -117,6 +129,12 @@
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
+      <title>Frequently asked questions about MAM and app protection - Microsoft Intune</title>
+      <description>This article provides answers to some frequently asked questions on Intune mobile application management (MAM) and Intune app protection.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mam-faq</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Deployment guide to manage Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Learn the recommended processes to manage Android devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-android</link>
@@ -213,6 +231,12 @@
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
+      <title>APIs to onboard third party certificate authorities - Microsoft Intune</title>
+      <description>Add or integrate the SCEP GitHub solution for third party certificate authorities (CA) to issue SCEP certificates to devices in Microsoft Intune. This solution includes Java and C# APIs that validate, send success and failure notifications to Intune, and use SSL socket factory when communicating with Intune. Also view an overview of the steps to test your SCEP CA configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/scep-libraries-apis</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
       <title>UI updates for Intune end-user apps - Microsoft Intune</title>
       <description>Find out what has changed in UI for apps that work on end-user devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new-app-ui</link>
@@ -246,6 +270,12 @@
       <title>Use Windows Holographic devices with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and complete different tasks on devices running Windows Holographic for Business and HoloLens. You can configure the Company Portal app, create a compliance policy, customize OMA-URI settings, deploy apps, categorize devices in groups, create profiles, restrict devices, enable software updates, set terms and conditions, configure VPN and Wi-Fi settings, and use Hello for Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-holographic-for-business</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-android-settings</link>
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
@@ -363,12 +393,6 @@
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
-      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
-      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: New Remote Assistance Session - Microsoft Intune</title>
       <description>Learn how to use the the new remote assistance session action in Intune to offer support to your users.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remote-assist</link>
@@ -381,9 +405,9 @@
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
-      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <title>Overview of the Microsoft Intune MDM lifecycle - Microsoft Intune</title>
+      <description>Learn how Intune helps you manage devices through their lifecycle - from enrollment, through configuration, to eventual retirement.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/device-lifecycle</link>
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
@@ -405,15 +429,21 @@
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
       <title>Remote Device Action: Run Remediation - Microsoft Intune</title>
       <description>Learn how to initiate on demand remediations with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/run-remediation</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
@@ -435,12 +465,6 @@
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
-      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
-      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Remote Device Action: Lost Mode - Microsoft Intune</title>
       <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/lost-mode</link>
@@ -450,6 +474,18 @@
       <title>Remote Device Action: Shutdown - Microsoft Intune</title>
       <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/shutdown</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-restrictions-android-for-work</link>
+      <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Apple User Enrollment in Microsoft Intune - Microsoft Intune</title>
+      <description>Utilize Apple User Enrollment to enroll and manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/enrollment/ios-user-enrollment-supported-actions</link>
       <pubDate>Mon, 06 Apr 2026 19:55:00 GMT</pubDate>
     </item>
     <item>
@@ -507,12 +543,6 @@
       <pubDate>Fri, 03 Apr 2026 17:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remote Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
-      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, macOS, Windows, and ChromeOS devices. Learn about available remote actions, prerequisites, and bulk actions for IT admins.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/</link>
-      <pubDate>Thu, 02 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Expedite Policies for Windows Quality Updates - Microsoft Intune</title>
       <description>Learn how to use expedite policies in Microsoft Intune to quickly deploy a specific Windows security update, bypass deferrals, and monitor installation status across devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/expedite-policy</link>
@@ -522,12 +552,6 @@
       <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
       <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
-      <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote Device Action: Collect Diagnostics - Microsoft Intune</title>
-      <description>Learn how to collect diagnostics with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/remote-actions/collect-diagnostics</link>
       <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -541,12 +565,6 @@
       <description>Manage groups of settings for Intune profiles as a single object and then add that settings group object to multiple profile instances. Later changes you make to the settings groups  automatically apply to each profile that includes the reusable settings group.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/reusable-settings-groups</link>
       <pubDate>Thu, 02 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequently asked questions about MAM and app protection - Microsoft Intune</title>
-      <description>This article provides answers to some frequently asked questions on Intune mobile application management (MAM) and Intune app protection.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/mam-faq</link>
-      <pubDate>Thu, 02 Apr 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
@@ -588,24 +606,6 @@
       <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
       <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-update-policy</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Windows Driver Updates - Microsoft Intune</title>
-      <description>Learn how to manage Windows driver updates using Intune driver update policies to keep Windows devices current and stable.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>See device configuration policies with Microsoft Intune - Microsoft Intune</title>
-      <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/device-profile-monitor</link>
-      <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Query for Multiple Devices - Microsoft Intune</title>
-      <description>Use device query for multiple devices in Microsoft Intune to run KQL queries, analyze inventory trends, and start querying your managed fleet now.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
       <pubDate>Wed, 01 Apr 2026 14:46:00 GMT</pubDate>
     </item>
   </channel>
