@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 10 Apr 2026 12:02:45 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 12:02:45 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 18:06:18 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:06:18 GMT</lastBuildDate>
+    <item>
+      <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
+      <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
+      <pubDate>Fri, 10 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Install the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
+      <description>Install and configure Microsoft Tunnel Gateway on a Linux server to support Intune managed cloud-based devices in connecting to your on-premises infrastructure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-configure</link>
+      <pubDate>Fri, 10 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
       <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
@@ -30,12 +42,6 @@
       <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
       <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-planning-guide</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
-      <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/scope-tags</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -195,15 +201,15 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Software Update Errors and Descriptions - Microsoft Intune</title>
-      <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-agent-error-codes</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software Update Errors and Descriptions - Microsoft Intune</title>
+      <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-agent-error-codes</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -285,18 +291,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
-      <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/ref-data-collection</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
-      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/support</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
       <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/configure-driver-update-policy</link>
@@ -312,6 +306,18 @@
       <title>Reports for Windows Quality Update Policies - Microsoft Intune</title>
       <description>Learn about the reports available for Windows quality update policies in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-quality-updates</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
+      <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/ref-data-collection</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
+      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/support</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
       <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Control AI features on Android Enterprise devices - Microsoft Intune</title>
-      <description>Using Microsoft Intune, you can manage and restrict AI usage on Android devices enrolled in Intune. This guide provides lists the steps in Intune to block AI apps, websites, screen-driven experiences, on-device AI services, and OEM-specific AI features. You can manage Microsoft Copilot, Google Gemini, Samsung Galaxy AI, claude.ai, ChatGPT, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/ai/manage-ai-android</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
