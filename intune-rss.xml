@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 10 Apr 2026 18:06:18 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 18:06:18 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 00:11:05 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 00:11:05 GMT</lastBuildDate>
+    <item>
+      <title>Enable Unlicensed Administrator Access to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to allow administrators to access Microsoft Intune without an Intune license by enabling unlicensed admin access in the admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/unlicensed-admins</link>
+      <pubDate>Fri, 10 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <pubDate>Fri, 10 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
       <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
@@ -201,15 +213,15 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Software Update Errors and Descriptions - Microsoft Intune</title>
       <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-agent-error-codes</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -345,6 +357,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
+      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Reports for Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about the reports available for Windows update ring policies in Intune. Discover how to access and interpret these reports to monitor update deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-update-rings</link>
@@ -354,12 +372,6 @@
       <title>Upgrade Devices to Windows 11 Using Feature Updates - Microsoft Intune</title>
       <description>Learn how to upgrade Windows 10 devices to Windows 11 using feature updates in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/upgrade-to-windows-11</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
-      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Use Zebra Mobility Extensions on Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage and use Zebra devices running Android with Zebra Mobility Extensions (MX). See all the steps, including install the Company Portal app, sideload the app, assign device administrator role, create a StageNow profile, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/android-zebra-mx-overview</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
-      <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
