@@ -6,18 +6,18 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 11 Apr 2026 06:18:21 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Apr 2026 06:18:21 GMT</lastBuildDate>
-    <item>
-      <title>Enable Unlicensed Administrator Access to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to allow administrators to access Microsoft Intune without an Intune license by enabling unlicensed admin access in the admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/unlicensed-admins</link>
-      <pubDate>Fri, 10 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
+    <pubDate>Sat, 11 Apr 2026 11:22:29 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 11:22:29 GMT</lastBuildDate>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/multi-admin-approval</link>
+      <pubDate>Sat, 11 Apr 2026 07:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Unlicensed Administrator Access to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to allow administrators to access Microsoft Intune without an Intune license by enabling unlicensed admin access in the admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/unlicensed-admins</link>
       <pubDate>Fri, 10 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -195,6 +195,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Expedite Policies for Windows Quality Updates - Microsoft Intune</title>
       <description>Learn how to use expedite policies in Microsoft Intune to quickly deploy a specific Windows security update, bypass deferrals, and monitor installation status across devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/configure-expedite-policy</link>
@@ -210,12 +216,6 @@
       <title>Manage Windows quality updates - Microsoft Intune</title>
       <description>Learn how to manage Windows quality updates in Microsoft Intune using quality update policies, expedited updates, and hotpatch to keep devices secure and compliant.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/manage-quality-updates</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -273,12 +273,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/deprecated-mdm-policies-ios</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View Software Update Reports for Apple Devices - Microsoft Intune</title>
       <description>Track Apple device update status in real time with Intune's declarative software update reporting. Learn how Microsoft Intune surfaces update changes directly from managed Apple devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/monitor-reports</link>
@@ -291,6 +285,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/deprecated-mdm-policies-ios</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-zebra-lifeguard</link>
@@ -300,12 +300,6 @@
       <title>Enable Windows diagnostic data and license verification - Microsoft Intune</title>
       <description>Learn how to enable Intune tenant settings to use Windows diagnostic data and verify Windows licenses required for dependent features.</description>
       <link>https://learn.microsoft.com/en-us/intune/privacy/enable-windows-diagnostic-data</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
-      <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/ref-data-collection</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -333,6 +327,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Endpoint Analytics Data Collection - Microsoft Intune</title>
+      <description>Understand endpoint analytics data collection in Microsoft Intune, including data flow, privacy, and how to stop gathering device data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/ref-data-collection</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
       <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-vulnerability-remediation-agent</link>
@@ -357,6 +357,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
+      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Reports for Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about the reports available for Windows update ring policies in Intune. Discover how to access and interpret these reports to monitor update deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-update-rings</link>
@@ -366,12 +372,6 @@
       <title>Upgrade Devices to Windows 11 Using Feature Updates - Microsoft Intune</title>
       <description>Learn how to upgrade Windows 10 devices to Windows 11 using feature updates in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/upgrade-to-windows-11</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
-      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
