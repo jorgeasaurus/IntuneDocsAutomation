@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 12 Apr 2026 00:11:48 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Apr 2026 00:11:48 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 06:02:46 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:02:46 GMT</lastBuildDate>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
@@ -201,6 +201,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Software Update Errors and Descriptions - Microsoft Intune</title>
+      <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-agent-error-codes</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Expedite Policies for Windows Quality Updates - Microsoft Intune</title>
       <description>Learn how to use expedite policies in Microsoft Intune to quickly deploy a specific Windows security update, bypass deferrals, and monitor installation status across devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/configure-expedite-policy</link>
@@ -216,12 +222,6 @@
       <title>Manage Windows quality updates - Microsoft Intune</title>
       <description>Learn how to manage Windows quality updates in Microsoft Intune using quality update policies, expedited updates, and hotpatch to keep devices secure and compliant.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/manage-quality-updates</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software Update Errors and Descriptions - Microsoft Intune</title>
-      <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-agent-error-codes</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -357,12 +357,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
-      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Reports for Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about the reports available for Windows update ring policies in Intune. Discover how to access and interpret these reports to monitor update deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-update-rings</link>
@@ -372,6 +366,12 @@
       <title>Upgrade Devices to Windows 11 Using Feature Updates - Microsoft Intune</title>
       <description>Learn how to upgrade Windows 10 devices to Windows 11 using feature updates in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/upgrade-to-windows-11</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
+      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
