@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 13 Apr 2026 11:42:38 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 11:42:38 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 17:42:42 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:42:42 GMT</lastBuildDate>
+    <item>
+      <title>Passwordless authentication with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Microsoft Intune supports passwordless authentication across devices. Explore key methods and plan your deployment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/passwordless</link>
+      <pubDate>Mon, 13 Apr 2026 12:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
@@ -357,6 +363,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
+      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Reports for Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about the reports available for Windows update ring policies in Intune. Discover how to access and interpret these reports to monitor update deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-update-rings</link>
@@ -366,12 +378,6 @@
       <title>Upgrade Devices to Windows 11 Using Feature Updates - Microsoft Intune</title>
       <description>Learn how to upgrade Windows 10 devices to Windows 11 using feature updates in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/upgrade-to-windows-11</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
-      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
       <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data collection in Intune - Microsoft Intune</title>
-      <description>Learn about personal data collected in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-collection</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
