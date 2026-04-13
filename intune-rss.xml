@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 13 Apr 2026 05:48:37 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 05:48:37 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 11:42:38 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:42:38 GMT</lastBuildDate>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
@@ -93,15 +93,15 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
-      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Startup Performance Report in Endpoint Analytics - Microsoft Intune</title>
       <description>Learn how startup performance in Microsoft Intune endpoint analytics helps analyze boot times, identify issues, and optimize device performance.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/startup-performance</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
+      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/apps-win32-deploy-update-package</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -111,15 +111,15 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Scores, Baselines, and Insights in Endpoint Analytics - Microsoft Intune</title>
-      <description>Understand endpoint analytics scores, baselines, and insights in Microsoft Intune to measure and improve device performance metrics.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/scores</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
       <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, Legacy Zebra OEMConfig, and Honeywell UEMConnect apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/oemconfig-managed-home-screen-permissions-android</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scores, Baselines, and Insights in Endpoint Analytics - Microsoft Intune</title>
+      <description>Understand endpoint analytics scores, baselines, and insights in Microsoft Intune to measure and improve device performance metrics.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/scores</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -177,6 +177,24 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage Windows quality updates - Microsoft Intune</title>
+      <description>Learn how to manage Windows quality updates in Microsoft Intune using quality update policies, expedited updates, and hotpatch to keep devices secure and compliant.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/manage-quality-updates</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/deprecated-mdm-policies-ios</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reports for Windows Feature Update Policies - Microsoft Intune</title>
+      <description>Learn about the reports available for Windows feature update policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-feature-updates</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Common Education Windows Update configuration - Microsoft Intune</title>
       <description>Learn about common Windows Update configuration used by Education organizations in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/industry/education/tutorial-school-deployment/common-config-windows-update</link>
@@ -213,12 +231,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Windows quality updates - Microsoft Intune</title>
-      <description>Learn how to manage Windows quality updates in Microsoft Intune using quality update policies, expedited updates, and hotpatch to keep devices secure and compliant.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/manage-quality-updates</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Software Update Errors and Descriptions - Microsoft Intune</title>
       <description>Reference article with a list of the Software Update agent error code in Microsoft Intune, including the symbolic name and error description.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-agent-error-codes</link>
@@ -249,12 +261,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Reports for Windows Feature Update Policies - Microsoft Intune</title>
-      <description>Learn about the reports available for Windows feature update policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-feature-updates</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/planning-guide-macos</link>
@@ -276,12 +282,6 @@
       <title>Frequently Asked Questions About Windows Driver Update Policies - Microsoft Intune</title>
       <description>This article provides answers to some frequently asked questions about Windows Driver Update Policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-faq</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune to manage software updates for supervised iOS/iPadOS devices - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage system updates for supervised iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/deprecated-mdm-policies-ios</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -309,12 +309,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
-      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/support</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
       <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/configure-driver-update-policy</link>
@@ -339,6 +333,12 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Get Support for Endpoint Analytics - Microsoft Intune</title>
+      <description>Get support for Microsoft Intune endpoint analytics, including technical troubleshooting, online help, and product feedback options.</description>
+      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/support</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Android FOTA Updates - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
@@ -357,12 +357,6 @@
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
-      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
-      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Reports for Windows Update Ring Policies - Microsoft Intune</title>
       <description>Learn about the reports available for Windows update ring policies in Intune. Discover how to access and interpret these reports to monitor update deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-update-rings</link>
@@ -372,6 +366,12 @@
       <title>Upgrade Devices to Windows 11 Using Feature Updates - Microsoft Intune</title>
       <description>Learn how to upgrade Windows 10 devices to Windows 11 using feature updates in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/upgrade-to-windows-11</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reports for Windows Driver Update Policies reports - Microsoft Intune</title>
+      <description>Learn how to use Intune reports to monitor Windows driver updates for devices assigned to Windows Driver update policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/monitor-driver-updates</link>
       <pubDate>Thu, 09 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -495,6 +495,12 @@
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
+      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure Microsoft Cloud PKI root and issuing CA for Microsoft Intune - Microsoft Intune</title>
       <description>Configure a root and issuing CA for the Microsoft Cloud PKI service.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/configure-ca</link>
@@ -513,21 +519,15 @@
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure VPN settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
       <description>Add or create a VPN configuration profile on iOS/iPadOS and macOS devices using virtual private network (VPN) configuration settings in Microsoft Intune. Configure the connection details, authentication methods, split tunneling, custom VPN settings with the identifier, key and value pairs, per-app VPN settings that include Safari URLs, and on-demand VPNs with SSIDs or DNS search domains, proxy settings to include a configuration script, IP or FQDN address, and TCP port.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-apple</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/email-settings-configure</link>
+      <title>Enable eSIM data connections in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or use eSIM to get internet and data access using different data plans. In Intune, add or import activation codes, and then assign these activation codes using a configuration profile. You can also monitor the eSIM profiles and check the status of the eSIM-enabled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/configuration/esim-device-configuration</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -537,9 +537,9 @@
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mobile Application Management (MAM) and Android Enterprise Personally-Owned Work Profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>See the available features when deciding to use Mobile Application Management (MAM) and/or Android Enterprise personally-owned work profiles for personal or BYOD Android devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/android-deployment-scenarios-app-protection-work-profiles</link>
+      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
+      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoint-management</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -549,15 +549,15 @@
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deployment guide for Windows device management - Microsoft Intune</title>
-      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
+      <title>Mobile Application Management (MAM) and Android Enterprise Personally-Owned Work Profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>See the available features when deciding to use Mobile Application Management (MAM) and/or Android Enterprise personally-owned work profiles for personal or BYOD Android devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/apps/android-deployment-scenarios-app-protection-work-profiles</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
-      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoint-management</link>
+      <title>Deployment guide for Windows device management - Microsoft Intune</title>
+      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/deployment-guide-platform-windows</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -567,15 +567,15 @@
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
-      <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/specialty-devices-with-intune</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure the Jamf Pro Cloud Connector to integrate Jamf Pro with Microsoft Intune - Microsoft Intune</title>
       <description>Use the Jamf Cloud Connector to integrate Jamf Pro with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/conditional-access-jamf-cloud-connector</link>
+      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
+      <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/specialty-devices-with-intune</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -597,15 +597,15 @@
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
-      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
       <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/intune-service-servicing-information</link>
+      <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data collection in Intune - Microsoft Intune</title>
+      <description>Learn about personal data collected in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-collection</link>
       <pubDate>Thu, 09 Apr 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
