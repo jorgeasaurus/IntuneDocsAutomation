@@ -6,8 +6,68 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 14 Apr 2026 17:45:55 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2026 17:45:55 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 00:02:39 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 00:02:39 GMT</lastBuildDate>
+    <item>
+      <title>Add the Company Portal for macOS App - Microsoft Intune</title>
+      <description>Add the macOS Company Portal app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-company-portal-macos</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-win32</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
+      <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/deploy-win32-update-package</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add a Windows Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add a Windows line-of-business (LOB) app using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-windows</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Unmanaged macOS PKG App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an unmanaged macOS PKG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-unmanaged-pkg-macos</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-enterprise-catalog</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Add macOS Line-of-Business Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add macOS line-of-business (LOB) apps to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-macos</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add a macOS DMG App to Microsoft Intune - Microsoft Intune</title>
+      <description>Add a macOS DMG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-dmg-macos</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an iOS/iPadOS Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an iOS/iPadOS line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-ios</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Android Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add a Android line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-android</link>
+      <pubDate>Tue, 14 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
       <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
@@ -546,66 +606,6 @@
       <title>Device Timeline Report - Microsoft Intune</title>
       <description>Use the device timeline report in Intune to review device event history, identify issues faster, and correlate incidents to start troubleshooting now.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-timeline</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
-      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/microsoft-tunnel-mam-android</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune - Microsoft Intune</title>
-      <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-reports</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android (AOSP) compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>View the device compliance settings for Android (AOSP) that you can manage with Microsoft Intune compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/compliance-policy-create-android-aosp</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune operated by 21Vianet in China - Microsoft Intune</title>
-      <description>Intune operated by 21Vianet in China.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/china</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Endpoint protection settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create Endpoint protection settings when you create a macOS or Windows device profile in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/endpoint-protection-configure</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor security baselines deployed by Microsoft Intune - Microsoft Intune</title>
-      <description>Monitor device and per-setting results of security baselines you deploy with Microsoft Intune, and identify conflicts for devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/security-baselines-monitor</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Group to Manage Users - Microsoft Intune</title>
-      <description>Learn how to create a group in Microsoft Intune and add users to the groups. Use groups to manage user access to company resources and assign policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/quickstart-create-group</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequently asked questions for Endpoint Privilege Management - Microsoft Intune</title>
-      <description>A list of frequently asked questions for customers deploying Microsoft Intune Endpoint Privilege Management</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/protect/epm-frequently-asked-questions</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows cloud configuration step by step guide - Microsoft Intune</title>
-      <description>Use this Windows 10/11 cloud configuration step-by-step setup guide to create your own cloud configuration deployment. You create the Microsoft Entra group and policies using Microsoft Intune, including the enrollment profile, compliance policy, and security baseline. You also deploy apps and resources that users need to do their jobs.</description>
-      <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/cloud-configuration-setup-guide</link>
-      <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Scopes - Microsoft Intune</title>
-      <description>Learn how to use device scopes in Microsoft Intune with scope tags for custom device reporting and targeted insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
       <pubDate>Tue, 14 Apr 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
