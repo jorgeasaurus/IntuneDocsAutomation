@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 15 Apr 2026 17:42:52 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2026 17:42:52 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 00:02:56 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 00:02:56 GMT</lastBuildDate>
     <item>
       <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
       <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
@@ -267,24 +267,6 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure compliance policies with actions for noncompliance in Microsoft Intune - Microsoft Intune</title>
-      <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/configure-noncompliance-actions</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Better Mobile integration with Intune - Microsoft Intune</title>
-      <description>Integrate the third-party mobile threat defense solution of Better Mobile with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-better-mobile</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
-      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/manage-support-approvals</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Shell Scripts on macOS Devices in Microsoft Intune - Microsoft Intune</title>
       <description>Create, assign, monitor, and troubleshoot shell scripts for macOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-shell-scripts-macos</link>
@@ -297,9 +279,9 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>Understand the steps and phases for deploying Endpoint Privilege Management with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/deploy</link>
+      <title>Set up Better Mobile integration with Intune - Microsoft Intune</title>
+      <description>Integrate the third-party mobile threat defense solution of Better Mobile with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-better-mobile</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -309,9 +291,27 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Deploy Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
+      <description>Understand the steps and phases for deploying Endpoint Privilege Management with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/deploy</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
+      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/manage-support-approvals</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/security-settings-management</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure compliance policies with actions for noncompliance in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/configure-noncompliance-actions</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -321,51 +321,39 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create discovery scripts for custom compliance policy in Microsoft Intune - Microsoft Intune</title>
-      <description>Create scripts for Linux or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage endpoint security policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-policies</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use app-based Conditional Access policies with Intune - Microsoft Intune</title>
-      <description>Learn about using app-based Conditional Access policies with Microsoft Intune for both enrolled and unenrolled devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/app-based-policies</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
-      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/overview</link>
+      <title>Set up Android (AOSP) device management in Intune for corporate-owned user-associated devices - Microsoft Intune</title>
+      <description>Set up Intune for corporate-owned user-associated devices built on the Android Open Source Project (AOSP) platform.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-user-associated</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Install the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
       <description>Install and configure Microsoft Tunnel Gateway on a Linux server to support Intune managed cloud-based devices in connecting to your on-premises infrastructure.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/install</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
+      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Mobile Threat Defense compliance policies in Intune - Microsoft Intune</title>
+      <description>Create an Intune device compliance policy that uses your MTD partner threat levels to determine if a mobile device can access company resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/create-compliance-policy</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Jamf Mobile Security with Intune - Microsoft Intune</title>
+      <description>How to set up Jamf Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/jamf</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -381,30 +369,6 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Jamf Mobile Security with Intune - Microsoft Intune</title>
-      <description>How to set up Jamf Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/jamf</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create Mobile Threat Defense compliance policies in Intune - Microsoft Intune</title>
-      <description>Create an Intune device compliance policy that uses your MTD partner threat levels to determine if a mobile device can access company resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/create-compliance-policy</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
-      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned user-associated devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned user-associated devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-user-associated</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Monitor security baselines deployed by Microsoft Intune - Microsoft Intune</title>
       <description>Monitor device and per-setting results of security baselines you deploy with Microsoft Intune, and identify conflicts for devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/monitor-baselines</link>
@@ -417,21 +381,39 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
-      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
+      <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android (AOSP) compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>View the device compliance settings for Android (AOSP) that you can manage with Microsoft Intune compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-android-aosp-settings</link>
+      <title>Manage endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-policies</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to Monitor App Protection Policies - Microsoft Intune</title>
-      <description>This article describes how to monitor app protection policies in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/monitor-policies</link>
+      <title>Create discovery scripts for custom compliance policy in Microsoft Intune - Microsoft Intune</title>
+      <description>Create scripts for Linux or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use app-based Conditional Access policies with Intune - Microsoft Intune</title>
+      <description>Learn about using app-based Conditional Access policies with Microsoft Intune for both enrolled and unenrolled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/app-based-policies</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
+      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access your organizations resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/overview</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -441,15 +423,9 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a JSON file for custom compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-json</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up BlackBerry Protect with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the CylancePROTECT (BlackBerry) MTD solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-blackberry</link>
+      <title>How to Monitor App Protection Policies - Microsoft Intune</title>
+      <description>This article describes how to monitor app protection policies in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/monitor-policies</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -459,33 +435,45 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Monitor the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
-      <description>Monitor the status of Microsoft Tunnel Gateway, a VPN server that runs on Linux. Microsoft Tunnel enables your Intune managed cloud-based devices to reach your on-premises infrastructure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/monitor</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/planning-guide-ios-ipados</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
+      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a JSON file for custom compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-json</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android (AOSP) compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for Android (AOSP) that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-android-aosp-settings</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
+      <description>Monitor the status of Microsoft Tunnel Gateway, a VPN server that runs on Linux. Microsoft Tunnel enables your Intune managed cloud-based devices to reach your on-premises infrastructure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/monitor</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up BlackBerry Protect with Microsoft Intune - Microsoft Intune</title>
+      <description>How to set up the CylancePROTECT (BlackBerry) MTD solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-blackberry</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Tutorial - Configure Slack to Use Intune for EMM and App Configuration - Microsoft Intune</title>
       <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/tutorial-configure-slack</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-filevault-macos</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -501,39 +489,21 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
-      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/deployment-planning</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up iVerify Enterprise Mobile Threat Defense with Intune - Microsoft Intune</title>
-      <description>How to set up iVerify Enterprise Mobile Security with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-iverify</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Check Point Harmony integration with Intune - Microsoft Intune</title>
-      <description>How to set up CheckPoint Harmony Mobile Threat Defense (MTD) with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-checkpoint-harmony</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the Microsoft Tunnel Gateway, a VPN server for Intune that runs on Linux. With Microsoft Tunnel, cloud-based devices you manage with Intune can reach your on-premises infrastructure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/overview</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Jamf Mobile Threat Protection integration with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up the Jamf Mobile Threat Protection solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-jamf</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Security Copilot agents in Microsoft Intune - Microsoft Intune</title>
       <description>Learn about Security Copilot agents in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/ref-requirements</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-filevault-macos</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -546,6 +516,36 @@
       <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
       <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/mam-android</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the Microsoft Tunnel Gateway, a VPN server for Intune that runs on Linux. With Microsoft Tunnel, cloud-based devices you manage with Intune can reach your on-premises infrastructure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/overview</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Check Point Harmony integration with Intune - Microsoft Intune</title>
+      <description>How to set up CheckPoint Harmony Mobile Threat Defense (MTD) with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-checkpoint-harmony</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up iVerify Enterprise Mobile Threat Defense with Intune - Microsoft Intune</title>
+      <description>How to set up iVerify Enterprise Mobile Security with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-iverify</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Jamf Mobile Threat Protection integration with Microsoft Intune - Microsoft Intune</title>
+      <description>How to set up the Jamf Mobile Threat Protection solution with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-jamf</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
+      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/deployment-planning</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -573,39 +573,39 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Send Email Notifications to Noncompliant Devices - Microsoft Intune</title>
-      <description>Learn how to create notification templates and send email alerts to users with noncompliant devices in Microsoft Intune. Configure actions for noncompliance.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-noncompliance-notification</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Intune compliance and Microsoft Entra Conditional Access policies with Jamf Pro - Microsoft Intune</title>
-      <description>Create Intune compliance policies and Microsoft Entra Conditional Access to help secure Jamf-managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/assign-jamf-policies</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Try Microsoft Intune for free - Microsoft Intune</title>
       <description>Evaluate Microsoft Intune with a free trial. Step through common settings, enroll devices, create policies, and learn about cloud-based device management. Start your trial today.</description>
       <link>https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/try-intune-overview</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add and assign MTD apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Use Intune to add Mobile Threat Defense (MTD) apps, Microsoft Authenticator app, and iOS configuration policy in Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/assign-apps</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SentinelOne MTD connector with Microsoft Intune - Microsoft Intune</title>
-      <description>How to set up SentinelOne Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/sentinelone</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
       <description>Understand Microsoft Intune management extension for Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Intune devices with Android device administrator - Microsoft Intune</title>
+      <description>Use Android device administrator with Intune to manage devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/manage-device-administrator</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>See device configuration policies with Microsoft Intune - Microsoft Intune</title>
+      <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/monitor-device-profile</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Android (AOSP) device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
+      <description>Set up Intune for corporate-owned userless devices built on the Android Open Source Project (AOSP) platform.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-userless</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Mobile Threat Defense apps to unenrolled devices - Microsoft Intune</title>
+      <description>Add Mobile Threat Defense apps to unenrolled devices by device users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/add-apps-unenrolled-devices</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
