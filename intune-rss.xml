@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 16 Apr 2026 00:02:56 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 00:02:56 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 06:32:01 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:32:01 GMT</lastBuildDate>
     <item>
       <title>Use Intune Suite add-on capabilities - Microsoft Intune</title>
       <description>Microsoft Intune Suite unifies a series of mission-critical advanced endpoint management and security capabilities. The capabilities of the suite are integrated with Microsoft 365 and Microsoft Security across endpoint platforms for both cloud and on-premises co-managed devices.</description>
@@ -375,12 +375,6 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Managing Elevation Settings for Endpoint Privilege Management - Microsoft Intune</title>
-      <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/manage-elevation-settings</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows</link>
@@ -417,15 +411,21 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
-      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/threat-defense-step-3</link>
+      <title>Managing Elevation Settings for Endpoint Privilege Management - Microsoft Intune</title>
+      <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/manage-elevation-settings</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
       <title>How to Monitor App Protection Policies - Microsoft Intune</title>
       <description>This article describes how to monitor app protection policies in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/monitor-policies</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
+      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/threat-defense-step-3</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -495,18 +495,6 @@
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-filevault-macos</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
-      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
       <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/overview</link>
@@ -546,6 +534,18 @@
       <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
       <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
       <link>https://learn.microsoft.com/en-us/intune/epm/deployment-planning</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-filevault-macos</link>
+      <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
       <pubDate>Wed, 15 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
