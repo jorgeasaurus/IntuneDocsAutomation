@@ -6,8 +6,80 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 16 Apr 2026 18:20:51 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 18:20:51 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 00:02:47 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 00:02:47 GMT</lastBuildDate>
+    <item>
+      <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
+      <description>Learn about Intune reports and properties provided via Graph API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/ref-graph-available-reports</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
+      <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/troubleshoot-step-7</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/overview</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
+      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/threat-defense-step-3</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/app-configuration-step-4</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/protection-policies-step-2</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Graph APIs to Export Intune Reports - Microsoft Intune</title>
+      <description>Learn about exporting Intune reports using Graph APIs.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/export-graph-apis</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 6. Understand Microsoft Edge for Business End User Experience for Windows - Microsoft Intune</title>
+      <description>Step 6. Understand Microsoft Edge for Business end user experience Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/end-user-experience-step-6</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 1. Create Microsoft Entra Conditional Access with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 1. Create Microsoft Entra Conditional Access with Microsoft Edge for Business.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/conditional-access-step-1</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Your Corporate Data in Intune with Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Secure your corporate data in Microsoft Intune with Microsoft Edge for Business across all platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/overview</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/settings-catalog-step-5</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Block Apps with No Modern Authentication on Intune - Microsoft Intune</title>
+      <description>Learn about applications and modern authentication (MSAL) using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/block-no-modern-auth</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
       <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as an Intune add-on.</description>
@@ -534,78 +606,6 @@
       <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
       <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-powershell-scripts-windows</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Shell Scripts on macOS Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create, assign, monitor, and troubleshoot shell scripts for macOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-shell-scripts-macos</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
-      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use EPM support approvals for file elevation requests with Intune - Microsoft Intune</title>
-      <description>Manage support approvals for elevation requests when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/manage-support-approvals</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>Understand the steps and phases for deploying Endpoint Privilege Management with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/deploy</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configuration Policies for Intune App SDK Managed Apps - Microsoft Intune</title>
-      <description>Learn how to configure policies for Intune App SDK managed apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-apps</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
-      <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-ios</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Built-In Apps to Mobile Devices Using Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how you can use Intune to make it easier to install built-in apps mobile devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-built-in</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Microsoft Edge for Windows to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about adding Microsoft Edge for Windows to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-edge-windows</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Install Microsoft 365 Apps to macOS Devices Using Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how you can use Microsoft Intune to install Microsoft 365 apps on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-365-macos</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS App Provisioning Profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Intune gives you the tools to proactively assign a new provisioning profile to devices that have apps that are nearing expiry.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-provisioning-profiles-ios</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign and encrypt email using S/MIME - Microsoft Intune</title>
-      <description>Learn how to use email digital certificates in Microsoft Intune to sign and encrypt emails on devices. These certificates are called S/MIME and are configured using device configuration profiles. Signing and encryption certificates use PKCS, or private certificates, and use a connector to import certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/certificates/s-mime</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add custom settings to Linux devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Add Bash scripts to create a custom Linux profile in Microsoft Intune. Use the script to create, use, and control custom settings and features on Linux devices. This custom profile can then be assigned or distributed to Linux devices in your organization to create a baseline or standard.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-custom-settings-linux</link>
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
   </channel>
