@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 17 Apr 2026 00:02:47 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 00:02:47 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 06:31:53 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 06:31:53 GMT</lastBuildDate>
+    <item>
+      <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
+      <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/troubleshoot-step-7</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
       <description>Learn about Intune reports and properties provided via Graph API.</description>
@@ -15,9 +21,9 @@
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
-      <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/troubleshoot-step-7</link>
+      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/protection-policies-step-2</link>
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -36,12 +42,6 @@
       <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
       <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/app-configuration-step-4</link>
-      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/protection-policies-step-2</link>
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -555,15 +555,15 @@
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
-      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-vulnerability-remediation-agent</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
       <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
+      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
+      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-vulnerability-remediation-agent</link>
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
@@ -579,15 +579,9 @@
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/win32</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create macOS system and kernel extensions with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn more about system extensions and kernel extensions for macOS devices. In Microsoft Intune, add or create a device configuration policy that configures kernel extensions. In the extension, you can allow user override, add a team identifier, and add a bundle and team identifier.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-kernel-extensions-macos</link>
+      <title>Use Shell Scripts on macOS Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create, assign, monitor, and troubleshoot shell scripts for macOS devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-shell-scripts-macos</link>
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
@@ -603,9 +597,15 @@
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-powershell-scripts-windows</link>
+      <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/win32</link>
+      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create macOS system and kernel extensions with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn more about system extensions and kernel extensions for macOS devices. In Microsoft Intune, add or create a device configuration policy that configures kernel extensions. In the extension, you can allow user override, add a team identifier, and add a bundle and team identifier.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-kernel-extensions-macos</link>
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
   </channel>
