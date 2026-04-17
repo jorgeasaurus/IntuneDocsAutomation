@@ -6,13 +6,13 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 17 Apr 2026 06:31:53 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 06:31:53 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 12:13:50 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:13:50 GMT</lastBuildDate>
     <item>
-      <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
-      <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/troubleshoot-step-7</link>
-      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+      <title>See device configuration policies with Microsoft Intune - Microsoft Intune</title>
+      <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/monitor-device-profile</link>
+      <pubDate>Fri, 17 Apr 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
@@ -21,9 +21,15 @@
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/protection-policies-step-2</link>
+      <title>Step 7. Troubleshoot Microsoft Edge for Business Data Security - Microsoft Intune</title>
+      <description>Step 7. Troubleshoot Microsoft Edge for Business corporate data security in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/troubleshoot-step-7</link>
+      <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/app-configuration-step-4</link>
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -33,15 +39,15 @@
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
-      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/threat-defense-step-3</link>
+      <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/protection-policies-step-2</link>
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Step 4. Create App Configuration Policies for Microsoft Edge for Business - Microsoft Intune</title>
-      <description>Step 4. Create app configuration policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/app-configuration-step-4</link>
+      <title>Step 3. Integrate Mobile Threat Defense for App Protection Policy - Microsoft Intune</title>
+      <description>Step 3. Integrate Mobile Threat Defense signals with Microsoft Edge for Business app protection policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/threat-defense-step-3</link>
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -79,6 +85,12 @@
       <description>Learn about applications and modern authentication (MSAL) using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/block-no-modern-auth</link>
       <pubDate>Thu, 16 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Manage devices, apps, and security with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
@@ -339,6 +351,12 @@
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
+      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-apple-settings</link>
+      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Common issues and resolutions with cloud-native endpoints - Microsoft Intune</title>
       <description>Learn more about the known and resolutions when using cloud-native endpoints. Use user-based authentication; don't use machine authentication. Existing group policy objects might not apply.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/cloud-native-endpoints-known-issues</link>
@@ -489,6 +507,12 @@
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
+      <title>Optional diagnostic data that is collected by Intune client apps - Microsoft Intune</title>
+      <description>Learn about the optional diagnostic data that Intune Client apps collect.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/optional-diagnostic-data</link>
+      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Remote Device Action: Lost Mode - Microsoft Intune</title>
       <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/lost-mode</link>
@@ -579,33 +603,9 @@
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Shell Scripts on macOS Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create, assign, monitor, and troubleshoot shell scripts for macOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-shell-scripts-macos</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure compliance policies with actions for noncompliance in Microsoft Intune - Microsoft Intune</title>
-      <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/configure-noncompliance-actions</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
-      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/security-settings-management</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/win32</link>
-      <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create macOS system and kernel extensions with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn more about system extensions and kernel extensions for macOS devices. In Microsoft Intune, add or create a device configuration policy that configures kernel extensions. In the extension, you can allow user override, add a team identifier, and add a bundle and team identifier.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-kernel-extensions-macos</link>
+      <title>Configuration Policies for Intune App SDK Managed Apps - Microsoft Intune</title>
+      <description>Learn how to configure policies for Intune App SDK managed apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-apps</link>
       <pubDate>Thu, 16 Apr 2026 16:28:00 GMT</pubDate>
     </item>
   </channel>
