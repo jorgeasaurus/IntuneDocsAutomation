@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 18 Apr 2026 06:21:24 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2026 06:21:24 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 12:06:35 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 12:06:35 GMT</lastBuildDate>
+    <item>
+      <title>Intune Data Platform Schema - Microsoft Intune</title>
+      <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
       <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
@@ -21,9 +27,57 @@
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-defender-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft HoloLens 2 advanced security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune advanced security baseline for Microsoft HoloLens 2. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-hololens2-advanced-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline version 112 and later, for the Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-edge-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft HoloLens 2 standard security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune standard security baseline for Microsoft HoloLens 2. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-hololens2-standard-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
+      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Windows 365 Cloud PC security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Windows 365 Cloud PC. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-365-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-edge-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure security baseline policies in Microsoft Intune - Microsoft Intune</title>
       <description>Deploy security baselines that establish a default and recommended security postures on Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/configure-baselines</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-office-settings</link>
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -552,60 +606,6 @@
       <title>RemoteWipe CSP fails to execute on Windows 10 client - Intune</title>
       <description>Fixes an issue in which RemoteWipe fails to execute on Windows 10 client and an Event ID 400 error is generated.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/remotewipe-fails-sending-dowipe-command</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can't update enrollment when enrolling devices in the Intune Company Portal - Intune</title>
-      <description>Fixes an issue in which you can't update enrollment when you enroll devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/cannot-update-enrollment</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>No password prompt after iOS email profile change in Intune - Intune</title>
-      <description>Fixes an issue in which there is no password prompt for iOS email profiles in Microsoft Intune after the password is changed.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/no-password-prompt-after-password-change</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common endpoint protection messages in Microsoft Intune - Intune</title>
-      <description>See common messages and possible solution when using and troubleshooting endpoint protection and Microsoft Defender for Endpoint in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/general/troubleshoot-endpoint-protection-in-microsoft-intune</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshooting the Intune Exchange Connector - Intune</title>
-      <description>Troubleshoot the configuration of and issues related to the Intune on-premises Exchange Connector.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-exchange-connector</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Block iOS Personal Hotspot policy in Intune doesn't work - Intune</title>
-      <description>Describes a default behavior in Microsoft Intune where an active device restriction policy to block iOS Personal Hotspot still allows the setting to be enabled.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/restriction-policy-not-blocking-personal-hotspot</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can't open a web app on iOS - Intune</title>
-      <description>Fixes an issue in which you can't open a web app on an iOS device with the 'Safari cannot open the page because the address is invalid' error message.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/invalid-address-open-web-app</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can't retrieve Graph API token when integrating Intune and Jamf Pro - Intune</title>
-      <description>Troubleshoot Graph API access token error message during the configuration of Microsoft Intune Integration in Jamf Pro.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/could-not-retrieve-access-token</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Error 0x80004003 signing in to the Intune NDES Connector UI - Intune</title>
-      <description>Troubleshoot an unexpected error and an 0x80004003 error during sign-in to the Intune Certificate NDES UI when you configure NDES.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/ndes-connector-signin-error-80004003</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Things to try before calling Intune support - Intune</title>
-      <description>Describes methods to try before you call Microsoft Intune support to resolve issues.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/get-support/before-you-call-intune-support</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
   </channel>
