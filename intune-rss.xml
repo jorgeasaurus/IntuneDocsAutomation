@@ -6,12 +6,18 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 19 Apr 2026 06:29:57 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2026 06:29:57 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 11:46:47 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 11:46:47 GMT</lastBuildDate>
     <item>
       <title>Intune Data Platform Schema - Microsoft Intune</title>
       <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
+      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -21,15 +27,27 @@
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Monitor security baselines deployed by Microsoft Intune - Microsoft Intune</title>
-      <description>Monitor device and per-setting results of security baselines you deploy with Microsoft Intune, and identify conflicts for devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/monitor-baselines</link>
+      <title>Configure security baseline policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Deploy security baselines that establish a default and recommended security postures on Windows devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/configure-baselines</link>
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
       <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-defender-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-office-settings</link>
+      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor security baselines deployed by Microsoft Intune - Microsoft Intune</title>
+      <description>Monitor device and per-setting results of security baselines you deploy with Microsoft Intune, and identify conflicts for devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/monitor-baselines</link>
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -51,12 +69,6 @@
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
-      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
-      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Settings list for the Windows 365 Cloud PC security baseline in Intune - Microsoft Intune</title>
       <description>View a list of the settings in the Microsoft Intune security baseline for Windows 365 Cloud PC. This list includes the default values for settings as found in the default configuration of the baseline.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-365-settings</link>
@@ -66,18 +78,6 @@
       <title>Settings list for the Microsoft Edge security baseline in Intune - Microsoft Intune</title>
       <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Edge browser. This list includes the default values for settings as found in the default configuration of the baseline.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-edge-settings</link>
-      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure security baseline policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Deploy security baselines that establish a default and recommended security postures on Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/configure-baselines</link>
-      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
-      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-office-settings</link>
       <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -99,15 +99,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot the Enrollment Status Page (ESP) - Intune</title>
-      <description>General troubleshooting guide for the Enrollment Status Page (ESP) for Windows Autopilot or OOBE for Microsoft Entra join.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/understand-troubleshoot-esp</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Troubleshooting iOS/iPadOS device enrollment errors in Microsoft Intune - Intune</title>
       <description>Suggestions for troubleshooting some of the most common enrollment and sync token errors when enrolling iOS/iPadOS devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-ios-enrollment-errors</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot the Enrollment Status Page (ESP) - Intune</title>
+      <description>General troubleshooting guide for the Enrollment Status Page (ESP) for Windows Autopilot or OOBE for Microsoft Entra join.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/understand-troubleshoot-esp</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -126,12 +126,6 @@
       <title>Deploy OMA-URIs to target a CSP through Intune, and a comparison to on-premises - Intune</title>
       <description>This article describes the significance of CSPs, Open Mobile Alliance – Uniform Resources (OMA-URIs), and how custom mobile device management (MDM) policies are delivered to a Windows 10-based device with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/deploy-oma-uris-to-target-csp-via-intune</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Error and status codes in Microsoft Intune - Azure - Intune</title>
-      <description>See a list of the errors, status code, descriptions, and resolutions when using MDM managed devices, getting access to company resources, errors on iOS/iPadOS devices, and OMA response errors in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/general/troubleshoot-company-resource-access-problems</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -189,15 +183,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot Windows 10 Group Policy auto-enrollment in Microsoft Intune - Intune</title>
-      <description>Learn how to troubleshoot auto-enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-windows-auto-enrollment</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Troubleshoot and review Wi-Fi device configuration profiles in Intune - Intune</title>
       <description>Understand and troubleshoot Wi-Fi device configuration profile issues on Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Review logs, and see some common issues and possible resolutions.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-wi-fi-profiles</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Windows 10 Group Policy auto-enrollment in Microsoft Intune - Intune</title>
+      <description>Learn how to troubleshoot auto-enrollment.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-windows-auto-enrollment</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -231,6 +225,12 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>Support Tip - Understanding the flow behind deployment, delivery, and processing of a Win32 application through Intune - Intune</title>
+      <description>This article highlights and explains the flow that is associated with a Win32 app during its deployment, delivery, and processing through Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/develop-deliver-working-win32-app-via-intune</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>iOS or iPadOS devices won't check in with Microsoft Intune - Intune</title>
       <description>Resolves an issue where iOS/iPadOS devices are inactive or won't check in with Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/ios-devices-inactive</link>
@@ -249,15 +249,21 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>Troubleshooting Jamf Pro integration with Microsoft Intune - Intune</title>
+      <description>Suggestions for troubleshooting some of the most common problems when you integrate Jamf Pro for Mac devices, with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-jamf</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Troubleshoot Windows 10 devices that can't sync with Intune after enrollment - Intune</title>
       <description>Gives the resolution for when a Windows 10 device can't sync with Microsoft Intune after it's enrolled for two minutes to two days.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/cannot-sync-windows-10-devices</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshooting Jamf Pro integration with Microsoft Intune - Intune</title>
-      <description>Suggestions for troubleshooting some of the most common problems when you integrate Jamf Pro for Mac devices, with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-jamf</link>
+      <title>Troubleshoot Android Enterprise device enrollment in Microsoft Intune - Intune</title>
+      <description>Suggestions for troubleshooting some of the most common problems when you enroll Android devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-android-enrollment</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -273,12 +279,6 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot Android Enterprise device enrollment in Microsoft Intune - Intune</title>
-      <description>Suggestions for troubleshooting some of the most common problems when you enroll Android devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-android-enrollment</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Secure boot enabled Windows 10 device shows Not Compliant in Intune - Intune</title>
       <description>Describes a behavior that a Windows 10 device that has secure boot enabled is displayed as Not Compliant in Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/secure-boot-enabled-device-shows-not-compliant</link>
@@ -291,21 +291,21 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshooting Intune and Configuration Manager co-management workloads - Intune</title>
-      <description>Helps you understand and troubleshoot issues that you may encounter when you configure workloads in an Intune and Configuration Manager co-management environment.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-workloads</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows user is not authorized to enroll in Intune - Intune</title>
       <description>Troubleshooting guidance for when a user cannot enroll a Windows device in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/windows-user-cannot-enroll</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
-      <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
+      <title>Troubleshoot Intune Conditional Access - Intune</title>
+      <description>What to do when your users fail to get access to resources through Intune Conditional Access.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-conditional-access</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Intune and Configuration Manager co-management workloads - Intune</title>
+      <description>Helps you understand and troubleshoot issues that you may encounter when you configure workloads in an Intune and Configuration Manager co-management environment.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-workloads</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -315,9 +315,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot Intune Conditional Access - Intune</title>
-      <description>What to do when your users fail to get access to resources through Intune Conditional Access.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-conditional-access</link>
+      <title>Keychain error -25244 when enrolling macOS devices in Intune - Intune</title>
+      <description>Describes an issue in which you can't enroll a macOS device in Microsoft Intune because of stale or corrupted keychain entries.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/keychain-error-enrolling-macos-devices</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
+      <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -345,15 +351,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to configure Android enterprise devices in Microsoft Intune - Intune</title>
-      <description>This guide describes how to configure Android enterprise devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/configure-android-enterprise-devices-intune</link>
+      <title>Troubleshoot delivery of Simple Certificate Enrollment Protocol (SCEP) certificates - Intune</title>
+      <description>Troubleshoot the delivery of a certificate to a device from the CA when using SCEP certificate profiles with Intune to deploy certificates.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-delivery</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>SCEP certificate request fails during verification - Intune</title>
-      <description>Fixes an issue in which the SCEP certificate request fails during the verification phase on the certificate registration point.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/scep-certificate-request-fails</link>
+      <title>How to configure Android enterprise devices in Microsoft Intune - Intune</title>
+      <description>This guide describes how to configure Android enterprise devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/configure-android-enterprise-devices-intune</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -363,15 +369,21 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>SCEP certificate request fails during verification - Intune</title>
+      <description>Fixes an issue in which the SCEP certificate request fails during the verification phase on the certificate registration point.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/scep-certificate-request-fails</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Troubleshoot VPN profile issues - Intune</title>
       <description>Understand and troubleshoot VPN profile issues on Android, iOS, and Windows devices in Microsoft Intune. Review logs and see some common issues and resolutions.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-vpn-profiles</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot Managed Google Play apps on Intune-managed devices - Intune</title>
-      <description>Troubleshoot common issues with Managed Google Play for Android Enterprise devices enrolled in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/troubleshoot-google-apps</link>
+      <title>Troubleshoot the NDES policy module that installs the Intune Certificate Connector - Intune</title>
+      <description>Troubleshooting the operation of the Network Device Enrollment Service (NDES) policy module when the module processes a certificate request when you use SCEP certificate profiles to deploy certificates with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-ndes-policy-module</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -381,9 +393,9 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot the NDES policy module that installs the Intune Certificate Connector - Intune</title>
-      <description>Troubleshooting the operation of the Network Device Enrollment Service (NDES) policy module when the module processes a certificate request when you use SCEP certificate profiles to deploy certificates with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-ndes-policy-module</link>
+      <title>Troubleshoot Managed Google Play apps on Intune-managed devices - Intune</title>
+      <description>Troubleshoot common issues with Managed Google Play for Android Enterprise devices enrolled in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/troubleshoot-google-apps</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -396,12 +408,6 @@
       <title>Troubleshoot Microsoft Entra device registration and Windows Autopilot - Intune</title>
       <description>Provides tips for troubleshooting Microsoft Entra device registration and Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/azure-ad-device-registration-autopilot</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot Windows 10 Intune auto-enrollment error 80180002b - Intune</title>
-      <description>Fixes an issue in which Windows 10 Group Policy-based auto-enrollment to Microsoft Intune fails with the error code 0x80180002b in Event Viewer.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/windows10-enroll-error-80180002b</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -420,6 +426,12 @@
       <title>Common issues when using Intune app protection policies to control data transfer - Intune</title>
       <description>Learn how to diagnose and troubleshoot some common issues and misconfigurations when using Microsoft Intune app protection policies (APP) to control data transfer.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-protection-policies/data-transfer-scenarios</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot Windows 10 Intune auto-enrollment error 80180002b - Intune</title>
+      <description>Fixes an issue in which Windows 10 Group Policy-based auto-enrollment to Microsoft Intune fails with the error code 0x80180002b in Event Viewer.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/windows10-enroll-error-80180002b</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -465,15 +477,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot HTTP 500 error on SCEP requests in Intune - Intune</title>
-      <description>Fixes an issue in which the certificate registration point (CRP) application pool returns HTTP 500 error messages and the request can't be verified.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/certificateregistrationsvc-verify-request-error</link>
+      <title>How to remove duplicate mobile device management objects in Microsoft Entra ID - Intune</title>
+      <description>Describes how to remove duplicate mobile device management objects in Microsoft Entra ID that are not automatically removed.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/remove-duplicate-mobile-device-management</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to remove a disabled Microsoft Entra user's device from Intune - Intune</title>
-      <description>Fixes a problem in which a device becomes orphaned/unidentifiable if its owner is removed from Microsoft Entra ID before the device is removed from Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/orphaned-device-upn-shown-as-none</link>
+      <title>Troubleshoot HTTP 500 error on SCEP requests in Intune - Intune</title>
+      <description>Fixes an issue in which the certificate registration point (CRP) application pool returns HTTP 500 error messages and the request can't be verified.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/certificateregistrationsvc-verify-request-error</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -483,27 +495,39 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Your organization removed Outlook app data for Android - Intune</title>
-      <description>Describes an issue in which you receive the Your organization has removed its data associated with this app error message when you open the Outlook for Android app that's managed by Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/removed-data-associated-with-app-error</link>
+      <title>SCEP deployment to Windows 10 devices fails after CA renewal - Intune</title>
+      <description>Describes an issue in which SCEP certificates can't be deployed to Windows 10 devices after you renew the CA certificate.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/scep-deployment-to-win10-devices-fails</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to remove duplicate mobile device management objects in Microsoft Entra ID - Intune</title>
-      <description>Describes how to remove duplicate mobile device management objects in Microsoft Entra ID that are not automatically removed.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/remove-duplicate-mobile-device-management</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 devices show incorrect compliance status in Intune - Intune</title>
-      <description>Describes an issue in which Windows 10 devices that have firewall enabled show an incorrect compliance status in Microsoft Intune because of a known issue in Windows 10.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/win10-devices-show-incorrect-compliance-status</link>
+      <title>How to remove a disabled Microsoft Entra user's device from Intune - Intune</title>
+      <description>Fixes a problem in which a device becomes orphaned/unidentifiable if its owner is removed from Microsoft Entra ID before the device is removed from Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/orphaned-device-upn-shown-as-none</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
       <title>Users can't log on to Windows 10 or Windows 11 computers with multi-app kiosk profile assigned - Intune</title>
       <description>Explains why a user can't log on to a Microsoft Entra joined Windows 10 or Windows 11 computer if a multi-app kiosk profile is assigned.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/users-cannot-logon-windows-multi-app-kiosk</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your organization removed Outlook app data for Android - Intune</title>
+      <description>Describes an issue in which you receive the Your organization has removed its data associated with this app error message when you open the Outlook for Android app that's managed by Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/removed-data-associated-with-app-error</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot error when you sign in to Intune Connector for Active Directory - Intune</title>
+      <description>Fixes an unexpected error problem that occurs when you sign in to Intune Connector for Active Directory.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/intune-connector-signin-unexpected-error</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 devices show incorrect compliance status in Intune - Intune</title>
+      <description>Describes an issue in which Windows 10 devices that have firewall enabled show an incorrect compliance status in Microsoft Intune because of a known issue in Windows 10.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/win10-devices-show-incorrect-compliance-status</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -519,18 +543,6 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot error when you sign in to Intune Connector for Active Directory - Intune</title>
-      <description>Fixes an unexpected error problem that occurs when you sign in to Intune Connector for Active Directory.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/intune-connector-signin-unexpected-error</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple ADE devices don't start auto-enrollment in Intune - Intune</title>
-      <description>Describes an issue in which Microsoft Intune enrollment doesn't automatically start on Apple Automated Device Enrollment (ADE) devices when you turn on the devices.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/apple-dep-device-fails-auto-enrollment</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft 365 apps for macOS close and reinstall without notification - Intune</title>
       <description>Microsoft 365 apps that are deployed to macOS devices by using Intune close and reinstall without notification.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/no-notification-microsoft365-apps-macos-reinstall</link>
@@ -543,21 +555,33 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>Apple ADE devices don't start auto-enrollment in Intune - Intune</title>
+      <description>Describes an issue in which Microsoft Intune enrollment doesn't automatically start on Apple Automated Device Enrollment (ADE) devices when you turn on the devices.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/apple-dep-device-fails-auto-enrollment</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Intune iOS SCEP failure - no GetCACaps request generated in IIS logs - Intune</title>
       <description>Troubleshoot SCEP/NDES failures on iOS devices when the IIS logs show that no GetCACaps request is generated.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/ios-scep-failure-no-getcacaps</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>403 Forbidden error for Intune objects in Graph Explorer - Intune</title>
-      <description>Troubleshoot and resolve a 403 Forbidden error when running queries in Graph Explorer to inspect or modify Microsoft Intune objects.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/general/403-error-graph-explorer-query</link>
+      <title>Insufficient permissions to update an application in Intune - Intune</title>
+      <description>Helps resolve an issue in which you can't save an application in Microsoft Intune when you have a custom Intune role assigned.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/save-application-failed-error</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
       <title>Password expiration setting for Android devices in Intune doesn't work - Intune</title>
       <description>Describes an issue where the password expiration device restriction setting doesn't function as expected on Android devices that are enrolled in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/password-expiration-setting-not-working</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>403 Forbidden error for Intune objects in Graph Explorer - Intune</title>
+      <description>Troubleshoot and resolve a 403 Forbidden error when running queries in Graph Explorer to inspect or modify Microsoft Intune objects.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/general/403-error-graph-explorer-query</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -573,12 +597,6 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Insufficient permissions to update an application in Intune - Intune</title>
-      <description>Helps resolve an issue in which you can't save an application in Microsoft Intune when you have a custom Intune role assigned.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/save-application-failed-error</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Troubleshoot reporting for SCEP certificate deployment to devices with Microsoft Intune - Intune</title>
       <description>Troubleshoot the reporting by NDES and the Intune Certificate Connector about a successful deployment of certificates that were provisioned with SCEP certificate profiles.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-reporting</link>
@@ -588,24 +606,6 @@
       <title>Windows 10 feature updates not offered on Intune-managed devices - Intune</title>
       <description>Helps fix error 80070426 where feature updates are never offered on Microsoft Intune-managed Windows 10 devices that run Windows 10 version 1709 or later.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/windows-feature-updates-never-offered</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android device ownership changed from Personal to Corporate - Intune</title>
-      <description>Describes an issue in which the ownership of an Android Enterprise work profile device is automatically changed to Corporate after an enrollment in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/device-ownership-changed-to-corporate</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot configuration service provider (CSP) custom settings - Intune</title>
-      <description>Troubleshooting guidance for CSP custom setting issues for Windows 10 computers enrolled in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-csp-custom-settings</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RemoteWipe CSP fails to execute on Windows 10 client - Intune</title>
-      <description>Fixes an issue in which RemoteWipe fails to execute on Windows 10 client and an Event ID 400 error is generated.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-management/remotewipe-fails-sending-dowipe-command</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
   </channel>
