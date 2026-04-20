@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 20 Apr 2026 05:52:48 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 05:52:48 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 12:18:30 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:18:30 GMT</lastBuildDate>
     <item>
       <title>Intune Data Platform Schema - Microsoft Intune</title>
       <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
@@ -129,6 +129,12 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>Error and status codes in Microsoft Intune - Azure - Intune</title>
+      <description>See a list of the errors, status code, descriptions, and resolutions when using MDM managed devices, getting access to company resources, errors on iOS/iPadOS devices, and OMA response errors in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/general/troubleshoot-company-resource-access-problems</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Troubleshoot managed device to Network Device Enrollment Service (NDES) communication in Microsoft Intune - Intune</title>
       <description>Troubleshoot managed device to NDES server communication when using Simple Certificate Enrollment Protocol (SCEP) certificate profiles to deploy certificates with Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-device-to-ndes</link>
@@ -195,9 +201,9 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device configuration profile error 2016281112 - Intune</title>
-      <description>Fixes a problem that occurs in a custom VPN profile after you create and assign a device configuration profile in the Microsoft Intune portal.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/device-configuration-profile-reports-error-2016281112</link>
+      <title>Troubleshoot restricting cut, copy, and paste between applications - Intune</title>
+      <description>General steps to help troubleshoot restricting the cut, copy, and paste feature between applications.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-protection-policies/troubleshoot-cut-copy-paste</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -207,9 +213,9 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot restricting cut, copy, and paste between applications - Intune</title>
-      <description>General steps to help troubleshoot restricting the cut, copy, and paste feature between applications.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-protection-policies/troubleshoot-cut-copy-paste</link>
+      <title>Device configuration profile error 2016281112 - Intune</title>
+      <description>Fixes a problem that occurs in a custom VPN profile after you create and assign a device configuration profile in the Microsoft Intune portal.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/device-configuration-profile-reports-error-2016281112</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -222,12 +228,6 @@
       <title>Troubleshoot deployment of Simple Certificate Enrollment Protocol (SCEP) certificate profiles to devices with Microsoft Intune - Intune</title>
       <description>Troubleshoot sending a SCEP certificate profile to a device with Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-profile-deployment</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Support Tip - Understanding the flow behind deployment, delivery, and processing of a Win32 application through Intune - Intune</title>
-      <description>This article highlights and explains the flow that is associated with a Win32 app during its deployment, delivery, and processing through Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/develop-deliver-working-win32-app-via-intune</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -309,12 +309,6 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshooting Win32 app installations with Intune - Intune</title>
-      <description>Troubleshooting guidance for Win32 app installation issues and failures using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/troubleshoot-win32-app-install</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Keychain error -25244 when enrolling macOS devices in Intune - Intune</title>
       <description>Describes an issue in which you can't enroll a macOS device in Microsoft Intune because of stale or corrupted keychain entries.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/keychain-error-enrolling-macos-devices</link>
@@ -327,15 +321,21 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Error -2016281112 deploying password policy in Intune - Intune</title>
-      <description>Describes error -2016281112 when you deploy a password policy in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/error-deploying-password-policy</link>
+      <title>Troubleshooting Win32 app installations with Intune - Intune</title>
+      <description>Troubleshooting guidance for Win32 app installation issues and failures using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/troubleshoot-win32-app-install</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
       <title>You don't have permissions to enroll a Windows device in Intune - Intune</title>
       <description>Troubleshoot when you don't have the right privileges to enroll a Windows device in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/no-permission-to-enroll-windows-devices</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Error -2016281112 deploying password policy in Intune - Intune</title>
+      <description>Describes error -2016281112 when you deploy a password policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/error-deploying-password-policy</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -519,15 +519,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot error when you sign in to Intune Connector for Active Directory - Intune</title>
-      <description>Fixes an unexpected error problem that occurs when you sign in to Intune Connector for Active Directory.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/intune-connector-signin-unexpected-error</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows 10 devices show incorrect compliance status in Intune - Intune</title>
       <description>Describes an issue in which Windows 10 devices that have firewall enabled show an incorrect compliance status in Microsoft Intune because of a known issue in Windows 10.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/win10-devices-show-incorrect-compliance-status</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot error when you sign in to Intune Connector for Active Directory - Intune</title>
+      <description>Fixes an unexpected error problem that occurs when you sign in to Intune Connector for Active Directory.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/intune-connector-signin-unexpected-error</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -543,15 +543,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 365 apps for macOS close and reinstall without notification - Intune</title>
-      <description>Microsoft 365 apps that are deployed to macOS devices by using Intune close and reinstall without notification.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/no-notification-microsoft365-apps-macos-reinstall</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Connectivity issues when root certificate isn't updated - Intune</title>
       <description>To fix connectivity issues, install the latest root certificate updates to make sure that the client computer is up to date and secure.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/fix-connectivity-issues</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 apps for macOS close and reinstall without notification - Intune</title>
+      <description>Microsoft 365 apps that are deployed to macOS devices by using Intune close and reinstall without notification.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/no-notification-microsoft365-apps-macos-reinstall</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -597,15 +597,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot reporting for SCEP certificate deployment to devices with Microsoft Intune - Intune</title>
-      <description>Troubleshoot the reporting by NDES and the Intune Certificate Connector about a successful deployment of certificates that were provisioned with SCEP certificate profiles.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-reporting</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows 10 feature updates not offered on Intune-managed devices - Intune</title>
       <description>Helps fix error 80070426 where feature updates are never offered on Microsoft Intune-managed Windows 10 devices that run Windows 10 version 1709 or later.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/windows-feature-updates-never-offered</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot reporting for SCEP certificate deployment to devices with Microsoft Intune - Intune</title>
+      <description>Troubleshoot the reporting by NDES and the Intune Certificate Connector about a successful deployment of certificates that were provisioned with SCEP certificate profiles.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-reporting</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
   </channel>
