@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 20 Apr 2026 12:18:30 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 12:18:30 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 17:22:42 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:22:42 GMT</lastBuildDate>
+    <item>
+      <title>Remote Device Action: Collect Diagnostics - Microsoft Intune</title>
+      <description>Learn how to collect diagnostics with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/collect-diagnostics</link>
+      <pubDate>Mon, 20 Apr 2026 11:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>Intune Data Platform Schema - Microsoft Intune</title>
       <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
@@ -543,15 +549,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Connectivity issues when root certificate isn't updated - Intune</title>
-      <description>To fix connectivity issues, install the latest root certificate updates to make sure that the client computer is up to date and secure.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/fix-connectivity-issues</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft 365 apps for macOS close and reinstall without notification - Intune</title>
       <description>Microsoft 365 apps that are deployed to macOS devices by using Intune close and reinstall without notification.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/no-notification-microsoft365-apps-macos-reinstall</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Connectivity issues when root certificate isn't updated - Intune</title>
+      <description>To fix connectivity issues, install the latest root certificate updates to make sure that the client computer is up to date and secure.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/fix-connectivity-issues</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Windows 10 feature updates not offered on Intune-managed devices - Intune</title>
       <description>Helps fix error 80070426 where feature updates are never offered on Microsoft Intune-managed Windows 10 devices that run Windows 10 version 1709 or later.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/windows-feature-updates-never-offered</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot reporting for SCEP certificate deployment to devices with Microsoft Intune - Intune</title>
-      <description>Troubleshoot the reporting by NDES and the Intune Certificate Connector about a successful deployment of certificates that were provisioned with SCEP certificate profiles.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-reporting</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
   </channel>
