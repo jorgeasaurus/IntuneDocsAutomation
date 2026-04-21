@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 21 Apr 2026 06:22:50 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2026 06:22:50 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 12:00:55 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:00:55 GMT</lastBuildDate>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -63,6 +63,12 @@
       <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Kiosk settings for Windows and Holographic devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure your Windows 10/11 and Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-kiosk</link>
+      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
       <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-migration</link>
@@ -90,12 +96,6 @@
       <title>Get started with frontline worker (FLW) device management - Microsoft Intune</title>
       <description>Learn how to manage frontline worker devices using Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Get guidance on device use and Intune features built for FLW, like Remote Help. Also, learn about Microsoft Entra shared device mode (SDM) for FLW.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kiosk settings for Windows and Holographic devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Configure your Windows 10/11 and Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-kiosk</link>
       <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <title>Intune Data Platform Schema - Microsoft Intune</title>
       <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
-      <pubDate>Fri, 17 Apr 2026 22:33:00 GMT</pubDate>
+      <pubDate>Mon, 20 Apr 2026 11:49:00 GMT</pubDate>
     </item>
     <item>
       <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
@@ -441,15 +441,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshooting BitLocker with the Intune encryption report - Intune</title>
-      <description>How to troubleshoot encryption failures using the Intune encryption report from the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-bitlocker-admin-center</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Windows user is not authorized to enroll in Intune - Intune</title>
       <description>Troubleshooting guidance for when a user cannot enroll a Windows device in Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/windows-user-cannot-enroll</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting BitLocker with the Intune encryption report - Intune</title>
+      <description>How to troubleshoot encryption failures using the Intune encryption report from the Microsoft Intune admin center.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/troubleshoot-bitlocker-admin-center</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -462,12 +462,6 @@
       <title>Troubleshooting Intune and Configuration Manager co-management workloads - Intune</title>
       <description>Helps you understand and troubleshoot issues that you may encounter when you configure workloads in an Intune and Configuration Manager co-management environment.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-workloads</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keychain error -25244 when enrolling macOS devices in Intune - Intune</title>
-      <description>Describes an issue in which you can't enroll a macOS device in Microsoft Intune because of stale or corrupted keychain entries.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/keychain-error-enrolling-macos-devices</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -507,12 +501,6 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>Troubleshoot delivery of Simple Certificate Enrollment Protocol (SCEP) certificates - Intune</title>
-      <description>Troubleshoot the delivery of a certificate to a device from the CA when using SCEP certificate profiles with Intune to deploy certificates.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/troubleshoot-scep-certificate-delivery</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>How to configure Android enterprise devices in Microsoft Intune - Intune</title>
       <description>This guide describes how to configure Android enterprise devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/configure-android-enterprise-devices-intune</link>
@@ -528,12 +516,6 @@
       <title>SCEP certificate request fails during verification - Intune</title>
       <description>Fixes an issue in which the SCEP certificate request fails during the verification phase on the certificate registration point.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/scep-certificate-request-fails</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot VPN profile issues - Intune</title>
-      <description>Understand and troubleshoot VPN profile issues on Android, iOS, and Windows devices in Microsoft Intune. Review logs and see some common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-vpn-profiles</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -555,6 +537,12 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>Troubleshoot VPN profile issues - Intune</title>
+      <description>Understand and troubleshoot VPN profile issues on Android, iOS, and Windows devices in Microsoft Intune. Review logs and see some common issues and resolutions.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-vpn-profiles</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Troubleshoot when devices can't obtain SCEP certificates - Intune</title>
       <description>Helps resolve an issue when devices can't obtain SCEP certificates from the NDES server and return error 80094800 and Event ID 31.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/devices-receive-scep-certificates-error-0x80094800</link>
@@ -567,15 +555,15 @@
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>You can't assign SCEP certificates to devices in Intune - Intune</title>
-      <description>Fixes an issue in which you can't assign SCEP certificates to devices in Microsoft Intune after you renew an expired certificate.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/cannot-assign-scep-certificates</link>
-      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Troubleshoot data transfer and Intune app protection policies - Intune</title>
       <description>General steps to help troubleshoot when Microsoft Intune app protection policies (APP) to not control data transfer as expected.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-protection-policies/troubleshoot-data-transfer</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>You can't assign SCEP certificates to devices in Intune - Intune</title>
+      <description>Fixes an issue in which you can't assign SCEP certificates to devices in Microsoft Intune after you renew an expired certificate.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/certificates/cannot-assign-scep-certificates</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
     <item>
@@ -606,6 +594,18 @@
       <title>Managed Browser policy triggers 0x87D1FDE8 error in Intune - Intune</title>
       <description>Describes an issue in which you receive error 0x87D1FDE8 after you deploy a Managed Browser policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/managed-browser-policy-triggers-error-0x87d1fde8</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BitLocker-encrypted device displays as Not compliant - Intune</title>
+      <description>Describes an issue in which a BitLocker-encrypted Windows 10 device shows as Not compliant in Intune because BitLocker encryption takes a long time.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-protection/bitlocker-encrypted-device-not-compliant</link>
+      <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshoot common issues with email profiles in Microsoft Intune - Intune</title>
+      <description>See common issues and solutions to issues with email profiles in Microsoft Intune, including duplicate email profiles and errors on Samsung KNOX Standard Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-email-profiles-in-microsoft-intune</link>
       <pubDate>Fri, 17 Apr 2026 22:03:00 GMT</pubDate>
     </item>
   </channel>
