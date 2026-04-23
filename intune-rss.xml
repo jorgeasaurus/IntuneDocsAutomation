@@ -6,18 +6,12 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 22 Apr 2026 23:52:44 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 23:52:44 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 06:32:46 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:32:46 GMT</lastBuildDate>
     <item>
       <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
-      <pubDate>Wed, 22 Apr 2026 07:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
       <pubDate>Wed, 22 Apr 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
@@ -231,27 +225,27 @@
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up an iOS/iPadOS ADE token in Intune - Microsoft Intune</title>
-      <description>Create, renew, and delete Apple enrollment program tokens in Microsoft Intune for automated device enrollment on iOS/iPadOS.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-apple-token</link>
-      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Quick Scan - Microsoft Intune</title>
       <description>Learn how to initiate on demand Microsoft Defender quick scan with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/quick-scan</link>
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
+      <title>Set up an iOS/iPadOS ADE token in Intune - Microsoft Intune</title>
+      <description>Create, renew, and delete Apple enrollment program tokens in Microsoft Intune for automated device enrollment on iOS/iPadOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-apple-token</link>
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
       <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
+      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -405,15 +399,15 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to Add macOS Line-of-Business Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about how to add macOS line-of-business (LOB) apps to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-macos</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Monitor App Information and Assignments - Microsoft Intune</title>
       <description>After you assign an app to users or devices, use this information to help you monitor the app's status.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/monitor-assignments</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Add macOS Line-of-Business Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add macOS line-of-business (LOB) apps to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-macos</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -495,12 +489,6 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Volume-Purchased iOS/iPadOS eBooks - Microsoft Intune</title>
-      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-ebooks-ios</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Move Your Intune Data Warehouse Account Data - Microsoft Intune</title>
       <description>Understand how to back up your Intune Data Warehouse data when moving your account.</description>
       <link>https://learn.microsoft.com/en-us/intune/developer/data-warehouse/move-account-data</link>
@@ -510,6 +498,12 @@
       <title>Join your cloud-native endpoints to Microsoft Entra - Microsoft Intune</title>
       <description>When moving to or using cloud-native endpoints, use Microsoft Entra joined endpoints. When your endpoints are joined to Microsoft Entra, you can use Windows Autopilot to provision or get devices ready for organization use. Learn more about the benefits to IT admins and end-users.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/entra-join-types</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Volume-Purchased iOS/iPadOS eBooks - Microsoft Intune</title>
+      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-ebooks-ios</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -547,6 +541,12 @@
       <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/help-desk-operators</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Mon, 20 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
