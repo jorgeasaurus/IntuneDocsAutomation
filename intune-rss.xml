@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 24 Apr 2026 06:28:05 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 06:28:05 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 11:32:41 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:32:41 GMT</lastBuildDate>
     <item>
       <title>Step 2. Create App Protection Policies for Microsoft Edge for Business - Microsoft Intune</title>
       <description>Step 2. Create app protection policies for Microsoft Edge for Business across Windows, Android, and iOS platforms.</description>
@@ -19,6 +19,12 @@
       <description>Learn how you can use Microsoft Intune to install Microsoft 365 apps on Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-365-windows</link>
       <pubDate>Thu, 23 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Platform Schema - Microsoft Intune</title>
+      <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
+      <pubDate>Thu, 23 Apr 2026 12:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
@@ -261,15 +267,15 @@
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
-      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
       <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
+      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
       <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-migration</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage and secure devices overview - Microsoft Intune</title>
-      <description>Get an overview of the concepts and features you should know when managing devices that access organization resources in Microsoft Intune. You can manage new and existing devices, including BYOD personal devices, check health compliance and view reports, configure device features, and secure devices using mobile threat solutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/manage-devices</link>
       <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
