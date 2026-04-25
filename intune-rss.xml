@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 25 Apr 2026 12:08:19 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 12:08:19 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 18:10:01 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 18:10:01 GMT</lastBuildDate>
     <item>
       <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
       <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
@@ -261,15 +261,15 @@
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Quick Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender quick scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/quick-scan</link>
-      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up an iOS/iPadOS ADE token in Intune - Microsoft Intune</title>
       <description>Create, renew, and delete Apple enrollment program tokens in Microsoft Intune for automated device enrollment on iOS/iPadOS.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-apple-token</link>
+      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Quick Scan - Microsoft Intune</title>
+      <description>Learn how to initiate on demand Microsoft Defender quick scan with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/quick-scan</link>
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -435,15 +435,15 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>How to Add macOS Line-of-Business Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about how to add macOS line-of-business (LOB) apps to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-macos</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Monitor App Information and Assignments - Microsoft Intune</title>
       <description>After you assign an app to users or devices, use this information to help you monitor the app's status.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/monitor-assignments</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Add macOS Line-of-Business Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add macOS line-of-business (LOB) apps to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-macos</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -489,15 +489,15 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intune shared device settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
-      <description>Learn the Intune settings you can use to control settings for the Classroom app on shared iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios-shared</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple School Manager Program enrollment for iOS/iPadOS devices - Microsoft Intune</title>
       <description>Learn how to set up Microsoft Intune with Apple School Manager for corporate-owned iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/school-manager</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune shared device settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
+      <description>Learn the Intune settings you can use to control settings for the Classroom app on shared iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios-shared</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -513,12 +513,6 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Volume-Purchased iOS/iPadOS eBooks - Microsoft Intune</title>
-      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-ebooks-ios</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Move Your Intune Data Warehouse Account Data - Microsoft Intune</title>
       <description>Understand how to back up your Intune Data Warehouse data when moving your account.</description>
       <link>https://learn.microsoft.com/en-us/intune/developer/data-warehouse/move-account-data</link>
@@ -528,6 +522,12 @@
       <title>Join your cloud-native endpoints to Microsoft Entra - Microsoft Intune</title>
       <description>When moving to or using cloud-native endpoints, use Microsoft Entra joined endpoints. When your endpoints are joined to Microsoft Entra, you can use Windows Autopilot to provision or get devices ready for organization use. Learn more about the benefits to IT admins and end-users.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/entra-join-types</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Volume-Purchased iOS/iPadOS eBooks - Microsoft Intune</title>
+      <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-ebooks-ios</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
