@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 26 Apr 2026 12:09:43 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2026 12:09:43 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 18:10:27 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 18:10:27 GMT</lastBuildDate>
     <item>
       <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
       <description>Learn how to create, approve, deploy, and pause Windows driver updates using Intune policies to keep Windows devices current and stable.</description>
@@ -183,6 +183,12 @@
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device Action: Rename Device - Microsoft Intune</title>
+      <description>Learn how to use the Rename device action in Microsoft Intune to update the device name shown in the admin center. Useful for standardizing naming conventions, managing shared devices, and improving inventory clarity.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rename</link>
+      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device Action: Lost Mode - Microsoft Intune</title>
       <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/lost-mode</link>
@@ -303,12 +309,6 @@
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Rename Device - Microsoft Intune</title>
-      <description>Learn how to use the Rename device action in Microsoft Intune to update the device name shown in the admin center. Useful for standardizing naming conventions, managing shared devices, and improving inventory clarity.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rename</link>
-      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up an iOS/iPadOS ADE token in Intune - Microsoft Intune</title>
       <description>Create, renew, and delete Apple enrollment program tokens in Microsoft Intune for automated device enrollment on iOS/iPadOS.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-apple-token</link>
@@ -417,12 +417,6 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
-      <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add Web Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding web apps (client-server applications) to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-web</link>
@@ -441,6 +435,12 @@
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
+      <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add an Android Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about how to add a Android line-of-business (LOB) app to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-android</link>
@@ -456,12 +456,6 @@
       <title>Create Quiet Time Policies in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to create quiet time policies for iOS/iPadOS and Android apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/configure-quiet-time</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Microsoft Store Apps to Intune (Legacy) - Microsoft Intune</title>
-      <description>Learn about adding Microsoft Store (legacy) apps to Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store-legacy</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -498,6 +492,12 @@
       <title>Manage Volume-Purchased iOS/iPadOS eBooks - Microsoft Intune</title>
       <description>Learn how to sync books you purchased in volume from the iOS store with Intune. You can then manage and track usage.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-ebooks-ios</link>
+      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Microsoft Store Apps to Intune (Legacy) - Microsoft Intune</title>
+      <description>Learn about adding Microsoft Store (legacy) apps to Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store-legacy</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
