@@ -6,8 +6,74 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 29 Apr 2026 06:12:54 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 06:12:54 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 11:47:26 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 11:47:26 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/overview</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux device enrollment guide for Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll Linux devices in Intune using the Intune app. Set an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/guide-linux</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device compliance policies for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use custom compliance settings for Linux and Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Manage custom compliance settings for Linux and Windows devices by using JSON files and discovery scripts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/custom-settings</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment guide for Linux device management - Microsoft Intune</title>
+      <description>Use our platform deployment guide to set up Linux device management in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/platform-guide-linux</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a JSON file for custom compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-json</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux device compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-linux-settings</link>
+      <pubDate>Wed, 29 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
+      <pubDate>Tue, 28 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/ref-zero-trust-security</link>
+      <pubDate>Tue, 28 Apr 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Monitor Microsoft Defender for Endpoint with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to monitor device compliance and onboarding status for Microsoft Defender for Endpoint with Microsoft Intune in the admin center.</description>
@@ -19,12 +85,6 @@
       <description>Learn how to collect diagnostics with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/collect-diagnostics</link>
       <pubDate>Tue, 28 Apr 2026 12:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Mon, 27 Apr 2026 21:44:00 GMT</pubDate>
     </item>
     <item>
       <title>Configure Windows Driver Update Policies - Microsoft Intune</title>
@@ -291,15 +351,15 @@
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Remove User - Microsoft Intune</title>
-      <description>Learn how to remove a user from a Shared iPad with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-user</link>
-      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Play Lost Mode Sound - Microsoft Intune</title>
       <description>Learn how to use the Play lost device sound action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/play-lost-mode-sound</link>
+      <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Remove User - Microsoft Intune</title>
+      <description>Learn how to remove a user from a Shared iPad with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-user</link>
       <pubDate>Tue, 21 Apr 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -547,66 +607,6 @@
       <description>Learn about how you can use Microsoft Intune to manage and monitor your use of volume-purchased apps and books from stores."</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-volume-purchased</link>
       <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Common issues and resolutions with cloud-native endpoints - Microsoft Intune</title>
-      <description>Learn more about the known and resolutions when using cloud-native endpoints. Use user-based authentication; don't use machine authentication. Existing group policy objects might not apply.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/troubleshoot</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Android Store Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add Android store apps from the Google Play store to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-store-android</link>
-      <pubDate>Tue, 21 Apr 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
-      <pubDate>Mon, 20 Apr 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Microsoft Intune - Microsoft Intune</title>
-      <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/what-is-intune</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Microsoft Intune licenses - Microsoft Intune</title>
-      <description>Assign licenses to users so they can enroll in Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/assign-licenses</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get support in the Microsoft Intune admin center - Microsoft Intune</title>
-      <description>Get online and telephone support for Microsoft Intune and other device management cloud services from within the Microsoft Intune admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/get-support-admin-center</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Unlicensed Administrator Access to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to allow administrators to access Microsoft Intune without an Intune license by enabling unlicensed admin access in the admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing/unlicensed-admins</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint management services and solutions at Microsoft - Microsoft Intune</title>
-      <description>Microsoft Intune is a family of on-premises products and cloud services. It includes Intune, Configuration Manager, co-management, Endpoint Analytics, Windows Autopilot, and the admin center to manage cloud devices and on on-premises.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoint-management</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
-      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
-      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
-      <pubDate>Mon, 20 Apr 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
