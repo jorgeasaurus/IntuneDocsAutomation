@@ -6,13 +6,37 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 05 May 2026 18:25:12 GMT</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 18:25:12 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 00:02:24 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 00:02:24 GMT</lastBuildDate>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
+      <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-recovery-lock-macos</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Storage and Processing Overview - Microsoft Intune</title>
+      <description>Learn how Microsoft Intune stores and processes personal data, including storage locations, data residency, and retention policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-storage-processing</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privacy and personal data in Intune - Microsoft Intune</title>
+      <description>Learn what personal data is collected and processed in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Apple account service access - Microsoft Intune</title>
+      <description>Use Apple access management settings to control how Apple accounts are used on organization‑owned devices managed by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-service-access</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
@@ -471,18 +495,6 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Deprovision - Microsoft Intune</title>
-      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
-      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
       <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-personal-work-profile</link>
@@ -492,6 +504,18 @@
       <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
+      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Deprovision - Microsoft Intune</title>
+      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/monitor-encryption</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/ref-zero-trust-security</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/manage-endpoint-security-devices</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
-      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/mam-android</link>
       <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
     </item>
   </channel>
