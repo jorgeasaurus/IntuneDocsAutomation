@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 06 May 2026 12:31:04 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 12:31:04 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 17:32:55 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 17:32:55 GMT</lastBuildDate>
+    <item>
+      <title>Device Query - Microsoft Intune</title>
+      <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
+      <pubDate>Wed, 06 May 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run KQL queries, analyze inventory trends, and start querying your managed fleet now.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
+      <pubDate>Wed, 06 May 2026 12:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -87,12 +99,6 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Query - Microsoft Intune</title>
-      <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Restrict USB Devices Using Settings Catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/restrict-usb</link>
@@ -132,12 +138,6 @@
       <title>Device Action: Retire - Microsoft Intune</title>
       <description>Learn how to retire device using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/retire</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Query for Multiple Devices - Microsoft Intune</title>
-      <description>Use device query for multiple devices in Microsoft Intune to run KQL queries, analyze inventory trends, and start querying your managed fleet now.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -501,6 +501,12 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
+      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
       <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-personal-work-profile</link>
@@ -510,12 +516,6 @@
       <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
-      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
