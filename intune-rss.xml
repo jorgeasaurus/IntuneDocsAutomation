@@ -6,8 +6,62 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 06 May 2026 17:32:55 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 17:32:55 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 00:18:14 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 00:18:14 GMT</lastBuildDate>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Unmanaged macOS PKG App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an unmanaged macOS PKG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-unmanaged-pkg-macos</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add a macOS DMG App to Microsoft Intune - Microsoft Intune</title>
+      <description>Add a macOS DMG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-dmg-macos</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an iOS/iPadOS Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an iOS/iPadOS line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-ios</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Add macOS Line-of-Business Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add macOS line-of-business (LOB) apps to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-macos</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Microsoft Intune Management Agent for macOS - Microsoft Intune</title>
+      <description>Learn about the Microsoft Intune management agent for macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/management-agent-macos</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Android Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add a Android line-of-business (LOB) app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-android</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom per-app VPN profile for Android DA in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a custom profile for per-app VPN profiles on Android device administrator with the Pulse Secure or Citrix VPN connection types in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-per-app-vpn-android</link>
+      <pubDate>Wed, 06 May 2026 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Device Query - Microsoft Intune</title>
       <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
@@ -19,6 +73,12 @@
       <description>Use device query for multiple devices in Microsoft Intune to run KQL queries, analyze inventory trends, and start querying your managed fleet now.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
       <pubDate>Wed, 06 May 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Explore guides, tutorials, and references for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
@@ -42,6 +102,12 @@
       <title>Privacy and personal data in Intune - Microsoft Intune</title>
       <description>Learn what personal data is collected and processed in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/privacy/</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Govern and administer - Microsoft Intune</title>
+      <description>Configure role-based access control, scope tags, audit logs, and privacy settings to govern and administer Microsoft Intune at scale.</description>
+      <link>https://learn.microsoft.com/en-us/intune/govern-administer</link>
       <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -495,18 +561,6 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Deprovision - Microsoft Intune</title>
-      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
-      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
       <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-personal-work-profile</link>
@@ -516,6 +570,18 @@
       <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Deprovision - Microsoft Intune</title>
+      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
+      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -531,12 +597,6 @@
       <pubDate>Mon, 04 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune documentation - Microsoft Intune</title>
-      <description>Explore guides, tutorials, and references for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device enrollment guide for Microsoft Intune - Microsoft Intune</title>
       <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/guide</link>
@@ -546,66 +606,6 @@
       <title>What is Microsoft Intune - Microsoft Intune</title>
       <description>Microsoft Intune manages users and devices, simplifies app management and automated policy deployment, and integrates with mobile threat defense. It connects to Managed Google Play, Apple tokens and certificates, and Teamviewer for remote assistance. Can use MDM or MAM to protect data, configure devices, and simplify access to company resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/what-is-intune</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Android and Android Enterprise corporate-owned work profile, personally owned devices with a work profile, fully managed, AOSP, and dedicated devices in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/guide</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/guide</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
-      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements. Also, learn how to deploy built-in and custom remediation scripts, and learn how to monitor your scripts.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/deploy-remediations</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Configure the Intune Company Portal Apps, Company Portal Website, and Intune App - Microsoft Intune</title>
-      <description>Learn how you can configure the Intune Company Portal apps, Company Portal website, and Intune app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-company-portal</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune Reports - Microsoft Intune</title>
-      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/overview</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Linux devices in Intune using the Intune app. Set an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/guide-linux</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
-      <description>Learn about Intune reports and properties provided via Graph API.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/ref-graph-available-reports</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage endpoint security policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-policies</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device security - Microsoft Intune</title>
-      <description>Manage device compliance, security baselines, Microsoft Defender integration, VPN tunnels, identity protection, and threat defense with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
       <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
     </item>
   </channel>
