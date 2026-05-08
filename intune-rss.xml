@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 07 May 2026 17:54:23 GMT</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 17:54:23 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 23:32:35 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 23:32:35 GMT</lastBuildDate>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
+      <pubDate>Thu, 07 May 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Unlicensed administrator access to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about unlicensed administrator access in Microsoft Intune, including default behavior for newer tenants and how to enable it for older tenants.</description>
@@ -567,15 +573,9 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
-      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-personal-work-profile</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
+      <title>Device Action: Deprovision - Microsoft Intune</title>
+      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -585,9 +585,15 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Deprovision - Microsoft Intune</title>
-      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
+      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
+      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-personal-work-profile</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Run remote actions, manage scripts and remediations, view device inventory, and export reports in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/</link>
       <pubDate>Mon, 04 May 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/guide</link>
-      <pubDate>Mon, 04 May 2026 17:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
