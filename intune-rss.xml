@@ -6,8 +6,56 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 13 May 2026 11:40:27 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 11:40:27 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 18:32:42 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 18:32:42 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Universal Print Policy Using Settings Catalog - Microsoft Intune</title>
+      <description>Learn how to configure a Universal Print policy using the settings catalog in Microsoft Intune to automatically install printers on managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-universal-print</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platform SSO scenarios for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-scenarios-macos</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Mobile Threat Defense compliance policies in Intune - Microsoft Intune</title>
+      <description>Create an Intune device compliance policy that uses your MTD partner threat levels to determine if a mobile device can access company resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/create-compliance-policy</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
+      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
@@ -31,12 +79,6 @@
       <description>Create device compliance policies for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
       <pubDate>Fri, 08 May 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
-      <pubDate>Thu, 07 May 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Unlicensed administrator access to Microsoft Intune - Microsoft Intune</title>
@@ -114,12 +156,6 @@
       <title>Microsoft Intune documentation - Microsoft Intune</title>
       <description>Explore guides, tutorials, and references for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/</link>
-      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
       <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -222,12 +258,6 @@
       <title>iOS/iPadOS direct enrollment - Apple Configurator-Setup Assistant - Microsoft Intune</title>
       <description>Use Apple Configurator to enroll corporate-owned iOS/iPadOS devices with Setup Assistant.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-configurator-ios</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Universal Print Policy Using Settings Catalog - Microsoft Intune</title>
-      <description>Learn how to configure a Universal Print policy using the settings catalog in Microsoft Intune to automatically install printers on managed Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-universal-print</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -576,36 +606,6 @@
       <title>Device Action: Rotate FileVault Recovery Key - Microsoft Intune</title>
       <description>Learn how to rotate the FileVault recovery key with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-filevault-recovery-key</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Quick Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender quick scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/quick-scan</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up just-in-time registration - Microsoft Intune</title>
-      <description>Set up JIT registration in Intune for devices enrolling via a supported Apple device enrollment or user enrollment method.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-just-in-time-registration</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Deprovision - Microsoft Intune</title>
-      <description>Learn how to deprovision a chromeOS device with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/deprovision</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
