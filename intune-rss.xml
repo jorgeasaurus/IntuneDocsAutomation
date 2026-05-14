@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 14 May 2026 06:54:40 GMT</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 06:54:40 GMT</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 11:52:56 GMT</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 11:52:56 GMT</lastBuildDate>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval</link>
+      <pubDate>Thu, 14 May 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Universal Print Policy Using Settings Catalog - Microsoft Intune</title>
+      <description>Learn how to configure a Universal Print policy using the settings catalog in Microsoft Intune to automatically install printers on managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-universal-print</link>
+      <pubDate>Thu, 14 May 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common tasks and features in the settings catalog - Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to configure common features. You can create a Universal Print policy, configure Microsoft Edge and Google Chrome web browsers, and use built in settings instead of plist files for macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/common-tasks</link>
+      <pubDate>Thu, 14 May 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
+      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/ref-endpoint-protection-settings-windows</link>
+      <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Microsoft Intune security baseline for Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Microsoft Defender for Endpoint and each settings default value.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-defender-settings</link>
+      <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/antivirus</link>
+      <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
       <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
@@ -33,15 +69,15 @@
       <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Universal Print Policy Using Settings Catalog - Microsoft Intune</title>
-      <description>Learn how to configure a Universal Print policy using the settings catalog in Microsoft Intune to automatically install printers on managed Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-universal-print</link>
-      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Platform SSO scenarios for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-scenarios-macos</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Open Source Project Supported Devices - Microsoft Intune</title>
+      <description>Lists Android open source project devices (AOSP) supported devices</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/aosp-supported-devices</link>
       <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -570,42 +606,6 @@
       <title>Device Action: Pause Config Refresh - Microsoft Intune</title>
       <description>Learn how to temporarily pause policy enforcement on Windows 11 devices using Intune's Pause Config Refresh action to support troubleshooting and manual changes.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/pause-config-refresh</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Play Lost Mode Sound - Microsoft Intune</title>
-      <description>Learn how to use the Play lost device sound action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/play-lost-mode-sound</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
-      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Remove User - Microsoft Intune</title>
-      <description>Learn how to remove a user from a Shared iPad with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-user</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Shutdown - Microsoft Intune</title>
-      <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/shutdown</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Rotate FileVault Recovery Key - Microsoft Intune</title>
-      <description>Learn how to rotate the FileVault recovery key with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-filevault-recovery-key</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
