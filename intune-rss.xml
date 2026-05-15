@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 15 May 2026 06:32:52 GMT</pubDate>
-    <lastBuildDate>Fri, 15 May 2026 06:32:52 GMT</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 11:55:58 GMT</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 11:55:58 GMT</lastBuildDate>
+    <item>
+      <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-apple</link>
+      <pubDate>Thu, 14 May 2026 17:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
@@ -600,12 +606,6 @@
       <title>Device Action: New Remote Assistance Session - Microsoft Intune</title>
       <description>Learn how to use the new remote assistance session action in Intune to offer support to your users.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remote-assist</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Pause Config Refresh - Microsoft Intune</title>
-      <description>Learn how to temporarily pause policy enforcement on Windows 11 devices using Intune's Pause Config Refresh action to support troubleshooting and manual changes.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/pause-config-refresh</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
