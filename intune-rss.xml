@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 18 May 2026 07:13:55 GMT</pubDate>
-    <lastBuildDate>Mon, 18 May 2026 07:13:55 GMT</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 12:52:41 GMT</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 12:52:41 GMT</lastBuildDate>
     <item>
       <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
@@ -45,6 +45,12 @@
       <pubDate>Thu, 14 May 2026 07:37:00 GMT</pubDate>
     </item>
     <item>
+      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
+      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
+      <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
       <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/ref-endpoint-protection-settings-windows</link>
@@ -60,12 +66,6 @@
       <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
       <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/antivirus</link>
-      <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
-      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
       <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -87,12 +87,6 @@
       <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
-      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Platform SSO scenarios for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-scenarios-macos</link>
@@ -108,6 +102,12 @@
       <title>Create Mobile Threat Defense compliance policies in Intune - Microsoft Intune</title>
       <description>Create an Intune device compliance policy that uses your MTD partner threat levels to determine if a mobile device can access company resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/create-compliance-policy</link>
+      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
       <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -213,15 +213,15 @@
       <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intune Data Storage and Processing Overview - Microsoft Intune</title>
-      <description>Learn how Microsoft Intune stores and processes personal data, including storage locations, data residency, and retention policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-storage-processing</link>
-      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Apple account service access - Microsoft Intune</title>
       <description>Use Apple access management settings to control how Apple accounts are used on organization‑owned devices managed by Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-service-access</link>
+      <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Storage and Processing Overview - Microsoft Intune</title>
+      <description>Learn how Microsoft Intune stores and processes personal data, including storage locations, data residency, and retention policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/privacy/data-handling/data-storage-processing</link>
       <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -237,15 +237,15 @@
       <pubDate>Tue, 05 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
-      <description>Use the device enrollment manager account to enroll devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-enrollment-manager</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
+      <description>Use the device enrollment manager account to enroll devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-enrollment-manager</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -279,6 +279,12 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Restrict USB Devices Using Settings Catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/restrict-usb</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Endpoint analytics overview - Microsoft Intune</title>
       <description>Discover how Microsoft Intune endpoint analytics provides actionable insights to optimize device performance, improve user experience, and enable proactive IT troubleshooting.</description>
       <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/</link>
@@ -288,12 +294,6 @@
       <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
       <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-fully-managed</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restrict USB Devices Using Settings Catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/restrict-usb</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -327,15 +327,15 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up account driven Apple User Enrollment - Microsoft Intune</title>
-      <description>Set up account driven Apple User Enrollment for personal devices enrolling in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-driven-user</link>
+      <title>Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
+      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, tvOS, visionOS, macOS, Windows, and ChromeOS devices. Learn about available device actions, prerequisites, and bulk actions for IT admins.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Update Microsoft 365 Apps With the Settings Catalog in Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/update-office</link>
+      <title>Set up account driven Apple User Enrollment - Microsoft Intune</title>
+      <description>Set up account driven Apple User Enrollment for personal devices enrolling in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-driven-user</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -345,9 +345,15 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
-      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, tvOS, visionOS, macOS, Windows, and ChromeOS devices. Learn about available device actions, prerequisites, and bulk actions for IT admins.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/</link>
+      <title>Set up enrollment time grouping - Microsoft Intune</title>
+      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update Microsoft 365 Apps With the Settings Catalog in Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/update-office</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -399,12 +405,6 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
       <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
       <link>https://learn.microsoft.com/en-us/intune/governance/configure-cleanup-rules</link>
@@ -414,6 +414,12 @@
       <title>Device Action: Remove Apps and Configuration - Microsoft Intune</title>
       <description>Learn how apps and configurations can be removed temporarily, then restored automatically or manually using the Remove apps and configuration device action with Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-apps-config</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Rename Device - Microsoft Intune</title>
+      <description>Learn how to use the Rename device action in Microsoft Intune to update the device name shown in the admin center. Useful for standardizing naming conventions, managing shared devices, and improving inventory clarity.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rename</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -435,6 +441,12 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
+      <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up Android (AOSP) device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
       <description>Set up Intune for corporate-owned userless devices built on the Android Open Source Project (AOSP) platform.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-userless</link>
@@ -447,15 +459,15 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned user-associated devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned user-associated devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-user-associated</link>
+      <title>Device Action: Sync - Microsoft Intune</title>
+      <description>Learn how to use the device sync action in Intune to apply policy, app, and configuration updates to managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/sync</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
-      <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
+      <title>Set up Android (AOSP) device management in Intune for corporate-owned user-associated devices - Microsoft Intune</title>
+      <description>Set up Intune for corporate-owned user-associated devices built on the Android Open Source Project (AOSP) platform.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-user-associated</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -468,12 +480,6 @@
       <title>Device Action: Send Custom Notification - Microsoft Intune</title>
       <description>Use Intune to create and send custom notifications to users of iOS/iPadOS and Android devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/send-custom-notification</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Sync - Microsoft Intune</title>
-      <description>Learn how to use the device sync action in Intune to apply policy, app, and configuration updates to managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/sync</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -495,9 +501,21 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Set up Apple device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
+      <description>Set up Intune for corporate-owned userless iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-corporate-userless</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device staging overview - Microsoft Intune</title>
       <description>An overview of device staging, Android Enterprise token types, and token management in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/device-staging</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure ChromeOS connector for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to connect the Google Admin Console to Microsoft Intune so that you can view and take action on enrolled ChromeOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/configure-chrome-enterprise-connector</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -507,21 +525,15 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Apple device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-corporate-userless</link>
+      <title>Create device limit restrictions - Microsoft Intune</title>
+      <description>Restrict the number of devices allowed to enroll in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-device-limit-restrictions</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Device Action: Update Cellular Data Plan - Microsoft Intune</title>
       <description>Learn how to update the cellular data plan for iOS/iPadOS devices that support eSIM with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/update-cellular-data-plan</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure ChromeOS connector for Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to connect the Google Admin Console to Microsoft Intune so that you can view and take action on enrolled ChromeOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/configure-chrome-enterprise-connector</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -534,12 +546,6 @@
       <title>Device Action: Restart - Microsoft Intune</title>
       <description>Learn how to restart managed devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/restart</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device limit restrictions - Microsoft Intune</title>
-      <description>Restrict the number of devices allowed to enroll in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-device-limit-restrictions</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -579,33 +585,27 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Move from Android device administrator to mobile application management - Microsoft Intune</title>
-      <description>Use Microsoft Intune to set up mobile application management, an alternative option to Android device administrator that focuses on app protection and doesn't require device enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/migrate-to-application-management</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Logout Current User - Microsoft Intune</title>
       <description>Learn how to use the logout the current user from a Shared iPad with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/logout-user</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
-      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
+      <title>Move from Android device administrator to mobile application management - Microsoft Intune</title>
+      <description>Use Microsoft Intune to set up mobile application management, an alternative option to Android device administrator that focuses on app protection and doesn't require device enrollment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/migrate-to-application-management</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Apple School Manager Program enrollment for iOS/iPadOS devices - Microsoft Intune</title>
       <description>Learn how to set up Microsoft Intune with Apple School Manager for corporate-owned iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/school-manager</link>
+      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
