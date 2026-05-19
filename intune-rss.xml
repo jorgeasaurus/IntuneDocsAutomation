@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 18 May 2026 17:32:50 GMT</pubDate>
-    <lastBuildDate>Mon, 18 May 2026 17:32:50 GMT</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 23:52:52 GMT</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 23:52:52 GMT</lastBuildDate>
+    <item>
+      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
+      <pubDate>Mon, 18 May 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prerequisites for the Certificate Connector for Microsoft Intune - Microsoft Intune</title>
+      <description>Review the software and network prerequisites for use of the Certificate Connector for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/certificates/connector/prerequisites</link>
+      <pubDate>Mon, 18 May 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/overview</link>
+      <pubDate>Mon, 18 May 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy endpoint detection and response policy with Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune endpoint security policies to configure and deploy Microsoft Defender for Endpoint EDR capabilities to Windows, macOS, and Linux devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/deploy-edr</link>
+      <pubDate>Mon, 18 May 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Certificate Connector for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the unified Certificate Connector for Microsoft Intune, which supports SCEP, PKCS, imported PKCS, and certificate revocation.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/certificates/connector/overview</link>
+      <pubDate>Mon, 18 May 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
+      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
+      <pubDate>Mon, 18 May 2026 17:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
@@ -45,12 +81,6 @@
       <pubDate>Thu, 14 May 2026 07:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
-      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
-      <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
       <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/ref-endpoint-protection-settings-windows</link>
@@ -72,12 +102,6 @@
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
-      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
       <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Education Windows device enrollment with provisioning packages - Microsoft Intune</title>
       <description>Learn about how to enroll Windows devices with provisioning packages using SUSPCs and Windows Configuration Designer.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/enroll-package</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Logout Current User - Microsoft Intune</title>
-      <description>Learn how to use the logout the current user from a Shared iPad with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/logout-user</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Move from Android device administrator to mobile application management - Microsoft Intune</title>
-      <description>Use Microsoft Intune to set up mobile application management, an alternative option to Android device administrator that focuses on app protection and doesn't require device enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/migrate-to-application-management</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple School Manager Program enrollment for iOS/iPadOS devices - Microsoft Intune</title>
-      <description>Learn how to set up Microsoft Intune with Apple School Manager for corporate-owned iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/school-manager</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
