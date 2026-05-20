@@ -6,8 +6,80 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 20 May 2026 12:45:01 GMT</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 12:45:01 GMT</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 18:42:34 GMT</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 18:42:34 GMT</lastBuildDate>
+    <item>
+      <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
+      <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/overview</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
+      <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-fully-managed</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/assign-device-profile</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
+      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Categorize devices into groups in Intune - Microsoft Intune</title>
+      <description>Categorize Intune-managed devices into groups for easier management in the admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Walkthrough the Microsoft Intune Admin Center - Microsoft Intune</title>
+      <description>In this tutorial, you will tour Microsoft Intune in the Microsoft Intune admin center to better understand how to accomplish tasks.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tutorial-admin-center-walkthrough</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
+      <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tenant-administration/add-groups</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment Filter Performance Tips for Intune - Microsoft Intune</title>
+      <description>Optimize Microsoft Intune performance with assignment filters. Learn to use virtual groups, reuse groups, and apply filters effectively. Improve policy deployment speed with incremental group changes, and use assignment filters to include and exclude.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/performance-recommendations</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
+      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/tutorial-group-policy-migration</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan Education device grouping and targeting - Microsoft Intune</title>
+      <description>Plan how you'll group devices and users and target policies and applications.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/grouping-and-targeting</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Questions with policies and profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Common questions, answers, and scenarios with device policies and profiles in Microsoft Intune. Learn more about profile changes not applying to users or devices, how long it takes for new policies to deploy, which settings apply when there are conflicts, what happens when you delete or remove a profile, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/troubleshoot-device-profiles</link>
+      <pubDate>Wed, 20 May 2026 17:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -333,12 +405,6 @@
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
-      <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-fully-managed</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
       <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-dedicated</link>
@@ -540,72 +606,6 @@
       <title>Device Action: Autopilot Reset - Microsoft Intune</title>
       <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/autopilot-reset</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Apple device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-corporate-userless</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device staging overview - Microsoft Intune</title>
-      <description>An overview of device staging, Android Enterprise token types, and token management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/device-staging</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure ChromeOS connector for Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to connect the Google Admin Console to Microsoft Intune so that you can view and take action on enrolled ChromeOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/configure-chrome-enterprise-connector</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: BitLocker Key Rotation - Microsoft Intune</title>
-      <description>Learn how to rotate the BitLocker recovery key with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-bitlocker-keys</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device limit restrictions - Microsoft Intune</title>
-      <description>Restrict the number of devices allowed to enroll in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-device-limit-restrictions</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Update Cellular Data Plan - Microsoft Intune</title>
-      <description>Learn how to update the cellular data plan for iOS/iPadOS devices that support eSIM with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/update-cellular-data-plan</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Scopes - Microsoft Intune</title>
-      <description>Learn how to use device scopes in Microsoft Intune with scope tags for custom device reporting and targeted insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Restart - Microsoft Intune</title>
-      <description>Learn how to restart managed devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/restart</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Remove Passcode - Microsoft Intune</title>
-      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Run Remediation - Microsoft Intune</title>
-      <description>Learn how to initiate on demand remediations with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/run-remediation</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
