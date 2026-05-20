@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 19 May 2026 17:54:02 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 17:54:02 GMT</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 00:26:24 GMT</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 00:26:24 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Tue, 19 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update Windows BIOS using configuration MDM policy - Microsoft Intune</title>
+      <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-bios-windows</link>
+      <pubDate>Tue, 19 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
+      <pubDate>Tue, 19 May 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Change Review Agent Overview - Microsoft Intune</title>
+      <description>Learn about the Change Review Agent in Microsoft Intune, its prerequisites, and how it works.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/agents/change-review-agent</link>
+      <pubDate>Tue, 19 May 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
@@ -97,12 +121,6 @@
       <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/antivirus</link>
       <pubDate>Wed, 13 May 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Wed, 13 May 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
       <title>In development - Microsoft Intune</title>
@@ -588,24 +606,6 @@
       <title>Device Action: Run Remediation - Microsoft Intune</title>
       <description>Learn how to initiate on demand remediations with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/run-remediation</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Rotate local admin password - Microsoft Intune</title>
-      <description>Learn how to rotate the local admin password on Windows and macOS devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-local-admin-password</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Rotate Recovery Lock Passcode - Microsoft Intune</title>
-      <description>Learn how to rotate the macOS Recovery Lock passcode with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-recovery-lock-passcode</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Education Windows device enrollment with provisioning packages - Microsoft Intune</title>
-      <description>Learn about how to enroll Windows devices with provisioning packages using SUSPCs and Windows Configuration Designer.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/enroll-package</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
