@@ -6,8 +6,170 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 20 May 2026 18:42:34 GMT</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 18:42:34 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 00:26:04 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 00:26:04 GMT</lastBuildDate>
+    <item>
+      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/overview</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third-party device compliance partners support in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/third-party-partners</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device compliance policies for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manually configure Jamf Pro integration with Microsoft Intune - Microsoft Intune</title>
+      <description>Manually configure Jamf Pro integration with Intune when you can't use the Jamf Cloud Connector.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/setup-jamf-manually</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Conditional Access with Microsoft Intune compliance policies - Microsoft Intune</title>
+      <description>Combine Conditional Access with Intune compliance policies to define the requirements that users and devices must meet before gaining access to your organization's resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/overview</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use custom compliance settings for Linux and Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Manage custom compliance settings for Linux and Windows devices by using JSON files and discovery scripts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/custom-settings</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scenarios for using Conditional Access with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Conditional Access is commonly used with Intune compliance policy for devices and apps</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/scenarios</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create discovery scripts for custom compliance policy in Microsoft Intune - Microsoft Intune</title>
+      <description>Create scripts for Linux or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use app-based Conditional Access policies with Intune - Microsoft Intune</title>
+      <description>Learn about using app-based Conditional Access policies with Microsoft Intune for both enrolled and unenrolled devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/app-based-policies</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Join your cloud-native endpoints to Microsoft Entra - Microsoft Intune</title>
+      <description>When moving to or using cloud-native endpoints, use Microsoft Entra joined endpoints. When your endpoints are joined to Microsoft Entra, you can use Windows Autopilot to provision or get devices ready for organization use. Learn more about the benefits to IT admins and end-users.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/entra-join-types</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Send Email Notifications to Noncompliant Devices - Microsoft Intune</title>
+      <description>Learn how to create notification templates and send email alerts to users with noncompliant devices in Microsoft Intune. Configure actions for noncompliance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-noncompliance-notification</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS device compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for macOS devices that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-macos-settings</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a JSON file for custom compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-json</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View the Android device administrator compliance settings for Microsoft Intune compliance policies - Microsoft Intune</title>
+      <description>View the device compliance settings that are available for Android device administrator devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-android-administrator-settings</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compliance for Windows Subsystem for Linux - Microsoft Intune</title>
+      <description>Evaluate WSL attributes on a host device for compliance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/configure-wsl</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android (AOSP) compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for Android (AOSP) that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-android-aosp-settings</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux device compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for Linux that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-linux-settings</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What are cloud-native Windows endpoints - Microsoft Intune</title>
+      <description>Learn more about cloud-native endpoints and what they are. See a list of benefits, and the effect on end users and IT administrators. Cloud-native endpoints help with remote workers and hybrid workers, and use Microsoft Intune to manage devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/overview</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Set up cloud-native Windows endpoints with Microsoft Intune - Microsoft Intune</title>
+      <description>Step-by-step tutorial to set up a cloud-native Windows endpoint - Microsoft Entra joined, Intune enrolled, secured, and deployed with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/tutorial-cloud-native-setup</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
+      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/planning-guide</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use on-premises services with cloud-native endpoints - Microsoft Intune</title>
+      <description>For cloud-native endpoints to access on-premises resources, such as file servers, printers, and web servers, use Windows integrated authentication (WIA) and Microsoft Entra Connect.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/on-premises-resources</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common issues and resolutions with cloud-native endpoints - Microsoft Intune</title>
+      <description>Learn more about the known and resolutions when using cloud-native endpoints. Use user-based authentication; don't use machine authentication. Existing group policy objects might not apply.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/troubleshoot</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Block Apps with No Modern Authentication on Intune - Microsoft Intune</title>
+      <description>Learn about applications and modern authentication (MSAL) using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/block-no-modern-auth</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage access to Exchange without device management - Microsoft Intune</title>
+      <description>Use Microsoft Intune to give employees access to their Microsoft 365 Exchange Online email without setting up a device management system.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/manage-exchange-access</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure compliance policies with actions for noncompliance in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices. Actions can remotely lock devices, send email or notifications to device users, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/configure-noncompliance-actions</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up device-based Conditional Access policies with Intune - Microsoft Intune</title>
+      <description>Configure a device-based Conditional Access policy that uses device compliance status from Intune device compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/device-based-policies</link>
+      <pubDate>Wed, 20 May 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
       <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
@@ -90,12 +252,6 @@
       <title>Update Windows BIOS using configuration MDM policy - Microsoft Intune</title>
       <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-bios-windows</link>
-      <pubDate>Tue, 19 May 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
       <pubDate>Tue, 19 May 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -241,12 +397,6 @@
       <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows</link>
       <pubDate>Mon, 11 May 2026 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Create device compliance policies for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
-      <pubDate>Fri, 08 May 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Unlicensed administrator access to Microsoft Intune - Microsoft Intune</title>
@@ -456,156 +606,6 @@
       <title>Set up enrollment time grouping - Microsoft Intune</title>
       <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Microsoft 365 Apps With the Settings Catalog in Intune - Microsoft Intune</title>
-      <description>Use settings catalog in Microsoft Intune to update Microsoft 365 apps to the latest version, and choose how frequently Office checks for updates. See the device registry keys that are updated when an Intune policy to Office update is applied.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/update-office</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Windows Backup for Organizations - Microsoft Intune</title>
-      <description>Enable Windows backup and restore in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/enable-backup-restore</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Endpoint Analytics - Microsoft Intune</title>
-      <description>Step-by-step guide to configure endpoint analytics in Microsoft Intune, enroll devices, and manage data collection policies for device insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/endpoint-analytics/configure</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Microsoft Edge policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or create settings using the settings catalog to configure Microsoft Edge on Windows and macOS devices. Using Microsoft Intune, you can configure group policy settings, and deploy these settings to Microsoft Edge users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-edge</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android Enterprise work profile for corporate owned devices - Microsoft Intune</title>
-      <description>Set up Android Enterprise work profile for corporate-owned devices enrolling in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-corporate-work-profile</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Fresh Start - Microsoft Intune</title>
-      <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/fresh-start</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up web based device enrollment - Microsoft Intune</title>
-      <description>Set up web-based device enrollment to manage user-owned iOS/iPadOS devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-web-based-ios</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Delete - Microsoft Intune</title>
-      <description>Learn how to delete devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/delete</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Require multifactor authentication for Intune device enrollment - Microsoft Intune</title>
-      <description>How to require multifactor authentication in Microsoft Entra ID for Intune device enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/configure-multifactor-authentication</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automatically Hide Devices With Cleanup Rules - Microsoft Intune</title>
-      <description>Intune's device cleanup rules offer a simple, automated way to ensure that only actively managed devices remain visible in the admin center. Learn more about device cleanup rules and how to configure them.</description>
-      <link>https://learn.microsoft.com/en-us/intune/governance/configure-cleanup-rules</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Remove Apps and Configuration - Microsoft Intune</title>
-      <description>Learn how apps and configurations can be removed temporarily, then restored automatically or manually using the Remove apps and configuration device action with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-apps-config</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Rename Device - Microsoft Intune</title>
-      <description>Learn how to use the Rename device action in Microsoft Intune to update the device name shown in the admin center. Useful for standardizing naming conventions, managing shared devices, and improving inventory clarity.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rename</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device platform restrictions - Microsoft Intune</title>
-      <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-platform-restrictions</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up user enrollment with Company Portal for iOS - Microsoft Intune</title>
-      <description>Set up the profile based Apple User Enrollment option for personal devices enrolling in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-user-company-portal</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Remote Lock - Microsoft Intune</title>
-      <description>Use the remote lock action in Microsoft Intune to lock a managed device that has a passcode or PIN.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remote-lock</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
-      <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-userless</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Reset Passcode - Microsoft Intune</title>
-      <description>Learn how to reset a passcode with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/reset-passcode</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Sync - Microsoft Intune</title>
-      <description>Learn how to use the device sync action in Intune to apply policy, app, and configuration updates to managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/sync</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned user-associated devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned user-associated devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-user-associated</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Lost Mode - Microsoft Intune</title>
-      <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/lost-mode</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Send Custom Notification - Microsoft Intune</title>
-      <description>Use Intune to create and send custom notifications to users of iOS/iPadOS and Android devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/send-custom-notification</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows enrollment attestation - Microsoft Intune</title>
-      <description>Find out how the Device attestation status report can help you and learn to use the Attest device action to ensure your devices are secure and reliable.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/attestation</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment notifications in Intune - Microsoft Intune</title>
-      <description>Set up enrollment notifications in Intune for employees or students.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-notifications</link>
-      <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Autopilot Reset - Microsoft Intune</title>
-      <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/autopilot-reset</link>
       <pubDate>Tue, 05 May 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
