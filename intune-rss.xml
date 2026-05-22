@@ -6,13 +6,19 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 22 May 2026 07:05:36 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 07:05:36 GMT</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 12:42:47 GMT</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 12:42:47 GMT</lastBuildDate>
     <item>
       <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/upgrade</link>
       <pubDate>Thu, 21 May 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Explore guides, tutorials, and references for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
@@ -309,6 +315,12 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Get Started With the Microsoft Intune App SDK - Microsoft Intune</title>
+      <description>Quickly enable your mobile app for mobile application management (MAM) with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/quickstart-integration</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Use the latest TeamViewer integration in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to use the latest TeamViewer integration in Microsoft Intune to initiate remote assistance sessions for managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/setup-teamviewer</link>
@@ -363,6 +375,12 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Frequently asked questions about MAM and app protection - Microsoft Intune</title>
+      <description>This article provides answers to some frequently asked questions on Intune mobile application management (MAM) and Intune app protection.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/mam-faq</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-zebra-lifeguard</link>
@@ -408,6 +426,12 @@
       <title>Assign a role to an Intune administrator - Microsoft Intune</title>
       <description>Learn how to assign a built-in or custom role to a user in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/assign-role</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
+      <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/ref-endpoint-protection-settings-windows</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
@@ -495,6 +519,12 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune App SDK for iOS Developer Guide - Plan the Integration - Microsoft Intune</title>
+      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Plan the integration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/ios-phase-1</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
       <link>https://learn.microsoft.com/en-us/intune/epm/troubleshoot-known-issues</link>
@@ -525,6 +555,12 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - Plan the Integration - Microsoft Intune</title>
+      <description>Plan the integration to incorporate Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/android-phase-1</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Understand App Protection Policy Delivery and Timing - Microsoft Intune</title>
       <description>Learn the different deployment windows for app protection policies to understand when changes should appear on your end user devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/policy-delivery-timing</link>
@@ -534,6 +570,12 @@
       <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
       <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/deploy-configuration-step-4</link>
+      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
+      <description>Learn how to improve your security posture with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/ref-zero-trust-security</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
@@ -564,48 +606,6 @@
       <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
       <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/mam-android</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune - Microsoft Intune</title>
-      <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/monitor-reports</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequently asked questions for Endpoint Privilege Management - Microsoft Intune</title>
-      <description>A list of frequently asked questions for customers deploying Microsoft Intune Endpoint Privilege Management</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/frequently-asked-questions</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Validate Your App Protection Policy Setup - Microsoft Intune</title>
-      <description>Learn how to test that your app protection policy is set up and working correctly in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/validate-policy-setup</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get started with frontline worker (FLW) device management - Microsoft Intune</title>
-      <description>Learn how to manage frontline worker devices using Android, iOS/iPadOS, and Windows devices in Microsoft Intune. Get guidance on device use and Intune features built for FLW, like Remote Help. Also, learn about Microsoft Entra shared device mode (SDM) for FLW.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Set up cloud-native Windows endpoints with Microsoft Intune - Microsoft Intune</title>
-      <description>Step-by-step tutorial to set up a cloud-native Windows endpoint - Microsoft Entra joined, Intune enrolled, secured, and deployed with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/tutorial-cloud-native-setup</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/overview</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
