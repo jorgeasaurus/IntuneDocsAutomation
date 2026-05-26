@@ -6,13 +6,109 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 26 May 2026 12:19:01 GMT</pubDate>
-    <lastBuildDate>Tue, 26 May 2026 12:19:01 GMT</lastBuildDate>
+    <pubDate>Tue, 26 May 2026 18:44:23 GMT</pubDate>
+    <lastBuildDate>Tue, 26 May 2026 18:44:23 GMT</lastBuildDate>
     <item>
       <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
       <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as a standalone capability.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
-      <pubDate>Fri, 22 May 2026 22:34:00 GMT</pubDate>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
+      <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-integration</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Install the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
+      <description>Install and configure Microsoft Tunnel Gateway on a Linux server to support Intune managed cloud-based devices in connecting to your on-premises infrastructure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/install</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure the Microsoft Managed Home Screen App - Microsoft Intune</title>
+      <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-home-screen</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy endpoint detection and response policy with Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune endpoint security policies to configure and deploy Microsoft Defender for Endpoint EDR capabilities to Windows, macOS, and Linux devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/deploy-edr</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/overview</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the Microsoft Tunnel Gateway, a VPN server for Intune that runs on Linux. With Microsoft Tunnel, cloud-based devices you manage with Intune can reach your on-premises infrastructure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/overview</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Wi-Fi Settings for Apple Devices in Intune - Microsoft Intune</title>
+      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wifi-settings-apple</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune cloud PKI fundamentals - Microsoft Intune</title>
+      <description>Describes fundamentals for Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/fundamentals</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment models for Microsoft Intune cloud PKI - Microsoft Intune</title>
+      <description>Describes the deployment options for Microsoft Intune cloud PKI.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/deployment-models</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender Vulnerability Management with Intune to create security tasks, track remediation, and reduce vulnerability exposure across managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/remediate-vulnerabilities</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/overview</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Defender for Endpoint Web protection on Android devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune policy to manage Microsoft Defender for Endpoint web protection settings on Android devices managed by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-web-protection-android</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Microsoft Tunnel VPN with Android devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
+      <description>Add support for Mobile Application Management (MAM) for Android to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/mam-android</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
+      <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/enable-connector</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Renew a Certificate Authority in Cloud PKI - Microsoft Intune</title>
+      <description>Learn how to renew a certificate authority (CA) in Microsoft Cloud PKI to maintain continuous certificate issuance.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/renew-ca</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Tutorial - Use Apple Business to enroll iOS/iPadOS devices in Intune - Microsoft Intune</title>
@@ -243,27 +339,9 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deploy endpoint detection and response policy with Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune endpoint security policies to configure and deploy Microsoft Defender for Endpoint EDR capabilities to Windows, macOS, and Linux devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/deploy-edr</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
-      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/overview</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
       <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
       <link>https://learn.microsoft.com/en-us/intune/epm/deployment-planning</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the Microsoft Tunnel Gateway, a VPN server for Intune that runs on Linux. With Microsoft Tunnel, cloud-based devices you manage with Intune can reach your on-premises infrastructure.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/overview</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
@@ -453,12 +531,6 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deployment guide for Linux device management - Microsoft Intune</title>
       <description>Use our platform deployment guide to set up Linux device management in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/platform-guide-linux</link>
@@ -534,78 +606,6 @@
       <title>How to use Microsoft Intune documentation - Microsoft Intune</title>
       <description>Learn how to search, provide feedback about, and contribute to Microsoft Intune product family documentation. This documentation also covers Configuration Manager, Intune, Endpoint analytics, and Windows Autopilot.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/use-docs</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anomalies Report for Proactive Device Issue Detection - Microsoft Intune</title>
-      <description>Use the anomalies report in Advanced Analytics to monitor device health, identify issues early, and prioritize fixes to improve endpoint reliability.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/anomalies</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/troubleshoot-known-issues</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for iOS Developer Guide - Plan the Integration - Microsoft Intune</title>
-      <description>The Microsoft Intune App SDK for iOS lets you incorporate Intune app protection policies (also known as MAM policies) into your native iOS app. Plan the integration.</description>
-      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/ios-phase-1</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Endpoint Privilege Management to transition users from administrator to standard user - Microsoft Intune</title>
-      <description>Understand the steps and phases for using Endpoint Privilege Management to transition users from administrators to standard users.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/tutorial-admin-to-standard-user</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - Plan the Integration - Microsoft Intune</title>
-      <description>Plan the integration to incorporate Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/android-phase-1</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure security, email, VPN, and Wi-Fi device configuration profiles - Microsoft Intune</title>
-      <description>Step 4 to deploy device configuration profiles as part of the minimum set of policies for your devices using Microsoft Intune. The starting point is to enable the firewall, install AV, scan for malware, install software updates, create a strong PIN policy, and create email, VPN, and Wi-Fi device configuration profiles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/deploy-configuration-step-4</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand App Protection Policy Delivery and Timing - Microsoft Intune</title>
-      <description>Learn the different deployment windows for app protection policies to understand when changes should appear on your end user devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/policy-delivery-timing</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Intune for increased security - Microsoft Intune</title>
-      <description>Learn how to improve your security posture with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/ref-zero-trust-security</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Tunnel VPN with iOS/iPad devices that don't enroll with Microsoft Intune - Microsoft Intune</title>
-      <description>Add support for Mobile Application Management (MAM) for iOS to the Microsoft Tunnel Gateway. Tunnel support for MAM expands access to your organizational resources for devices that can't or haven't enrolled with Microsoft Intune. Admins should use this article to create policies that support per-app VPN in line of business (LOB) apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/mam-ios</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Scopes - Microsoft Intune</title>
-      <description>Learn how to use device scopes in Microsoft Intune with scope tags for custom device reporting and targeted insights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-scopes</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure applications with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to configure applications with Microsoft Intune in preparation for device deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/configure-apps</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
