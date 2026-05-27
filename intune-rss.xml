@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 27 May 2026 12:52:40 GMT</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 12:52:40 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 18:12:43 GMT</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 18:12:43 GMT</lastBuildDate>
+    <item>
+      <title>Configure Defender for Endpoint web protection on Android devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune policy to manage Microsoft Defender for Endpoint web protection settings on Android devices managed by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-web-protection-android</link>
+      <pubDate>Wed, 27 May 2026 17:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
       <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as a standalone capability.</description>
@@ -18,6 +24,12 @@
       <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
       <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-integration</link>
+      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
       <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
     </item>
     <item>
@@ -81,15 +93,15 @@
       <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/overview</link>
+      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-android-settings</link>
       <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Defender for Endpoint Web protection on Android devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Intune policy to manage Microsoft Defender for Endpoint web protection settings on Android devices managed by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-web-protection-android</link>
+      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/overview</link>
       <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Manage Apple mobile devices and tokens in Intune - Microsoft Intune</title>
       <description>Sync devices, distribute devices, and re-enroll devices for Apple automated device enrollment on iOS/iPadOS in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-apple</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protection and configuration levels overview in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the different levels of protection and configuration in Microsoft Intune, including minimum, enhanced, and high levels. Understand the recommended policies for apps, compliance, and device configuration at each level to secure your organization's resources effectively.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/protection-configuration-levels</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to use Microsoft Intune documentation - Microsoft Intune</title>
-      <description>Learn how to search, provide feedback about, and contribute to Microsoft Intune product family documentation. This documentation also covers Configuration Manager, Intune, Endpoint analytics, and Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/use-docs</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
