@@ -6,8 +6,68 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 27 May 2026 18:12:43 GMT</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 18:12:43 GMT</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 00:23:38 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 00:23:38 GMT</lastBuildDate>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-ios</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up enrollment time grouping - Microsoft Intune</title>
+      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
+      <description>Learn about Intune reports and properties provided via Graph API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/ref-graph-available-reports</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Remediation Agent Overview and Set Up - Microsoft Intune</title>
+      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/agents/vulnerability-remediation-agent</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the Vulnerability Remediation Agent to Manage Vulnerabilities - Microsoft Intune</title>
+      <description>Learn how to use the Vulnerability Remediation Agent in Microsoft Intune to identify, prioritize, and remediate security vulnerabilities across your managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/agents/manage-vulnerability-remediation-agent</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune - Microsoft Intune</title>
+      <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/monitor-reports</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Multi Admin Approval with the Microsoft Graph API - Microsoft Intune</title>
+      <description>Learn how to update your automation scripts and applications to work with Multi Admin Approval enforcement on app-authenticated API calls in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval-graph-api</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
+      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Defender for Endpoint web protection on Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Use Intune policy to manage Microsoft Defender for Endpoint web protection settings on Android devices managed by Microsoft Intune.</description>
@@ -81,12 +141,6 @@
       <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
-      <pubDate>Tue, 26 May 2026 17:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
       <description>Integrate Microsoft Defender Vulnerability Management with Intune to create security tasks, track remediation, and reduce vulnerability exposure across managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/remediate-vulnerabilities</link>
@@ -156,12 +210,6 @@
       <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
-      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
@@ -465,12 +513,6 @@
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Vulnerability Remediation Agent Overview and Set Up - Microsoft Intune</title>
-      <description>Learn about the Vulnerability Remediation Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent uses AI to identify and prioritize vulnerability remediation based on Microsoft Defender Vulnerability Management data.</description>
-      <link>https://learn.microsoft.com/en-us/intune/copilot/agents/vulnerability-remediation-agent</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-zebra-lifeguard</link>
@@ -564,48 +606,6 @@
       <title>Learn about Policy Configuration Agent and set it up - Microsoft Intune</title>
       <description>Learn about the Policy Configuration Agent in Microsoft Intune, its prerequisites, how it works, and how to set it up. The agent is a generative AI feature that helps create Intune policies based on uploaded documents or benchmarks. The Policy Configuration Agent is a feature of Security Copilot in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/agents/policy-configuration-agent</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add users to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add and managing Microsoft Entra user accounts from within Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tenant-administration/add-users</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
-      <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/specialty-devices</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
-      <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/remote-help/troubleshoot</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Battery Health Report in Endpoint Analytics - Microsoft Intune</title>
-      <description>Learn how to use the battery health report in Microsoft Intune to detect battery degradation, plan proactive replacements, and improve user experience.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/battery-health</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Timeline Report - Microsoft Intune</title>
-      <description>Use the device timeline report in Intune to review device event history, identify issues faster, and correlate incidents to start troubleshooting now.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-timeline</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deployment guide for Windows device management - Microsoft Intune</title>
-      <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/platform-guide-windows</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Apple mobile devices and tokens in Intune - Microsoft Intune</title>
-      <description>Sync devices, distribute devices, and re-enroll devices for Apple automated device enrollment on iOS/iPadOS in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-apple</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
