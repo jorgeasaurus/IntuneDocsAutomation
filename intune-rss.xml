@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 02 Jun 2026 07:30:43 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2026 07:30:43 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 12:22:47 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:22:47 GMT</lastBuildDate>
+    <item>
+      <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
+      <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-recovery-lock-macos</link>
+      <pubDate>Tue, 02 Jun 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Apple account service access - Microsoft Intune</title>
+      <description>Use Apple access management settings to control how Apple accounts are used on organization‑owned devices managed by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-service-access</link>
+      <pubDate>Tue, 02 Jun 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Tue, 02 Jun 2026 07:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
       <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
@@ -78,12 +96,6 @@
       <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
-      <pubDate>Thu, 28 May 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
       <pubDate>Thu, 28 May 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Settings you can manage with Intune Endpoint Protection profiles for Windows devices - Microsoft Intune</title>
       <description>View the available settings in Intune endpoint protection profiles for managed Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/ref-endpoint-protection-settings-windows</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign a role to an Intune administrator - Microsoft Intune</title>
-      <description>Learn how to assign a built-in or custom role to a user in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/assign-role</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of Apple Automated Device Enrollment for iOS/iPadOS in Intune - Microsoft Intune</title>
-      <description>Learn about automated device enrollment (ADE) for Apple mobile devices in Microsoft Intune, including supported scenarios, key features, and how to get started.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/overview-automated-enrollment-apple</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
