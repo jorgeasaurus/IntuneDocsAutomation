@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 03 Jun 2026 07:02:47 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 07:02:47 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 13:14:49 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:14:49 GMT</lastBuildDate>
     <item>
       <title>Collect Device Hardware Info With the Properties Catalog - Microsoft Intune</title>
       <description>Use the properties catalog in Microsoft Intune to collect device hardware info like BIOS version, TPM status, and disk details on managed Windows devices. Get deeper visibility into your device inventory and troubleshoot issues.</description>
@@ -24,6 +24,12 @@
       <title>Device Query for Multiple Devices - Microsoft Intune</title>
       <description>Use device query for multiple devices in Microsoft Intune to run KQL queries, analyze inventory trends, and start querying your managed fleet now.</description>
       <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
+      <pubDate>Tue, 02 Jun 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Settings list for the Local AI Agent Baseline - OpenClaw security baseline in Intune - Microsoft Intune</title>
+      <description>View the settings in the Microsoft Intune security baseline for Local AI Agent Baseline - OpenClaw. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-openclaw-settings</link>
       <pubDate>Tue, 02 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -156,12 +162,6 @@
       <title>Monitor your Endpoint Privilege Management policies for Microsoft Intune - Microsoft Intune</title>
       <description>View reports for managed and unmanaged file elevations when you use Endpoint Privilege Management for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/epm/monitor-reports</link>
-      <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Multi Admin Approval with the Microsoft Graph API - Microsoft Intune</title>
-      <description>Learn how to update your automation scripts and applications to work with Multi Admin Approval enforcement on app-authenticated API calls in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval-graph-api</link>
       <pubDate>Wed, 27 May 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
