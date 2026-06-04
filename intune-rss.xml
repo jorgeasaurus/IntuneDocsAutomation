@@ -6,8 +6,38 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 04 Jun 2026 12:02:44 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2026 12:02:44 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 18:30:30 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:30:30 GMT</lastBuildDate>
+    <item>
+      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/overview</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure device configuration profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or configure a device configuration profile in Microsoft Intune. Select the platform type, configure the settings, and add a scope tag. Learn more about applicability rules, and the policy refresh cycle times.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/create-device-profile</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure 802.1x wired network settings for Apple and Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a wired network device configuration profile or policy using the IEEE 802.1X standard for macOS, iOS/iPadOS, Windows 10, and Windows 11 devices and computers. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wired-networks</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
       <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
@@ -18,12 +48,6 @@
       <title>Intune endpoint security Attack surface reduction settings - Microsoft Intune</title>
       <description>Details about the settings in the endpoint security Attack surface reduction policies in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/ref-attack-surface-reduction-settings</link>
-      <pubDate>Wed, 03 Jun 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
       <pubDate>Wed, 03 Jun 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -582,30 +606,6 @@
       <title>Use the latest TeamViewer integration in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to use the latest TeamViewer integration in Microsoft Intune to initiate remote assistance sessions for managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/setup-teamviewer</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Android (AOSP) device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless devices built on the Android Open Source Project (AOSP) platform.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-aosp-corporate-userless</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign up or sign in to Microsoft Intune - Microsoft Intune</title>
-      <description>How to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/account-sign-up</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zebra LifeGuard Over-the-Air Integration with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates for supported Zebra devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-zebra-lifeguard</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add, Configure, and Protect Apps with Intune - Microsoft Intune</title>
-      <description>Add, configure, and protect apps with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/deploy-protect-apps-step-2</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
