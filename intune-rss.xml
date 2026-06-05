@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 05 Jun 2026 06:49:25 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 06:49:25 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 12:53:19 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:53:19 GMT</lastBuildDate>
     <item>
       <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
@@ -21,9 +21,21 @@
       <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
     </item>
     <item>
+      <title>Configure wired network settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a wired network device configuration profile for Windows 10/11 devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wired-network-settings-windows</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Configure 802.1x wired network settings for Apple and Windows devices in Microsoft Intune - Microsoft Intune</title>
       <description>Create or add a wired network device configuration profile or policy using the IEEE 802.1X standard for macOS, iOS/iPadOS, Windows 10, and Windows 11 devices and computers. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wired-networks</link>
+      <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure wired network settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a wired network device configuration profile for Apple devices. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wired-network-settings-macos</link>
       <pubDate>Thu, 04 Jun 2026 17:38:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
       <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Managing Elevation Settings for Endpoint Privilege Management - Microsoft Intune</title>
-      <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/manage-elevation-settings</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use the latest TeamViewer integration in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to use the latest TeamViewer integration in Microsoft Intune to initiate remote assistance sessions for managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/setup-teamviewer</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
