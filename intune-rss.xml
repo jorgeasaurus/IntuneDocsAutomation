@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 12 Jun 2026 07:29:57 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 07:29:57 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 13:00:27 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 13:00:27 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -45,6 +45,12 @@
       <pubDate>Thu, 11 Jun 2026 18:18:00 GMT</pubDate>
     </item>
     <item>
+      <title>Benefits of Intune App SDK - Microsoft Intune</title>
+      <description>The Intune App SDK is available for both the iOS and Android platforms, and enables mobile app management features with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/</link>
+      <pubDate>Thu, 11 Jun 2026 18:18:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Multiple Managed Accounts for App Protection Policies - Microsoft Intune</title>
       <description>Learn how the Multiple Managed Accounts (MMA) feature in Microsoft Intune MAM enables users to manage more than one work or school account within a single app.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/multiple-managed-accounts</link>
@@ -55,6 +61,12 @@
       <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as a standalone capability.</description>
       <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
       <pubDate>Thu, 11 Jun 2026 12:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-office-settings</link>
+      <pubDate>Thu, 11 Jun 2026 07:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
@@ -594,18 +606,6 @@
       <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
       <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequently asked questions about MAM and app protection - Microsoft Intune</title>
-      <description>This article provides answers to some frequently asked questions on Intune mobile application management (MAM) and Intune app protection.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/mam-faq</link>
-      <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Microsoft Tunnel with Mobile Application Management - Microsoft Intune</title>
-      <description>Use Microsoft Tunnel for MAM with Android and iOS devices. Tunnel for MAM expands access to your organizational resources for devices that aren't or can't enroll with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/mam</link>
       <pubDate>Thu, 21 May 2026 12:36:00 GMT</pubDate>
     </item>
   </channel>
