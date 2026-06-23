@@ -6,8 +6,80 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 23 Jun 2026 12:22:36 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 12:22:36 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 18:02:43 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 18:02:43 GMT</lastBuildDate>
+    <item>
+      <title>Manage Microsoft 365 (Office) for iOS and Android With Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft 365 (Office) for iOS and Android to ensure collaboration experiences are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-microsoft-365-mobile</link>
+      <pubDate>Tue, 23 Jun 2026 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
+      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
+      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/copilot/</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
+      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/assign-device-profile</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Single sign-on (SSO) for iOS/iPadOS and macOS - Microsoft Intune</title>
+      <description>Overview of Microsoft Enterprise SSO plug-in in Microsoft Intune, Jamf Pro, and other MDM solution providers. The Enterprise SSO plug-in is available on iOS/iPadOS and macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/enterprise-sso-plugin</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
+      <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-migration</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platform SSO scenarios for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-scenarios-macos</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
+      <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, Legacy Zebra OEMConfig, and Honeywell UEMConnect apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment Filter Performance Tips for Intune - Microsoft Intune</title>
+      <description>Optimize Microsoft Intune performance with assignment filters. Learn to use virtual groups, reuse groups, and apply filters effectively. Improve policy deployment speed with incremental group changes, and use assignment filters to include and exclude.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/performance-recommendations</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy OEMConfig profiles to Zebra devices using Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to create and deploy multiple OEMConfig device configuration profiles on Zebra devices running Android Enterprise. Use Zebra actions and steps to order your profiles.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/deploy-oemconfig-zebra-android</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
       <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
@@ -195,12 +267,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
-      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
       <description>Understand Microsoft Intune management extension for Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows</link>
@@ -219,12 +285,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security Copilot in Intune features overview - Microsoft Intune</title>
-      <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/copilot/</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
       <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-edge-ios-android</link>
@@ -240,12 +300,6 @@
       <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
       <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
-      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -270,12 +324,6 @@
       <title>Set up Intune - Microsoft Intune</title>
       <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/deploy-setup-step-1</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/assign-device-profile</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -375,12 +423,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Single sign-on (SSO) for iOS/iPadOS and macOS - Microsoft Intune</title>
-      <description>Overview of Microsoft Enterprise SSO plug-in in Microsoft Intune, Jamf Pro, and other MDM solution providers. The Enterprise SSO plug-in is available on iOS/iPadOS and macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/enterprise-sso-plugin</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial - Walkthrough the Microsoft Intune Admin Center - Microsoft Intune</title>
       <description>In this tutorial, you will tour Microsoft Intune in the Microsoft Intune admin center to better understand how to accomplish tasks.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/tutorial-admin-center-walkthrough</link>
@@ -405,12 +447,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
-      <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-migration</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up enrollment time grouping - Microsoft Intune</title>
       <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
@@ -426,12 +462,6 @@
       <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
       <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/setup-status-page</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Platform SSO scenarios for macOS devices - Microsoft Intune</title>
-      <description>Use Microsoft Intune to configure common Platform SSO scenarios for macOS devices. You can enable Kerberos SSO to on-premises Active Directory and cloud-based Microsoft Entra ID, use Touch ID biometric policy with Secure Enclave authentication, and enable SSO on non-Microsoft apps. You can also configure end user experience settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-scenarios-macos</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -576,36 +606,6 @@
       <title>Enable autodiscovery of Intune enrollment server - Microsoft Intune</title>
       <description>Simplify enrollment for users by enabling automatic discovery of the Intune enrollment server.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/create-cname-autodiscovery</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage firewall settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Configure and deploy policies for devices you manage with endpoint security firewall policy in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/firewall</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shared or multi-user Windows device settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Add and use Windows 10/11 and Windows Holographic for Business devices that are shared, or used by multiple users in Microsoft Intune. See a list of all the settings and what they do on the devices, including Microsoft HoloLens. Control guest accounts, manage accounts and delete inactive accounts, allow or prevent saving to local storage, set power and sleep options, choose when updates are installed, and use devices in education environments in a device configuration profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-shared-device</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Types of certificate that are supported by Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about Microsoft Intune's support for Simple Certificate Enrollment Protocol (SCEP), Public Key Cryptography Standards (PKCS) certificates.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/certificates/overview</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Categorize devices into groups in Intune - Microsoft Intune</title>
-      <description>Categorize Intune-managed devices into groups for easier management in the admin center.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jamf Managed Device Compliance with Microsoft Entra ID - Microsoft Intune</title>
-      <description>Integrate Jamf Pro with Microsoft Intune to report device compliance to Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/jamf-entra-id</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
