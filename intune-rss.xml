@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 Jun 2026 06:22:54 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 06:22:54 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 12:38:32 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:38:32 GMT</lastBuildDate>
+    <item>
+      <title>Update Windows BIOS features using DFCI MDM policies - Microsoft Intune</title>
+      <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-dfci-windows</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -135,6 +141,12 @@
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Get Started With the Microsoft Intune App SDK - Microsoft Intune</title>
+      <description>Quickly enable your mobile app for mobile application management (MAM) with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/quickstart-integration</link>
+      <pubDate>Tue, 23 Jun 2026 17:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage Microsoft 365 (Office) for iOS and Android With Intune - Microsoft Intune</title>
       <description>Use Intune app protection and configuration policies with Microsoft 365 (Office) for iOS and Android to ensure collaboration experiences are always accessed with safeguards in place.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-microsoft-365-mobile</link>
@@ -150,6 +162,12 @@
       <title>Security Copilot in Intune features overview - Microsoft Intune</title>
       <description>Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/copilot/</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
       <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
     </item>
     <item>
@@ -198,6 +216,12 @@
       <title>Deploy OEMConfig profiles to Zebra devices using Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to create and deploy multiple OEMConfig device configuration profiles on Zebra devices running Android Enterprise. Use Zebra actions and steps to order your profiles.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/deploy-oemconfig-zebra-android</link>
+      <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platforms and policy types supported by assignment filters - Microsoft Intune</title>
+      <description>Learn which apps, compliance policies, and device configuration profiles and their platforms support assignment filters in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/ref-supported-workloads</link>
       <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
     </item>
     <item>
@@ -423,12 +447,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune - Microsoft Intune</title>
       <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/pkcs-profiles</link>
@@ -588,24 +606,6 @@
       <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
       <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/setup-status-page</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up account driven Apple User Enrollment - Microsoft Intune</title>
-      <description>Set up account driven Apple User Enrollment for personal devices enrolling in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-driven-user</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create trusted certificate profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and deploy trusted certificate profiles to deploy a trusted root certificate to managed devices in Intune. Trusted certificate profiles support use of Simple Certificate Enrollment Protocol (SCEP) and Public Key Cryptography Standards (PKCS) certificate profiles with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/trusted-root-profiles</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/assign-groups</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
