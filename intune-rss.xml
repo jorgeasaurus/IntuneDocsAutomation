@@ -6,8 +6,50 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 Jun 2026 12:38:32 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 12:38:32 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 18:31:15 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:31:15 GMT</lastBuildDate>
+    <item>
+      <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
+      <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-integration</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Integrate Microsoft Defender for Endpoint with Intune for Device Compliance - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender for Endpoint with Microsoft Intune as a Mobile Threat Defense (MTD) solution to enforce device compliance and prevent security breaches.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/overview</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy and configure Microsoft Defender for Endpoint on Android - Microsoft Intune</title>
+      <description>Learn how to deploy and configure Microsoft Defender for Endpoint on Android devices using Microsoft Intune, including app configuration policies, always-on VPN, and low-touch onboarding.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/deploy-android</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Intune to remediate vulnerabilities found by Microsoft Defender for Endpoint - Microsoft Intune</title>
+      <description>Integrate Microsoft Defender Vulnerability Management with Intune to create security tasks, track remediation, and reduce vulnerability exposure across managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/remediate-vulnerabilities</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Defender for Endpoint web protection on Android devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune policy to manage Microsoft Defender for Endpoint web protection settings on Android devices managed by Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-web-protection-android</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor Microsoft Defender for Endpoint with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to monitor device compliance and onboarding status for Microsoft Defender for Endpoint with Microsoft Intune in the admin center.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/monitor</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Update Windows BIOS features using DFCI MDM policies - Microsoft Intune</title>
       <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
@@ -129,12 +171,6 @@
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
       <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval</link>
@@ -229,12 +265,6 @@
       <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
       <pubDate>Tue, 23 Jun 2026 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
-      <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-integration</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Get an Apple MDM Push certificate for Intune - Microsoft Intune</title>
@@ -576,36 +606,6 @@
       <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop-multi-session</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
-      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment for macOS devices - Microsoft Intune</title>
-      <description>Set up enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/methods-macos</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment time grouping - Microsoft Intune</title>
-      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up the Enrollment Status Page in the admin center copy - Microsoft Intune</title>
-      <description>Set up a greeting page for users signing in and enrolling Windows devices copy.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/setup-status-page</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
