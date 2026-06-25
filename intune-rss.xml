@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 25 Jun 2026 06:42:54 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 06:42:54 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 12:41:42 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:41:42 GMT</lastBuildDate>
+    <item>
+      <title>Add an Unmanaged macOS PKG App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about how to add an unmanaged macOS PKG app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-unmanaged-pkg-macos</link>
+      <pubDate>Thu, 25 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Thu, 25 Jun 2026 12:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
+      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
+      <pubDate>Thu, 25 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
       <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
@@ -18,6 +36,18 @@
       <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
       <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
+      <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -63,9 +93,21 @@
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
+      <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-office-settings</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
       <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/overview</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Android devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-android-settings</link>
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -84,6 +126,12 @@
       <title>Trustd Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
       <description>Set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/trustd-mobile</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints</link>
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -129,15 +177,45 @@
       <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Wed, 24 Jun 2026 17:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Update Windows BIOS features using DFCI MDM policies - Microsoft Intune</title>
       <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-dfci-windows</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device firmware configuration interface settings for Windows devices - Microsoft Intune</title>
+      <description>See a list of all the DFCI profile settings and their descriptions on Windows 10/11 client devices. Use these settings in a configuration profile to control UEFI firmware layer features using Microsoft Intune policy. You can manage the CPU, built-in hardware, and boot options on client devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-dfci-settings-windows</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows upgrade and S mode settings in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the settings, and what they do when upgrading a Windows edition on a device, or switch out of S mode on a device using a device configuration profile in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-edition-upgrade-settings-windows</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Email settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create a device configuration email profile that that uses Exchange servers, and retrieves attributes from Microsoft Entra ID. You can also enable SSL, and synchronize email and schedules on Windows 10/11 client devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-email-settings-windows</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Enterprise email settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device configuration email profiles that use Exchange servers, and retrieve attributes from Microsoft Entra ID. Enable SSL or SMIME, authenticate users with certificates or username/password, and synchronize email and schedules on Android Enterprise personally owned devices with a work profile using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-email-settings-android-enterprise</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kiosk settings for Windows Holographic for Business in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure your  Windows Holographic for Business devices as single-app and multi-app kiosks, customize the start menu, add apps, show the task bar, and configure a web browser in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-kiosk-settings-windows-holographic</link>
+      <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Email settings for iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the email settings you can configure and add to iOS and iPadOS devices in Microsoft Intune, including using Exchange servers, and getting attributes from Microsoft Entra ID. You can also enable SSL, authenticate users with certificates or username/password, and synchronize email on iOS/iPadOS devices using device configuration profiles in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-email-settings-ios</link>
       <pubDate>Wed, 24 Jun 2026 07:34:00 GMT</pubDate>
     </item>
     <item>
@@ -528,84 +606,6 @@
       <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
       <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
-      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-edge-ios-android</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Microsoft Store Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/pkcs-profiles</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure a tenant-wide Windows Hello for Business policy with Microsoft Intune - Microsoft Intune</title>
-      <description>Apply policy for Windows Hello for Business on devices at the time they enroll with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/identity-protection/configure-tenant-wide-policy</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Is App Management in Microsoft Intune? - Microsoft Intune</title>
-      <description>Learn about client app management capabilities by platform for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/overview</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Intune - Microsoft Intune</title>
-      <description>Step 1 for deploying or setting up Intune. The starting point is to review supported configurations, sign up for the trial, configure the custom domain name, add users and groups to Intune, assign licenses to users, manage roles, grant admin permissions, and set the MDM authority.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/deploy-setup-step-1</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
-      <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/ref-corporate-methods</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
-      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-managed-google-play</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deploy Intune policies to manage Windows LAPS - Microsoft Intune</title>
-      <description>Create policies to manage the Windows Local Administrator Policy Solution (LAPS) on Windows devices that enrolled with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/deploy-policy</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use role-based access control (RBAC) and scope tags for distributed IT - Microsoft Intune</title>
-      <description>Use role-based access control (RBAC) and scope tags to filter configuration profiles to specific roles.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/scope-tags</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
-      <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/free-trial-sign-up</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment for Android Enterprise fully managed devices - Microsoft Intune</title>
-      <description>Set up enrollment in Intune for devices using the Android Enterprise fully managed device management solution.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-fully-managed</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create and Deploy App Protection Policies - Microsoft Intune</title>
-      <description>This article describes how to create and assign Microsoft Intune app protection policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/create-policy</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
