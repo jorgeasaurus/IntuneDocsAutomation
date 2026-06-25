@@ -6,8 +6,92 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 Jun 2026 18:31:15 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 18:31:15 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 00:09:01 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:09:01 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
+      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/enterprise-app-management</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
+      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up enrollment time grouping - Microsoft Intune</title>
+      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Remote Help on Windows to Assist Authenticated Users - Microsoft Intune</title>
+      <description>Use the Remote Help app to provide remote assistance to authenticated users who also run the Remote Help app, and to troubleshoot for frontline workers (FLW).</description>
+      <link>https://learn.microsoft.com/en-us/intune/remote-help/start-session</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-enterprise-catalog-app</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third-party device compliance partners support in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/third-party-partners</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-oemconfig-android</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Wi-Fi Settings for Apple Devices in Intune - Microsoft Intune</title>
+      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wifi-settings-apple</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune Mobile Threat Defense (MTD) with your Mobile Threat Defense partner to protect access to company resources based on device risk.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/overview</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and assign MTD apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Use Intune to add Mobile Threat Defense (MTD) apps, Microsoft Authenticator app, and iOS configuration policy in Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/assign-apps</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Trustd Mobile Threat Defense integration with Intune - Microsoft Intune</title>
+      <description>How to set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-trustd-mobile</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trustd Mobile Threat Defense with Microsoft Intune - Microsoft Intune</title>
+      <description>Set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/trustd-mobile</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
       <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
@@ -60,12 +144,6 @@
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
-      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Wi-Fi Settings for Apple Devices in Intune - Microsoft Intune</title>
-      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wifi-settings-apple</link>
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -279,12 +357,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Enterprise Application Management - Microsoft Intune</title>
-      <description>Learn about Enterprise App Management and the Enterprise App Catalog in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/enterprise-app-management</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure iOS/iPadOS Enterprise SSO app extension with MDMs - Microsoft Intune</title>
       <description>Learn more about the Microsoft Enterprise single sign-on (SSO) plug-in. Add or create an iOS or iPadOS device configuration profile using the Microsoft Enterprise SSO plug-in app extension in Microsoft Intune, Jamf Pro, and other MDM solution providers.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-enterprise-sso-plugin-ios</link>
@@ -417,12 +489,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add corporate identifiers to Intune - Microsoft Intune</title>
       <description>Add corporate identifiers (enrollment method, IMEI, and serial numbers) to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/add-corporate-identifiers</link>
@@ -540,72 +606,6 @@
       <title>Create and Deploy App Protection Policies - Microsoft Intune</title>
       <description>This article describes how to create and assign Microsoft Intune app protection policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/create-policy</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-powershell-scripts-windows</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Configure the Intune Company Portal Apps, Company Portal Website, and Intune App - Microsoft Intune</title>
-      <description>Learn how you can configure the Intune Company Portal apps, Company Portal website, and Intune app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-company-portal</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Intune enrollment for Android Enterprise dedicated devices - Microsoft Intune</title>
-      <description>Configure enrollment in Microsoft Intune for Android Enterprise dedicated devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-dedicated</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add App Configuration Policies for Managed iOS/iPadOS Devices - Microsoft Intune</title>
-      <description>Learn how to use app configuration policies to provide configuration data to an iOS/iPadOS app when it's run.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-ios</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS direct enrollment - Apple Configurator-Setup Assistant - Microsoft Intune</title>
-      <description>Use Apple Configurator to enroll corporate-owned iOS/iPadOS devices with Setup Assistant.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-configurator-ios</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Use Apple Business to enroll iOS/iPadOS devices in Intune - Microsoft Intune</title>
-      <description>In this tutorial, you'll set up Apple corporate device enrollment features with Intune to enroll iOS/iPadOS devices purchased through Apple Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/tutorial-automated-ios</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restrict USB Devices Using Settings Catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/restrict-usb</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add apps to Microsoft Intune so you can assign apps to users and devices. Intune supports a wide range of app types.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Find the primary user of a Microsoft Intune device. - Microsoft Intune</title>
-      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/find-primary-user</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Walkthrough the Microsoft Intune Admin Center - Microsoft Intune</title>
-      <description>In this tutorial, you will tour Microsoft Intune in the Microsoft Intune admin center to better understand how to accomplish tasks.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tutorial-admin-center-walkthrough</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop-multi-session</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
