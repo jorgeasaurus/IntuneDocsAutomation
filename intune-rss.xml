@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 29 Jun 2026 00:02:50 GMT</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 00:02:50 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 07:32:23 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:32:23 GMT</lastBuildDate>
     <item>
       <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
@@ -57,6 +57,12 @@
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Set up enrollment time grouping - Microsoft Intune</title>
+      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
       <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
@@ -66,12 +72,6 @@
       <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
       <description>View the default setting configuration of the various Microsoft Intune security baselines for Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
-      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment time grouping - Microsoft Intune</title>
-      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -249,6 +249,12 @@
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Use Multi Admin Approval with the Microsoft Graph API - Microsoft Intune</title>
+      <description>Learn how to update your automation scripts and applications to work with Multi Admin Approval enforcement on app-authenticated API calls in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval-graph-api</link>
+      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up Microsoft Entra ID - Microsoft Intune</title>
       <description>Learn how to create and prepare your Microsoft Entra tenant for an education environment.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/setup-entra-id</link>
@@ -261,12 +267,6 @@
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Reset and wipe Education devices - Microsoft Intune</title>
-      <description>Learn about the reset and wipe options for Windows devices using Intune for Education, including scenarios when to delete devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/reset-devices</link>
-      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What are cloud-native Windows endpoints - Microsoft Intune</title>
       <description>Learn more about cloud-native endpoints and what they are. See a list of benefits, and the effect on end users and IT administrators. Cloud-native endpoints help with remote workers and hybrid workers, and use Microsoft Intune to manage devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/overview</link>
@@ -276,6 +276,12 @@
       <title>Control AI features on Android Enterprise devices - Microsoft Intune</title>
       <description>Using Microsoft Intune, you can manage and restrict AI usage on Android devices enrolled in Intune. This guide provides lists the steps in Intune to block AI apps, websites, screen-driven experiences, on-device AI services, and OEM-specific AI features. You can manage Microsoft Copilot, Google Gemini, Samsung Galaxy AI, claude.ai, ChatGPT, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/ai/manage-ai-android</link>
+      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reset and wipe Education devices - Microsoft Intune</title>
+      <description>Learn about the reset and wipe options for Windows devices using Intune for Education, including scenarios when to delete devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/reset-devices</link>
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -303,18 +309,6 @@
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use Multi Admin Approval with the Microsoft Graph API - Microsoft Intune</title>
-      <description>Learn how to update your automation scripts and applications to work with Multi Admin Approval enforcement on app-authenticated API calls in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval-graph-api</link>
-      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get started with Windows frontline worker devices - Microsoft Intune</title>
-      <description>Learn how to manage frontline worker devices using Windows devices in Microsoft Intune. Select the best enrollment option, configure the home screen, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/windows</link>
-      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage devices with Microsoft Intune - Microsoft Intune</title>
       <description>Overview of device management capabilities in Intune for Education, including remote actions, remote assistance, and inventory/reporting.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/manage-overview</link>
@@ -330,6 +324,12 @@
       <title>Plan Education device grouping and targeting - Microsoft Intune</title>
       <description>Plan how you'll group devices and users and target policies and applications.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/grouping-and-targeting</link>
+      <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get started with Windows frontline worker devices - Microsoft Intune</title>
+      <description>Learn how to manage frontline worker devices using Windows devices in Microsoft Intune. Select the best enrollment option, configure the home screen, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/frontline-worker/windows</link>
       <pubDate>Tue, 23 Jun 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -489,6 +489,12 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
+      <title>Microsoft Intune Licensing Plans and Options - Microsoft Intune</title>
+      <description>Microsoft Intune licensing options, plans, and the capabilities included with each Intune plan and Microsoft 365 license tier.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing</link>
+      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
       <description>Use the device enrollment manager account to enroll devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-enrollment-manager</link>
@@ -543,12 +549,6 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Licensing Plans and Options - Microsoft Intune</title>
-      <description>Microsoft Intune licensing options, plans, and the capabilities included with each Intune plan and Microsoft 365 license tier.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/overview</link>
@@ -567,15 +567,15 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
-      <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/overview</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Collect Device Hardware Info With the Properties Catalog - Microsoft Intune</title>
       <description>Use the properties catalog in Microsoft Intune to collect device hardware info like BIOS version, TPM status, and disk details on managed Windows devices. Get deeper visibility into your device inventory and troubleshoot issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/collect-device-properties</link>
+      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
+      <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/overview</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -597,15 +597,15 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
       <description>Understand Microsoft Intune management extension for Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows</link>
+      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set the mobile device management authority - Microsoft Intune</title>
+      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-mdm-authority</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
