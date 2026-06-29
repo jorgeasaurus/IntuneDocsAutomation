@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 29 Jun 2026 07:32:23 GMT</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 07:32:23 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 13:21:16 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:21:16 GMT</lastBuildDate>
     <item>
       <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
@@ -99,12 +99,6 @@
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
-      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>List of settings for the Microsoft 365 Apps for Enterprise security baseline in Intune - Microsoft Intune</title>
       <description>View a list of the settings in the Microsoft Intune security baseline for Microsoft Office apps. This list includes the default values for settings as found in the default configuration of the baseline.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-v2-office-settings</link>
@@ -144,6 +138,12 @@
       <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
       <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints</link>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
       <pubDate>Wed, 24 Jun 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -447,15 +447,15 @@
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/overview</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add the Company Portal for macOS App - Microsoft Intune</title>
       <description>Add the macOS Company Portal app.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-company-portal-macos</link>
+      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
+      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/overview</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -468,12 +468,6 @@
       <title>App Protection Policies Overview - Microsoft Intune</title>
       <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/overview</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable MDM automatic enrollment for Windows - Microsoft Intune</title>
-      <description>Enable Intune automatic enrollment for Windows devices joining or registering with your Microsoft Entra ID.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/enable-automatic-mdm</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -534,12 +528,6 @@
       <title>iOS/iPadOS App Protection Policy Settings - Microsoft Intune</title>
       <description>This article describes the iOS/iPadOS app protection policy (APP) settings for iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-ios</link>
-      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>App inventory for Windows devices - Microsoft Intune</title>
-      <description>Use app inventory in Microsoft Intune to collect detailed application data from Windows devices with faster refresh cycles and richer metadata than Discovered apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/enhanced-app-inventory</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -606,6 +594,18 @@
       <title>Set the mobile device management authority - Microsoft Intune</title>
       <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-mdm-authority</link>
+      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/win32</link>
+      <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
+      <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
       <pubDate>Mon, 22 Jun 2026 22:36:00 GMT</pubDate>
     </item>
   </channel>
