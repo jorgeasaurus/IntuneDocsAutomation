@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 08 Jul 2026 12:28:40 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 12:28:40 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 17:31:34 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:31:34 GMT</lastBuildDate>
+    <item>
+      <title>Android Management API for personally owned work profiles - Microsoft Intune</title>
+      <description>Learn about the transition to Android Management API for personally owned work profile devices, including web-based enrollment, migration steps, and what IT admins need to know.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/android-management-api-overview</link>
+      <pubDate>Wed, 08 Jul 2026 12:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll personal devices in Intune with Android Enterprise work profile management - Microsoft Intune</title>
+      <description>Set up Intune for personal devices and bring-your-own-device scenarios using Android Enterprise work profile management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-personal-work-profile</link>
+      <pubDate>Wed, 08 Jul 2026 12:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Set up a macOS ADE token in Intune - Microsoft Intune</title>
       <description>Create, renew, and delete Apple enrollment program tokens for macOS automated device enrollment in Microsoft Intune.</description>
@@ -24,12 +36,6 @@
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
-      <pubDate>Thu, 02 Jul 2026 11:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android Management API for personally owned work profiles - Microsoft Intune</title>
-      <description>Learn about the transition to Android Management API for personally owned work profile devices, including web-based enrollment, migration steps, and what IT admins need to know.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/android-management-api-overview</link>
       <pubDate>Thu, 02 Jul 2026 11:20:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Understand Intune and Microsoft Entra device limit restrictions - Microsoft Intune</title>
       <description>Learn the differences between Intune device limit restrictions and Microsoft Entra device limit restrictions.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/limits-intune-entra</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-filevault-macos</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
