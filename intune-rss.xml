@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 16 Jul 2026 06:11:03 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 06:11:03 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 12:27:42 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:27:42 GMT</lastBuildDate>
+    <item>
+      <title>Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
+      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, tvOS, visionOS, macOS, Windows, and ChromeOS devices. Learn about available device actions, prerequisites, and bulk actions for IT admins.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/</link>
+      <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/overview</link>
+      <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Delete - Microsoft Intune</title>
+      <description>Learn how to delete devices with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/delete</link>
+      <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
       <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
@@ -588,24 +606,6 @@
       <title>Import custom and third-party partner ADMX templates in Microsoft Intune - Microsoft Intune</title>
       <description>You can add, upload, or import custom and third-party partner ADMX and ADML files in Microsoft Intune. When they're imported, create a device configuration profile and assign the profile to your Windows 10/11 client devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/import-custom-admx-templates</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune architecture - Microsoft Intune</title>
-      <description>Reference architecture for a Microsoft Intune deployment, including cloud and on-premises components and Microsoft and third-party integrations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/architecture</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Win32 app supersedence - Microsoft Intune</title>
-      <description>Learn how to create supersedence relationships between Win32 apps in Microsoft Intune to update or replace existing apps with newer versions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/configure-win32-supersedence</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add a Windows Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add a Windows line-of-business (LOB) app using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-windows</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
