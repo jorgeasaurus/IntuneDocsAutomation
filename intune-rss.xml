@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 16 Jul 2026 12:27:42 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 12:27:42 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 18:12:42 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:12:42 GMT</lastBuildDate>
+    <item>
+      <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
+      <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
+      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
+      <pubDate>Thu, 16 Jul 2026 18:04:00 GMT</pubDate>
+    </item>
     <item>
       <title>Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
       <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, tvOS, visionOS, macOS, Windows, and ChromeOS devices. Learn about available device actions, prerequisites, and bulk actions for IT admins.</description>
@@ -600,12 +606,6 @@
       <title>Set up account driven Apple User Enrollment - Microsoft Intune</title>
       <description>Set up account driven Apple User Enrollment for personal devices enrolling in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-driven-user</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Import custom and third-party partner ADMX templates in Microsoft Intune - Microsoft Intune</title>
-      <description>You can add, upload, or import custom and third-party partner ADMX and ADML files in Microsoft Intune. When they're imported, create a device configuration profile and assign the profile to your Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/import-custom-admx-templates</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
