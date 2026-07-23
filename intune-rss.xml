@@ -6,12 +6,24 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 23 Jul 2026 05:59:21 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 05:59:21 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 12:12:55 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:12:55 GMT</lastBuildDate>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>macOS device compliance settings in Microsoft Intune - Microsoft Intune</title>
       <description>View the device compliance settings for macOS devices that you can manage with Microsoft Intune compliance policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-macos-settings</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for US government deployments - Microsoft Intune</title>
+      <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints-us-government</link>
       <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -24,6 +36,24 @@
       <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for China deployments - Microsoft Intune</title>
+      <description>Review China endpoints for Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints-china</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - MAM Integration Essentials - Microsoft Intune</title>
+      <description>Understand MAM integration essentials to incorporate Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/android-phase-4</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - App Participation Features - Microsoft Intune</title>
+      <description>Understand App participation features when incorporating Intune mobile app management (MAM) into your Android app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/android-phase-7</link>
       <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -387,12 +417,6 @@
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/win32</link>
@@ -582,30 +606,6 @@
       <title>Create trusted certificate profiles in Microsoft Intune - Microsoft Intune</title>
       <description>Create and deploy trusted certificate profiles to deploy a trusted root certificate to managed devices in Intune. Trusted certificate profiles support use of Simple Certificate Enrollment Protocol (SCEP) and Public Key Cryptography Standards (PKCS) certificate profiles with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/trusted-root-profiles</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune built-in roles reference - Microsoft Intune</title>
-      <description>Permissions reference for built-in roles for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/ref-built-in-roles</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
-      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/deployment-planning</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/assign-groups</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune architecture - Microsoft Intune</title>
-      <description>Reference architecture for a Microsoft Intune deployment, including cloud and on-premises components and Microsoft and third-party integrations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/architecture</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
