@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 22 Jul 2026 17:32:11 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2026 17:32:11 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 23:29:50 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 23:29:50 GMT</lastBuildDate>
+    <item>
+      <title>macOS device compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>View the device compliance settings for macOS devices that you can manage with Microsoft Intune compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-macos-settings</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for visionOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Apple Vision Pro devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-vision-os</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
       <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
@@ -97,12 +121,6 @@
       <description>Create, renew, and delete Apple enrollment program tokens for macOS automated device enrollment in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-macos-token</link>
       <pubDate>Mon, 06 Jul 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Mon, 06 Jul 2026 12:35:00 GMT</pubDate>
     </item>
     <item>
       <title>In development - Microsoft Intune</title>
@@ -588,24 +606,6 @@
       <title>Microsoft Intune architecture - Microsoft Intune</title>
       <description>Reference architecture for a Microsoft Intune deployment, including cloud and on-premises components and Microsoft and third-party integrations.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/architecture</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get started with Microsoft Intune - Microsoft Intune</title>
-      <description>See an overview of the steps to start using Intune. Plan your move and deployment of Intune, determine your licensing needs and any platform requirements, use compliance and Conditional Access, deploy apps, create device configuration profiles, and enroll your devices to be managed. Get more information on mobile application management for BYOD or personal devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/get-started</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
-      <description>See a list of all the settings and their descriptions for creating device restrictions on Windows 10/11 client devices. Use these settings in a configuration profile to control screenshots, password requirements, kiosk settings, apps in the store, Microsoft Edge browser, Microsoft Defender, access to the cloud, start menu, and more in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-windows</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Import custom and third-party partner ADMX templates in Microsoft Intune - Microsoft Intune</title>
-      <description>You can add, upload, or import custom and third-party partner ADMX and ADML files in Microsoft Intune. When they're imported, create a device configuration profile and assign the profile to your Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/import-custom-admx-templates</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
