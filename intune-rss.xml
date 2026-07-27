@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 27 Jul 2026 12:58:29 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 12:58:29 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 17:56:09 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:56:09 GMT</lastBuildDate>
+    <item>
+      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
+      <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
+      <pubDate>Mon, 27 Jul 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/overview</link>
+      <pubDate>Mon, 27 Jul 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add Microsoft Store Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store</link>
+      <pubDate>Mon, 27 Jul 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device compliance policies for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
+      <pubDate>Mon, 27 Jul 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor results of your device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the device compliance dashboard to understand overall device compliance the per policy and per setting device compliance results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/monitor-policy</link>
+      <pubDate>Mon, 27 Jul 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Sync - Microsoft Intune</title>
+      <description>Learn how to use the device sync action in Intune to apply policy, app, and configuration updates to managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/sync</link>
+      <pubDate>Mon, 27 Jul 2026 17:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>How to Configure the Intune Company Portal Apps, Company Portal Website, and Intune App - Microsoft Intune</title>
       <description>Learn how you can configure the Intune Company Portal apps, Company Portal website, and Intune app.</description>
@@ -207,18 +243,6 @@
       <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Overview of Microsoft Intune device compliance, including tenant-wide compliance policy settings and device compliance policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/overview</link>
-      <pubDate>Wed, 15 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Create device compliance policies for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
-      <pubDate>Wed, 15 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create discovery scripts for custom compliance policy in Microsoft Intune - Microsoft Intune</title>
       <description>Create scripts for Linux, macOS, or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
@@ -348,12 +372,6 @@
       <title>App Protection Policies Overview - Microsoft Intune</title>
       <description>Learn how Microsoft Intune app protection policies help protect your company data and prevent data loss.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/protection/overview</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -519,12 +537,6 @@
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add Microsoft Store Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune advanced capabilities - Microsoft Intune</title>
       <description>Microsoft Intune advanced capabilities deliver advanced endpoint management and security. Learn what they are, which licenses include them, and how to get them.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/advanced-capabilities</link>
@@ -594,18 +606,6 @@
       <title>Overview of Windows LAPS with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how you can use Microsoft Microsoft Intune and application protection policy to manage the local administrator accounts on Windows devices. Through the Windows LAPS CSP, back up accounts and passwords to Microsoft Entra ID, define password requirements, and protect account passwords through scheduled password rotations and manual rotations at need.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/laps/overview</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Find the primary user of a Microsoft Intune device. - Microsoft Intune</title>
-      <description>Find the primary user (or User Device Affinity) of an Intune device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/find-primary-user</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restrict USB Devices Using Settings Catalog in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the settings catalog in Microsoft Intune to restrict USB devices, including thumb drives, flash drives, USB cameras, and more. Use other settings to allow specific USB devices on Windows 10/11 devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/restrict-usb</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
