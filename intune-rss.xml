@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 28 Jul 2026 06:48:01 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 06:48:01 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 12:31:39 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:31:39 GMT</lastBuildDate>
     <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
@@ -33,6 +33,12 @@
       <pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage antivirus settings with endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure and deploy policies and use reports for devices you manage with endpoint security antivirus policy in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/antivirus</link>
+      <pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
       <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/servicing-information</link>
@@ -42,6 +48,12 @@
       <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/overview</link>
+      <pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for China deployments - Microsoft Intune</title>
+      <description>Review China endpoints for Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints-china</link>
       <pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -222,12 +234,6 @@
       <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for China deployments - Microsoft Intune</title>
-      <description>Review China endpoints for Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints-china</link>
       <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Bulk enrollment for Windows devices - Microsoft Intune</title>
       <description>Create a bulk enrollment package for Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/create-bulk-package</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune core concepts - Microsoft Intune</title>
-      <description>Learn how Microsoft Intune works across identities, devices, and apps, and how the three pillars come together to drive access decisions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/core-concepts</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
