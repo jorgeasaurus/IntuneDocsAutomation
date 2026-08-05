@@ -6,8 +6,50 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 05 Aug 2026 12:31:55 GMT</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 12:31:55 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 18:22:51 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:22:51 GMT</lastBuildDate>
+    <item>
+      <title>Create a custom role in Intune - Microsoft Intune</title>
+      <description>Learn how to create a custom role in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/create-custom-role</link>
+      <pubDate>Fri, 31 Jul 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop</link>
+      <pubDate>Fri, 31 Jul 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Fri, 31 Jul 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
+      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval</link>
+      <pubDate>Fri, 31 Jul 2026 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
+      <pubDate>Fri, 31 Jul 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
+      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
+      <pubDate>Fri, 31 Jul 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/upgrade</link>
+      <pubDate>Fri, 31 Jul 2026 07:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
       <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
@@ -18,12 +60,6 @@
       <title>Collect Device Properties With Intune Properties Catalog - Microsoft Intune</title>
       <description>Use Microsoft Intune properties catalog to collect device properties—including hardware, registry values, and security signals—from Windows devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/collect-device-properties</link>
-      <pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop</link>
       <pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -115,12 +151,6 @@
       <description>Learn how to integrate Samsung Knox E-FOTA with Microsoft Intune to register Samsung devices, configure firmware updates, and monitor campaigns.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-samsung-knox</link>
       <pubDate>Sat, 25 Jul 2026 07:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Multi Admin Approval in Intune - Microsoft Intune</title>
-      <description>Configure Multi Admin Approval to protect your tenant against the use of compromised administrative accounts in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
@@ -255,12 +285,6 @@
       <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
       <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
@@ -337,12 +361,6 @@
       <description>Create, renew, and delete Apple enrollment program tokens for macOS automated device enrollment in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-macos-token</link>
       <pubDate>Mon, 06 Jul 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
-      <pubDate>Thu, 02 Jul 2026 11:20:00 GMT</pubDate>
     </item>
     <item>
       <title>Audit changes and events in Microsoft Intune - Microsoft Intune</title>
@@ -588,24 +606,6 @@
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/ref-corporate-methods</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune - Microsoft Intune</title>
-      <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/pkcs-profiles</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune core concepts - Microsoft Intune</title>
-      <description>Learn how Microsoft Intune works across identities, devices, and apps, and how the three pillars come together to drive access decisions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/core-concepts</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
-      <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/free-trial-sign-up</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
