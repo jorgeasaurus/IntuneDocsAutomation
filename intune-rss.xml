@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 07 Aug 2026 18:13:22 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 18:13:22 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 00:08:10 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:08:10 GMT</lastBuildDate>
+    <item>
+      <title>Use a PKCS certificate profile to provision devices with certificates in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune, work with root certificates and certificate templates, and use device configuration profiles for a PKCS Certificate.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/pkcs-profiles</link>
+      <pubDate>Fri, 07 Aug 2026 07:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/assign-groups</link>
+      <pubDate>Fri, 07 Aug 2026 07:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
+      <pubDate>Fri, 07 Aug 2026 07:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Fri, 07 Aug 2026 07:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune Licensing Plans and Options - Microsoft Intune</title>
       <description>Microsoft Intune licensing options, plans, and the capabilities included with each Intune plan and Microsoft 365 license tier.</description>
@@ -84,12 +108,6 @@
       <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop</link>
-      <pubDate>Fri, 31 Jul 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
       <pubDate>Fri, 31 Jul 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -222,12 +240,6 @@
       <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
       <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/assign-device-profile</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/assign-groups</link>
       <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Discovered Apps - Microsoft Intune</title>
       <description>Understand details about the detected apps that Intune found on a device.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/discovered-apps</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set the mobile device management authority - Microsoft Intune</title>
-      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-mdm-authority</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
-      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
