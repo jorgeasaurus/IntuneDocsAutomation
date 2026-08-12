@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 12 Aug 2026 06:25:01 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2026 06:25:01 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 12:00:36 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:00:36 GMT</lastBuildDate>
     <item>
       <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
@@ -42,6 +42,12 @@
       <title>Microsoft Intune Licensing Plans and Options - Microsoft Intune</title>
       <description>Microsoft Intune licensing options, plans, and the capabilities included with each Intune plan and Microsoft 365 license tier.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing</link>
+      <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
       <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -102,6 +108,12 @@
       <title>Device Action: Collect Diagnostics - Microsoft Intune</title>
       <description>Learn how to collect diagnostics with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/collect-diagnostics</link>
+      <pubDate>Wed, 05 Aug 2026 22:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints</link>
       <pubDate>Wed, 05 Aug 2026 22:37:00 GMT</pubDate>
     </item>
     <item>
@@ -567,12 +579,6 @@
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-apple</link>
@@ -600,12 +606,6 @@
       <title>Discovered Apps - Microsoft Intune</title>
       <description>Understand details about the detected apps that Intune found on a device.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/discovered-apps</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set the mobile device management authority - Microsoft Intune</title>
-      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-mdm-authority</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
