@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 13 Aug 2026 11:25:22 GMT</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2026 11:25:22 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 18:15:10 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:15:10 GMT</lastBuildDate>
+    <item>
+      <title>Device Action: Sync - Microsoft Intune</title>
+      <description>Learn how to use the device sync action in Intune to apply policy, app, and configuration updates to managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/sync</link>
+      <pubDate>Thu, 13 Aug 2026 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
+      <description>Understand Microsoft Intune management extension for Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows</link>
+      <pubDate>Thu, 13 Aug 2026 17:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Collect Device Properties With Intune Properties Catalog - Microsoft Intune</title>
       <description>Use Microsoft Intune properties catalog to collect device properties—including hardware, registry values, and security signals—from Windows devices.</description>
@@ -60,12 +72,6 @@
       <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
       <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
-      <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Sync - Microsoft Intune</title>
-      <description>Learn how to use the device sync action in Intune to apply policy, app, and configuration updates to managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/sync</link>
       <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -600,12 +606,6 @@
       <title>Manage approved apps for Windows devices with App Control for Business policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
       <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discovered Apps - Microsoft Intune</title>
-      <description>Understand details about the detected apps that Intune found on a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/discovered-apps</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
