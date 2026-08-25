@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 24 Aug 2026 17:06:27 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 17:06:27 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 23:42:44 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:42:44 GMT</lastBuildDate>
+    <item>
+      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
+      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
+      <pubDate>Mon, 24 Aug 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a custom role in Intune - Microsoft Intune</title>
+      <description>Learn how to create a custom role in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/create-custom-role</link>
+      <pubDate>Mon, 24 Aug 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor the Microsoft Tunnel VPN solution for Microsoft Intune - Microsoft Intune</title>
+      <description>Monitor the status of Microsoft Tunnel Gateway, a VPN server that runs on Linux. Microsoft Tunnel enables your Intune managed cloud-based devices to reach your on-premises infrastructure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/monitor</link>
+      <pubDate>Mon, 24 Aug 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Windows Antivirus policy settings for Microsoft Defender Antivirus for Intune - Microsoft Intune</title>
       <description>See a list of the settings in the Microsoft Defender Antivirus profile for Windows devices. You can configure these settings as part of Endpoint security Antivirus policy in Microsoft Intune.</description>
@@ -123,12 +141,6 @@
       <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
-      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
-      <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Multi Admin Approval with the Microsoft Graph API - Microsoft Intune</title>
       <description>Learn how to update your automation scripts and applications to work with Multi Admin Approval enforcement on app-authenticated API calls in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/multi-admin-approval-graph-api</link>
@@ -181,12 +193,6 @@
       <description>Learn how to collect diagnostics with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/collect-diagnostics</link>
       <pubDate>Wed, 05 Aug 2026 22:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a custom role in Intune - Microsoft Intune</title>
-      <description>Learn how to create a custom role in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/role-based-access-control/create-custom-role</link>
-      <pubDate>Fri, 31 Jul 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
@@ -600,12 +606,6 @@
       <title>Use SCEP certificate profiles with Microsoft Intune - Microsoft Intune</title>
       <description>Create and assign Simple Certificate Enrollment Protocol (SCEP) certificate profiles with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/scep-profiles</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-ios</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
