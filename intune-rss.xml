@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 26 Aug 2026 05:52:16 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 05:52:16 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 11:47:53 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:47:53 GMT</lastBuildDate>
+    <item>
+      <title>Wipe devices with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to wipe managed devices with Microsoft Intune, choose platform-specific reset options, and prepare devices for retirement, reuse, or recovery.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/wipe</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-ios</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>View device details with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to view hardware, app, compliance, and configuration details for devices managed with Microsoft Intune to monitor status and troubleshoot issues.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/device-details</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage eSIM plans in Microsoft Intune - Microsoft Intune</title>
+      <description>Activate and remove eSIM cellular plans on supported Apple and Android Enterprise devices with Microsoft Intune device actions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/update-cellular-data-plan</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Settings Configuration for Apple Devices - Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to use the Microsoft Intune settings catalog to configure Apple's app settings declaration, including app launch controls and macOS binary execution controls.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/apple-ddm-app-settings</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Deploy Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Follow the steps to deploy Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
@@ -36,6 +72,12 @@
       <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
       <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/remote-help/troubleshoot</link>
+      <pubDate>Tue, 25 Aug 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
+      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/ref-device-properties</link>
       <pubDate>Tue, 25 Aug 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -105,12 +147,6 @@
       <pubDate>Wed, 19 Aug 2026 17:51:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Wipe - Microsoft Intune</title>
-      <description>Learn how to wipe, or factory reset, devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/wipe</link>
-      <pubDate>Tue, 18 Aug 2026 07:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
       <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, tvOS, visionOS, macOS, Windows, and ChromeOS devices. Learn about available device actions, prerequisites, and bulk actions for IT admins.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/</link>
@@ -168,12 +204,6 @@
       <title>Assign Apps to Groups in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to assign an Intune app to groups of users or devices using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/assign-groups</link>
-      <pubDate>Fri, 07 Aug 2026 07:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
       <pubDate>Fri, 07 Aug 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
@@ -576,36 +606,6 @@
       <title>Configure iOS/iPadOS Enterprise SSO app extension with MDMs - Microsoft Intune</title>
       <description>Learn more about the Microsoft Enterprise single sign-on (SSO) plug-in. Add or create an iOS or iPadOS device configuration profile using the Microsoft Enterprise SSO plug-in app extension in Microsoft Intune, Jamf Pro, and other MDM solution providers.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-enterprise-sso-plugin-ios</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll devices using a device enrollment manager account - Microsoft Intune</title>
-      <description>Use the device enrollment manager account to enroll devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-enrollment-manager</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Windows devices using Automatic enrollment, Windows Autopilot, group policy, and co-management enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/guide</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up enrollment time grouping - Microsoft Intune</title>
-      <description>Overview and setup of the enrollment time grouping feature in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-time-grouping</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Android and Android Enterprise corporate-owned work profile, personally owned devices with a work profile, fully managed, AOSP, and dedicated devices in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/guide</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
