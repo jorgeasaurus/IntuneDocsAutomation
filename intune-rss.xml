@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 28 Aug 2026 08:40:46 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2026 08:40:46 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 15:02:19 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:02:19 GMT</lastBuildDate>
     <item>
       <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
       <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
@@ -19,6 +19,12 @@
       <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/upgrade</link>
       <pubDate>Fri, 28 Aug 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
+      <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Manage Apple Volume-Purchased Apps - Microsoft Intune</title>
@@ -51,6 +57,12 @@
       <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>Settings list for the Windows 365 for Agents security baseline in Intune - Microsoft Intune</title>
+      <description>View the settings and default values in the Microsoft Intune Windows 365 for Agents security baseline for Cloud PCs that run agentic workloads.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-365-agents-settings</link>
+      <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
@@ -72,6 +84,18 @@
       <title>View device details with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to view hardware, app, compliance, and configuration details for devices managed with Microsoft Intune to monitor status and troubleshoot issues.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/device-details</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Platform Schema - Microsoft Intune</title>
+      <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
+      <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Review Android settings available in the Microsoft Intune settings catalog, including supported enrollment types, values, defaults, and requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-android-settings</link>
       <pubDate>Wed, 26 Aug 2026 07:38:00 GMT</pubDate>
     </item>
     <item>
@@ -246,12 +270,6 @@
       <title>Microsoft Intune Licensing Plans and Options - Microsoft Intune</title>
       <description>Microsoft Intune licensing options, plans, and the capabilities included with each Intune plan and Microsoft 365 license tier.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing</link>
-      <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
       <pubDate>Thu, 06 Aug 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
       <link>https://learn.microsoft.com/en-us/intune/epm/overview</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device enrollment guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/guide</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Microsoft Defender for Endpoint with Intune and onboard devices - Microsoft Intune</title>
-      <description>Connect Microsoft Defender for Endpoint to Intune, onboard devices by platform, and configure compliance and Conditional Access policies that use device risk levels to control access to corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/configure-integration</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prepare a Win32 App to Be Uploaded to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to prepare a Win32 app to be uploaded to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/create-win32-package</link>
       <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
