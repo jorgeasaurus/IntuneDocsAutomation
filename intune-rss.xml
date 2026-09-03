@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 02 Sep 2026 17:03:50 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 17:03:50 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 00:07:30 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:07:30 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Wed, 02 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query - Microsoft Intune</title>
+      <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
+      <pubDate>Wed, 02 Sep 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Query for Multiple Devices - Microsoft Intune</title>
+      <description>Use device query for multiple devices in Microsoft Intune to run KQL queries, analyze inventory trends, and start querying your managed fleet now.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query-multiple-devices</link>
+      <pubDate>Wed, 02 Sep 2026 17:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
+      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/planning-guide</link>
+      <pubDate>Wed, 02 Sep 2026 17:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
@@ -91,12 +115,6 @@
       <description>View the settings and default values in the Microsoft Intune Windows 365 for Agents security baseline for Cloud PCs that run agentic workloads.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-365-agents-settings</link>
       <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Wed, 26 Aug 2026 17:40:00 GMT</pubDate>
     </item>
     <item>
       <title>Wipe devices with Microsoft Intune - Microsoft Intune</title>
@@ -471,12 +489,6 @@
       <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Update your workloads to support cloud-native endpoints - Microsoft Intune</title>
-      <description>To support hybrid and remote workers, convert or migrate your workloads to support cloud-native endpoints. This planning guide focuses on deploying apps and updates with Intune, moving from Group Policy Objects, and using Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/planning-guide</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Distributed IT with multiple admins - Microsoft Intune</title>
       <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/scale-guidelines</link>
@@ -595,18 +607,6 @@
       <description>Create, renew, and delete Apple enrollment program tokens for macOS automated device enrollment in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-macos-token</link>
       <pubDate>Mon, 06 Jul 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Audit changes and events in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to review audit logs that record Microsoft Intune activities.</description>
-      <link>https://learn.microsoft.com/en-us/intune/governance/monitor-audit-logs</link>
-      <pubDate>Thu, 02 Jul 2026 11:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Microsoft Intune? - Microsoft Intune</title>
-      <description>Microsoft Intune is a cloud-based endpoint management service that secures and manages devices and apps. Learn what it does and how it works.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/what-is-intune</link>
-      <pubDate>Wed, 01 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
