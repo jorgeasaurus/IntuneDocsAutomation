@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 04 Sep 2026 17:38:32 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2026 17:38:32 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 00:06:51 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:06:51 GMT</lastBuildDate>
+    <item>
+      <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
+      <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/enable-connector</link>
+      <pubDate>Fri, 04 Sep 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
       <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
@@ -111,15 +117,15 @@
       <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Enhanced Log Collection - Microsoft Intune - Microsoft Intune</title>
-      <description>Triggering and cancelling enhanced logging on Apple devices</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/apple-enhanced-logging</link>
-      <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Settings list for the Windows 365 for Agents security baseline in Intune - Microsoft Intune</title>
       <description>View the settings and default values in the Microsoft Intune Windows 365 for Agents security baseline for Cloud PCs that run agentic workloads.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-365-agents-settings</link>
+      <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Enhanced Log Collection - Microsoft Intune - Microsoft Intune</title>
+      <description>Triggering and cancelling enhanced logging on Apple devices</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/apple-enhanced-logging</link>
       <pubDate>Thu, 27 Aug 2026 07:33:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, Legacy Zebra OEMConfig, and Honeywell UEMConnect apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
       <pubDate>Tue, 14 Jul 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshoot Configuration Management bootstrap with modern provisioning - Intune</title>
-      <description>Helps you understand and troubleshoot issues that you may encounter when you set up co-management by taking path 2 - Bootstrap the Configuration Manager client with modern provisioning.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/comanage-configmgr/troubleshoot-co-management-bootstrap</link>
-      <pubDate>Fri, 10 Jul 2026 18:04:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
