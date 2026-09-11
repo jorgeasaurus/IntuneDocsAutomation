@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 10 Sep 2026 18:00:26 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 18:00:26 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 00:06:59 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:06:59 GMT</lastBuildDate>
+    <item>
+      <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft Edge for iOS and Android to ensure corporate websites are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-edge-ios-android</link>
+      <pubDate>Thu, 10 Sep 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Microsoft 365 (Office) for iOS and Android With Intune - Microsoft Intune</title>
+      <description>Use Intune app protection and configuration policies with Microsoft 365 (Office) for iOS and Android to ensure collaboration experiences are always accessed with safeguards in place.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-microsoft-365-mobile</link>
+      <pubDate>Thu, 10 Sep 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 5. Create Settings Catalog policies for Microsoft Edge for Business - Microsoft Intune</title>
+      <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/settings-catalog-step-5</link>
+      <pubDate>Thu, 10 Sep 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -589,24 +607,6 @@
       <description>Manage custom compliance settings on managed devices by using JSON files and discovery scripts in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/custom-settings</link>
       <pubDate>Wed, 15 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a JSON file for custom compliance settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create the JSON file that defines custom settings and values for use with device compliance policies in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-json</link>
-      <pubDate>Wed, 15 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Multiple Managed Accounts for App Protection Policies - Microsoft Intune</title>
-      <description>Learn how the Multiple Managed Accounts (MMA) feature in Microsoft Intune MAM enables users to manage more than one work or school account within a single app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/multiple-managed-accounts</link>
-      <pubDate>Tue, 14 Jul 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set permissions to Managed Home Screen using Android Enterprise OEMConfig - Microsoft Intune</title>
-      <description>Add the Samsung Knox Service Plugin, Zebra OEMConfig Powered by MX, Legacy Zebra OEMConfig, and Honeywell UEMConnect apps to Intune, and use the app schemas to configure permissions for the Managed Home Screen (MHS) app on Android Enterprise devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
-      <pubDate>Tue, 14 Jul 2026 22:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
