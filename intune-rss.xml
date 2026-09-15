@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 15 Sep 2026 11:07:55 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 11:07:55 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 18:02:38 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:02:38 GMT</lastBuildDate>
+    <item>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-oemconfig-android</link>
+      <pubDate>Tue, 15 Sep 2026 17:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
@@ -601,12 +607,6 @@
       <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/reports/overview</link>
       <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create discovery scripts for custom compliance policy in Microsoft Intune - Microsoft Intune</title>
-      <description>Create scripts for Linux, macOS, or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
-      <pubDate>Wed, 15 Jul 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
