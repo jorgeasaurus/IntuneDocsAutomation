@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 17 Sep 2026 17:17:14 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 17:17:14 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 23:32:37 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:32:37 GMT</lastBuildDate>
+    <item>
+      <title>Configure Platform SSO for macOS devices - Microsoft Intune</title>
+      <description>Use Microsoft Intune to configure Platform SSO and deploy the configuration to your macOS devices. Platform SSO enables single sign-on (SSO) using Microsoft Entra ID with the Secure Enclave, smart card, or password authentication methods. You create a settings catalog policy to configure the settings. This article is a step-by-step guide to configure Platform SSO for macOS devices using Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-macos</link>
+      <pubDate>Thu, 17 Sep 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Cloud PKI for Microsoft Intune - Microsoft Intune</title>
+      <description>An overview of the Microsoft Cloud PKI service, available with Microsoft Intune Suite or as a standalone capability.</description>
+      <link>https://learn.microsoft.com/en-us/intune/cloud-pki/</link>
+      <pubDate>Thu, 17 Sep 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use derived credentials for mobile devices with Microsoft Intune - Microsoft Intune</title>
+      <description>Use a third-party partners derived credential as an authentication method for Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/certificates/derived-credentials</link>
+      <pubDate>Thu, 17 Sep 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use custom compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Manage custom compliance settings on managed devices by using JSON files and discovery scripts in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/custom-settings</link>
+      <pubDate>Thu, 17 Sep 2026 17:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Known issues with Microsoft Intune - Intune</title>
       <description>Learn about known issues with Microsoft Intune, including workarounds and updated fixes.</description>
@@ -582,30 +606,6 @@
       <title>macOS device compliance settings in Microsoft Intune - Microsoft Intune</title>
       <description>View the device compliance settings for macOS devices that you can manage with Microsoft Intune compliance policies.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/ref-macos-settings</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for US government deployments - Microsoft Intune</title>
-      <description>See the list of US government endpoint URLs that Intune needs and requires. Allow the ports, IP addresses, and endpoint URLs in your proxy server configuration.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints-us-government</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - MAM Integration Essentials - Microsoft Intune</title>
-      <description>Understand MAM integration essentials to incorporate Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/android-phase-4</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune App SDK for Android Developer Integration and Testing Guide - App Participation Features - Microsoft Intune</title>
-      <description>Understand App participation features when incorporating Intune mobile app management (MAM) into your Android app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/android-phase-7</link>
       <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
