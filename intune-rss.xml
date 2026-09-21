@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 21 Sep 2026 12:03:40 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 12:03:40 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 18:03:23 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:03:23 GMT</lastBuildDate>
+    <item>
+      <title>Create a deployment plan in Microsoft Intune - Microsoft Intune</title>
+      <description>Create a reusable deployment plan with rings, groups, assignment filters, timing, exclusions, and scope tags in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/create-deployment-plan</link>
+      <pubDate>Mon, 21 Sep 2026 17:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deployment plans and deployments overview in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how deployment plans and deployments provide gradual, controlled, ring-based rollouts of apps and policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/overview</link>
+      <pubDate>Mon, 21 Sep 2026 17:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create and manage a deployment in Microsoft Intune - Microsoft Intune</title>
+      <description>Create, pause, resume, and cancel ring-based deployments of Intune apps and policies, and understand deleted-group behavior.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/create-deployment</link>
+      <pubDate>Mon, 21 Sep 2026 17:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -589,24 +607,6 @@
       <description>Plan how you'll group devices and users and target policies and applications.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/grouping-and-targeting</link>
       <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Apple mobile devices and tokens in Intune - Microsoft Intune</title>
-      <description>Sync devices, distribute devices, and re-enroll devices for Apple automated device enrollment on iOS/iPadOS in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-apple</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Walkthrough-Create a settings catalog policy - Microsoft Intune</title>
-      <description>This tutorial or walkthrough steps through creating and comparing an on-premises Administrative Templates (ADMX) Group Policy and Microsoft Intune cloud-based settings catalog policy. It shows similar settings in on-premises and the Intune settings catalog to create and manage policies for Office, Windows, and Microsoft Edge on Windows 10/11 client devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/tutorial-group-policy-migration</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
-      <pubDate>Wed, 22 Jul 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
