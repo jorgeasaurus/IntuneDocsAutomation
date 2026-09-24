@@ -6,12 +6,36 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 24 Sep 2026 06:04:40 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 06:04:40 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 12:03:50 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:03:50 GMT</lastBuildDate>
     <item>
       <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
       <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
+      <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
+      <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
+      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/ref-device-properties</link>
+      <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Started With the Microsoft Intune App SDK - Microsoft Intune</title>
+      <description>Quickly enable your mobile app for mobile application management (MAM) with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/app-sdk/quickstart-integration</link>
+      <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platforms and policy types supported by assignment filters - Microsoft Intune</title>
+      <description>Learn which apps, compliance policies, and device configuration profiles and their platforms support assignment filters in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/ref-supported-workloads</link>
       <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -169,12 +193,6 @@
       <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store</link>
       <pubDate>Fri, 11 Sep 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
-      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
-      <pubDate>Thu, 10 Sep 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Manage Microsoft Edge on iOS and Android With Intune - Microsoft Intune</title>
@@ -336,12 +354,6 @@
       <title>Troubleshoot and monitor Remote Help for Microsoft Intune. - Microsoft Intune</title>
       <description>Use the troubleshooting and monitoring information for Remote Help with Microsoft Intune to ensure healthy and successful deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/remote-help/troubleshoot</link>
-      <pubDate>Tue, 25 Aug 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assignment filter properties and operators reference - Microsoft Intune</title>
-      <description>Reference guide for device and app properties, operators, and rule syntax when creating assignment filters in Microsoft Intune. Includes examples and supported values.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/ref-device-properties</link>
       <pubDate>Tue, 25 Aug 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Create assignment filters in Microsoft Intune - Microsoft Intune</title>
       <description>Create assignment filters in Microsoft Intune to target policies based on device properties like OS version or manufacturer. Learn to create, update, and delete filters for managed devices and apps.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/overview</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
-      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/assign-device-profile</link>
       <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
