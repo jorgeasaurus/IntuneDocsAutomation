@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 23 Sep 2026 17:31:08 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 17:31:08 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 00:06:32 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:06:32 GMT</lastBuildDate>
+    <item>
+      <title>Create a policy using settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Use settings catalog in Microsoft Intune to configure thousands of settings for Windows 10/11, iOS/iPadOS, macOS, and Android client devices, including Microsoft Office apps, Microsoft Edge, administrative templates (ADMX), and more. Add these settings in a device configuration profile to secure devices, and control different programs and features. Use Microsoft Copilot to get What If analysis, and learn more about each setting.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/</link>
+      <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device features and settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Overview of the different Microsoft Intune device profiles. Get info on GPO, features, restrictions, email, wifi, VPN, education, certificates, upgrade Windows 10/11, BitLocker and Microsoft Defender, and custom device configuration settings in the Microsoft Intune admin center. Use these profiles to manage and protect data and devices in your company.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/overview</link>
+      <pubDate>Wed, 23 Sep 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third-party device compliance partners support in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/third-party-partners</link>
+      <pubDate>Wed, 23 Sep 2026 17:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
       <description>Create device compliance policies for Microsoft Intune.</description>
@@ -588,24 +606,6 @@
       <title>Assign device profiles in Microsoft Intune - Microsoft Intune</title>
       <description>Use the Microsoft Intune admin center to assign device configuration profiles and policies to users and devices. Learn how to exclude groups from a profile assignment in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/assign-device-profile</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
-      <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tenant-administration/add-groups</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Known Issues for Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>Configure policies that define how Endpoint Privilege Management functions in your tenant, and behaviors when elevating files to run in administrative context.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/troubleshoot-known-issues</link>
-      <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assignment Filter Performance Tips for Intune - Microsoft Intune</title>
-      <description>Optimize Microsoft Intune performance with assignment filters. Learn to use virtual groups, reuse groups, and apply filters effectively. Improve policy deployment speed with incremental group changes, and use assignment filters to include and exclude.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/filters/performance-recommendations</link>
       <pubDate>Fri, 24 Jul 2026 22:34:00 GMT</pubDate>
     </item>
   </channel>
