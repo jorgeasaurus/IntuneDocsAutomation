@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 29 Sep 2026 05:50:48 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 05:50:48 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 12:04:18 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:04:18 GMT</lastBuildDate>
     <item>
       <title>Wipe devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to wipe managed devices with Microsoft Intune, choose platform-specific reset options, and prepare devices for retirement, reuse, or recovery.</description>
@@ -255,6 +255,12 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device management - Microsoft Intune</title>
+      <description>Run remote actions, manage scripts and remediations, view device inventory, and export reports in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
       <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
@@ -303,15 +309,15 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Remove Passcode - Microsoft Intune</title>
-      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Play Lost Mode Sound - Microsoft Intune</title>
       <description>Learn how to use the Play lost device sound action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/play-lost-mode-sound</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Remove Passcode - Microsoft Intune</title>
+      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -468,12 +474,6 @@
       <title>Permissions, scope tags, and approvals for deployments in Microsoft Intune - Microsoft Intune</title>
       <description>Learn about RBAC permissions, scope tag behavior, and Multi Admin Approval for deployment plans and deployments in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/rbac-scope-tags</link>
-      <pubDate>Mon, 21 Sep 2026 17:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device management - Microsoft Intune</title>
-      <description>Run remote actions, manage scripts and remediations, view device inventory, and export reports in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/</link>
       <pubDate>Mon, 21 Sep 2026 17:40:00 GMT</pubDate>
     </item>
     <item>
