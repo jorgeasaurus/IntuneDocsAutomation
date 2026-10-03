@@ -6,8 +6,26 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 02 Oct 2026 18:03:24 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 18:03:24 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 23:22:41 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:22:41 GMT</lastBuildDate>
+    <item>
+      <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
+      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/overview</link>
+      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
+      <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/ref-corporate-methods</link>
+      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage system settings with Endpoint Privilege Management - Microsoft Intune</title>
+      <description>Use an elevation system settings policy with Endpoint Privilege Management to let standard users change network settings, like IPv4, IPv6, and DNS, that normally require administrator rights.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/manage-system-settings</link>
+      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure the Microsoft Managed Home Screen App - Microsoft Intune</title>
       <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
@@ -589,24 +607,6 @@
       <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/enable-connector</link>
       <pubDate>Fri, 04 Sep 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
-      <description>Review the prerequisites for installation and use of the Microsoft Tunnel Gateway. These include Linux servers, network, and firewall configurations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/prerequisites</link>
-      <pubDate>Thu, 03 Sep 2026 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequently Asked Questions About Windows Driver Update Policies - Microsoft Intune</title>
-      <description>This article provides answers to some frequently asked questions about Windows Driver Update Policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/driver-updates-faq</link>
-      <pubDate>Wed, 02 Sep 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Query - Microsoft Intune</title>
-      <description>Learn how to use device query in Microsoft Intune to get on-demand device state, run Kusto Query Language (KQL) queries, and troubleshoot devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/device-query</link>
-      <pubDate>Wed, 02 Sep 2026 17:33:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
