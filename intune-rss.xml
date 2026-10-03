@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 03 Oct 2026 06:07:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 06:07:00 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 12:42:35 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:42:35 GMT</lastBuildDate>
     <item>
       <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
@@ -15,9 +15,21 @@
       <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
+      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune - Microsoft Intune</title>
       <description>Learn how to enroll Android Enterprise dedicated, fully managed, or corporate-owned work profile devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/ref-corporate-methods</link>
+      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Data Platform Schema - Microsoft Intune</title>
+      <description>Review the Microsoft Intune data platform schema for device queries and inventory. Discover supported properties and data types to efficiently manage and report on your devices with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/advanced-analytics/ref-data-platform-schema</link>
       <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
     </item>
     <item>
@@ -423,12 +435,6 @@
       <pubDate>Fri, 25 Sep 2026 07:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
-      <pubDate>Thu, 24 Sep 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Understand Microsoft Intune Management Extension - Microsoft Intune</title>
       <description>Understand Microsoft Intune management extension for Windows.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/management-extension-windows</link>
@@ -601,12 +607,6 @@
       <description>Step 5. Create Settings Catalog policies for Microsoft Edge for Business on Windows and macOS.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/edge-data-security/settings-catalog-step-5</link>
       <pubDate>Thu, 10 Sep 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/enable-connector</link>
-      <pubDate>Fri, 04 Sep 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
