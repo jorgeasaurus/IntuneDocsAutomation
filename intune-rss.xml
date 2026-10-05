@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 05 Oct 2026 06:10:21 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 06:10:21 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 11:15:03 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:15:03 GMT</lastBuildDate>
     <item>
       <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
       <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
@@ -171,12 +171,6 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Fresh Start - Microsoft Intune</title>
       <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/fresh-start</link>
@@ -240,12 +234,6 @@
       <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/overview</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Remove Passcode - Microsoft Intune</title>
-      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -333,18 +321,6 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Play Lost Mode Sound - Microsoft Intune</title>
-      <description>Learn how to use the Play lost device sound action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/play-lost-mode-sound</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device management in Microsoft Intune - Microsoft Intune</title>
       <description>Understand how to manage enrolled devices from the Devices area of the Microsoft Intune admin center, including device details, actions, inventory, scripts, reports, and integrations.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/overview</link>
@@ -360,12 +336,6 @@
       <title>Device Action: Rotate FileVault Recovery Key - Microsoft Intune</title>
       <description>Learn how to rotate the FileVault recovery key with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-filevault-recovery-key</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Shutdown - Microsoft Intune</title>
-      <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/shutdown</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -387,9 +357,39 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
+      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Centrally manage Admin Tasks - Microsoft Intune</title>
       <description>Centrally manage admin tasks in Microsoft Intune. Use the unified Admin tasks view to organize and act on administrative tasks from Device Offboarding, Endpoint Privilege Management, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/governance/admin-tasks</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Shutdown - Microsoft Intune</title>
+      <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/shutdown</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Remove Passcode - Microsoft Intune</title>
+      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Play Lost Mode Sound - Microsoft Intune</title>
+      <description>Learn how to use the Play lost device sound action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/play-lost-mode-sound</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -417,15 +417,15 @@
       <pubDate>Fri, 25 Sep 2026 07:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
-      <pubDate>Fri, 25 Sep 2026 07:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage eSIM plans in Microsoft Intune - Microsoft Intune</title>
       <description>Activate and remove eSIM cellular plans on supported Apple and Android Enterprise devices with Microsoft Intune device actions.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/update-cellular-data-plan</link>
+      <pubDate>Fri, 25 Sep 2026 07:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
       <pubDate>Fri, 25 Sep 2026 07:36:00 GMT</pubDate>
     </item>
     <item>
