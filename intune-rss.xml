@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 08 Oct 2026 05:58:34 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 05:58:34 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 11:19:58 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:19:58 GMT</lastBuildDate>
     <item>
       <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
       <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
@@ -48,6 +48,12 @@
       <title>Deployment guide to manage iOS/iPadOS devices in Microsoft Intune - Microsoft Intune</title>
       <description>A guide to managing iOS/iPadOS devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/platform-guide-ios-ipados</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device enrollment - Microsoft Intune</title>
+      <description>Enroll devices in Microsoft Intune to manage and secure them with policies, profiles, and compliance settings across all major platforms.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -141,6 +147,12 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device security - Microsoft Intune</title>
+      <description>Manage device compliance, security baselines, Microsoft Defender integration, VPN tunnels, identity protection, and threat defense with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
       <description>Secure Exchange Online email on iOS devices by using Microsoft Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-enrolled-devices</link>
@@ -207,6 +219,12 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Graph APIs to Configure Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the Graph API entities with the matching Windows CSP and offset URI on Windows 10 devices and newer used when configuring devices in Microsoft Intune. See the matching API and CSP for shared PCs, endpoint protection, Microsoft Defender for Endpoint, identity protection, Windows 10 Teams, kiosk, and Windows Update client policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/ref-graph-api-csp-windows</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Intune shared device settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
       <description>Learn the Intune settings you can use to control settings for the Classroom app on shared iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios-shared</link>
@@ -240,6 +258,18 @@
       <title>Centrally manage Admin Tasks - Microsoft Intune</title>
       <description>Centrally manage admin tasks in Microsoft Intune. Use the unified Admin tasks view to organize and act on administrative tasks from Device Offboarding, Endpoint Privilege Management, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/governance/admin-tasks</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
+      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Developer resources - Microsoft Intune</title>
+      <description>Access Intune APIs, protect apps with the Intune App SDK, and report on device data with the Intune Data Warehouse.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -577,36 +607,6 @@
       <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/shutdown</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Play Lost Mode Sound - Microsoft Intune</title>
-      <description>Learn how to use the Play lost device sound action in Microsoft Intune to trigger an audible alert on a lost, stolen, or misplaced device—helping users locate it quickly and securely.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/play-lost-mode-sound</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Remove Passcode - Microsoft Intune</title>
-      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for Microsoft Intune - Microsoft Intune</title>
-      <description>Review endpoints for Intune. This page lists IP addresses and port settings needed for proxy settings in your Intune deployments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints</link>
-      <pubDate>Sat, 26 Sep 2026 07:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network endpoints for China deployments - Microsoft Intune</title>
-      <description>Review China endpoints for Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/endpoints-china</link>
-      <pubDate>Fri, 25 Sep 2026 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
-      <link>https://learn.microsoft.com/en-us/intune/remote-help/plan</link>
-      <pubDate>Fri, 25 Sep 2026 07:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
