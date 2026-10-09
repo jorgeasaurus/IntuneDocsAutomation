@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 08 Oct 2026 17:03:23 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 17:03:23 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 00:07:57 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:07:57 GMT</lastBuildDate>
+    <item>
+      <title>Get an Apple MDM Push certificate for Intune - Microsoft Intune</title>
+      <description>Get an Apple MDM Push certificate to manage iOS/iPadOS devices with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/create-mdm-push-certificate</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Android FOTA updates with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Integrate Samsung Knox E-FOTA with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to integrate Samsung Knox E-FOTA with Microsoft Intune to register Samsung devices, configure firmware updates, and monitor campaigns.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-samsung-knox</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Sign Up for Microsoft Intune Free Trial Setup Guide - Microsoft Intune</title>
       <description>Sign up for a Microsoft Intune free trial and configure your tenant. Learn the setup process, prerequisites, and how to configure domain names. Start evaluating Intune today.</description>
@@ -582,30 +606,6 @@
       <title>Device Action: Restore Managed Home Screen - Microsoft Intune</title>
       <description>Learn how to restore the Managed Home Screen with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/restore-managed-home-screen</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Edit device properties in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to edit the modifiable properties of a managed device on the Properties tab in the Microsoft Intune admin center, including the device name, ownership, primary user, notes, and scope tags.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/edit-device-properties</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device management - Microsoft Intune</title>
-      <description>Run remote actions, manage scripts and remediations, view device inventory, and export reports in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Shutdown - Microsoft Intune</title>
-      <description>Learn how to shutdown Apple devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/shutdown</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
