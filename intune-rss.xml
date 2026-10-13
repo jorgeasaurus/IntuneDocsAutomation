@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 12 Oct 2026 17:28:20 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 17:28:20 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:08:00 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune Licensing Plans and Options - Microsoft Intune</title>
+      <description>Microsoft Intune licensing options, plans, and the capabilities included with each Intune plan and Microsoft 365 license tier.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/licensing</link>
+      <pubDate>Mon, 12 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop multi-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop multi-session with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop-multi-session</link>
+      <pubDate>Mon, 12 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Mon, 12 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
+      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-managed-google-play</link>
+      <pubDate>Mon, 12 Oct 2026 17:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Plan for Remote Help with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the requirements and capabilities of Remote Help with Microsoft Intune on Windows, macOS, and Android Enterprise.</description>
@@ -321,12 +345,6 @@
       <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
       <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
@@ -378,12 +396,6 @@
       <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-ios</link>
-      <pubDate>Wed, 30 Sep 2026 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add and Assign Managed Google Play Apps to Android Enterprise Devices - Microsoft Intune</title>
-      <description>Understand how to synchronize and assign apps to Android Enterprise devices from the Managed Google Play store.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-managed-google-play</link>
       <pubDate>Wed, 30 Sep 2026 17:35:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Device Action: Logout Current User - Microsoft Intune</title>
       <description>Learn how to use the logout the current user from a Shared iPad with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/logout-user</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Quick Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender quick scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/quick-scan</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Edit device properties in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to edit the modifiable properties of a managed device on the Properties tab in the Microsoft Intune admin center, including the device name, ownership, primary user, notes, and scope tags.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/edit-device-properties</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
