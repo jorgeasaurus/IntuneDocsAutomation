@@ -6,8 +6,32 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 16 Oct 2026 18:03:04 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 18:03:04 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 23:12:23 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:12:23 GMT</lastBuildDate>
+    <item>
+      <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
+      <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/deployment-planning</link>
+      <pubDate>Fri, 16 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating elevation rules with Endpoint Privilege Management - Microsoft Intune</title>
+      <description>View guidance on how to create strong file elevation rules with Microsoft Intune Endpoint Privilege Management</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/create-elevation-rules</link>
+      <pubDate>Fri, 16 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Managing Elevation Settings for Endpoint Privilege Management - Microsoft Intune</title>
+      <description>View guidance on how to manage the Endpoint Privilege Management client, including reporting level and default elevation response.</description>
+      <link>https://learn.microsoft.com/en-us/intune/epm/manage-elevation-settings</link>
+      <pubDate>Fri, 16 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Integrate Samsung Knox E-FOTA with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to integrate Samsung Knox E-FOTA with Microsoft Intune to register Samsung devices, configure firmware updates, and monitor campaigns.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-samsung-knox</link>
+      <pubDate>Fri, 16 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Third-party device compliance partners support in Microsoft Intune - Microsoft Intune</title>
       <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
@@ -66,12 +90,6 @@
       <title>Manage Android FOTA updates with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
-      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Integrate Samsung Knox E-FOTA with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to integrate Samsung Knox E-FOTA with Microsoft Intune to register Samsung devices, configure firmware updates, and monitor campaigns.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/setup-samsung-knox</link>
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Microsoft Intune endpoint security disk encryption policy - Microsoft Intune</title>
       <description>Configure and deploy Microsoft Intune endpoint security policy disk encryption policies for BitLocker and FileVault.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/disk-encryption</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Suspend Managed Home Screen - Microsoft Intune</title>
-      <description>Learn how to suspend the Managed Home Screen with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/suspend-managed-home-screen</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device management in Microsoft Intune - Microsoft Intune</title>
-      <description>Understand how to manage enrolled devices from the Devices area of the Microsoft Intune admin center, including device details, actions, inventory, scripts, reports, and integrations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/overview</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Full Scan - Microsoft Intune</title>
-      <description>Learn how to initiate on demand Microsoft Defender full scan with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/full-scan</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
