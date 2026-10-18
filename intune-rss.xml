@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 18 Oct 2026 06:03:44 GMT</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 06:03:44 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 12:03:23 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:03:23 GMT</lastBuildDate>
     <item>
       <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
       <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
@@ -87,15 +87,15 @@
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Android FOTA updates with Microsoft Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
-      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
       <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Android FOTA updates with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -243,9 +243,21 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
       <description>Secure Exchange Online email on iOS devices by using Microsoft Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-enrolled-devices</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
+      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -267,9 +279,21 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/monitor-encryption</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What is Intune for Education? - Microsoft Intune</title>
       <description>Learn about Intune for Education and how it is different from the full Intune management experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/overview</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -279,27 +303,21 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/monitor-encryption</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Overview of Microsoft Surface Management Portal - Microsoft Intune</title>
       <description>Learn more about the features and capabilities of Microsoft Surface Management Portal.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/surface-management-portal</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add or configure education settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Take a Test app in a device configuration profile on Windows devices in Microsoft Intune. Create a configuration profile using the Education settings, and enter a test app URL, choose how users sign-in, monitor the screen during the test, and allow or prevent text suggestions during the test.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-education-settings</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Intune settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
       <description>Learn the Intune settings you can use to control settings for the Classroom app on iOS/iPadOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add or configure education settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Take a Test app in a device configuration profile on Windows devices in Microsoft Intune. Create a configuration profile using the Education settings, and enter a test app URL, choose how users sign-in, monitor the screen during the test, and allow or prevent text suggestions during the test.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-education-settings</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -315,39 +333,21 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intune shared device settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
-      <description>Learn the Intune settings you can use to control settings for the Classroom app on shared iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios-shared</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Centrally manage Admin Tasks - Microsoft Intune</title>
       <description>Centrally manage admin tasks in Microsoft Intune. Use the unified Admin tasks view to organize and act on administrative tasks from Device Offboarding, Endpoint Privilege Management, and more.</description>
       <link>https://learn.microsoft.com/en-us/intune/governance/admin-tasks</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
+      <title>Intune shared device settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
+      <description>Learn the Intune settings you can use to control settings for the Classroom app on shared iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios-shared</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Set up Trustd Mobile Threat Defense integration with Intune - Microsoft Intune</title>
       <description>How to set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-trustd-mobile</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
-      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -369,15 +369,15 @@
       <pubDate>Tue, 06 Oct 2026 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
-      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
-      <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
       <description>Review the default settings in each Microsoft Intune Windows security baseline version and compare recommended configurations for managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
+      <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
+      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
       <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -453,21 +453,15 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Collect Device Properties With Intune Properties Catalog - Microsoft Intune</title>
-      <description>Use Microsoft Intune properties catalog to collect device properties—including hardware, registry values, and security signals—from Windows devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/collect-device-properties</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Encrypt Windows devices with BitLocker using Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune policy to manage BitLocker encryption on Windows devices, including silent encryption and Personal Data Encryption.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-bitlocker-windows</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Actions - Wipe, Lock, Locate, and More - Microsoft Intune</title>
-      <description>Discover how to use Microsoft Intune to remotely manage, wipe, lock, restart, and secure Android, iOS/iPadOS, tvOS, visionOS, macOS, Windows, and ChromeOS devices. Learn about available device actions, prerequisites, and bulk actions for IT admins.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/</link>
+      <title>Collect Device Properties With Intune Properties Catalog - Microsoft Intune</title>
+      <description>Use Microsoft Intune properties catalog to collect device properties—including hardware, registry values, and security signals—from Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/collect-device-properties</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -519,6 +513,12 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
+      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Device Action: Fresh Start - Microsoft Intune</title>
       <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/fresh-start</link>
@@ -537,15 +537,15 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Reset Passcode - Microsoft Intune</title>
       <description>Learn how to reset a passcode with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/reset-passcode</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -561,9 +561,21 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Rename a device in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to rename a single managed device or rename devices in bulk from the Microsoft Intune admin center, including platform-specific naming rules.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/rename-device</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/overview</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Action: Remove Passcode - Microsoft Intune</title>
+      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
@@ -585,12 +597,6 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rename a device in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to rename a single managed device or rename devices in bulk from the Microsoft Intune admin center, including platform-specific naming rules.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/rename-device</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
       <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-recovery-lock-macos</link>
@@ -600,12 +606,6 @@
       <title>Device Action: Restart - Microsoft Intune</title>
       <description>Learn how to restart managed devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/restart</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune endpoint security disk encryption policy - Microsoft Intune</title>
-      <description>Configure and deploy Microsoft Intune endpoint security policy disk encryption policies for BitLocker and FileVault.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/disk-encryption</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
