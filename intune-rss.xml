@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 19 Oct 2026 06:05:55 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 06:05:55 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 12:04:11 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:04:11 GMT</lastBuildDate>
     <item>
       <title>Plan and Prepare for Endpoint Privilege Management Deployment - Microsoft Intune</title>
       <description>Plan your Endpoint Privilege Management deploying by understanding requirements, fundamentals, and security recommendations.</description>
@@ -87,15 +87,15 @@
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
-      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Android FOTA updates with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -243,21 +243,9 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
       <description>Secure Exchange Online email on iOS devices by using Microsoft Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-enrolled-devices</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
-      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -288,12 +276,6 @@
       <title>What is Intune for Education? - Microsoft Intune</title>
       <description>Learn about Intune for Education and how it is different from the full Intune management experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/overview</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -345,9 +327,27 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up Trustd Mobile Threat Defense integration with Intune - Microsoft Intune</title>
       <description>How to set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-trustd-mobile</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
+      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -513,12 +513,6 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Disable Activation Lock - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune to disable Activation Lock on Apple devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/disable-activation-lock</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Fresh Start - Microsoft Intune</title>
       <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/fresh-start</link>
@@ -573,12 +567,6 @@
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Remove Passcode - Microsoft Intune</title>
-      <description>Microsoft Intune remove passcode action helps you unlock devices remotely when users forget their passcodes. Discover how to use this feature.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/remove-passcode</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Device Action: Rotate local admin password - Microsoft Intune</title>
       <description>Learn how to rotate the local admin password on Windows and macOS devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-local-admin-password</link>
@@ -606,6 +594,18 @@
       <title>Device Action: Restart - Microsoft Intune</title>
       <description>Learn how to restart managed devices with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/restart</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device management in Microsoft Intune - Microsoft Intune</title>
+      <description>Understand how to manage enrolled devices from the Devices area of the Microsoft Intune admin center, including device details, actions, inventory, scripts, reports, and integrations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/overview</link>
+      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune endpoint security disk encryption policy - Microsoft Intune</title>
+      <description>Configure and deploy Microsoft Intune endpoint security policy disk encryption policies for BitLocker and FileVault.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/disk-encryption</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
