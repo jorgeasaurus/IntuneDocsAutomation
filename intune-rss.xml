@@ -6,13 +6,43 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Thu, 22 Oct 2026 06:04:24 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 06:04:24 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 11:38:06 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:38:06 GMT</lastBuildDate>
+    <item>
+      <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
+      <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-migration</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Protection Framework Using App Protection Policies - Microsoft Intune</title>
+      <description>Learn how app protection policies ensure an organization's data remains safe or contained in a managed app, regardless of whether the device is enrolled.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/data-protection-framework</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use imported PFX certificates in Microsoft Intune - Microsoft Intune</title>
+      <description>Use imported Public Key Cryptography Standards (PKCS) certificates with Microsoft Intune. Import certificates, configure certificate templates, and create an Imported PKCS Certificate profile.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/certificates/imported-pfx-profiles</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Settings Configuration for Apple Devices - Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to use the Microsoft Intune settings catalog to configure Apple's app settings declaration, including app launch controls and macOS binary execution controls.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/apple-ddm-app-settings</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
       <pubDate>Wed, 21 Oct 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
+      <description>This article provides lists of support partner and Microsoft apps that are commonly used with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/ref-protected-apps</link>
+      <pubDate>Wed, 21 Oct 2026 12:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Device Action: Run Remediation - Microsoft Intune</title>
@@ -576,36 +606,6 @@
       <title>Rename a device in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to rename a single managed device or rename devices in bulk from the Microsoft Intune admin center, including platform-specific naming rules.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/rename-device</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protect data and devices with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about the Intune capabilities that can help you protect your devices and data against unauthorized access and other threats.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/overview</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Rotate local admin password - Microsoft Intune</title>
-      <description>Learn how to rotate the local admin password on Windows and macOS devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-local-admin-password</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: BitLocker Key Rotation - Microsoft Intune</title>
-      <description>Learn how to rotate the BitLocker recovery key with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/rotate-bitlocker-keys</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Recovery Lock using the settings catalog - Microsoft Intune</title>
-      <description>Add or create settings using the settings catalog to configure Recovery Lock on macOS devices. Use Recovery Lock to help protect your macOS devices against unauthorized reinstallation and wiping. Using Microsoft Intune, you can configure Recovery Lock settings, and deploy these settings to macOS devices in your organization.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-recovery-lock-macos</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Restart - Microsoft Intune</title>
-      <description>Learn how to restart managed devices with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/restart</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
