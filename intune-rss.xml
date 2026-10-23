@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 23 Oct 2026 05:58:55 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 05:58:55 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 11:22:32 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:22:32 GMT</lastBuildDate>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Fri, 23 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Migration guide to Microsoft Intune - Microsoft Intune</title>
       <description>Deployment guide to set up, onboard, or move to Intune. These steps include moving from partner MDM providers, using co-management, moving from on-premises group policy, and moving from Office 365 device management.</description>
@@ -33,10 +39,28 @@
       <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>What's new in Microsoft Intune - Microsoft Intune</title>
-      <description>Find out what's new in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Wed, 21 Oct 2026 22:33:00 GMT</pubDate>
+      <title>How to Use Microsoft Entra ID to Access Intune APIs in Microsoft Graph - Microsoft Intune</title>
+      <description>Describes steps needed for apps to use Microsoft Entra ID to access the Intune APIs in Microsoft Graph.</description>
+      <link>https://learn.microsoft.com/en-us/intune/developer/configure-graph-api-access</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS supervised device security configurations - Microsoft Intune</title>
+      <description>Review example supervised device security configurations of basic, enhanced, and high security for iOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-configurations/ios-ipados-supervised</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS device compliance security configurations - Microsoft Intune</title>
+      <description>Review example device compliance configurations of basic, enhanced, and high security for iOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-configurations/ios-ipados-compliance</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS personal device security configurations - Microsoft Intune</title>
+      <description>Review example personal device security configurations of basic, enhanced, and high security for iOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-configurations/ios-ipados-personal</link>
+      <pubDate>Thu, 22 Oct 2026 07:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Supported Microsoft Intune Apps - Microsoft Intune</title>
@@ -582,30 +606,6 @@
       <title>Device Action: Reset Passcode - Microsoft Intune</title>
       <description>Learn how to reset a passcode with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/reset-passcode</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to manage endpoint security in Microsoft Intune. Configure security policies, deploy baselines, and integrate with Defender for Endpoint to protect devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-policies</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Autopilot Reset - Microsoft Intune</title>
-      <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/autopilot-reset</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Lost Mode - Microsoft Intune</title>
-      <description>Learn how to enable Lost Mode in Microsoft Intune to remotely lock a lost or stolen iOS or iPadOS device and display a custom message and phone number on the lock screen.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/lost-mode</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rename a device in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to rename a single managed device or rename devices in bulk from the Microsoft Intune admin center, including platform-specific naming rules.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/inventory-and-status/rename-device</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
