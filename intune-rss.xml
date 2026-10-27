@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 26 Oct 2026 17:14:29 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 17:14:29 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 00:06:22 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:06:22 GMT</lastBuildDate>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
+      <pubDate>Mon, 26 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Managed Android Apps with Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune app configuration policies to supply settings to Managed Google Play, Android LOB, and AOSP referenced apps on managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-android</link>
+      <pubDate>Mon, 26 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use OEMConfig on Android Enterprise devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use Microsoft Intune to manage and use devices running Android Enterprise with OEMConfig. See all the steps, including an overview, see the prerequisites, create the configuration profile in Intune, and see a list of supported OEMConfig apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-oemconfig-android</link>
+      <pubDate>Mon, 26 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure VPN settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create a VPN configuration profile on iOS/iPadOS and macOS devices using virtual private network (VPN) configuration settings in Microsoft Intune. Configure the connection details, authentication methods, split tunneling, custom VPN settings with the identifier, key and value pairs, per-app VPN settings that include Safari URLs, and on-demand VPNs with SSIDs or DNS search domains, proxy settings to include a configuration script, IP or FQDN address, and TCP port.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-vpn-settings-apple</link>
+      <pubDate>Mon, 26 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Certificate Connector for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about the unified Certificate Connector for Microsoft Intune, which supports SCEP, PKCS, imported PKCS, and certificate revocation.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/certificates/connector/overview</link>
+      <pubDate>Mon, 26 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage AOSP Referenced Apps in Microsoft Intune - Microsoft Intune</title>
+      <description>Add AOSP referenced apps by package name in Microsoft Intune. Assign Required or Uninstall intent to unhide or hide device-resident apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/manage-referenced-apps-aosp</link>
+      <pubDate>Mon, 26 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Understanding Microsoft Intune Management Agent for macOS - Microsoft Intune</title>
       <description>Learn about the Microsoft Intune management agent for macOS.</description>
@@ -507,12 +543,6 @@
       <pubDate>Thu, 01 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>In development - Microsoft Intune</title>
-      <description>This article describes Microsoft Intune features that are in development.</description>
-      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
-      <pubDate>Thu, 01 Oct 2026 07:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up automated device enrollment (ADE) for iOS/iPadOS - Microsoft Intune</title>
       <description>Learn how to enroll corporate-owned iOS/iPadOS devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-ios</link>
@@ -576,36 +606,6 @@
       <title>Device Action: Retire - Microsoft Intune</title>
       <description>Learn how to retire device using Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/actions/retire</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Collect Diagnostics - Microsoft Intune</title>
-      <description>Learn how to collect diagnostics with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/collect-diagnostics</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Locate Device - Microsoft Intune</title>
-      <description>Locate lost or stolen devices by using the locate device feature in Microsoft Intune. Get details on security and privacy information when using the locate device action.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/locate</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create and assign device categories in Microsoft Intune - Microsoft Intune</title>
-      <description>Create device categories in Microsoft Intune, use them to populate dynamic Microsoft Entra security groups, and assign a category to a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encrypt macOS devices with FileVault using Intune - Microsoft Intune</title>
-      <description>Use Microsoft Intune policy to configure and manage FileVault disk encryption on macOS devices, including Setup Assistant enforcement and comprehensive recovery key management.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/encrypt-filevault-macos</link>
-      <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device Action: Fresh Start - Microsoft Intune</title>
-      <description>Learn how to use Fresh Start to remove or uninstall apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/fresh-start</link>
       <pubDate>Mon, 28 Sep 2026 17:34:00 GMT</pubDate>
     </item>
   </channel>
