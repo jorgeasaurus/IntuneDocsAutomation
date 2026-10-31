@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 31 Oct 2026 05:12:11 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 05:12:11 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 12:01:38 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:01:38 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -45,6 +45,12 @@
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-apple</link>
+      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manage Apple Volume-Purchased Apps - Microsoft Intune</title>
       <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-vpp-apple</link>
@@ -78,6 +84,12 @@
       <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/planning-guide-ios-ipados</link>
+      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device updates - Microsoft Intune</title>
+      <description>Manage OS, driver, and firmware updates for Windows, Apple, and Android devices with Microsoft Intune update policies and rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -595,18 +607,6 @@
       <description>Review the default settings in each Microsoft Intune Windows security baseline version and compare recommended configurations for managed devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
       <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Intune security baselines for Windows devices - Microsoft Intune</title>
-      <description>Deploy security baselines that have preset and recommended configurations to the Windows devices you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/overview</link>
-      <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Factory Reset Protection Emails Not Enforced in Intune for Android - Intune</title>
-      <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
-      <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
-      <pubDate>Mon, 05 Oct 2026 18:05:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
