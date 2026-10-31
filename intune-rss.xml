@@ -6,24 +6,36 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 30 Oct 2026 18:01:29 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 18:01:29 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 00:03:39 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:03:39 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
-      <pubDate>Fri, 30 Oct 2026 07:35:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage endpoint security policies in Microsoft Intune - Microsoft Intune</title>
-      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-policies</link>
-      <pubDate>Fri, 30 Oct 2026 07:35:00 GMT</pubDate>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/upgrade</link>
+      <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Security Technical Implementation Guide audit baselines to assess Windows device compliance in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to use the Security Technical Implementation Guide security baseline in Microsoft Intune to assess Windows device compliance against Security Technical Implementation Guide recommendations for Department of Defense organizations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/stig-audit-baseline</link>
+      <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage endpoint security policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Security Administrators can use the Endpoint Security policies and profiles to focus on security configuration of devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-policies</link>
       <pubDate>Fri, 30 Oct 2026 07:35:00 GMT</pubDate>
     </item>
     <item>
@@ -595,18 +607,6 @@
       <description>Describes an issue in which an Android Enterprise device can be activated by using a Google account that isn't included in the "Factory reset protection emails" setting.</description>
       <link>https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/factory-reset-protection-emails-not-enforced</link>
       <pubDate>Mon, 05 Oct 2026 18:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about using Endpoint Privilege Management with Microsoft Intune - Microsoft Intune</title>
-      <description>To enhance the security of your organization, set your users to run with standard permissions while Endpoint Privilege Management ensures those users can seamlessly run specified files with elevated rights.</description>
-      <link>https://learn.microsoft.com/en-us/intune/epm/overview</link>
-      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
-      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
-      <pubDate>Fri, 02 Oct 2026 22:37:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
