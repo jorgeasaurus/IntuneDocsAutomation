@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 01 Nov 2026 06:02:34 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 06:02:34 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 12:01:46 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:01:46 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -15,15 +15,15 @@
       <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
-      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/upgrade</link>
-      <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use Security Technical Implementation Guide audit baselines to assess Windows device compliance in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to use the Security Technical Implementation Guide security baseline in Microsoft Intune to assess Windows device compliance against Security Technical Implementation Guide recommendations for Department of Defense organizations.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/stig-audit-baseline</link>
+      <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upgrade the Microsoft Tunnel Gateway server software - Microsoft Intune</title>
+      <description>Understand how Microsoft Tunnel Gateway upgrades to new versions of the tunnel software for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-tunnel/upgrade</link>
       <pubDate>Fri, 30 Oct 2026 22:33:00 GMT</pubDate>
     </item>
     <item>
@@ -45,15 +45,27 @@
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage Apple Volume-Purchased Apps - Microsoft Intune</title>
+      <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-vpp-apple</link>
+      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-apple</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Apple Volume-Purchased Apps - Microsoft Intune</title>
-      <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-vpp-apple</link>
+      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -93,33 +105,21 @@
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple School Manager - create enrollment policy - Microsoft Intune</title>
-      <description>Learn how to create the enrollment policy in Intune for Apple School Manager enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/school-manager-step-2</link>
-      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure and secure devices with Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to configure policies with Microsoft Intune in preparation for device deployment.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/tutorial-school-deployment/configure-settings</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <title>Apple School Manager - create enrollment policy - Microsoft Intune</title>
+      <description>Learn how to create the enrollment policy in Intune for Apple School Manager enrollment.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/school-manager-step-2</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
       <title>iOS/iPadOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
       <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-ios-ipados</link>
-      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -423,15 +423,15 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Use the latest TeamViewer integration in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to use the latest TeamViewer integration in Microsoft Intune to initiate remote assistance sessions for managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/setup-teamviewer</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Send Email Notifications to Noncompliant Devices - Microsoft Intune</title>
       <description>Learn how to create notification templates and send email alerts to users with noncompliant devices in Microsoft Intune. Configure actions for noncompliance.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-noncompliance-notification</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use the latest TeamViewer integration in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to use the latest TeamViewer integration in Microsoft Intune to initiate remote assistance sessions for managed devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/setup-teamviewer</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -459,6 +459,18 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
+      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/monitor-encryption</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device security - Microsoft Intune</title>
+      <description>Manage device compliance, security baselines, Microsoft Defender integration, VPN tunnels, identity protection, and threat defense with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Zero Trust deployment approach with Microsoft Intune - Microsoft Intune</title>
       <description>Learn the recommended seven-layer deployment progression for implementing Zero Trust device security with Microsoft Intune, from app protection to endpoint data loss prevention.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/zero-trust-deployment</link>
@@ -471,15 +483,9 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device security - Microsoft Intune</title>
-      <description>Manage device compliance, security baselines, Microsoft Defender integration, VPN tunnels, identity protection, and threat defense with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/monitor-encryption</link>
+      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -495,21 +501,15 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
-      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
       <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/help-desk-operators</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
+      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
+      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -519,15 +519,15 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/scale-guidelines</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What is Intune for Education? - Microsoft Intune</title>
       <description>Learn about Intune for Education and how it is different from the full Intune management experience.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/education/overview</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distributed IT with multiple admins - Microsoft Intune</title>
+      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/scale-guidelines</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
