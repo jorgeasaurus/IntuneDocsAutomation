@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 02 Nov 2026 06:03:22 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 06:03:22 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 11:22:31 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:22:31 GMT</lastBuildDate>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -54,18 +54,6 @@
       <title>Apple device restriction settings in Microsoft Intune - Microsoft Intune</title>
       <description>Add, configure, or create settings on iOS, iPadOS, and macOS devices to restrict features in Microsoft Intune. Create password requirements, control the locked screen, use built-in apps, add restricted or approved apps, handle bluetooth devices, connect to the cloud for backup and storage, enable kiosk mode, add domains, and control how users interact with the Safari web browser.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-apple</link>
-      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
-      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -117,9 +105,21 @@
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>iOS/iPadOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
       <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-ios-ipados</link>
+      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
@@ -321,15 +321,15 @@
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
-      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
-      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Android FOTA updates with Microsoft Intune - Microsoft Intune</title>
       <description>Use Microsoft Intune to manage firmware updates on Android devices. A FOTA update can include software and security patches, feature updates, and other changes to the device's firmware.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/android/manage-fota</link>
+      <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Government Service overview - Microsoft Intune</title>
+      <description>Learn more about the Intune government service offerings and features. This article is designed to serve as an overview of the Microsoft Intune offering for government community cloud (GCC) High and United States Department of Defense (DoD) environments.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/government-service</link>
       <pubDate>Thu, 08 Oct 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
@@ -483,18 +483,6 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
       <description>Secure Exchange Online email on iOS devices by using Microsoft Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-enrolled-devices</link>
@@ -504,12 +492,6 @@
       <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
       <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/help-desk-operators</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
-      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
@@ -579,9 +561,27 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Set up Trustd Mobile Threat Defense integration with Intune - Microsoft Intune</title>
       <description>How to set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-trustd-mobile</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Password Compliance Policy for Android Enterprise - Microsoft Intune</title>
+      <description>Create a password compliance policy in Microsoft Intune for Android Enterprise devices. Learn to require specific password lengths to meet your organization's security requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/quickstart-password-compliance-android</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
