@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 02 Nov 2026 17:36:38 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 17:36:38 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 00:04:16 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:04:16 GMT</lastBuildDate>
+    <item>
+      <title>Learn about using Intune to manage Microsoft Defender settings on devices that aren't enrolled with Intune - Microsoft Intune</title>
+      <description>Learn how to use Intune policy to manage Microsoft Defender security settings on devices that aren't enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/security-settings-management</link>
+      <pubDate>Mon, 02 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-powershell-scripts-windows</link>
+      <pubDate>Mon, 02 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>In development - Microsoft Intune</title>
       <description>This article describes Microsoft Intune features that are in development.</description>
@@ -595,18 +607,6 @@
       <description>Access Intune APIs, protect apps with the Intune App SDK, and report on device data with the Intune Data Warehouse.</description>
       <link>https://learn.microsoft.com/en-us/intune/developer/</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enable Mobile Threat Defense connector in Microsoft Intune - Microsoft Intune</title>
-      <description>Enable the connector between your Mobile Threat Defense (MTD) partner and Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/enable-connector</link>
-      <pubDate>Tue, 06 Oct 2026 17:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Default configuration of Intune's Windows security baselines - Microsoft Intune</title>
-      <description>Review the default settings in each Microsoft Intune Windows security baseline version and compare recommended configurations for managed devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/ref-windows-mdm-settings</link>
-      <pubDate>Mon, 05 Oct 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
