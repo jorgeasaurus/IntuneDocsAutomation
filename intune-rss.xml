@@ -6,8 +6,74 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 06 Nov 2026 17:27:37 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 17:27:37 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 00:03:32 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:03:32 GMT</lastBuildDate>
+    <item>
+      <title>Deployment plans and deployments overview in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how deployment plans and deployments provide gradual, controlled, ring-based rollouts of apps and policies in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/overview</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bulk enrollment for Windows devices - Microsoft Intune</title>
+      <description>Create a bulk enrollment package for Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/windows/create-bulk-package</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune Reports - Microsoft Intune</title>
+      <description>Intune provides specific report types with focused views that contain consistent and timely data.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/overview</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
+      <description>Learn about Intune reports and properties provided via Graph API.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/ref-graph-available-reports</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Graph APIs to Export Intune Reports - Microsoft Intune</title>
+      <description>Learn about exporting Intune reports using Graph APIs.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/export-graph-apis</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
+      <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a deployment plan in Microsoft Intune - Microsoft Intune</title>
+      <description>Create a reusable deployment plan with rings, groups, assignment filters, timing, exclusions, and scope tags in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/create-deployment-plan</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get started with macOS endpoints - Microsoft Intune</title>
+      <description>Microsoft Intune guide to set up and configure macOS devices from setup to creating policies and enrolling devices. You secure your corporate and organization-owned endpoints that are enrolled in Intune, and then deploy at scale with Apple Business Manager or Apple School Manager.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/end-to-end-guides/macos-endpoints-get-started</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security update status dashboard - Microsoft Intune</title>
+      <description>Learn how the Security update status dashboard helps administrators assess update risk, investigate gaps, and prioritize remediation across supported workloads.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-update-status-dashboard</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Set up cloud-native Windows endpoints with Microsoft Intune - Microsoft Intune</title>
+      <description>Step-by-step tutorial to set up a cloud-native Windows endpoint - Microsoft Entra joined, Intune enrolled, secured, and deployed with Windows Autopilot.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/tutorial-cloud-native-setup</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create and manage a deployment in Microsoft Intune - Microsoft Intune</title>
+      <description>Create, pause, resume, and cancel ring-based deployments of Intune apps and policies, and understand deleted-group behavior.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/create-deployment</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use Security Technical Implementation Guide audit baselines to assess Windows device compliance in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to use the Security Technical Implementation Guide security baseline in Microsoft Intune to assess Windows device compliance against Security Technical Implementation Guide recommendations for Department of Defense organizations.</description>
@@ -483,12 +549,6 @@
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tutorial - Set up cloud-native Windows endpoints with Microsoft Intune - Microsoft Intune</title>
-      <description>Step-by-step tutorial to set up a cloud-native Windows endpoint - Microsoft Entra joined, Intune enrolled, secured, and deployed with Windows Autopilot.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/cloud-native-endpoints/tutorial-cloud-native-setup</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
       <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/monitor-encryption</link>
@@ -546,66 +606,6 @@
       <title>Settings insight - Microsoft Intune</title>
       <description>Settings insight provides peer benchmarking information during security baseline configuration, showing when organizations similar to yours use Microsoft's recommended default values.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-insight</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of Microsoft Surface Management Portal - Microsoft Intune</title>
-      <description>Learn more about the features and capabilities of Microsoft Surface Management Portal.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/surface-management-portal</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
-      <description>Learn the Intune settings you can use to control settings for the Classroom app on iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Centrally manage Admin Tasks - Microsoft Intune</title>
-      <description>Centrally manage admin tasks in Microsoft Intune. Use the unified Admin tasks view to organize and act on administrative tasks from Device Offboarding, Endpoint Privilege Management, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/governance/admin-tasks</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add or configure education settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Take a Test app in a device configuration profile on Windows devices in Microsoft Intune. Create a configuration profile using the Education settings, and enter a test app URL, choose how users sign-in, monitor the screen during the test, and allow or prevent text suggestions during the test.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-education-settings</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Block Apps with No Modern Authentication on Intune - Microsoft Intune</title>
-      <description>Learn about applications and modern authentication (MSAL) using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/conditional-access-integration/block-no-modern-auth</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Graph APIs to Configure Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>See a list of all the Graph API entities with the matching Windows CSP and offset URI on Windows 10 devices and newer used when configuring devices in Microsoft Intune. See the matching API and CSP for shared PCs, endpoint protection, Microsoft Defender for Endpoint, identity protection, Windows 10 Teams, kiosk, and Windows Update client policies.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/ref-graph-api-csp-windows</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intune shared device settings for the iOS/iPadOS Classroom app - Microsoft Intune</title>
-      <description>Learn the Intune settings you can use to control settings for the Classroom app on shared iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/ref-classroom-settings-ios-shared</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remotely administer devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Install the previous TeamViewer connector to remotely administer devices using Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/teamviewer-legacy</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage devices with endpoint security in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how Security Administrators can use the Endpoint Security node to view devices and manage them in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/endpoint-security-devices</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Trustd Mobile Threat Defense integration with Intune - Microsoft Intune</title>
-      <description>How to set up Trustd Mobile Threat Defense with Microsoft Intune to control mobile device access to your corporate resources.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/mobile-threat-defense/setup-trustd-mobile</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
