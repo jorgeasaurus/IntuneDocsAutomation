@@ -6,8 +6,14 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 07 Nov 2026 06:02:21 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 06:02:21 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 11:41:29 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:41:29 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Intune documentation - Microsoft Intune</title>
+      <description>Explore guides, tutorials, and references for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Deployment plans and deployments overview in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how deployment plans and deployments provide gradual, controlled, ring-based rollouts of apps and policies in Microsoft Intune.</description>
@@ -30,6 +36,12 @@
       <title>Intune Graph API - Reports and Properties - Microsoft Intune</title>
       <description>Learn about Intune reports and properties provided via Graph API.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/reports/ref-graph-available-reports</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
+      <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-apple-settings</link>
       <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
     </item>
     <item>
@@ -72,6 +84,36 @@
       <title>Create and manage a deployment in Microsoft Intune - Microsoft Intune</title>
       <description>Create, pause, resume, and cancel ring-based deployments of Intune apps and policies, and understand deleted-group behavior.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/create-deployment</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitor and troubleshoot - Microsoft Intune</title>
+      <description>Monitor, analyze, and troubleshoot Microsoft Intune deployments with Endpoint Analytics, Advanced Analytics, Remote Help, and reports.</description>
+      <link>https://learn.microsoft.com/en-us/intune/monitor-troubleshoot</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Known issues with deployments in Microsoft Intune - Microsoft Intune</title>
+      <description>Review known issues and limitations for deployments during public preview in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/known-issues</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Permissions, scope tags, and approvals for deployments in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn about RBAC permissions, scope tag behavior, and Multi Admin Approval for deployment plans and deployments in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/deployments/rbac-scope-tags</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Govern and administer - Microsoft Intune</title>
+      <description>Configure role-based access control, scope tags, audit logs, and privacy settings to govern and administer Microsoft Intune at scale.</description>
+      <link>https://learn.microsoft.com/en-us/intune/govern-administer</link>
+      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Graph APIs to Configure Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See a list of all the Graph API entities with the matching Windows CSP and offset URI on Windows 10 devices and newer used when configuring devices in Microsoft Intune. See the matching API and CSP for shared PCs, endpoint protection, Microsoft Defender for Endpoint, identity protection, Windows 10 Teams, kiosk, and Windows Update client policies.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/ref-graph-api-csp-windows</link>
       <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
     </item>
     <item>
@@ -564,48 +606,6 @@
       <title>Zero Trust deployment approach with Microsoft Intune - Microsoft Intune</title>
       <description>Learn the recommended seven-layer deployment progression for implementing Zero Trust device security with Microsoft Intune, from app protection to endpoint data loss prevention.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/zero-trust-deployment</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Use Microsoft Intune to protect Exchange Online email from unmanaged iOS devices - Microsoft Intune</title>
-      <description>Learn how to use Microsoft Intune app protection policies and Conditional Access to prevent unmanaged iOS devices from accessing Exchange Online.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-unmanaged-devices</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
-      <description>Secure Exchange Online email on iOS devices by using Microsoft Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-enrolled-devices</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Help Desk Troubleshooting Dashboard - Microsoft Intune</title>
-      <description>Help desk staff use the troubleshooting pane to solve users' technical problems.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/it-pro-support/help-desk-operators</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Microsoft Intune policies with tenant attached Configuration Manager devices - Microsoft Intune</title>
-      <description>Use tenant attach to add Configuration Manager devices to Microsoft Intune and then deploy Intune policies to those devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tenant-attach</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Intune for Education? - Microsoft Intune</title>
-      <description>Learn about Intune for Education and how it is different from the full Intune management experience.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/education/overview</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed IT with multiple admins - Microsoft Intune</title>
-      <description>Learn about scaling guidelines for Microsoft Intune when you have a large number of local admins who need to manage their own users/devices and policies within the same tenant. Use Microsoft Intune's Role Based Access Control to manage access.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/scale-guidelines</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settings insight - Microsoft Intune</title>
-      <description>Settings insight provides peer benchmarking information during security baseline configuration, showing when organizations similar to yours use Microsoft's recommended default values.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-insight</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
