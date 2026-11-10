@@ -6,8 +6,56 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 09 Nov 2026 17:36:04 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 17:36:04 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 00:03:38 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:03:38 GMT</lastBuildDate>
+    <item>
+      <title>Install the Certificate Connector for Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to install and configure the unified Certificate Connector for Microsoft Intune, which supports SCEP, PKCS, imported PKCS, and certificate revocation.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/certificates/connector/setup-connector</link>
+      <pubDate>Mon, 09 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure the Microsoft Managed Home Screen App - Microsoft Intune</title>
+      <description>Learn how to configure the Microsoft Managed Home Screen app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-managed-home-screen</link>
+      <pubDate>Mon, 09 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third-party device compliance partners support in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/third-party-partners</link>
+      <pubDate>Mon, 09 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Become a Microsoft Intune Mobile Device Management Partner - Microsoft Intune</title>
+      <description>Learn the eligibility criteria and application process for becoming a Microsoft Intune mobile device management (MDM) compliance partner.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/become-mobile-device-management-compliance-provider</link>
+      <pubDate>Mon, 09 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Authentication methods for Apple automated device enrollment - Microsoft Intune</title>
+      <description>Learn about authentication methods for Apple automated device enrollment in Intune include Company Portal and Setup Assistant.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/ref-automated-authentication-methods</link>
+      <pubDate>Mon, 09 Nov 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use custom compliance settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Manage custom compliance settings on managed devices by using JSON files and discovery scripts in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/custom-settings</link>
+      <pubDate>Mon, 09 Nov 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Shell Scripts on macOS Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Deploy shell scripts to macOS devices with Microsoft Intune. Configure run frequency, retries, and user context, then monitor results.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-shell-scripts-macos</link>
+      <pubDate>Mon, 09 Nov 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use Graph APIs to Export Intune Reports - Microsoft Intune</title>
+      <description>Export Intune reports with Microsoft Graph APIs. Learn how to submit export requests, check job status, and download report data as CSV or JSON files.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/export-graph-apis</link>
+      <pubDate>Mon, 09 Nov 2026 18:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Intune documentation - Microsoft Intune</title>
       <description>Explore guides, tutorials, and references for Microsoft Intune.</description>
@@ -42,12 +90,6 @@
       <title>Apple configuration list for Intune settings catalog - Microsoft Intune</title>
       <description>Use the Microsoft Intune settings catalog to add, configure, or restrict features on Apple devices. This article lists and describes the settings you can configure.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-apple-settings</link>
-      <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Graph APIs to Export Intune Reports - Microsoft Intune</title>
-      <description>Learn about exporting Intune reports using Graph APIs.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/reports/export-graph-apis</link>
       <pubDate>Fri, 06 Nov 2026 18:35:00 GMT</pubDate>
     </item>
     <item>
@@ -219,12 +261,6 @@
       <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Authentication methods for Apple automated device enrollment - Microsoft Intune</title>
-      <description>Describes the Intune-supported authentication methods you can use with automated device enrollment.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/ref-automated-authentication-methods</link>
-      <pubDate>Thu, 29 Oct 2026 22:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Overview of Apple Automated Device Enrollment for iOS/iPadOS in Intune - Microsoft Intune</title>
       <description>Learn about automated device enrollment (ADE) for Apple mobile devices in Microsoft Intune, including supported scenarios, key features, and how to get started.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/overview-automated-enrollment-apple</link>
@@ -391,12 +427,6 @@
       <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
       <pubDate>Mon, 19 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Third-party device compliance partners support in Microsoft Intune - Microsoft Intune</title>
-      <description>Use a third-party device compliance partner as a source of compliance data for devices you manage with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/third-party-partners</link>
-      <pubDate>Mon, 19 Oct 2026 17:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Prerequisites the Microsoft Tunnel VPN for Microsoft Intune - Microsoft Intune</title>
@@ -576,36 +606,6 @@
       <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
       <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/specialty-devices</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage device operating system versions with Intune - Microsoft Intune</title>
-      <description>Learn about the methods for managing device operating system versions supported by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/manage-os-versions</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Policy Sets - Microsoft Intune</title>
-      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/policy-sets</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View report details for encryption status of devices managed with Microsoft Intune - Microsoft Intune</title>
-      <description>Use the Microsoft Intune admin center to view reports for device encryption status across macOS FileVault and Windows BitLocker encrypted devices that you manage with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/monitor-encryption</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Device security - Microsoft Intune</title>
-      <description>Manage device compliance, security baselines, Microsoft Defender integration, VPN tunnels, identity protection, and threat defense with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/</link>
-      <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero Trust deployment approach with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn the recommended seven-layer deployment progression for implementing Zero Trust device security with Microsoft Intune, from app protection to endpoint data loss prevention.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/zero-trust-deployment</link>
       <pubDate>Wed, 07 Oct 2026 22:35:00 GMT</pubDate>
     </item>
   </channel>
