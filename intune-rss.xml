@@ -6,8 +6,20 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 14 Nov 2026 06:02:41 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 06:02:41 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 12:02:25 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:02:25 GMT</lastBuildDate>
+    <item>
+      <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
+      <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/deploy-remediations</link>
+      <pubDate>Sat, 14 Nov 2026 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sign up or Sign in to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/account-sign-up</link>
+      <pubDate>Sat, 14 Nov 2026 08:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>Device Enrollment Guide for Microsoft Intune - Microsoft Intune</title>
       <description>Enroll Android, Android Enterprise, iOS, iPadOS, Linux, macOS, and Windows devices in Intune. Decide which enrollment method to use.</description>
@@ -33,6 +45,12 @@
       <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
     </item>
     <item>
+      <title>Update Rings Policy Settings - Microsoft Intune</title>
+      <description>Reference article that lists all the settings for Windows Update rings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-update-ring-settings</link>
+      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
       <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-powershell-scripts-windows</link>
@@ -45,15 +63,15 @@
       <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>iOS/iPadOS Device Enrollment Guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-ios-ipados</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure local actions for Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Configure local actions in Microsoft Intune to run actions when supported events occur on managed Android devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-local-actions-android</link>
+      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS/iPadOS Device Enrollment Guide for Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-ios-ipados</link>
       <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
     </item>
     <item>
@@ -588,24 +606,6 @@
       <title>Update Windows BIOS features using DFCI MDM policies - Microsoft Intune</title>
       <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-dfci-windows</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Intune servicing information and details - Microsoft Intune</title>
-      <description>Learn more about the frequency of the Microsoft Intune service updates, the release cadence, and how to check your tenant release version.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/servicing-information</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Install Microsoft 365 Apps to macOS Devices Using Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how you can use Microsoft Intune to install Microsoft 365 apps on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-365-macos</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure a VPN or Per-App VPN for Android Enterprise Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Use an app configuration policy to add or create a VPN or per-app VPN profile for Android Enterprise devices in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-vpn-android</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
   </channel>
