@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 15 Nov 2026 06:02:39 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 11:32:09 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:32:09 GMT</lastBuildDate>
     <item>
       <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
       <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements.</description>
@@ -111,15 +111,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-win32</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Apple Volume-Purchased Apps - Microsoft Intune</title>
       <description>Learn how to sync apps you bought in volume through Apple Business Manager with Microsoft Intune. Then manage and track these apps on iOS/iPadOS and macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/manage-vpp-apple</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add and Assign Win32 Apps to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add, assign, and manage Win32 apps with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-win32</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -135,6 +135,18 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Set up automated device enrollment (ADE) for macOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Macs into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-macos</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS device enrollment guide for  Microsoft Intune - Microsoft Intune</title>
+      <description>Enroll macOS devices using device enrollment, automated device enrollment (DEP), and Apple Configurator enrollment options in Microsoft Intune. Decide which enrollment method to use, and get an overview of the administrator and end user tasks to enroll devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-macos</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Win32 App Management in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how to manage Win32 apps with Microsoft Intune. This article provides an overview of the Intune Win32 app delivery and management capabilities.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/win32</link>
@@ -147,15 +159,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
-      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add Microsoft Store Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding Microsoft Store apps to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-microsoft-store</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Planning guide to move to Microsoft Intune - Microsoft Intune</title>
+      <description>Plan, design, implement, adopt, and move to Microsoft Intune. Get guidance and advice to determine goals, use-case scenarios and requirements, and create rollout and communication plans, support, testing, and validation plans.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/planning-guide</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -171,9 +183,9 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
-      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
+      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
+      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -183,9 +195,9 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up local admin account creation and password management for macOS devices - Microsoft Intune</title>
-      <description>Set up macOS account configuration with LAPS through automatic device enrollment for macOS devices in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/setup-macos</link>
+      <title>Add Platform SSO policy to ADE Profile on macOS devices - Microsoft Intune</title>
+      <description>Add a settings catalog platform single sign-on (PSSO) policy to an Automated Device Enrollment (ADE) profile and configure it to run during Setup Assistant with modern authentication on macOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/configure-platform-sso-during-enrollment</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -219,15 +231,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Intune architecture - Microsoft Intune</title>
-      <description>Reference architecture for a Microsoft Intune deployment, including cloud and on-premises components and Microsoft and third-party integrations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/architecture</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial - Use Apple Business to Enroll iOS/iPadOS Devices in Intune - Microsoft Intune</title>
       <description>In this tutorial, you set up Apple corporate device enrollment features with Intune to enroll iOS/iPadOS devices purchased through Apple Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/tutorial-automated-ios</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Intune architecture - Microsoft Intune</title>
+      <description>Reference architecture for a Microsoft Intune deployment, including cloud and on-premises components and Microsoft and third-party integrations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/architecture</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -237,15 +249,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-enterprise-catalog-app</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Single sign-on (SSO) for iOS/iPadOS and macOS - Microsoft Intune</title>
       <description>Overview of Microsoft Enterprise SSO plug-in in Microsoft Intune, Jamf Pro, and other MDM solution providers. The Enterprise SSO plug-in is available on iOS/iPadOS and macOS devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/enterprise-sso-plugin</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add an Enterprise App Catalog App to Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how to add an Enterprise App Catalog app to Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-enterprise-catalog-app</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -285,15 +297,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create and assign device categories in Microsoft Intune - Microsoft Intune</title>
-      <description>Create device categories in Microsoft Intune, use them to populate dynamic Microsoft Entra security groups, and assign a category to a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add an Unmanaged macOS PKG App to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about how to add an unmanaged macOS PKG app to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-unmanaged-pkg-macos</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create and assign device categories in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device categories in Microsoft Intune, use them to populate dynamic Microsoft Entra security groups, and assign a category to a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -369,6 +381,12 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>Manage Apple mobile devices and tokens in Intune - Microsoft Intune</title>
+      <description>Sync devices, distribute devices, and re-enroll devices for Apple automated device enrollment on iOS/iPadOS in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-apple</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Troubleshoot Win32 Apps in Microsoft Intune - Microsoft Intune</title>
       <description>Learn about the most common methods to troubleshoot Win32 app issues with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/troubleshoot-win32</link>
@@ -393,15 +411,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
-      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure Wi-Fi Settings for Apple Devices in Intune - Microsoft Intune</title>
       <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wifi-settings-apple</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
+      <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -411,15 +429,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create device platform restrictions - Microsoft Intune</title>
-      <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-platform-restrictions</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Admin guide and checklist for macOS software updates - Microsoft Intune</title>
       <description>Guidance and advice for administrators that create and manage software updates for macOS devices using Microsoft Intune. Use this article to help manage software updates on your organization-owned devices, including how to create policies, manage updates, and review update status.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/planning-guide-macos</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create device platform restrictions - Microsoft Intune</title>
+      <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-platform-restrictions</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -453,9 +471,9 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Device Action: Autopilot Reset - Microsoft Intune</title>
-      <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/autopilot-reset</link>
+      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
+      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/planning-guide-ios-ipados</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -465,9 +483,9 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Admin checklist for iOS/iPadOS software updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Guidance and advice for administrators that create and manage software updated for iOS/iPadOS devices using Microsoft Intune. See sample policy for different industry scenarios, including shared devices, kiosk, manufacturing, and information worker.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/apple/planning-guide-ios-ipados</link>
+      <title>Device Action: Autopilot Reset - Microsoft Intune</title>
+      <description>Learn how to use Autopilot reset with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/actions/autopilot-reset</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -483,15 +501,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Choose the right targeting method in Microsoft Intune - Microsoft Intune</title>
-      <description>Learn when to use assignment filters, dynamic groups, static groups, virtual groups, and enrollment time grouping for device and user targeting in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/choose-targeting-method</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Deploy Windows Update Packages in Intune - Microsoft Intune</title>
       <description>Learn how to deploy a Windows update package (.msu file) in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/deploy-win32-update-package</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Choose the right targeting method in Microsoft Intune - Microsoft Intune</title>
+      <description>Learn when to use assignment filters, dynamic groups, static groups, virtual groups, and enrollment time grouping for device and user targeting in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/choose-targeting-method</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -501,15 +519,15 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
-      <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/specialty-devices</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Import Wi-Fi settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
       <description>Export Wi-Fi settings from a Windows device as an XML file using the network shell (netsh wlan) command. Then, import this file in Intune to create a Wi-Fi profile for devices running Windows 10/11 and Windows Holographic for Business.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/import-wifi-settings-windows</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
+      <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/specialty-devices</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -519,15 +537,21 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-email</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Add and Assign an App - Microsoft Intune</title>
       <description>Learn how to add and assign apps to user groups in Microsoft Intune. Ensure your workforce has access to the apps they need.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/quickstart-add-assign</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Microsoft Intune Management Agent for macOS - Microsoft Intune</title>
+      <description>Learn about the Microsoft Intune management agent for macOS.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/management-agent-macos</link>
+      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-email</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -543,12 +567,6 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Apple device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-corporate-userless</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Overview of Apple Automated Device Enrollment for macOS in Intune - Microsoft Intune</title>
       <description>Learn about automated device enrollment (ADE) for Mac computers in Microsoft Intune, including supported scenarios, key features, and how to get started.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/overview-automated-enrollment-macos</link>
@@ -561,9 +579,9 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
+      <title>Set up Apple device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
+      <description>Set up Intune for corporate-owned userless iOS/iPadOS devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-corporate-userless</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -573,39 +591,21 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Guided Update Supersedence for Enterprise App Management - Microsoft Intune</title>
-      <description>Learn how to update an Enterprise App Catalog app using supersedence with Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/update-enterprise-supersedence</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Create device limit restrictions - Microsoft Intune</title>
       <description>Restrict the number of devices allowed to enroll in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-device-limit-restrictions</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Add an iOS/iPadOS Line-of-Business App to Microsoft Intune - Microsoft Intune</title>
-      <description>Learn about how to add an iOS/iPadOS line-of-business (LOB) app to Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-lob-ios</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure Apple account service access - Microsoft Intune</title>
-      <description>Use Apple access management settings to control how Apple accounts are used on organization‑owned devices managed by Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-account-service-access</link>
+      <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
+      <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
       <title>Manage macOS ADE devices and tokens in Intune - Microsoft Intune</title>
       <description>Sync devices, assign enrollment policies, and distribute Mac computers for Apple automated device enrollment in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-macos</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS features using DFCI MDM policies - Microsoft Intune</title>
-      <description>Learn more about the Device Firmware Configuration Interface (DFCI) profile to manage UEFI settings in Microsoft Intune. To use DFCI profiles, create Microsoft Entra security groups, the Windows Autopilot deployment profile, and the Enrollment State Page profile.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-dfci-windows</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
   </channel>
