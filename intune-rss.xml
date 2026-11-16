@@ -6,8 +6,116 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 15 Nov 2026 18:01:17 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 18:01:17 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 00:05:08 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:05:08 GMT</lastBuildDate>
+    <item>
+      <title>In development - Microsoft Intune</title>
+      <description>This article describes Microsoft Intune features that are in development.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/in-development</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create and assign device categories in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device categories in Microsoft Intune, use them to populate dynamic Microsoft Entra security groups, and assign a category to a device.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Wi-Fi profile for devices in Microsoft Intune - Microsoft Intune</title>
+      <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wifi</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Wi-Fi Settings for Apple Devices in Intune - Microsoft Intune</title>
+      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wifi-settings-apple</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure VPN settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Add or create a VPN configuration profile on iOS/iPadOS and macOS devices using virtual private network (VPN) configuration settings in Microsoft Intune. Configure the connection details, authentication methods, split tunneling, custom VPN settings with the identifier, key and value pairs, per-app VPN settings that include Safari URLs, and on-demand VPNs with SSIDs or DNS search domains, proxy settings to include a configuration script, IP or FQDN address, and TCP port.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-vpn-settings-apple</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Add VPN settings to devices in Microsoft Intune - Microsoft Intune</title>
+      <description>On Android device administrator, Android Enterprise, iOS, iPadOS, macOS, and Windows devices, use built-in settings to create virtual private network (VPN) connections in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-vpn</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network access control integration with Microsoft Intune - Microsoft Intune</title>
+      <description>Network access control (NAC) solutions check enrollment and compliance for devices with Intune. NAC includes certain behaviors and works with Conditional Access. See the steps to get onboarded, and get a list of partner solutions.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/integrate-network-access-control</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grant Android app permissions by using Android Enterprise OEMConfig - Microsoft Intune</title>
+      <description>Use Android Enterprise OEMConfig in Microsoft Intune to grant required permissions to Managed Home Screen and to the Intune app for Local Actions scenarios on supported Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Import Wi-Fi settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Export Wi-Fi settings from a Windows device as an XML file using the network shell (netsh wlan) command. Then, import this file in Intune to create a Wi-Fi profile for devices running Windows 10/11 and Windows Holographic for Business.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/import-wifi-settings-windows</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
+      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-email</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Wi-Fi profile with preshared key in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a custom profile to create a Wi-Fi profile with a preshared key (PSK), and get sample XML code for Android, Android Enterprise, Windows, and EAP-based Wi-Fi profiles in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/create-wifi-preshared-key</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure 802.1x wired network settings for Apple and Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a wired network device configuration profile or policy using the IEEE 802.1X standard for macOS, iOS/iPadOS, Windows 10, and Windows 11 devices and computers. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wired-networks</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure a VPN or Per-App VPN for Android Enterprise Devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Use an app configuration policy to add or create a VPN or per-app VPN profile for Android Enterprise devices in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-vpn-android</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial - Protect Exchange Online email on managed iOS devices - Microsoft Intune</title>
+      <description>Secure Exchange Online email on iOS devices by using Microsoft Intune compliance policies and Microsoft Entra Conditional Access to require managed devices and the Outlook app.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/tutorials/protect-email-enrolled-devices</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create an Email Device Profile for iOS/iPadOS Devices - Microsoft Intune</title>
+      <description>Learn how to create an email device profile in Microsoft Intune for iOS/iPadOS devices. Configure email settings to help users securely access organization email.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/quickstart-email-profile</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom per-app VPN profile for Android DA in Microsoft Intune - Microsoft Intune</title>
+      <description>Use a custom profile for per-app VPN profiles on Android device administrator with the Pulse Secure or Citrix VPN connection types in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-per-app-vpn-android</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's new in Microsoft Intune - Microsoft Intune</title>
+      <description>Find out what's new in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create device compliance policies in Microsoft Intune - Microsoft Intune</title>
+      <description>Create device compliance policies for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-policy</link>
+      <pubDate>Sun, 15 Nov 2026 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Use Remediations to Detect and Fix Support Issues - Microsoft Intune</title>
       <description>Learn more about Remediations in Microsoft Intune, including what Remediations are and view any prerequisites and licensing requirements.</description>
@@ -303,12 +411,6 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Create and assign device categories in Microsoft Intune - Microsoft Intune</title>
-      <description>Create device categories in Microsoft Intune, use them to populate dynamic Microsoft Entra security groups, and assign a category to a device.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/create-device-categories</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Shared iPad devices - Microsoft Intune</title>
       <description>Learn about Shared iPad devices.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/shared-ipad</link>
@@ -348,12 +450,6 @@
       <title>Add groups to organize users and devices for Microsoft Intune - Microsoft Intune</title>
       <description>Create Microsoft Entra groups to organize users and devices for use with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/tenant-administration/add-groups</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a Wi-Fi profile for devices in Microsoft Intune - Microsoft Intune</title>
-      <description>See the steps to create a Wi-Fi device configuration profile in Microsoft Intune. Create profiles for Android device administrator, Android Enterprise, Android kiosk, iOS, iPadOS, macOS, Windows 10/11, and Windows Holographic for Business. Use these profiles to create a WiFi connection to use certificates, choose an EAP type, select an authentication method, enable a proxy, and more.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wifi</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -411,12 +507,6 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure Wi-Fi Settings for Apple Devices in Intune - Microsoft Intune</title>
-      <description>Add or create a Wi-Fi configuration profile on iOS/iPadOS and macOS devices using Wi-Fi configuration settings in Microsoft Intune. Configure the connection details, authentication methods, SSIDs, security types, and proxy settings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-wifi-settings-apple</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Using Azure Virtual Desktop single-session with Microsoft Intune - Microsoft Intune</title>
       <description>Guidelines for using Azure Virtual Desktop single-session with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/solutions/azure-virtual-desktop</link>
@@ -441,12 +531,6 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure VPN settings for Apple devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Add or create a VPN configuration profile on iOS/iPadOS and macOS devices using virtual private network (VPN) configuration settings in Microsoft Intune. Configure the connection details, authentication methods, split tunneling, custom VPN settings with the identifier, key and value pairs, per-app VPN settings that include Safari URLs, and on-demand VPNs with SSIDs or DNS search domains, proxy settings to include a configuration script, IP or FQDN address, and TCP port.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-vpn-settings-apple</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Use direct enrollment for macOS devices - Microsoft Intune</title>
       <description>Deploy and enroll macOS devices in Microsoft Intune using direct enrollment with Apple Configurator.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-direct-macos</link>
@@ -456,18 +540,6 @@
       <title>Include and Exclude App Assignments in Microsoft Intune - Microsoft Intune</title>
       <description>Learn how you can use Microsoft Intune to include and exclude app assignments.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/configure-assignment-scope</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add VPN settings to devices in Microsoft Intune - Microsoft Intune</title>
-      <description>On Android device administrator, Android Enterprise, iOS, iPadOS, macOS, and Windows devices, use built-in settings to create virtual private network (VPN) connections in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-vpn</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Network access control integration with Microsoft Intune - Microsoft Intune</title>
-      <description>Network access control (NAC) solutions check enrollment and compliance for devices with Intune. NAC includes certain behaviors and works with Conditional Access. See the steps to get onboarded, and get a list of partner solutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/integrate-network-access-control</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -519,12 +591,6 @@
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Import Wi-Fi settings for Windows devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Export Wi-Fi settings from a Windows device as an XML file using the network shell (netsh wlan) command. Then, import this file in Intune to create a Wi-Fi profile for devices running Windows 10/11 and Windows Holographic for Business.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/import-wifi-settings-windows</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Manage Specialty devices with Microsoft Intune - Microsoft Intune</title>
       <description>This article provides information about specialty devices and how can you manage them with Microsoft Intune</description>
       <link>https://learn.microsoft.com/en-us/intune/device-management/specialty-devices</link>
@@ -540,72 +606,6 @@
       <title>Add and Assign an App - Microsoft Intune</title>
       <description>Learn how to add and assign apps to user groups in Microsoft Intune. Ensure your workforce has access to the apps they need.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/quickstart-add-assign</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understanding Microsoft Intune Management Agent for macOS - Microsoft Intune</title>
-      <description>Learn about the Microsoft Intune management agent for macOS.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/management-agent-macos</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure email settings in Microsoft Intune - Microsoft Intune</title>
-      <description>Create an email device configuration profile in Microsoft Intune, and deploy this profile to Android device administrator, Android Enterprise, iOS, iPadOS, and Windows devices. Use email profiles to configure common email settings, including a Microsoft Exchange email server. Add authentication methods to connect to corporate email on devices you manage.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-email</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Policy Sets - Microsoft Intune</title>
-      <description>Use policy sets to group collections of management objects in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/policy-sets</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turn on iOS/iPadOS supervised mode with Microsoft Intune - Microsoft Intune</title>
-      <description>Learn how to turn on iOS/iPadOS supervised mode with Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/enable-supervised-mode</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overview of Apple Automated Device Enrollment for macOS in Intune - Microsoft Intune</title>
-      <description>Learn about automated device enrollment (ADE) for Mac computers in Microsoft Intune, including supported scenarios, key features, and how to get started.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/overview-automated-enrollment-macos</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create a user in Intune and assign a license - Microsoft Intune</title>
-      <description>Learn how to create a user in Microsoft Intune and assign an Intune license to this user.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/tenant-administration/quickstart-create-user</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up Apple device management in Intune for corporate-owned userless devices - Microsoft Intune</title>
-      <description>Set up Intune for corporate-owned userless iOS/iPadOS devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-corporate-userless</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create Wi-Fi profile with preshared key in Microsoft Intune - Microsoft Intune</title>
-      <description>Use a custom profile to create a Wi-Fi profile with a preshared key (PSK), and get sample XML code for Android, Android Enterprise, Windows, and EAP-based Wi-Fi profiles in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/create-wifi-preshared-key</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create device limit restrictions - Microsoft Intune</title>
-      <description>Restrict the number of devices allowed to enroll in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-device-limit-restrictions</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Set up automated device enrollment (ADE) for tvOS - Microsoft Intune</title>
-      <description>Learn how to enroll corporate-owned Apple TV devices into Microsoft Intune with Apple Automated Device Enrollment (ADE).</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/setup-automated-tv-os</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage macOS ADE devices and tokens in Intune - Microsoft Intune</title>
-      <description>Sync devices, assign enrollment policies, and distribute Mac computers for Apple automated device enrollment in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-macos</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
   </channel>
