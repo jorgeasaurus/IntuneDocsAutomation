@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Tue, 17 Nov 2026 05:33:54 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 05:33:54 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 11:22:08 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:22:08 GMT</lastBuildDate>
     <item>
       <title>Use SCEP Certificate Profiles with Microsoft Intune - Microsoft Intune</title>
       <description>Create and assign Simple Certificate Enrollment Protocol (SCEP) certificate profiles with Microsoft Intune.</description>
@@ -36,6 +36,12 @@
       <title>Manage Approved Apps for Windows Devices with App Control for Business Policy and Managed Installers in Microsoft Intune - Microsoft Intune</title>
       <description>Use App Control for Business policies and a managed installer to manage which apps are approved to run on Windows devices that you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/endpoint-security/manage-app-control</link>
+      <pubDate>Mon, 16 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device restriction settings for Android in Microsoft Intune - Microsoft Intune</title>
+      <description>On Android Enterprise or Android for Work devices owned by your organization, you can restrict settings on the device using Microsoft Intune. Allow copy and paste, notifications, app permissions, data sharing, password length, sign in failures, use fingerprint to unlock, reuse passwords, and enable bluetooth sharing of work contacts. Configure devices as a dedicated device kiosk to run one app, or multiple apps.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-device-restrictions-android-enterprise</link>
       <pubDate>Mon, 16 Nov 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -90,6 +96,12 @@
       <title>See device configuration policies with Microsoft Intune - Microsoft Intune</title>
       <description>See and manage the device configuration policy details in Microsoft Intune. Look at a graphical chart of the number of devices assigned to a policy, and see which devices have policies assigned or deployed. Can also troubleshoot policies that have conflict settings.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/monitor-device-profile</link>
+      <pubDate>Mon, 16 Nov 2026 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android settings catalog in Microsoft Intune - Microsoft Intune</title>
+      <description>Review Android settings available in the Microsoft Intune settings catalog, including supported enrollment types, values, defaults, and requirements.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/settings-catalog/ref-android-settings</link>
       <pubDate>Mon, 16 Nov 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
@@ -594,18 +606,6 @@
       <title>Configure security baseline policies in Microsoft Intune - Microsoft Intune</title>
       <description>Deploy security baselines that establish a default and recommended security postures on Windows devices you manage with Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/configure-baselines</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manage Apple mobile devices and tokens in Intune - Microsoft Intune</title>
-      <description>Sync devices, distribute devices, and re-enroll devices for Apple automated device enrollment on iOS/iPadOS in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/manage-devices-tokens-apple</link>
-      <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Windows BIOS using configuration MDM policy - Microsoft Intune</title>
-      <description>Learn more about the BIOS configuration profile that can manage traditional BIOS settings in Microsoft Intune. You use an OEM tool to create a configuration file with the settings. You deploy an OEM Win32 app to the devices to read the configuration file and BIOS passwords. Then, you create a BIOS configuration policy in Intune to add the configuration file and assign the policy to your devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-bios-windows</link>
       <pubDate>Thu, 12 Nov 2026 23:35:00 GMT</pubDate>
     </item>
   </channel>
