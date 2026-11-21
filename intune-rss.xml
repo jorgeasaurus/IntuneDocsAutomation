@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sat, 21 Nov 2026 05:08:53 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2026 05:08:53 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 11:22:09 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:22:09 GMT</lastBuildDate>
     <item>
       <title>Configure a Tenant-wide Windows Hello for Business Policy with Microsoft Intune - Microsoft Intune</title>
       <description>Apply policy for Windows Hello for Business on devices at the time they enroll with Microsoft Intune.</description>
@@ -36,6 +36,12 @@
       <title>Create Discovery Scripts for Custom Compliance Policy in Microsoft Intune - Microsoft Intune</title>
       <description>Create scripts for Linux, macOS, or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use VPN settings for Android Enterprise in Microsoft Intune - Microsoft Intune</title>
+      <description>See all the settings to create VPN connections on Android Enterprise devices in Microsoft Intune, including COBO, COSU, COPE, and BYOD. Enter the connection name, IP address, or FQDN of the VPN server. Choose how users authenticate and choose Citrix, SonicWall, Check Point Capsule, and Pulse Secure connection types.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-vpn-settings-android-enterprise</link>
       <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Learn how to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/account-sign-up</link>
       <pubDate>Sat, 14 Nov 2026 08:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get an Apple MDM Push Certificate for Intune - Microsoft Intune</title>
-      <description>Apple MDM push certificate setup in Intune is required to manage iOS/iPadOS and macOS devices. Learn how to create, upload, and renew a certificate.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/create-mdm-push-certificate</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
