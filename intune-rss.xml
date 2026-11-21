@@ -6,8 +6,44 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Fri, 20 Nov 2026 17:47:55 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 17:47:55 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 23:52:06 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:52:06 GMT</lastBuildDate>
+    <item>
+      <title>Configure a Tenant-wide Windows Hello for Business Policy with Microsoft Intune - Microsoft Intune</title>
+      <description>Apply policy for Windows Hello for Business on devices at the time they enroll with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/identity-protection/configure-tenant-wide-policy</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploy Intune Policies to Manage Windows LAPS - Microsoft Intune</title>
+      <description>Create policies to manage the Windows Local Administrator Policy Solution (LAPS) on Windows devices that enrolled with Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/deploy-policy</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of Windows LAPS with Microsoft Intune - Microsoft Intune</title>
+      <description>Learn how you can use Microsoft Microsoft Intune and application protection policy to manage the local administrator accounts on Windows devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/laps/overview</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set up Intune Enrollment for Android Enterprise Dedicated Devices - Microsoft Intune</title>
+      <description>Set up Android Enterprise dedicated devices in Microsoft Intune for kiosk-style, single-use scenarios. Learn how to create enrollment profiles and tokens.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-dedicated</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create Discovery Scripts for Custom Compliance Policy in Microsoft Intune - Microsoft Intune</title>
+      <description>Create scripts for Linux, macOS, or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure Compliance Policies with Actions for Noncompliance in Microsoft Intune - Microsoft Intune</title>
+      <description>Configure your compliance policies with one or more actions for noncompliance to protect devices and your organization from unprotected devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/configure-noncompliance-actions</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Configure local actions for Android devices in Microsoft Intune - Microsoft Intune</title>
       <description>Configure local actions in Microsoft Intune to run actions when supported events occur on managed Android devices.</description>
@@ -333,12 +369,6 @@
       <pubDate>Mon, 16 Nov 2026 23:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set up Intune Enrollment for Android Enterprise Dedicated Devices - Microsoft Intune</title>
-      <description>Set up Android Enterprise dedicated devices in Microsoft Intune for kiosk-style, single-use scenarios. Learn how to create enrollment profiles and tokens.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/android/setup-dedicated</link>
-      <pubDate>Mon, 16 Nov 2026 23:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Set up Enrollment for macOS Devices - Microsoft Intune</title>
       <description>Set up macOS enrollment in Intune for personal and company-owned Macs. Explore BYOD, automated enrollment, DEM, and direct enrollment methods.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/methods-macos</link>
@@ -576,36 +606,6 @@
       <title>Get an Apple MDM Push Certificate for Intune - Microsoft Intune</title>
       <description>Apple MDM push certificate setup in Intune is required to manage iOS/iPadOS and macOS devices. Learn how to create, upload, and renew a certificate.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/create-mdm-push-certificate</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enroll Devices Using a Device Enrollment Manager Account - Microsoft Intune</title>
-      <description>Enroll devices at scale with an Intune device enrollment manager account. Discover supported enrollment methods, required permissions, and setup steps.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/setup-enrollment-manager</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update Rings Policy Settings - Microsoft Intune</title>
-      <description>Reference article that lists all the settings for Windows Update rings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/windows/ref-update-ring-settings</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add PowerShell Scripts to Windows Devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create and run PowerShell scripts, assign the script policy to Microsoft Entra groups, and use reports to monitor the scripts. See the steps to delete scripts you add on Windows devices in Microsoft Intune. Read common issues and resolutions.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-management/tools/run-powershell-scripts-windows</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configure maintenance windows for Windows updates in Microsoft Intune - Microsoft Intune</title>
-      <description>Create maintenance window policies in Microsoft Intune to control when automatic Windows update downloads, installations, and restarts begin.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-updates/maintenance-windows</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS/iPadOS Device Enrollment Guide for Microsoft Intune - Microsoft Intune</title>
-      <description>Enroll iOS and iPadOS devices using user and device enrollment, automated device enrollment (DEP), and Apple Configurator in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/guide-ios-ipados</link>
       <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
     </item>
   </channel>
