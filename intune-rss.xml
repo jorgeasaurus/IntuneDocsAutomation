@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Sun, 22 Nov 2026 06:02:35 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 06:02:35 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 11:52:08 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:52:08 GMT</lastBuildDate>
     <item>
       <title>Configure a Tenant-wide Windows Hello for Business Policy with Microsoft Intune - Microsoft Intune</title>
       <description>Apply policy for Windows Hello for Business on devices at the time they enroll with Microsoft Intune.</description>
@@ -36,6 +36,12 @@
       <title>Create Discovery Scripts for Custom Compliance Policy in Microsoft Intune - Microsoft Intune</title>
       <description>Create scripts for Linux, macOS, or Windows devices to discover the settings you define as custom compliance settings for Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/compliance/create-custom-script</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use VPN settings for Android Enterprise in Microsoft Intune - Microsoft Intune</title>
+      <description>See all the settings to create VPN connections on Android Enterprise devices in Microsoft Intune, including COBO, COSU, COPE, and BYOD. Enter the connection name, IP address, or FQDN of the VPN server. Choose how users authenticate and choose Citrix, SonicWall, Check Point Capsule, and Pulse Secure connection types.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/ref-vpn-settings-android-enterprise</link>
       <pubDate>Fri, 20 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -105,6 +111,12 @@
       <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
+      <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
+      <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
+      <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Add Web Apps to Microsoft Intune - Microsoft Intune</title>
       <description>Learn about adding web apps (client-server applications) to Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/deployment/add-web</link>
@@ -144,12 +156,6 @@
       <title>Tutorial - Configure Slack to Use Intune for EMM and App Configuration - Microsoft Intune</title>
       <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/tutorial-configure-slack</link>
-      <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
-      <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
       <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -255,6 +261,12 @@
       <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
+      <title>End-to-end guide to get started with Windows Server Insider preview - Microsoft Intune</title>
+      <description>Plan a nonproduction Windows Server management pilot with Microsoft Intune, including enrollment, configuration, compliance, apps, updates, and verification.</description>
+      <link>https://learn.microsoft.com/en-us/intune/solutions/end-to-end-guides/windows-server-endpoints-get-started</link>
+      <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Create device platform restrictions - Microsoft Intune</title>
       <description>Restrict personally owned devices, and specific device platforms and OS versions from enrolling in Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-enrollment/create-platform-restrictions</link>
@@ -276,6 +288,12 @@
       <title>Deployment guide for Windows device management - Microsoft Intune</title>
       <description>Use our platform deployment guide to set up Windows device management in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/platform-guide-windows</link>
+      <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audit CIS Benchmarks with Microsoft Intune - Microsoft Intune</title>
+      <description>Create a CIS audit profile in Microsoft Intune, assign it to Windows devices, review per-setting results, and export audit findings.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/cis-audit-baseline</link>
       <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
@@ -309,21 +327,9 @@
       <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>End-to-end guide to get started with Windows Server Insider preview - Microsoft Intune</title>
-      <description>Plan a nonproduction Windows Server management pilot with Microsoft Intune, including enrollment, configuration, compliance, apps, updates, and verification.</description>
-      <link>https://learn.microsoft.com/en-us/intune/solutions/end-to-end-guides/windows-server-endpoints-get-started</link>
-      <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
-    </item>
-    <item>
       <title>What's new in Microsoft Intune - Microsoft Intune</title>
       <description>Find out what's new in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/whats-new/</link>
-      <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Audit CIS Benchmarks with Microsoft Intune - Microsoft Intune</title>
-      <description>Create a CIS audit profile in Microsoft Intune, assign it to Windows devices, review per-setting results, and export audit findings.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-security/security-baselines/cis-audit-baseline</link>
       <pubDate>Tue, 17 Nov 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
@@ -519,6 +525,12 @@
       <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
     </item>
     <item>
+      <title>Grant Android app permissions by using Android Enterprise OEMConfig - Microsoft Intune</title>
+      <description>Use Android Enterprise OEMConfig in Microsoft Intune to grant required permissions to Managed Home Screen and to the Intune app for Local Actions scenarios on supported Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Network access control integration with Microsoft Intune - Microsoft Intune</title>
       <description>Network access control (NAC) solutions check enrollment and compliance for devices with Intune. NAC includes certain behaviors and works with Conditional Access. See the steps to get onboarded, and get a list of partner solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/integrate-network-access-control</link>
@@ -543,15 +555,15 @@
       <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Configure 802.1x wired network settings for Apple and Windows devices in Microsoft Intune - Microsoft Intune</title>
-      <description>Create or add a wired network device configuration profile or policy using the IEEE 802.1X standard for macOS, iOS/iPadOS, Windows 10, and Windows 11 devices and computers. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wired-networks</link>
-      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Configure a VPN or Per-App VPN for Android Enterprise Devices in Microsoft Intune - Microsoft Intune</title>
       <description>Use an app configuration policy to add or create a VPN or per-app VPN profile for Android Enterprise devices in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/configure-vpn-android</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configure 802.1x wired network settings for Apple and Windows devices in Microsoft Intune - Microsoft Intune</title>
+      <description>Create or add a wired network device configuration profile or policy using the IEEE 802.1X standard for macOS, iOS/iPadOS, Windows 10, and Windows 11 devices and computers. See the different settings, add certificates, choose an EAP type, and select an authentication method in Microsoft Intune.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-wired-networks</link>
       <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
     </item>
     <item>
@@ -570,12 +582,6 @@
       <title>Custom per-app VPN profile for Android DA in Microsoft Intune - Microsoft Intune</title>
       <description>Use a custom profile for per-app VPN profiles on Android device administrator with the Pulse Secure or Citrix VPN connection types in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-per-app-vpn-android</link>
-      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grant Android app permissions by using Android Enterprise OEMConfig - Microsoft Intune</title>
-      <description>Use Android Enterprise OEMConfig in Microsoft Intune to grant required permissions to Managed Home Screen and to the Intune app for Local Actions scenarios on supported Android devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
       <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
     </item>
     <item>
@@ -601,12 +607,6 @@
       <description>Learn how to sign up for a Microsoft Intune subscription or sign in to start with your subscription.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/account-sign-up</link>
       <pubDate>Sat, 14 Nov 2026 08:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get an Apple MDM Push Certificate for Intune - Microsoft Intune</title>
-      <description>Apple MDM push certificate setup in Intune is required to manage iOS/iPadOS and macOS devices. Learn how to create, upload, and renew a certificate.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-enrollment/apple/create-mdm-push-certificate</link>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
