@@ -6,8 +6,8 @@
     <link>https://learn.microsoft.com</link>
     <language>en-us</language>
     <ttl>60</ttl>
-    <pubDate>Mon, 23 Nov 2026 05:22:09 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 05:22:09 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 12:02:39 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:02:39 GMT</lastBuildDate>
     <item>
       <title>Configure a Tenant-wide Windows Hello for Business Policy with Microsoft Intune - Microsoft Intune</title>
       <description>Apply policy for Windows Hello for Business on devices at the time they enroll with Microsoft Intune.</description>
@@ -69,15 +69,15 @@
       <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Set the Mobile Device Management Authority - Microsoft Intune</title>
-      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
-      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-mdm-authority</link>
-      <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Tutorial - Walkthrough the Microsoft Intune Admin Center - Microsoft Intune</title>
       <description>In this tutorial, you tour Microsoft Intune in the Microsoft Intune admin center to better understand how to accomplish tasks.</description>
       <link>https://learn.microsoft.com/en-us/intune/fundamentals/tutorial-admin-center-walkthrough</link>
+      <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Set the Mobile Device Management Authority - Microsoft Intune</title>
+      <description>Learn about how to set the mobile device management authority in Microsoft Intune and some key considerations.</description>
+      <link>https://learn.microsoft.com/en-us/intune/fundamentals/setup-mdm-authority</link>
       <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -108,12 +108,6 @@
       <title>Deploy and configure Microsoft Defender for Endpoint on Android - Microsoft Intune</title>
       <description>Learn how to deploy and configure Microsoft Defender for Endpoint on Android devices using Microsoft Intune, including app configuration policies, always-on VPN, and low-touch onboarding.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/deploy-android</link>
-      <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
-      <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
-      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
       <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -156,6 +150,12 @@
       <title>Tutorial - Configure Slack to Use Intune for EMM and App Configuration - Microsoft Intune</title>
       <description>In this tutorial you will configure Slack to use Intune for EMM and app configuration.</description>
       <link>https://learn.microsoft.com/en-us/intune/app-management/configuration/tutorial-configure-slack</link>
+      <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Protection Policy Settings for Windows - Microsoft Intune</title>
+      <description>This article describes the app protection policy (APP) settings for MAM on Windows.</description>
+      <link>https://learn.microsoft.com/en-us/intune/app-management/protection/ref-settings-windows</link>
       <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
     </item>
     <item>
@@ -525,12 +525,6 @@
       <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>Grant Android app permissions by using Android Enterprise OEMConfig - Microsoft Intune</title>
-      <description>Use Android Enterprise OEMConfig in Microsoft Intune to grant required permissions to Managed Home Screen and to the Intune app for Local Actions scenarios on supported Android devices.</description>
-      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
-      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Network access control integration with Microsoft Intune - Microsoft Intune</title>
       <description>Network access control (NAC) solutions check enrollment and compliance for devices with Intune. NAC includes certain behaviors and works with Conditional Access. See the steps to get onboarded, and get a list of partner solutions.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-security/integrate-network-access-control</link>
@@ -582,6 +576,12 @@
       <title>Custom per-app VPN profile for Android DA in Microsoft Intune - Microsoft Intune</title>
       <description>Use a custom profile for per-app VPN profiles on Android device administrator with the Pulse Secure or Citrix VPN connection types in Microsoft Intune.</description>
       <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-per-app-vpn-android</link>
+      <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grant Android app permissions by using Android Enterprise OEMConfig - Microsoft Intune</title>
+      <description>Use Android Enterprise OEMConfig in Microsoft Intune to grant required permissions to Managed Home Screen and to the Intune app for Local Actions scenarios on supported Android devices.</description>
+      <link>https://learn.microsoft.com/en-us/intune/device-configuration/templates/configure-managed-home-screen-permissions-android</link>
       <pubDate>Sun, 15 Nov 2026 23:38:00 GMT</pubDate>
     </item>
     <item>
